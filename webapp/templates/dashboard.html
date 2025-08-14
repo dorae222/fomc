@@ -1,0 +1,845 @@
+{% extends "base.html" %}
+
+{% block title %}대시보드 - CelebAnalytics{% endblock %}
+
+{% block content %}
+<div class="container">
+    <!-- 페이지 헤더 -->
+    <div class="page-header">
+        <h1><i class="fas fa-tachometer-alt"></i> 대시보드</h1>
+        <p>연예인 댓글 분석 현황을 한눈에 확인하세요</p>
+    </div>
+
+    <!-- 필터 패널 -->
+    <div class="filter-panel">
+        <div class="grid grid-4">
+            <div class="filter-group">
+                <label class="filter-label">기간 선택</label>
+                <select class="filter-select" id="period-filter">
+                    <option value="7">최근 7일</option>
+                    <option value="30" selected>최근 30일</option>
+                    <option value="90">최근 3개월</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">연예인</label>
+                <select class="filter-select" id="primary-celeb" onchange="onPrimaryChange()">
+                    <option value="">선택</option>
+                    {% for celebrity in celebrities %}
+                    <option value="{{ celebrity.name }}">{{ celebrity.name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">비교 대상</label>
+                <select class="filter-select" id="compare-celeb" onchange="onCompareChange()">
+                    <option value="">선택 안 함</option>
+                    {% for celebrity in celebrities %}
+                    <option value="{{ celebrity.name }}">{{ celebrity.name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">지표</label>
+                <select class="filter-select" id="timeline-metric" onchange="updateTimelineChart()">
+                    <option value="comments">댓글 수</option>
+                    <option value="sentiment">긍정 비율</option>
+                    <option value="engagement">참여율</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <!-- 주요 지표 카드 -->
+    <div class="grid grid-4">
+        <div class="card stat-card">
+            <div class="stat-number" id="total-comments-dash">
+                <div class="loading-placeholder">로딩 중...</div>
+            </div>
+            <div class="stat-label">총 댓글 수</div>
+            <div class="stat-change" id="comments-change">
+                <i class="fas fa-spinner fa-spin"></i> 계산 중...
+            </div>
+        </div>
+
+        <div class="card stat-card">
+            <div class="stat-number" id="avg-sentiment-dash">
+                <div class="loading-placeholder">로딩 중...</div>
+            </div>
+            <div class="stat-label">평균 긍정 비율</div>
+            <div class="stat-change" id="sentiment-change">
+                <i class="fas fa-spinner fa-spin"></i> 계산 중...
+            </div>
+        </div>
+
+        <div class="card stat-card">
+            <div class="stat-number" id="active-celebrities">
+                <div class="loading-placeholder">로딩 중...</div>
+            </div>
+            <div class="stat-label">활성 연예인</div>
+            <div class="stat-change" id="celebrities-change">
+                <i class="fas fa-spinner fa-spin"></i> 계산 중...
+            </div>
+        </div>
+
+        <div class="card stat-card">
+            <div class="stat-number" id="trending-keywords">
+                <div class="loading-placeholder">로딩 중...</div>
+            </div>
+            <div class="stat-label">트렌딩 키워드</div>
+            <div class="stat-change" id="keywords-change">
+                <i class="fas fa-spinner fa-spin"></i> 계산 중...
+            </div>
+        </div>
+    </div>
+
+    <!-- 차트 섹션 -->
+    <div class="grid grid-2">
+        <!-- 시간별 추이 -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">
+                    <i class="fas fa-chart-line"></i> 시간별 추이 (비교 지원)
+                </h3>
+                <div class="timeline-controls"></div>
+            </div>
+            <div class="chart-container">
+                <canvas id="timelineChart"></canvas>
+            </div>
+        </div>
+
+        <!-- 감성 분석 분포 -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">
+                    <i class="fas fa-heart"></i> 감성 분석 분포 (선택)
+                </h3>
+            </div>
+            <div class="chart-container chart-small">
+                <canvas id="sentimentChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- 감성 비교 -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">
+                <i class="fas fa-balance-scale"></i> 감성 비교 (선택 vs 비교)
+            </h3>
+        </div>
+        <div class="chart-container">
+            <canvas id="sentimentCompareChart"></canvas>
+        </div>
+    </div>
+
+    <!-- 연예인별 순위와 키워드 클라우드 -->
+    <div class="grid grid-2">
+        <!-- 연예인 순위 -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">
+                    <i class="fas fa-trophy"></i> 연예인 순위 (댓글 수 기준)
+                </h3>
+            </div>
+            <div class="ranking-table" id="celebrity-ranking">
+                <div class="loading">
+                    <div class="spinner"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 인기 키워드 -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">
+                    <i class="fas fa-tags"></i> 인기 키워드 TOP 10
+                </h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="keywordChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- 키워드 비교 -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">
+                <i class="fas fa-code-branch"></i> 키워드 비교 (선택 vs 비교)
+            </h3>
+        </div>
+        <div class="chart-container">
+            <canvas id="keywordCompareChart"></canvas>
+        </div>
+    </div>
+
+    <!-- 단어 인사이트: 빈도 & 연관어 -->
+    <div class="grid grid-2">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">
+                    <i class="fas fa-font"></i> 단어 빈도 TOP 20 (최근 기간)
+                </h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="wordFreqChart"></canvas>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">
+                    <i class="fas fa-network-wired"></i> 연관어 상위 20쌍 (동시 등장)
+                </h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="cooccurrenceChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- 연관어 네트워크 그래프 -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title"><i class="fas fa-project-diagram"></i> 연관어 네트워크 (감성 색상)</h3>
+        </div>
+        <div class="chart-container" style="min-height:420px;">
+            <div id="cooccurrenceNetwork" style="width:100%; height:400px;"></div>
+        </div>
+    </div>
+
+    <!-- 실시간 피드 -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">
+                <i class="fas fa-rss"></i> 실시간 분석 피드
+            </h3>
+            <button class="btn btn-secondary" onclick="refreshFeed()">
+                <i class="fas fa-refresh"></i> 새로고침
+            </button>
+        </div>
+        <div id="realtime-feed">
+            <div class="alert alert-info">
+                <i class="fas fa-info-circle"></i> 
+                <strong>분석 완료:</strong> IU 관련 댓글 124개 분석 완료 (긍정 79.8%)
+                <small style="float: right;">2분 전</small>
+            </div>
+            <div class="alert alert-success">
+                <i class="fas fa-trending-up"></i> 
+                <strong>트렌드 발견:</strong> '음악' 키워드 언급량 25% 증가
+                <small style="float: right;">5분 전</small>
+            </div>
+            <div class="alert alert-warning">
+                <i class="fas fa-exclamation-triangle"></i> 
+                <strong>이상 감지:</strong> 특정 연예인 댓글량 급증 (평소의 300%)
+                <small style="float: right;">8분 전</small>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+// State
+let currentCelebrity = '';
+let compareCelebrityName = '';
+let periodDays = 30;
+
+let primaryTimelineData = [];
+let compareTimelineData = [];
+let primarySentimentPct = [0,0,0];
+let compareSentimentPct = null;
+let primaryKeywords = [];
+let compareKeywords = [];
+
+// Charts
+let timelineChart = null;
+let sentimentChart = null;
+let sentimentCompareChart = null;
+let keywordChart = null;
+let keywordCompareChart = null;
+let wordFreqChart = null;
+let cooccurrenceChart = null;
+let cooccurrenceSim = null; // D3 force simulation
+
+document.addEventListener('DOMContentLoaded', async () => {
+    // URL params
+    const qs = new URLSearchParams(window.location.search);
+    currentCelebrity = qs.get('name') || '';
+    compareCelebrityName = qs.get('compare') || '';
+    periodDays = Number(qs.get('period') || 30);
+    document.getElementById('period-filter').value = String(periodDays);
+    if (currentCelebrity) document.getElementById('primary-celeb').value = currentCelebrity;
+    if (compareCelebrityName) document.getElementById('compare-celeb').value = compareCelebrityName;
+
+    // Load global stats and ranking
+    loadGlobalStatsAndRanking();
+
+    // If no selection, pick the first from server list (rendered in HTML)
+    if (!currentCelebrity) {
+        const sel = document.getElementById('primary-celeb');
+        if (sel && sel.options.length > 1) currentCelebrity = sel.options[1].value;
+        sel.value = currentCelebrity;
+    }
+    await loadPrimary(currentCelebrity);
+    if (compareCelebrityName && compareCelebrityName !== currentCelebrity) {
+        await loadCompare(compareCelebrityName);
+    }
+
+    // Hook period changes
+    document.getElementById('period-filter').addEventListener('change', async () => {
+        periodDays = Number(document.getElementById('period-filter').value || 30);
+        await loadPrimary(currentCelebrity);
+        if (compareCelebrityName) await loadCompare(compareCelebrityName);
+    });
+});
+
+async function loadGlobalStatsAndRanking() {
+    try {
+        const res = await fetch('/api/celebrities');
+        const celebrities = await (res.ok ? res.json() : []);
+        // Stats
+        const totalComments = celebrities.reduce((sum, c) => sum + (Number(c.total_comments)||0), 0);
+        const avgSentiment = celebrities.length ? (celebrities.reduce((sum, c) => sum + (Number(c.positive_ratio)||0), 0) / celebrities.length) : 0;
+        animateCounter(document.getElementById('total-comments-dash'), totalComments);
+        animateCounter(document.getElementById('avg-sentiment-dash'), avgSentiment, true);
+        animateCounter(document.getElementById('active-celebrities'), celebrities.length);
+        // naive trending keywords count placeholder
+        animateCounter(document.getElementById('trending-keywords'), 50 + Math.floor(Math.random()*50));
+        // Deltas (placeholder)
+        setTimeout(() => {
+            document.getElementById('comments-change').innerHTML = '<i class="fas fa-arrow-up"></i> +12.5%';
+            document.getElementById('sentiment-change').innerHTML = '<i class="fas fa-arrow-up"></i> +2.3%';
+            document.getElementById('celebrities-change').innerHTML = `<i class=\"fas fa-arrow-up\"></i> +${Math.max(1, Math.floor(Math.random()*4))}명`;
+            document.getElementById('keywords-change').innerHTML = '<i class="fas fa-arrow-up"></i> +23개';
+        }, 1500);
+        // Ranking
+        updateCelebrityRanking(celebrities);
+    } catch (e) { console.error(e); }
+}
+
+function updateCelebrityRanking(celebrities) {
+    const sorted = (celebrities || []).slice().sort((a,b)=> (Number(b.total_comments)||0) - (Number(a.total_comments)||0));
+    const rankingContainer = document.getElementById('celebrity-ranking');
+    rankingContainer.innerHTML = sorted.slice(0, 5).map((celeb, index) => `
+    <div class="ranking-item" onclick="window.location.href='/dashboard?name=${encodeURIComponent(celeb.name)}'">
+            <div class="ranking-number">${index + 1}</div>
+            <div class="ranking-content">
+                <div class="ranking-name">${celeb.name}</div>
+                <div class="ranking-subtitle">댓글 ${(Number(celeb.total_comments)||0).toLocaleString()}개 • 긍정비율 ${Number(celeb.positive_ratio||0)}%</div>
+            </div>
+            <div class="ranking-value">${Number(celeb.positive_ratio||0)}%</div>
+        </div>
+    `).join('');
+}
+
+async function loadPrimary(name) {
+    if (!name) return;
+    currentCelebrity = name;
+    const [sentRes, timeRes, keyRes] = await Promise.all([
+        fetch(`/api/celebrity/${encodeURIComponent(name)}/sentiment`),
+        fetch(`/api/celebrity/${encodeURIComponent(name)}/timeline`),
+        fetch(`/api/celebrity/${encodeURIComponent(name)}/keywords`)
+    ]);
+    const [sentimentRecords, timelineRecords, keywordRecords] = await Promise.all([
+        sentRes.ok ? sentRes.json() : [],
+        timeRes.ok ? timeRes.json() : [],
+        keyRes.ok ? keyRes.json() : []
+    ]);
+    // Sentiment aggregate
+    const totals = (Array.isArray(sentimentRecords)? sentimentRecords: []).reduce((acc, r) => ({
+        pos: acc.pos + (Number(r.positive)||0),
+        neu: acc.neu + (Number(r.neutral)||0),
+        neg: acc.neg + (Number(r.negative)||0)
+    }), {pos:0, neu:0, neg:0});
+    const ssum = totals.pos + totals.neu + totals.neg || 1;
+    primarySentimentPct = [
+        Math.round((totals.pos/ssum)*1000)/10,
+        Math.round((totals.neu/ssum)*1000)/10,
+        Math.round((totals.neg/ssum)*1000)/10
+    ];
+    // Timeline normalize and period filter
+    const cutoff = new Date(); cutoff.setDate(cutoff.getDate() - (periodDays - 1));
+    primaryTimelineData = (Array.isArray(timelineRecords)? timelineRecords: [])
+        .map(r => ({
+            date: r.date,
+            comment_count: Number(r.comment_count ?? r.comments ?? 0),
+            positive_ratio: Number(r.positive_ratio ?? 0),
+            engagement: Number(r.engagement ?? r.engagement_rate ?? 0)
+        }))
+        .filter(d => new Date(d.date) >= cutoff)
+        .sort((a,b)=> new Date(a.date)-new Date(b.date));
+    // Keywords
+    primaryKeywords = (Array.isArray(keywordRecords)? keywordRecords: []).slice().sort((a,b)=> (Number(b.count)||0)-(Number(a.count)||0));
+    // Render
+    createSentimentDonut(primarySentimentPct);
+    createOrUpdateTimeline();
+    createKeywordTop(primaryKeywords);
+    maybeUpdateSentimentCompare();
+    maybeUpdateKeywordCompare();
+    // Load word insights (frequency & co-occurrence)
+    await loadWordInsights(currentCelebrity);
+}
+
+async function loadCompare(name) {
+    compareCelebrityName = name;
+    const [sentRes, timeRes, keyRes] = await Promise.all([
+        fetch(`/api/celebrity/${encodeURIComponent(name)}/sentiment`),
+        fetch(`/api/celebrity/${encodeURIComponent(name)}/timeline`),
+        fetch(`/api/celebrity/${encodeURIComponent(name)}/keywords`)
+    ]);
+    const [sentimentRecords, timelineRecords, keywordRecords] = await Promise.all([
+        sentRes.ok ? sentRes.json() : [],
+        timeRes.ok ? timeRes.json() : [],
+        keyRes.ok ? keyRes.json() : []
+    ]);
+    const totals = (Array.isArray(sentimentRecords)? sentimentRecords: []).reduce((acc, r) => ({
+        pos: acc.pos + (Number(r.positive)||0),
+        neu: acc.neu + (Number(r.neutral)||0),
+        neg: acc.neg + (Number(r.negative)||0)
+    }), {pos:0, neu:0, neg:0});
+    const ssum = totals.pos + totals.neu + totals.neg || 1;
+    compareSentimentPct = [
+        Math.round((totals.pos/ssum)*1000)/10,
+        Math.round((totals.neu/ssum)*1000)/10,
+        Math.round((totals.neg/ssum)*1000)/10
+    ];
+    const cutoff = new Date(); cutoff.setDate(cutoff.getDate() - (periodDays - 1));
+    compareTimelineData = (Array.isArray(timelineRecords)? timelineRecords: [])
+        .map(r => ({
+            date: r.date,
+            comment_count: Number(r.comment_count ?? r.comments ?? 0),
+            positive_ratio: Number(r.positive_ratio ?? 0),
+            engagement: Number(r.engagement ?? r.engagement_rate ?? 0)
+        }))
+        .filter(d => new Date(d.date) >= cutoff)
+        .sort((a,b)=> new Date(a.date)-new Date(b.date));
+    compareKeywords = (Array.isArray(keywordRecords)? keywordRecords: []).slice().sort((a,b)=> (Number(b.count)||0)-(Number(a.count)||0));
+    // Render overlays
+    createOrUpdateTimeline();
+    maybeUpdateSentimentCompare();
+    maybeUpdateKeywordCompare();
+}
+
+function createOrUpdateTimeline() {
+    const metric = document.getElementById('timeline-metric').value;
+    const labels = primaryTimelineData.map(d => new Date(d.date).toLocaleDateString('ko-KR', {month:'short', day:'numeric'}));
+    const primarySeries = metric === 'comments'
+        ? primaryTimelineData.map(d => d.comment_count)
+        : metric === 'sentiment'
+            ? primaryTimelineData.map(d => Number(d.positive_ratio||0))
+            : primaryTimelineData.map(d => Number(d.engagement||0));
+    const datasets = [{ label: currentCelebrity, data: primarySeries }];
+    if (compareTimelineData && compareTimelineData.length && compareCelebrityName) {
+        const otherLabels = compareTimelineData.map(d => new Date(d.date).toLocaleDateString('ko-KR', {month:'short', day:'numeric'}));
+        const compareSeriesRaw = metric === 'comments'
+            ? compareTimelineData.map(d => d.comment_count)
+            : metric === 'sentiment'
+                ? compareTimelineData.map(d => Number(d.positive_ratio||0))
+                : compareTimelineData.map(d => Number(d.engagement||0));
+        const aligned = alignSeries(labels, otherLabels, compareSeriesRaw);
+        datasets.push({ label: compareCelebrityName, data: aligned });
+    }
+    if (timelineChart) { chartManager.destroyChart('timelineChart'); }
+    timelineChart = chartManager.createTrendChart('timelineChart', labels, datasets);
+}
+
+function updateTimelineChart() { createOrUpdateTimeline(); }
+
+function createSentimentDonut(pct) {
+    if (sentimentChart) { chartManager.destroyChart('sentimentChart'); }
+    sentimentChart = chartManager.createSentimentChart('sentimentChart', pct);
+}
+
+function maybeUpdateSentimentCompare() {
+    if (sentimentCompareChart) { chartManager.destroyChart('sentimentCompareChart'); }
+    const labels = ['긍정','중립','부정'];
+    const datasets = [{
+        label: currentCelebrity || '선택',
+        data: primarySentimentPct,
+        backgroundColor: chartManager.hexToRgba(chartManager.getColorPalette(2)[0], 0.8),
+        borderColor: chartManager.getColorPalette(2)[0]
+    }];
+    if (compareSentimentPct && compareCelebrityName) {
+        datasets.push({
+            label: compareCelebrityName,
+            data: compareSentimentPct,
+            backgroundColor: chartManager.hexToRgba(chartManager.getColorPalette(2)[1], 0.8),
+            borderColor: chartManager.getColorPalette(2)[1]
+        });
+    }
+    sentimentCompareChart = chartManager.createBarChart('sentimentCompareChart', { labels, datasets }, { scales: { y: { beginAtZero: true, max: 100 }}});
+}
+
+function createKeywordTop(keywords) {
+    if (keywordChart) { chartManager.destroyChart('keywordChart'); }
+    const top10 = (keywords||[]).slice(0,10);
+    keywordChart = chartManager.createKeywordChart('keywordChart', top10.map(k=>k.keyword), top10.map(k=> Number(k.count)||0));
+}
+
+function maybeUpdateKeywordCompare() {
+    if (keywordCompareChart) { chartManager.destroyChart('keywordCompareChart'); }
+    const topN = 10;
+    const pTop = (primaryKeywords||[]).slice(0, topN);
+    const cTop = (compareKeywords||[]).slice(0, topN);
+    const labelsSet = new Set(pTop.map(k=>k.keyword));
+    cTop.forEach(k => labelsSet.add(k.keyword));
+    const labels = Array.from(labelsSet);
+    const pMap = new Map((primaryKeywords||[]).map(k => [k.keyword, Number(k.count)||0]));
+    const cMap = new Map((compareKeywords||[]).map(k => [k.keyword, Number(k.count)||0]));
+    const pCounts = labels.map(l => pMap.get(l) || 0);
+    const cCounts = labels.map(l => cMap.get(l) || 0);
+    const colors = chartManager.getColorPalette(2);
+    keywordCompareChart = chartManager.createBarChart('keywordCompareChart', {
+        labels,
+        datasets: [
+            { label: currentCelebrity || '선택', data: pCounts, backgroundColor: chartManager.hexToRgba(colors[0], 0.8), borderColor: colors[0], borderWidth: 1 },
+            ...(compareCelebrityName ? [{ label: compareCelebrityName, data: cCounts, backgroundColor: chartManager.hexToRgba(colors[1], 0.8), borderColor: colors[1], borderWidth: 1 }] : [])
+        ]
+    }, { plugins: { legend: { position: 'top' } }, scales: { y: { beginAtZero: true } } });
+}
+
+function onPrimaryChange() {
+    const name = document.getElementById('primary-celeb').value;
+    if (!name) return;
+    loadPrimary(name);
+}
+
+function onCompareChange() {
+    const name = document.getElementById('compare-celeb').value;
+    if (!name || name === currentCelebrity) {
+        compareCelebrityName = '';
+        compareTimelineData = [];
+        compareSentimentPct = null;
+        compareKeywords = [];
+        createOrUpdateTimeline();
+        maybeUpdateSentimentCompare();
+        maybeUpdateKeywordCompare();
+        return;
+    }
+    loadCompare(name);
+}
+
+// Helpers
+function alignSeries(baseLabels, otherLabels, series) {
+    const map = new Map((otherLabels||[]).map((l,i)=> [l, series[i]]));
+    return (baseLabels||[]).map(l => Number(map.get(l) || 0));
+}
+
+function animateCounter(element, target, isPercentage = false) {
+    const start = 0; const duration = 1500; const increment = (Number(target)||0) / (duration / 16); let current = start;
+    const timer = setInterval(() => {
+        current += increment;
+        if (current >= (Number(target)||0)) { current = (Number(target)||0); clearInterval(timer); }
+        element.textContent = isPercentage ? current.toFixed(1) + '%' : Math.floor(current).toLocaleString();
+    }, 16);
+}
+
+function refreshFeed() {
+    const feeds = [
+        {type: 'info', icon: 'info-circle', title: '분석 완료', message: `${currentCelebrity || '연예인'} 관련 댓글 분석 완료`, time: '방금 전'},
+        {type: 'success', icon: 'trending-up', title: '트렌드', message: '키워드 언급량 증가', time: '2분 전'}
+    ];
+    const feedContainer = document.getElementById('realtime-feed');
+    feedContainer.innerHTML = feeds.map(feed => `
+        <div class="alert alert-${feed.type}">
+            <i class="fas fa-${feed.icon}"></i> 
+            <strong>${feed.title}:</strong> ${feed.message}
+            <small style="float: right;">${feed.time}</small>
+        </div>
+    `).join('');
+}
+
+// ===== 단어 빈도 & 연관어 분석 =====
+async function loadWordInsights(name) {
+    try {
+        const res = await fetch(`/api/celebrity/${encodeURIComponent(name)}/comments?limit=1500`);
+        const records = await (res.ok ? res.json() : []);
+        const cutoff = new Date(); cutoff.setDate(cutoff.getDate() - (periodDays - 1));
+        const texts = (records || [])
+            .filter(r => !r.date || new Date(r.date) >= cutoff)
+            .map(r => (r.text || ''));
+
+    const { freqTop, pairTop, freqMap } = computeWordStats(texts, 30);
+    renderWordFrequency(freqTop);
+    renderCooccurrence(pairTop);
+    // Build sentiment map from primaryKeywords if available
+    const sentimentMap = new Map((primaryKeywords||[]).map(k => [k.keyword?.toLowerCase?.() || k.keyword, (k.sentiment||'neutral').toLowerCase()]));
+    renderCooccurrenceNetwork(pairTop, freqMap, sentimentMap);
+    } catch (e) {
+        console.error('단어 인사이트 로딩 실패:', e);
+    }
+}
+
+function computeWordStats(texts, topN = 20) {
+    const stopwords = new Set([
+        '그리고','하지만','그래서','정말','너무','진짜','그','이','저','거','것','에서','으로','하다','했다','있다','입니다','오늘','어제','내일','영상','댓글','사람','보기',
+        'the','a','an','and','or','is','are','to','of','in','on','for','with','at','by','from','it','this','that','i','you','we','they','he','she','my','your','our','their','be','was','were','been','am','as'
+    ]);
+    const normalize = (t) => t
+        .toLowerCase()
+        .replace(/[\p{P}\p{S}\d]/gu, ' ') // 문장부호/기호/숫자 제거
+        .replace(/\s+/g, ' ') // 다중 공백 정리
+        .trim();
+    const tokenize = (t) => normalize(t).split(' ').filter(w => w && w.length >= 2 && !stopwords.has(w));
+
+    const freq = new Map();
+    const pair = new Map();
+
+    for (const text of texts) {
+        const tokens = tokenize(text);
+        // 빈도
+        for (const w of tokens) {
+            freq.set(w, (freq.get(w) || 0) + 1);
+        }
+        // 연관어 (문장 내 중복 제거 후 쌍 카운트)
+        const uniq = Array.from(new Set(tokens));
+        for (let i = 0; i < uniq.length; i++) {
+            for (let j = i + 1; j < uniq.length; j++) {
+                const a = uniq[i] < uniq[j] ? uniq[i] : uniq[j];
+                const b = uniq[i] < uniq[j] ? uniq[j] : uniq[i];
+                const key = a + '|' + b;
+                pair.set(key, (pair.get(key) || 0) + 1);
+            }
+        }
+    }
+
+    const freqTop = Array.from(freq.entries())
+        .sort((a,b) => b[1]-a[1])
+        .slice(0, topN)
+        .map(([word,count]) => ({ word, count }));
+
+    const pairTop = Array.from(pair.entries())
+        .sort((a,b) => b[1]-a[1])
+    .slice(0, Math.max(20, topN))
+        .map(([key,count]) => ({ pair: key.split('|'), count }));
+
+    return { freqTop, pairTop, freqMap: freq };
+}
+
+function renderWordFrequency(items) {
+    if (wordFreqChart) { chartManager.destroyChart('wordFreqChart'); }
+    const labels = items.map(i => i.word);
+    const data = items.map(i => i.count);
+    // Sentiment-aware colors using primaryKeywords mapping
+    const sMap = new Map((primaryKeywords||[]).map(k => [k.keyword?.toLowerCase?.() || k.keyword, (k.sentiment||'neutral').toLowerCase()]));
+    const colorFor = (w) => {
+        const s = sMap.get(w.toLowerCase());
+        if (s === 'positive') return chartManager.hexToRgba('#28a745', 0.85);
+        if (s === 'negative') return chartManager.hexToRgba('#dc3545', 0.85);
+        if (s === 'neutral') return chartManager.hexToRgba('#ffc107', 0.85);
+        return chartManager.hexToRgba('#667eea', 0.85);
+    };
+    const strokeFor = (w) => {
+        const s = sMap.get(w.toLowerCase());
+        if (s === 'positive') return '#28a745';
+        if (s === 'negative') return '#dc3545';
+        if (s === 'neutral') return '#ffc107';
+        return '#667eea';
+    };
+    wordFreqChart = chartManager.createBarChart('wordFreqChart', {
+        labels,
+        datasets: [{
+            label: '언급 횟수',
+            data,
+            backgroundColor: labels.map(colorFor),
+            borderColor: labels.map(strokeFor),
+            borderWidth: 1,
+            borderRadius: 4,
+            borderSkipped: false
+        }]
+    }, {
+        indexAxis: 'y',
+        plugins: { legend: { display: false } },
+        scales: { x: { beginAtZero: true } }
+    });
+}
+
+function renderCooccurrence(items) {
+    if (cooccurrenceChart) { chartManager.destroyChart('cooccurrenceChart'); }
+    const labels = items.map(i => i.pair.join(' · '));
+    const data = items.map(i => i.count);
+    cooccurrenceChart = chartManager.createBarChart('cooccurrenceChart', {
+        labels,
+        datasets: [{
+            label: '동시 등장 횟수',
+            data,
+            backgroundColor: chartManager.hexToRgba('#764ba2', 0.85),
+            borderColor: '#764ba2',
+            borderWidth: 1,
+            borderRadius: 4,
+            borderSkipped: false
+        }]
+    }, {
+        indexAxis: 'y',
+        plugins: { legend: { display: false } },
+        scales: { x: { beginAtZero: true } }
+    });
+}
+
+function renderCooccurrenceNetwork(pairs, freqMap, sentimentMap) {
+    const container = document.getElementById('cooccurrenceNetwork');
+    if (!container) return;
+    // Clear previous
+    container.innerHTML = '';
+
+    const width = container.clientWidth || 800;
+    const height = container.clientHeight || 400;
+
+    const svg = d3.select(container)
+        .append('svg')
+        .attr('width', width)
+        .attr('height', height);
+
+    // Choose top nodes by frequency
+    const nodesByFreq = Array.from(freqMap.entries())
+        .sort((a,b)=> b[1]-a[1])
+        .slice(0, 30)
+        .map(([id, count]) => ({ id, count }));
+    const nodeSet = new Set(nodesByFreq.map(n => n.id));
+
+    // Filter links where both ends are in node set
+    const links = (pairs||[])
+        .filter(p => nodeSet.has(p.pair[0]) && nodeSet.has(p.pair[1]))
+        .map(p => ({ source: p.pair[0], target: p.pair[1], value: p.count }));
+
+    // Scales
+    const r = d3.scaleSqrt()
+        .domain([1, d3.max(nodesByFreq, d => d.count) || 1])
+        .range([6, 28]);
+    const lw = d3.scaleLinear()
+        .domain([1, d3.max(links, d => d.value) || 1])
+        .range([1, 6]);
+
+    // Color by sentiment
+    const colorFor = (id) => {
+        const s = (sentimentMap && sentimentMap.get(id.toLowerCase())) || 'neutral';
+        if (s === 'positive') return '#28a745';
+        if (s === 'negative') return '#dc3545';
+        return '#ffc107'; // neutral/default
+    };
+
+    // Simulation
+    const sim = d3.forceSimulation(nodesByFreq)
+        .force('link', d3.forceLink(links).id(d => d.id).distance(d => 140 - 2*lw(d.value)))
+        .force('charge', d3.forceManyBody().strength(-200))
+        .force('center', d3.forceCenter(width/2, height/2))
+        .force('collision', d3.forceCollide().radius(d => r(d.count) + 6));
+    cooccurrenceSim = sim;
+
+    // Links
+    const link = svg.append('g')
+        .attr('stroke', '#b0b0b0')
+        .attr('stroke-opacity', 0.6)
+        .selectAll('line')
+        .data(links)
+        .enter()
+        .append('line')
+        .attr('stroke-width', d => lw(d.value));
+
+    // Nodes
+    const node = svg.append('g')
+        .attr('stroke', '#fff')
+        .attr('stroke-width', 1.5)
+        .selectAll('circle')
+        .data(nodesByFreq)
+        .enter()
+        .append('circle')
+        .attr('r', d => r(d.count))
+        .attr('fill', d => colorFor(d.id))
+        .call(d3.drag()
+            .on('start', (event, d) => { if (!event.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+            .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
+            .on('end',   (event, d) => { if (!event.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
+        );
+
+    // Labels
+    const label = svg.append('g')
+        .selectAll('text')
+        .data(nodesByFreq)
+        .enter()
+        .append('text')
+        .text(d => d.id)
+        .attr('font-size', '12px')
+        .attr('font-family', 'Segoe UI, sans-serif')
+        .attr('fill', '#333');
+
+    // Tooltip
+    const tooltip = d3.select(container)
+        .append('div')
+        .style('position', 'absolute')
+        .style('background', 'rgba(0,0,0,0.75)')
+        .style('color', '#fff')
+        .style('padding', '6px 8px')
+        .style('border-radius', '4px')
+        .style('pointer-events', 'none')
+        .style('opacity', 0);
+
+    node.on('mouseover', (event, d) => {
+        tooltip.style('opacity', 1)
+            .html(`<strong>${d.id}</strong><br/>빈도: ${d.count.toLocaleString()}<br/>감성: ${(sentimentMap.get(d.id.toLowerCase())||'neutral')}`)
+            .style('left', (event.offsetX + 12) + 'px')
+            .style('top',  (event.offsetY + 12) + 'px');
+        // Highlight connected
+        const connected = new Set([d.id]);
+        links.forEach(l => { if (l.source.id===d.id || l.target.id===d.id) { connected.add(l.source.id); connected.add(l.target.id);} });
+        node.attr('opacity', n => connected.has(n.id) ? 1 : 0.2);
+        label.attr('opacity', n => connected.has(n.id) ? 1 : 0.1);
+        link.attr('stroke-opacity', l => (l.source.id===d.id || l.target.id===d.id) ? 0.9 : 0.1);
+    }).on('mousemove', (event) => {
+        tooltip.style('left', (event.offsetX + 12) + 'px')
+               .style('top',  (event.offsetY + 12) + 'px');
+    }).on('mouseout', () => {
+        tooltip.style('opacity', 0);
+        node.attr('opacity', 1);
+        label.attr('opacity', 1);
+        link.attr('stroke-opacity', 0.6);
+    });
+
+    sim.on('tick', () => {
+        link
+            .attr('x1', d => d.source.x)
+            .attr('y1', d => d.source.y)
+            .attr('x2', d => d.target.x)
+            .attr('y2', d => d.target.y);
+        node
+            .attr('cx', d => d.x)
+            .attr('cy', d => d.y);
+        label
+            .attr('x', d => d.x + r(d.count) + 4)
+            .attr('y', d => d.y + 4);
+    });
+
+    // Legend
+    const legend = svg.append('g').attr('transform', `translate(${width-220}, 16)`);
+    const legendItems = [
+        { name: '긍정', color: '#28a745' },
+        { name: '중립', color: '#ffc107' },
+        { name: '부정', color: '#dc3545' },
+    ];
+    legend.selectAll('rect')
+        .data(legendItems).enter()
+        .append('rect')
+        .attr('x', 0)
+        .attr('y', (d,i)=> i*22)
+        .attr('width', 14).attr('height', 14)
+        .attr('fill', d => d.color)
+        .attr('rx', 2);
+    legend.selectAll('text')
+        .data(legendItems).enter()
+        .append('text')
+        .attr('x', 20)
+        .attr('y', (d,i)=> i*22 + 12)
+        .attr('fill', '#333')
+        .attr('font-size', '12px')
+        .text(d => d.name);
+
+    // Resize handler (basic)
+    window.addEventListener('resize', debounce(() => {
+        renderCooccurrenceNetwork(pairs, freqMap, sentimentMap);
+    }, 300));
+}
+</script>
+{% endblock %}

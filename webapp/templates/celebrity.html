@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=/dashboard">
+  <title>페이지 이동 중...</title>
+  <script>
+    // Fallback redirect preserving query params
+    (function(){
+      var qs = window.location.search || '';
+      window.location.replace('/dashboard' + qs);
+    })();
+  </script>
+</head>
+<body>
+  <p>이 페이지는 통합 대시보드로 이동되었습니다. 잠시만 기다려 주세요...
+    <a href="/dashboard">대시보드로 이동</a>
+  </p>
+</body>
+</html>

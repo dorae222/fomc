@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}CelebAnalytics - 연예인 댓글 분석 서비스{% endblock %}
+
+{% block content %}
+<div class="container home-main">
+	<!-- Hero -->
+	<section class="home-hero hero-unified">
+		<div class="hero-content">
+			<h1 class="home-title"><i class="fas fa-chart-line"></i> CelebAnalytics</h1>
+			<div class="hero-subtitle">
+				AI 기반 댓글·키워드·감성 분석으로 연예인 이슈와 팬 반응을 한눈에.
+			</div>
+			<a class="btn btn-primary home-cta" href="{{ url_for('dashboard') }}">
+				<i class="fas fa-gauge"></i> 대시보드 열기
+			</a>
+		</div>
+	</section>
+
+	<!-- What we do -->
+	<section class="home-features features-grid">
+		<div class="card feature-card">
+			<div class="feature-icon"><i class="fas fa-heart"></i></div>
+			<div class="feature-content">
+				<h3>감성 분석</h3>
+				<p>긍/중/부정 비율과 추이를 정교하게 시각화합니다.</p>
+			</div>
+		</div>
+		<div class="card feature-card">
+			<div class="feature-icon"><i class="fas fa-tags"></i></div>
+			<div class="feature-content">
+				<h3>키워드 인사이트</h3>
+				<p>핵심 키워드와 공감 포인트를 비교·발견합니다.</p>
+			</div>
+		</div>
+		<div class="card feature-card">
+			<div class="feature-icon"><i class="fas fa-scale-balanced"></i></div>
+			<div class="feature-content">
+				<h3>연예인 비교</h3>
+				<p>두 명 이상의 연예인을 선택해 지표를 직관적으로 비교합니다.</p>
+			</div>
+		</div>
+	</section>
+
+	<!-- Architecture & Tech -->
+	<div class="card tech-card-center">
+		<div class="card-header">
+			<h3 class="card-title"><i class="fas fa-wrench"></i> 사용 기술</h3>
+		</div>
+		<div class="tech-stack">
+			<div class="tech-category">
+				<h4><i class="fas fa-server"></i> Backend</h4>
+				<div class="tech-items">
+					<span class="tech-badge"><img alt="Python" src="/static/images/icons/python.svg"/> Python</span>
+					<span class="tech-badge"><img alt="Flask" src="/static/images/icons/flask.svg"/> Flask</span>
+					<span class="tech-badge"><img alt="pandas" src="/static/images/icons/pandas.svg"/> pandas</span>
+				</div>
+			</div>
+			<div class="tech-category">
+				<h4><i class="fas fa-chart-line"></i> Frontend</h4>
+				<div class="tech-items">
+					<span class="tech-badge"><img alt="HTML5" src="/static/images/icons/html5.svg"/> HTML5</span>
+					<span class="tech-badge"><img alt="CSS3" src="/static/images/icons/css3.svg"/> CSS3</span>
+					<span class="tech-badge"><img alt="JavaScript" src="/static/images/icons/javascript.svg"/> JavaScript</span>
+					<span class="tech-badge"><img alt="Chart.js" src="/static/images/icons/chartjs.svg"/> Chart.js</span>
+					<span class="tech-badge"><img alt="D3.js" src="/static/images/icons/d3js.svg"/> D3.js</span>
+				</div>
+			</div>
+			<div class="tech-category">
+				<h4><i class="fas fa-database"></i> Data/Infra</h4>
+				<div class="tech-items">
+					<span class="tech-badge"><img alt="NumPy" src="/static/images/icons/numpy.svg"/> NumPy</span>
+					<span class="tech-badge"><img alt="PostgreSQL" src="/static/images/icons/postgresql.svg"/> PostgreSQL</span>
+					<span class="tech-badge"><img alt="Redis" src="/static/images/icons/redis.svg"/> Redis</span>
+                    
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<section class="home-cta card cta-center">
+		<h3>더 깊이 있는 분석이 필요하신가요?</h3>
+		<p>대시보드에서 연예인을 선택하고 비교를 시작해 보세요.</p>
+		<a class="btn btn-secondary" href="{{ url_for('dashboard') }}">대시보드로 이동</a>
+	</section>
+</div>
+{% endblock %}
+{% block scripts %}{% endblock %}

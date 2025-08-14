@@ -1,0 +1,13 @@
+{
+  "generated_at": "2025-08-14T09:35:22.662041",
+  "num_celebrities": 19,
+  "num_days": 30,
+  "num_comments": 5000,
+  "data_files": [
+    "celebrity_stats.csv",
+    "sentiment_analysis.csv",
+    "keyword_analysis.csv",
+    "timeline_data.csv",
+    "comment_data.csv"
+  ]
+}

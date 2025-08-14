@@ -1,0 +1,481 @@
+{% extends "base.html" %}
+
+{% block title %}팀 소개 - CelebAnalytics{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="page-header">
+        <h1><i class="fas fa-users"></i> 팀 소개</h1>
+        <p>팀원 개인 소개와 프로젝트 히스토리</p>
+    </div>
+
+    <!-- 팀원 소개 (간결 버전) -->
+    <div class="team-grid">
+        <!-- 팀장 -->
+        <div class="team-card fade-in">
+            <div class="team-avatar">
+                <i class="fas fa-user-tie"></i>
+            </div>
+            <h3 class="team-name">김데이터</h3>
+            <p class="team-role">Team Leader & Data Scientist</p>
+            <p class="team-description">데이터 설계와 분석 파이프라인 총괄.</p>
+        </div>
+
+        <!-- 백엔드 개발자 -->
+        <div class="team-card fade-in">
+            <div class="team-avatar">
+                <i class="fas fa-code"></i>
+            </div>
+            <h3 class="team-name">박백엔드</h3>
+            <p class="team-role">Backend Developer</p>
+            <p class="team-description">Flask API와 데이터 로딩 최적화 담당.</p>
+        </div>
+
+        <!-- 프론트엔드 개발자 -->
+        <div class="team-card fade-in">
+            <div class="team-avatar">
+                <i class="fas fa-palette"></i>
+            </div>
+            <h3 class="team-name">이프론트</h3>
+            <p class="team-role">Frontend Developer & UI/UX Designer</p>
+            <p class="team-description">차트/대시보드 UX와 상호작용 구현.</p>
+        </div>
+        
+        <!-- AI 엔지니어 -->
+        <div class="team-card fade-in">
+            <div class="team-avatar">
+                <i class="fas fa-robot"></i>
+            </div>
+            <h3 class="team-name">최인공지능</h3>
+            <p class="team-role">AI Engineer</p>
+            <p class="team-description">감성/키워드 분석 모델링과 품질 개선 담당.</p>
+        </div>
+    </div>
+
+    <!-- 프로젝트 히스토리 (간결 버전) -->
+    <div class="card" style="margin-bottom: 3rem;">
+        <div class="card-header">
+            <h3 class="card-title">
+                <i class="fas fa-history"></i> 프로젝트 히스토리
+            </h3>
+        </div>
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-date">2023.01</div>
+                <div class="timeline-content">
+                    <h4>프로젝트 시작</h4>
+                    <p>연예인 댓글 분석의 필요성을 인식하고 팀을 구성하여 프로젝트를 시작했습니다.</p>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-date">2024.현재</div>
+                <div class="timeline-content">
+                    <h4>서비스 고도화</h4>
+                    <p>대시보드 중심으로 기능을 통합하고 비교 분석 UX를 개선했습니다.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    setupFadeInAnimation();
+});
+
+// 간소화: 팀 통계 애니메이션 제거
+
+function setupFadeInAnimation() {
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.style.opacity = '1';
+                entry.target.style.transform = 'translateY(0)';
+            }
+        });
+    });
+    
+    document.querySelectorAll('.fade-in').forEach(el => {
+        el.style.opacity = '0';
+        el.style.transform = 'translateY(20px)';
+        el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+        observer.observe(el);
+    });
+}
+
+// 연락처 모달 제거됨
+
+// 팀원 카드 호버 효과
+document.querySelectorAll('.team-card').forEach(card => {
+    card.addEventListener('mouseenter', function() {
+        this.style.transform = 'translateY(-10px) scale(1.02)';
+    });
+    card.addEventListener('mouseleave', function() {
+        this.style.transform = 'translateY(0) scale(1)';
+    });
+});
+
+// 연락처 폼 제거됨
+</script>
+
+<style>
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.team-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.team-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.team-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    color: white;
+    font-size: 3rem;
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+}
+
+.team-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.team-role {
+    font-size: 1.1rem;
+    color: #667eea;
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+
+.team-description {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.team-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.skill-tag {
+    background: #f8f9fa;
+    color: #667eea;
+    padding: 0.3rem 0.8rem;
+    border-radius: 15px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border: 1px solid #e9ecef;
+}
+
+.team-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.team-link {
+    color: #667eea;
+    font-size: 1.3rem;
+    transition: all 0.3s ease;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+
+.team-link:hover {
+    color: #764ba2;
+    background: #f8f9fa;
+    transform: translateY(-2px);
+}
+
+.tech-stack {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+.tech-category h4 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+    font-size: 1.2rem;
+}
+
+.tech-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tech-item {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: transform 0.3s ease;
+}
+
+.tech-item:hover {
+    transform: translateY(-2px);
+}
+
+.timeline {
+    position: relative;
+    padding-left: 3rem;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 1rem;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, #667eea, #764ba2);
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 2rem;
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -3.5rem;
+    top: 1.5rem;
+    width: 12px;
+    height: 12px;
+    background: #667eea;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0 0 0 3px #667eea;
+}
+
+.timeline-date {
+    font-weight: 600;
+    color: #667eea;
+    margin-bottom: 0.5rem;
+}
+
+.timeline-content h4 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+}
+
+.timeline-content p {
+    margin: 0;
+    color: #666;
+    line-height: 1.5;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.contact-item i {
+    color: #667eea;
+    width: 20px;
+}
+
+.collaboration p {
+    margin-bottom: 1rem;
+    color: #666;
+    line-height: 1.6;
+}
+
+.collaboration-areas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.collab-tag {
+    background: #e9ecef;
+    color: #495057;
+    padding: 0.4rem 0.8rem;
+    border-radius: 15px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.awards {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.award-item {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border-left: 4px solid #ffd700;
+}
+
+.award-icon {
+    font-size: 2rem;
+    color: #ffd700;
+    min-width: 60px;
+    text-align: center;
+}
+
+.award-content h4 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+}
+
+.award-content p {
+    margin: 0 0 0.25rem 0;
+    color: #666;
+}
+
+.award-content small {
+    color: #999;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.form-group label {
+    font-weight: 600;
+    color: #333;
+}
+
+.form-group input,
+.form-group textarea {
+    padding: 0.75rem;
+    border: 2px solid #e9ecef;
+    border-radius: 6px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #667eea;
+}
+
+.team-stat {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.stat-description {
+    font-size: 0.875rem;
+    color: #666;
+    margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .team-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .tech-stack {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .timeline {
+        padding-left: 2rem;
+    }
+    
+    .timeline-item::before {
+        left: -2.5rem;
+    }
+    
+    .award-item {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .award-icon {
+        min-width: auto;
+    }
+}
+
+/* 모달 스타일 */
+/* 연락처 모달 제거 */
+
+/* 애니메이션 */
+@keyframes slideInRight {
+    from { transform: translateX(100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes slideOutRight {
+    from { transform: translateX(0); opacity: 1; }
+    to { transform: translateX(100%); opacity: 0; }
+}
+</style>
+{% endblock %}

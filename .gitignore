@@ -1,0 +1,293 @@
+# 바이트 컴파일된 / 최적화된 / DLL 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C 확장 모듈
+*.so
+
+# 배포 관련
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# 유닛 테스트 / 커버리지 리포트
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pdm
+.pdm.toml
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# 환경 변수
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder 프로젝트 설정
+.spyderproject
+.spyproject
+
+# Rope 프로젝트 설정
+.ropeproject
+
+# mkdocs 문서
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDE 설정 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 운영체제
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 로그 파일
+*.log
+logs/
+*.log.*
+
+# 데이터베이스
+*.db
+*.sqlite
+*.sqlite3
+
+# 캐시 파일
+.cache/
+*.cache
+
+# 백업 파일
+backups/
+*.backup
+*.bak
+
+# 업로드된 파일
+uploads/
+static/uploads/
+
+# 임시 파일
+tmp/
+temp/
+*.tmp
+*.temp
+
+# (removed Docker-specific ignores)
+
+# Node.js (프론트엔드 도구 사용 시)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# SSL 인증서
+*.pem
+*.key
+*.crt
+ssl/
+
+# 설정 파일 (민감한 정보 포함)
+config.local.py
+local_settings.py
+
+# 프로덕션 전용 파일
+production.ini
+prod.env
+
+# 테스트 결과
+test-results/
+test-reports/
+
+# AI 모델 파일 (용량이 큰 경우)
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pth
+data/models/
+
+# 수집된 데이터 (민감한 경우)
+data/raw/
+data/collected/
+
+# 분석 결과 (임시)
+results/
+output/
+
+# 문서 빌드
+docs/_build/
+docs/build/
+
+# 프로파일링 결과
+*.prof
+
+# 메모리 덤프
+*.dump
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# 압축 파일
+*.zip
+*.tar.gz
+*.rar
+
+# 프로젝트별 제외 파일
+# 실제 운영 데이터
+data/production/
+data/real/
+
+# API 키 및 비밀키
+secrets/
+keys/
+*.secret
+
+# 모니터링 데이터
+monitoring/
+metrics/
+
+# 외부 라이브러리 (CDN 사용)
+static/lib/
+static/vendor/
+
+# 빌드된 CSS/JS (자동 생성되는 경우)
+static/dist/
+static/build/
+
+# 에디터 백업
+*.orig
+*.rej
+.*.swp
+.*.swo
+
+# 프로젝트 문서 임시 파일
+*.docx~
+*.xlsx~
+*.pptx~
+
+# 시스템 파일
+.fseventsd
+.VolumeIcon.icns
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+Session.vim
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# 로컬 테스트 파일
+test_local.py
+*_test_local.py
+
+
+crawler
