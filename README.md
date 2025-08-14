@@ -55,7 +55,7 @@ fomc/
    git checkout web
    git pull
    git checkout -b web/feature-xxx
-````
+   ```
 
 2. 기능 개발 → 커밋 & 푸시
 
