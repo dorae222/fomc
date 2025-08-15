@@ -42,36 +42,39 @@ def analyze(fomc_df, index_df, output_dir, ticker):
         if date in index_df.index.date:
             open_price = index_df.loc[index_df.index.date == date, 'Open'].values[0]
             close_price = index_df.loc[index_df.index.date == date, 'Close'].values[0]
-            diff = close_price - open_price
+            if open_price != 0:
+                diff_pct = (close_price - open_price) / open_price * 100
+            else:
+                diff_pct = 0.0
             results.append({
                 "date": date,
                 "open": open_price,
                 "close": close_price,
-                "diff": diff,
+                "diff_pct": diff_pct,
                 "type": row['type'],
                 "rate_change": row['rate_change']
             })
 
     results_df = pd.DataFrame(results)
-    results_df = results_df.dropna(subset=['diff'])
-    results_df['diff'] = results_df['diff'].astype(float)
+    results_df = results_df.dropna(subset=['diff_pct'])
+    results_df['diff_pct'] = results_df['diff_pct'].astype(float)
     results_df['date_str'] = results_df['date'].astype(str)
 
     # Sanitize ticker for filename
     safe_ticker = ticker.replace('^', '')
     
     # CSV 저장
-    csv_path = os.path.join(output_dir, f"fomc_{safe_ticker}.csv")
+    csv_path = os.path.join(output_dir, f"fomc_{safe_ticker}_pct.csv")
     results_df.to_csv(csv_path, index=False)
 
-    colors = ['skyblue' if x >= 0 else 'salmon' for x in results_df['diff']]
+    colors = ['skyblue' if x >= 0 else 'salmon' for x in results_df['diff_pct']]
 
     plt.figure(figsize=(14,6))
-    bars = plt.bar(results_df['date_str'], results_df['diff'], color=colors)
+    bars = plt.bar(results_df['date_str'], results_df['diff_pct'], color=colors)
     plt.axhline(0, color='red', linestyle='--')
-    plt.title(f"{ticker} Open-Close Difference on FOMC Dates") # Use ticker in title
+    plt.title(f"{ticker} Open-Close Percentage Change on FOMC Dates") # Use ticker in title
     plt.xlabel("Date")
-    plt.ylabel("Close - Open")
+    plt.ylabel("Close - Open (%)")
 
     for bar, rate in zip(bars, results_df['rate_change']):
         plt.text(bar.get_x() + bar.get_width()/2, bar.get_height(),
@@ -93,7 +96,7 @@ def analyze(fomc_df, index_df, output_dir, ticker):
     plt.grid(True, axis='y')
     plt.tight_layout()
     
-    plot_path = os.path.join(output_dir, f"fomc_{safe_ticker}_plot_diff.png")
+    plot_path = os.path.join(output_dir, f"fomc_{safe_ticker}_plot_diff_pct.png")
     plt.savefig(plot_path)
     plt.close()
 
