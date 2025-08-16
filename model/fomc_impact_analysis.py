@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import matplotlib
 matplotlib.use("Agg")  # GUI 없는 환경에서도 PNG 저장 가능
 import matplotlib.pyplot as plt
+
 import argparse
 
 # ------------------------------
@@ -69,10 +70,10 @@ def analyze(fomc_df, index_df, output_dir, ticker):
 
     colors = ['skyblue' if x >= 0 else 'salmon' for x in results_df['diff_pct']]
 
-    plt.figure(figsize=(14,6))
+    plt.figure(figsize=(14,6)) # Wider figure for colorbar
     bars = plt.bar(results_df['date_str'], results_df['diff_pct'], color=colors)
     plt.axhline(0, color='red', linestyle='--')
-    plt.title(f"{ticker} Open-Close Percentage Change on FOMC Dates") # Use ticker in title
+    plt.title(f"{ticker} Open-Close Percentage Change on FOMC Dates")
     plt.xlabel("Date")
     plt.ylabel("Close - Open (%)")
 
