@@ -16,7 +16,7 @@ python model/fomc_impact_analysis.py \
     --sp-source yfinance \
     --fomc-csv data/fomc_dates_template.csv \
     --start 1994-01-01 \
-    --end 2025-12-31 \
+    --end 2025-08-11 \
     --output-dir output
 ```
 
@@ -30,7 +30,7 @@ python fomc_impact_analysis.py \
     --sp-source yfinance \
     --fomc-csv ../data/fomc_dates_template.csv \
     --start 1994-01-01 \
-    --end 2025-12-31 \
+    --end 2025-08-11 \
     --output-dir ../output
 ```
 
