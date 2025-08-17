@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html><head><meta charset='utf-8'>
+<!DOCTYPE html><html><head><meta charset='utf-8'>
 <title>Compare 20230503 → 20230614 (mone)</title>
 <link rel="stylesheet" type="text/css" href="../style.css">
 </head><body>
@@ -8,64 +7,72 @@
 <div class="plot-single"><img src="../plots/QQQ_1h_2023-09-20_with_sentiment.png" alt="plot 20230503"></div>
 <div class="plot-single"><img src="../plots/QQQ_1h_2023-09-20_with_sentiment.png" alt="plot 20230614"></div>
 </div>
-<div class="comparison highlight">
-<p class="note">⚠️ Added sentences are stronger (on average) than removed sentences — page highlighted.</p>
+<div class="stats-box">
+<strong>Stats</strong>: Added count=11, Removed count=12, Common count=19<br>
+Added mean/median/max = 0.574/0.556/0.803; 
+Removed mean/median/max = 0.572/0.554/0.816<br>
+Percentile thresholds (new file): p50=0.598, p75=0.718, p90=0.778<br>
+Delta rule: added_max (0.803) > removed_max (0.816) + DELTA (0.03) => False<br>
+Bootstrap mean diff = 0.0027, 95% CI = (-0.0819, 0.0827), bootstrap_flag=False<br>
+<strong>Final added_stronger = False</strong>
+</div>
+<div class="comparison">
 <h2>Added sentences</h2>
 <p class="bg-dovish-1"><span class="sent-text dovish">For release at 2:00 p.m. EDT June 14, 2023
 Recent indicators suggest that economic activity has continued to expand at a modest
-pace.</span></p>
+pace.</span> <small>(0.470)</small></p>
 <p class="bg-dovish-1"><span class="sent-text dovish">Job gains have been robust in recent months, and the unemployment rate has remained
-low.</span></p>
-<p class="bg-dovish-1"><span class="sent-text dovish">Inflation remains elevated.</span></p>
+low.</span> <small>(0.584)</small></p>
+<p class="bg-dovish-1"><span class="sent-text dovish">Inflation remains elevated.</span> <small>(0.556)</small></p>
 <p class="bg-dovish-1"><span class="sent-text dovish">In support of these goals, the Committee decided to maintain the
-target range for the federal funds rate at 5 to 5-1/4 percent.</span></p>
+target range for the federal funds rate at 5 to 5-1/4 percent.</span> <small>(0.490)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Holding the target range steady at
 this meeting allows the Committee to assess additional information and its implications for
-monetary policy.</span></p>
+monetary policy.</span> <small>(0.803)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">In determining the extent of additional policy firming that may be appropriate
 to return inflation to 2 percent over time, the Committee will take into account the cumulative
 tightening of monetary policy, the lags with which monetary policy affects economic activity and
-inflation, and economic and financial developments.</span></p>
+inflation, and economic and financial developments.</span> <small>(0.695)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">In addition, the Committee will continue
 reducing its holdings of Treasury securities and agency debt and agency mortgage-backed
-securities, as described in its previously announced plans.</span></p>
+securities, as described in its previously announced plans.</span> <small>(0.572)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">The Committee is strongly committed
-to returning inflation to its 2 percent objective.</span></p>
+to returning inflation to its 2 percent objective.</span> <small>(0.552)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">For release at 2:00 p.m. EDT June 14, 2023
 Decisions Regarding Monetary Policy Implementation
 The Federal Reserve has made the following decisions to implement the monetary policy stance
 announced by the Federal Open Market Committee in its statement on June 14, 2023:
 • The Board of Governors of the Federal Reserve System voted unanimously to maintain the
-interest rate paid on reserve balances at 5.15 percent, effective June 15, 2023.</span></p>
+interest rate paid on reserve balances at 5.15 percent, effective June 15, 2023.</span> <small>(0.516)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">• As part of its policy decision, the Federal Open Market Committee voted to direct the Open
 Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to
 execute transactions in the System Open Market Account in accordance with the following
 domestic policy directive:
-&quot;Effective June 15, 2023, the Federal Open Market Committee directs the Desk to:</span></p>
+&quot;Effective June 15, 2023, the Federal Open Market Committee directs the Desk to:</span> <small>(0.521)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">• In a related action, the Board of Governors of the Federal Reserve System voted
 unanimously to approve the establishment of the primary credit rate at the existing level of
-5.25 percent.</span></p>
+5.25 percent.</span> <small>(0.559)</small></p>
 <h2>Removed sentences</h2>
 <p class="bg-dovish-1"><span class="sent-text dovish"><del>For release at 2:00 p.m. EDT May 3, 2023
-Economic activity expanded at a modest pace in the first quarter.</del></span></p>
+Economic activity expanded at a modest pace in the first quarter.</del></span> <small>(0.435)</small></p>
 <p class="bg-dovish-1"><span class="sent-text dovish"><del>Job gains have been
-robust in recent months, and the unemployment rate has remained low.</del></span></p>
+robust in recent months, and the unemployment rate has remained low.</del></span> <small>(0.584)</small></p>
 <p class="bg-dovish-1"><span class="sent-text dovish"><del>Inflation remains
-elevated.</del></span></p>
+elevated.</del></span> <small>(0.556)</small></p>
 <p class="bg-dovish-1"><span class="sent-text dovish"><del>In support of these goals, the Committee decided to raise the
-target range for the federal funds rate to 5 to 5-1/4 percent.</del></span></p>
+target range for the federal funds rate to 5 to 5-1/4 percent.</del></span> <small>(0.497)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish"><del>The Committee will closely monitor
-incoming information and assess the implications for monetary policy.</del></span></p>
+incoming information and assess the implications for monetary policy.</del></span> <small>(0.816)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish"><del>In determining the extent
 to which additional policy firming may be appropriate to return inflation to 2 percent over time,
 the Committee will take into account the cumulative tightening of monetary policy, the lags with
 which monetary policy affects economic activity and inflation, and economic and financial
-developments.</del></span></p>
+developments.</del></span> <small>(0.705)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish"><del>In addition, the Committee will continue reducing its holdings of Treasury
 securities and agency debt and agency mortgage-backed securities, as described in its previously
-announced plans.</del></span></p>
+announced plans.</del></span> <small>(0.572)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish"><del>The Committee is strongly committed to returning inflation to its 2 percent
-objective.</del></span></p>
+objective.</del></span> <small>(0.552)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish"><del>Attachments
 
 For release at 2:00 p.m. EDT May 3, 2023
@@ -73,76 +80,76 @@ Decisions Regarding Monetary Policy Implementation
 The Federal Reserve has made the following decisions to implement the monetary policy
 stance announced by the Federal Open Market Committee in its statement on May 3, 2023:
 • The Board of Governors of the Federal Reserve System voted unanimously to raise the
-interest rate paid on reserve balances to 5.15 percent, effective May 4, 2023.</del></span></p>
+interest rate paid on reserve balances to 5.15 percent, effective May 4, 2023.</del></span> <small>(0.474)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish"><del>• As part of its policy decision, the Federal Open Market Committee voted to direct the Open
 Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to
 execute transactions in the System Open Market Account in accordance with the following
 domestic policy directive:
-&quot;Effective May 4, 2023, the Federal Open Market Committee directs the Desk to:</del></span></p>
+&quot;Effective May 4, 2023, the Federal Open Market Committee directs the Desk to:</del></span> <small>(0.518)</small></p>
 <p class="bg-dovish-1"><span class="sent-text dovish"><del>• In a related action, the Board of Governors of the Federal Reserve System voted
 unanimously to approve a 1/4 percentage point increase in the primary credit rate to
-5.25 percent, effective May 4, 2023.</del></span></p>
+5.25 percent, effective May 4, 2023.</del></span> <small>(0.447)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish"><del>In taking this action, the Board approved requests to
 establish that rate submitted by the Boards of Directors of the Federal Reserve Banks of
 Boston, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, St. Louis, Minneapolis,
-Kansas City, Dallas, and San Francisco.</del></span></p>
+Kansas City, Dallas, and San Francisco.</del></span> <small>(0.708)</small></p>
 <h2>Common sentences</h2>
-<p class="bg-hawkish-3"><span class="sent-text hawkish">The U.S. banking system is sound and resilient.</span></p>
+<p class="bg-hawkish-3"><span class="sent-text hawkish">The U.S. banking system is sound and resilient.</span> <small>(0.764)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Tighter credit conditions for households
-and businesses are likely to weigh on economic activity, hiring, and inflation.</span></p>
+and businesses are likely to weigh on economic activity, hiring, and inflation.</span> <small>(0.609)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">The extent of
-these effects remains uncertain.</span></p>
-<p class="bg-dovish-1"><span class="sent-text dovish">The Committee remains highly attentive to inflation risks.</span></p>
+these effects remains uncertain.</span> <small>(0.586)</small></p>
+<p class="bg-dovish-1"><span class="sent-text dovish">The Committee remains highly attentive to inflation risks.</span> <small>(0.487)</small></p>
 <p class="bg-dovish-1"><span class="sent-text dovish">The Committee seeks to achieve maximum employment and inflation at the rate of
-2 percent over the longer run.</span></p>
+2 percent over the longer run.</span> <small>(0.612)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">In assessing the appropriate stance of monetary policy, the Committee will continue to
-monitor the implications of incoming information for the economic outlook.</span></p>
+monitor the implications of incoming information for the economic outlook.</span> <small>(0.775)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">The Committee
 (more)
 
 -2-
 would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that
-could impede the attainment of the Committee’s goals.</span></p>
+could impede the attainment of the Committee’s goals.</span> <small>(0.711)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">The Committee’s assessments will take
 into account a wide range of information, including readings on labor market conditions,
-inflation pressures and inflation expectations, and financial and international developments.</span></p>
+inflation pressures and inflation expectations, and financial and international developments.</span> <small>(0.536)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,
 Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Austan D. Goolsbee; Patrick
-Harker; Philip N. Jefferson; Neel Kashkari; Lorie K. Logan; and Christopher J. Waller.</span></p>
+Harker; Philip N. Jefferson; Neel Kashkari; Lorie K. Logan; and Christopher J. Waller.</span> <small>(0.801)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">-0-
-For media inquiries, please email media@frb.gov or call 202-452-2955.</span></p>
+For media inquiries, please email media@frb.gov or call 202-452-2955.</span> <small>(0.654)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Conduct standing overnight repurchase agreement operations with a minimum bid
 o
-rate of 5.25 percent and with an aggregate operation limit of $500 billion.</span></p>
+rate of 5.25 percent and with an aggregate operation limit of $500 billion.</span> <small>(0.721)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Conduct standing overnight reverse repurchase agreement operations at an
 o
 offering rate of 5.05 percent and with a per-counterparty limit of $160 billion per
-day.</span></p>
+day.</span> <small>(0.762)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Roll over at auction the amount of principal payments from the Federal Reserve&#39;s
 o
 holdings of Treasury securities maturing in each calendar month that exceeds a
-cap of $60 billion per month.</span></p>
+cap of $60 billion per month.</span> <small>(0.511)</small></p>
 <p class="bg-neutral-2"><span class="sent-text neutral">Redeem Treasury coupon securities up to this
 monthly cap and Treasury bills to the extent that coupon principal payments are
-less than the monthly cap.</span></p>
+less than the monthly cap.</span> <small>(0.398)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Reinvest into agency mortgage-backed securities (MBS) the amount of principal
 o
 payments from the Federal Reserve&#39;s holdings of agency debt and agency MBS
-received in each calendar month that exceeds a cap of $35 billion per month.</span></p>
+received in each calendar month that exceeds a cap of $35 billion per month.</span> <small>(0.639)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Allow modest deviations from stated amounts for reinvestments, if needed for
 o
-operational reasons.</span></p>
+operational reasons.</span> <small>(0.769)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">Engage in dollar roll and coupon swap transactions as necessary to facilitate
 o
-settlement of the Federal Reserve&#39;s agency MBS transactions.&quot;&quot;</span></p>
+settlement of the Federal Reserve&#39;s agency MBS transactions.&quot;&quot;</span> <small>(0.552)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">(more)
 
 -2-
 This information will be updated as appropriate to reflect decisions of the Federal Open Market
 Committee or the Board of Governors regarding details of the Federal Reserve&#39;s operational tools
-and approach used to implement monetary policy.</span></p>
+and approach used to implement monetary policy.</span> <small>(0.625)</small></p>
 <p class="bg-hawkish-3"><span class="sent-text hawkish">More information regarding open market operations and reinvestments may be found on the
-Federal Reserve Bank of New York&#39;s website.</span></p>
+Federal Reserve Bank of New York&#39;s website.</span> <small>(0.801)</small></p>
 </div>
 <p style="margin-top:12px;"><a href="../index.html">&larr; Back to index</a></p>
 </body></html>
