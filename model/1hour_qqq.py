@@ -1,0 +1,180 @@
+# pip install yfinance pytz pandas matplotlib
+import matplotlib
+matplotlib.use("Agg")  # GUI 없는 환경에서 안전
+
+import yfinance as yf
+import pandas as pd
+import pytz
+from datetime import datetime
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import os
+from pathlib import Path
+
+# --- 경로 설정 (스크립트 위치 기준으로 프로젝트 루트 찾기) ---
+# 파일이 어디서 실행되든 (cwd와 무관하게) 작동하도록 __file__ 기반으로 경로를 만듭니다.
+SCRIPT_DIR = Path(__file__).resolve().parent            # .../fomc/model
+BASE_DIR = SCRIPT_DIR.parent                            # .../fomc
+DATA_DIR = BASE_DIR / "data"
+RESULTS_DIR = BASE_DIR / "predicted"
+CSV_SAVE_DIR = RESULTS_DIR / "csv"
+PLOTS_SAVE_DIR = RESULTS_DIR / "plots"
+
+# 결과 디렉토리 생성
+CSV_SAVE_DIR.mkdir(parents=True, exist_ok=True)
+PLOTS_SAVE_DIR.mkdir(parents=True, exist_ok=True)
+
+# timezone
+tz_ny = pytz.timezone("America/New_York")
+
+# Load FOMC dates (파일이 없으면 명확한 에러 메세지 출력)
+fomc_dates_file = DATA_DIR / "fomc_dates_template.csv"
+if not fomc_dates_file.exists():
+    raise FileNotFoundError(f"FOMC dates file not found: {fomc_dates_file}")
+fomc_dates_df = pd.read_csv(fomc_dates_file)
+
+# Filter for the last 2 years
+fomc_dates_df['date'] = pd.to_datetime(fomc_dates_df['date'])
+fomc_dates_df = fomc_dates_df[fomc_dates_df['date'] >= (datetime.now() - pd.DateOffset(years=2))]
+fomc_dates_df['date'] = fomc_dates_df['date'].dt.strftime('%Y-%m-%d')
+
+
+# Calculate sentiment ratios
+def calculate_ratios(df_sentiment):
+    total_count = len(df_sentiment)
+    dovish_count = df_sentiment[df_sentiment['pred_label'] == 'dovish'].shape[0]
+    hawkish_count = df_sentiment[df_sentiment['pred_label'] == 'hawkish'].shape[0]
+    neutral_count = df_sentiment[df_sentiment['pred_label'] == 'neutral'].shape[0]
+
+    dovish_ratio = (dovish_count / total_count) * 100 if total_count > 0 else 0
+    hawkish_ratio = (hawkish_count / total_count) * 100 if total_count > 0 else 0
+    neutral_ratio = (neutral_count / total_count) * 100 if total_count > 0 else 0
+
+    return dovish_ratio, hawkish_ratio, neutral_ratio
+
+
+for index, row in fomc_dates_df.iterrows():
+    date_str = row['date']                 # 'YYYY-MM-DD'
+    year, month, day = map(int, date_str.split('-'))
+    date_nodash = date_str.replace('-', '')
+
+    # FOMC 당일 (ET)
+    start_et = tz_ny.localize(datetime(year, month, day, 9, 25))   # 장시작 직전부터
+    end_et   = tz_ny.localize(datetime(year, month, day, 16, 5))   # 장마감 직후까지
+
+    # yfinance 다운로드 (에러 발생시 건너뜀)
+    try:
+        df = yf.download(
+            "QQQ",
+            interval="1h",
+            start=start_et.astimezone(pytz.UTC),
+            end=end_et.astimezone(pytz.UTC),
+            auto_adjust=False,
+            progress=False
+        )
+    except Exception as e:
+        print(f"YFinance download failed for {date_str}: {e}")
+        print(f"No QQQ data found for {date_str}. Skipping.")
+        continue
+
+    # 인덱스 타임존 처리 (빈 DataFrame 체크 포함)
+    if df.empty:
+        print(f"No QQQ data found for {date_str}. Skipping.")
+        continue
+
+    if df.index.tz is not None:
+        df = df.tz_convert(tz_ny)
+    else:
+        df.index = df.index.tz_localize(pytz.UTC).tz_convert(tz_ny)
+
+    # 장중(09:30~16:00)만 필터
+    df = df.between_time("09:30", "16:00")
+    if df.empty:
+        print(f"No QQQ data in market hours for {date_str}. Skipping.")
+        continue
+
+    # --- CSV 저장 (results/csv/) ---
+    qqq_csv_filename = CSV_SAVE_DIR / f"QQQ_1h_{date_str}_ET.csv"
+    df.to_csv(qqq_csv_filename)
+    print(f"saved -> {qqq_csv_filename}")
+
+    # 차트 그리기 (항상 성명/기자회견 시점은 표시)
+    fig, ax = plt.subplots(figsize=(12, 6))
+    ax.plot(df.index, df["Close"], linewidth=1, label="QQQ Close")
+
+    # FOMC 타임스탬프 (ET) — 항상 찍음
+    stmt_time = tz_ny.localize(datetime(year, month, day, 14, 0))   # 성명문
+    pc_time   = tz_ny.localize(datetime(year, month, day, 14, 30))  # 기자회견
+
+    for t, label in [(stmt_time, "Statement 14:00 ET"),
+                     (pc_time,   "Press Conf 14:30 ET")]:
+        ax.axvline(t, linestyle="--", linewidth=1)
+        # 텍스트가 인덱스 범위 밖으로 벗어나지 않게 안전하게 y 위치 계산
+        y_top = ax.get_ylim()[1]
+        ax.text(t, y_top, label, va="bottom", ha="left", rotation=90, fontsize=8)
+
+    # sentiment 파일 경로 (스크립트 기준의 results 폴더)
+    pres_csv_path = RESULTS_DIR / f"pred_{date_nodash}pres.csv"
+    mone_csv_path = RESULTS_DIR / f"pred_{date_nodash}mone.csv"
+
+    df_pres = pd.DataFrame()
+    df_mone = pd.DataFrame()
+
+    if pres_csv_path.exists():
+        try:
+            df_pres = pd.read_csv(pres_csv_path)
+        except Exception as e:
+            print(f"Failed to read {pres_csv_path}: {e}")
+    else:
+        print(f"Warning: Press conference sentiment data not found for {date_str} at {pres_csv_path}")
+
+    if mone_csv_path.exists():
+        try:
+            df_mone = pd.read_csv(mone_csv_path)
+        except Exception as e:
+            print(f"Failed to read {mone_csv_path}: {e}")
+    else:
+        print(f"Warning: Statement sentiment data not found for {date_str} at {mone_csv_path}")
+
+    # sentiment 파일이 하나라도 있으면 표(table) 추가 (ratio 계산)
+    if not df_pres.empty or not df_mone.empty:
+        if not df_mone.empty:
+            mone_dovish, mone_hawkish, mone_neutral = calculate_ratios(df_mone)
+        else:
+            mone_dovish, mone_hawkish, mone_neutral = (0, 0, 0)
+
+        if not df_pres.empty:
+            pres_dovish, pres_hawkish, pres_neutral = calculate_ratios(df_pres)
+        else:
+            pres_dovish, pres_hawkish, pres_neutral = (0, 0, 0)
+
+        table_data = [
+            ["Category", "Dovish (%)", "Hawkish (%)", "Neutral (%)"],
+            ["Statement", f"{mone_dovish:.2f}", f"{mone_hawkish:.2f}", f"{mone_neutral:.2f}"],
+            ["Press Conf.", f"{pres_dovish:.2f}", f"{pres_hawkish:.2f}", f"{pres_neutral:.2f}"]
+        ]
+
+        table = ax.table(cellText=table_data,
+                         colLabels=None,
+                         cellLoc='center',
+                         loc='upper left',
+                         bbox=[0.0, 0.75, 0.4, 0.2])
+        table.auto_set_font_size(False)
+        table.set_fontsize(10)
+        table.scale(1.2, 1.2)
+    else:
+        # sentiment 정보 없으면 표 없이 (요청하신 대로) 가격 차트 + 시점만 표시
+        print(f"Skipping sentiment table for {date_str} (no sentiment files).")
+
+    # 포맷팅 & 저장
+    ax.set_title(f"QQQ 1-hour bars on {date_str} (ET)")
+    ax.set_xlabel("Time (America/New_York)")
+    ax.set_ylabel("Price")
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%H:%M", tz=tz_ny))
+    ax.grid(True, alpha=0.3)
+    plt.tight_layout()
+
+    output_png_filename = PLOTS_SAVE_DIR / f"QQQ_1h_{date_str}_with_sentiment.png"
+    plt.savefig(output_png_filename)
+    print(f"saved -> {output_png_filename}")
+    plt.close(fig)

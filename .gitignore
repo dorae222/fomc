@@ -1,0 +1,79 @@
+# ==============================
+# OS / Editor
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Python (Flask, Crawler, Model)
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Test / coverage
+.pytest_cache/
+coverage/
+htmlcov/
+
+# ==============================
+# Project specific
+# ==============================
+
+# Flask instance/DB files
+webapp/.venv
+instance/
+*.sqlite3
+*.db
+
+# Flask static/media uploads (if generated at runtime)
+webapp/static/uploads/
+webapp/static/cache/
+
+# Crawler raw data
+#crawler/raw/
+*.csv
+*.json
+*.xlsx
+
+# Model artifacts
+model/checkpoints/
+model/outputs/
+model/runs/
+models/
+
+# Data folder at root (if used)
+data/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+*.env.local
+*.env.*.local
+
+# Logs
+*.log
+results/checkpoint-200/
+output/split_predictions/all_predictions.csv
+results/checkpoint-200/optimizer.pt
+results/checkpoint-200/
+output/split_predictions/all_predictions.csv
