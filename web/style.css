@@ -22,3 +22,20 @@ body {
 .removed {
     text-decoration: line-through;
 }
+
+
+
+.legend-sample.bg-dovish-2 { 
+    background: rgba(10,122,10,0.14); 
+    color: green;          /* 글씨 색상 */
+}
+
+.legend-sample.bg-neutral-2 { 
+    background: rgba(166,124,0,0.14); 
+    color: goldenrod;      /* 글씨 색상 */
+}
+
+.legend-sample.bg-hawkish-2 { 
+    background: rgba(179,0,0,0.14); 
+    color: red;            /* 글씨 색상 */
+}

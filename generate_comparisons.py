@@ -173,6 +173,25 @@ def make_text_map_with_prob(data_list):
             od[txt] = {"label": lab, "max_prob": prob}
     return od
 
+# ---------------- Helpers: HTML legend ----------------
+def get_legend_html():
+    return """
+<div class="legend-box">
+  <h2>Legend: Interpretation of Colors and Intensities</h2>
+  <ul>
+    <li><span class="legend-sample bg-dovish-2">Dovish (green)</span>: Suggests easing, lower rates, or accommodative policy stance.</li>
+    <li><span class="legend-sample bg-neutral-2">Neutral (yellow)</span>: Balanced or data-dependent stance, neither clearly dovish nor hawkish.</li>
+    <li><span class="legend-sample bg-hawkish-2">Hawkish (red)</span>: Indicates tightening, higher rates, or restrictive policy stance.</li>
+  </ul>
+  <p>
+    <strong>Color intensity</strong> (lighter → darker) reflects <strong>strength of stance</strong>:  
+    darker shades = stronger signal.  
+    <br>
+    <span class="legend-sample bg-purple-2">Purple highlight</span> shows added sentences that are stronger than the removed ones.
+  </p>
+</div>
+"""
+
 # ---------------- Helpers: plotting files ----------------
 def find_and_copy_plot_for_date(date_str):
     """
