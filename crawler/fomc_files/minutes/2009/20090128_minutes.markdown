@@ -1,0 +1,1697 @@
+# 20090128_minutes.pdf
+
+*Extracted on: 2025-08-20 16:36:20*
+*Pages: 25, Tables: 4*
+
+## Document Content
+
+--- Page 1 ---
+
+Page 1
+Minutes of the Federal Open Market Committee
+January 27-28, 2009
+A meeting of the Federal Open Market Committee was Mr. Struckmeyer, Deputy Staff Director, Office of
+held in the offices of the Board of Governors of the Staff Director for Management, Board of
+Federal Reserve System in Washington, D.C., on Tues- Governors
+day, January 27, 2009, at 1:30 p.m. and continued on
+Wednesday, January 28, 2009, at 9:00 a.m. Ms. Bailey, Deputy Director, Division of Banking
+Supervision and Regulation, Board of Gover-
+PRESENT: nors
+Mr. Bernanke, Chairman
+Mr. Dudley, Vice Chairman Mr. English, Deputy Director, Division of Mone-
+Ms. Duke tary Affairs, Board of Governors
+Mr. Evans
+Mr. Kohn Mr. Blanchard, Assistant to the Board, Office of
+Mr. Lacker Board Members, Board of Governors
+Mr. Lockhart
+Mr. Warsh Messrs. Reifschneider and Wascher, Associate Di-
+Ms. Yellen rectors, Division of Research and Statistics,
+Board of Governors
+Mr. Bullard, Ms. Cumming, Mr. Hoenig, Ms. Pi-
+analto, and Mr. Rosengren, Alternate Members Mr. Levin, Associate Director, Division of Mone-
+of the Federal Open Market Committee tary Affairs, Board of Governors
+Messrs. Fisher, Plosser, and Stern, Presidents of Ms. Shanks,3 Associate Secretary, Office of the
+the Federal Reserve Banks of Dallas, Philadel- Secretary, Board of Governors
+phia, and Minneapolis, respectively
+Mr. Reeve, Deputy Associate Director, Division of
+Mr. Madigan, Secretary and Economist International Finance, Board of Governors
+Ms. Danker, Deputy Secretary
+Mr. Luecke, Assistant Secretary Mr. Sichel, Deputy Associate Director, Division of
+Mr. Skidmore, Assistant Secretary Research and Statistics, Board of Governors
+Ms. Smith, Assistant Secretary
+Mr. Alvarez, General Counsel Mr. Meyer, Senior Adviser, Division of Monetary
+Mr. Ashton,1 Assistant General Counsel Affairs, Board of Governors
+Mr. Sheets, Economist
+Mr. Stockton, Economist Mr. Oliner, Senior Adviser, Division of Research
+and Statistics, Board of Governors
+Messrs. Altig, Clouse, Connors, Kamin, Slifman,
+Tracy, and Wilcox, Associate Economists Ms. Dynan, Assistant Director, Division of Re-
+search and Statistics, Board of Governors
+Ms. Mosser, Temporary Manager, System Open
+Market Account Mr. Small, Project Manager, Division of Monetary
+Affairs, Board of Governors
+Ms. Johnson,2 Secretary of the Board, Office of the
+Secretary, Board of Governors
+1 Attended Wednesday’s session only.
+Mr. Frierson,2 Deputy Secretary, Office of the Sec- 2 Attended portion of the meeting that was a joint
+retary, Board of Governors session of the Board and the FOMC.
+3 Attended portion of the meeting on Tuesday that
+was a joint session of the Board and the FOMC.
+
+--- Page 2 ---
+
+Page 2 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+Ms. Kusko, Senior Economist, Division of Re- Vice President of the Federal Reserve Bank of New
+search and Statistics, Board of Governors York, as alternate.
+Mr. Gust, Senior Economist, Division of Interna- Jeffrey M. Lacker, President of the Federal Reserve
+tional Finance, Board of Governors Bank of Richmond, with Eric C. Rosengren, President
+of the Federal Reserve Bank of Boston, as alternate.
+Messrs. Driscoll and King, Economists, Division
+of Monetary Affairs, Board of Governors Charles L. Evans, President of the Federal Reserve
+Bank of Chicago, with Sandra Pianalto, President of the
+Ms. Beattie,2 Assistant to the Secretary, Office of Federal Reserve Bank of Cleveland, as alternate.
+the Secretary, Board of Governors
+Dennis P. Lockhart, President of the Federal Reserve
+Ms. Low, Open Market Secretariat Specialist, Divi- Bank of Atlanta, with James B. Bullard, President of
+sion of Monetary Affairs, Board of Governors the Federal Reserve Bank of St. Louis, as alternate.
+Ms. Green, First Vice President, Federal Reserve Janet L. Yellen, President of the Federal Reserve Bank
+Bank of Richmond of San Francisco, with Thomas M. Hoenig, President
+of the Federal Reserve Bank of Kansas City, as alter-
+Messrs. Fuhrer, Rosenblum, and Sniderman, Ex- nate.
+ecutive Vice Presidents, Federal Reserve Banks
+of Boston, Dallas, and Cleveland, respectively Annual Organizational Matters
+By unanimous vote, the following officers of the Fed-
+Messrs. Hilton and Krane, Mses. Mester and eral Open Market Committee were selected to serve
+Perelmuter, Messrs. Rasche, Rudebusch, and until the selection of their successors at the first regu-
+Sellon, Senior Vice Presidents, Federal Reserve larly scheduled meeting of the Committee in 2010:
+Banks of New York, Chicago, Philadelphia,
+New York, St. Louis, San Francisco, and Kan- Ben S. Bernanke Chairman
+sas City, respectively William C. Dudley Vice Chairman
+Brian F. Madigan Secretary and Economist
+Mr. Weber, Senior Research Officer, Federal Re- Deborah J. Danker Deputy Secretary
+serve Bank of Minneapolis Matthew M. Luecke Assistant Secretary
+David W. Skidmore Assistant Secretary
+Mr. Hetzel, Senior Economist, Federal Reserve Michelle A. Smith Assistant Secretary
+Bank of Richmond Scott G. Alvarez General Counsel
+Thomas C. Baxter, Jr. Deputy General Counsel
+2 Attended portion of the meeting that was a joint Richard M. Ashton Assistant General
+session of the Board and the FOMC. Counsel
+D. Nathan Sheets Economist
+David J. Stockton Economist
+In the agenda for this meeting, it was reported that ad-
+vices of the election of the following members and al- David E. Altig
+ternate members of the Federal Open Market Commit- James A. Clouse
+tee for a term beginning January 27, 2009, had been Thomas A. Connors
+received and that these individuals had executed their Steven B. Kamin
+oaths of office. Lawrence Slifman
+Daniel G. Sullivan
+The elected members and alternate members were as Joseph S. Tracy
+follows: John A. Weinberg
+David W. Wilcox
+William C. Dudley, President of the Federal Reserve John C. Williams Associate Economists
+Bank of New York, with Christine M. Cumming, First
+
+--- Page 3 ---
+
+M i n u t e s o f t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 3
+By unanimous vote, the Committee adopted several Mexican pesos
+minor amendments to its Program for Security of New Zealand dollars
+FOMC Information. Norwegian kroner
+Pounds sterling
+By unanimous vote, the Federal Reserve Bank of New
+Singapore dollars
+York was selected to execute transactions for the Sys-
+Swedish kronor
+tem Open Market Account.
+Swiss francs
+Secretary’s note: The Chairman reported that
+prior to the meeting he had used his authority B. To hold balances of, and to have outstanding
+under the Committee’s Rules of Organization forward contracts to receive or to deliver, the foreign
+to appoint Ms. Mosser as Manager of the Sys- currencies listed in paragraph A above.
+tem Open Market Account until the Commit- C. To draw foreign currencies and to permit for-
+tee selects a replacement manager. eign banks to draw dollars under the reciprocal cur-
+rency arrangements listed in paragraph 2 below, pro-
+vided that drawings by either party to any such ar-
+By unanimous vote, the Committee approved the Au- rangement shall be fully liquidated within 12 months
+thorization for Foreign Currency Operations (shown after any amount outstanding at that time was first
+below) with a clerical amendment that combined the drawn, unless the Committee, because of exceptional
+list of currencies in 1.A approved at the January 2008 circumstances, specifically authorizes a delay.
+meeting with the five additional currencies that were D. To maintain an overall open position in all for-
+approved by the Committee in September and October eign currencies not exceeding $25.0 billion. For this
+2008 in connection with temporary reciprocal currency purpose, the overall open position in all foreign cur-
+arrangements: rencies is defined as the sum (disregarding signs) of
+net positions in individual currencies, excluding
+AUTHORIZATION FOR FOREIGN CURRENCY
+changes in dollar value due to foreign exchange rate
+OPERATIONS
+movements and interest accruals. The net position in
+(Amended January 27, 2009)
+a single foreign currency is defined as holdings of
+1. The Federal Open Market Committee authorizes balances in that currency, plus outstanding contracts
+and directs the Federal Reserve Bank of New York, for for future receipt, minus outstanding contracts for
+System Open Market Account, to the extent necessary future delivery of that currency, i.e., as the sum of
+to carry out the Committee's foreign currency directive these elements with due regard to sign.
+and express authorizations by the Committee pursuant 2. The Federal Open Market Committee directs the
+thereto, and in conformity with such procedural in- Federal Reserve Bank of New York to maintain recip-
+structions as the Committee may issue from time to rocal currency arrangements (“swap” arrangements) for
+time: the System Open Market Account for periods up to a
+A. To purchase and sell the following foreign cur- maximum of 12 months with the following foreign
+rencies in the form of cable transfers through spot or banks, which are among those designated by the Board
+forward transactions on the open market at home of Governors of the Federal Reserve System under
+and abroad, including transactions with the U.S. Section 214.5 of Regulation N, Relations with Foreign
+Treasury, with the U.S. Exchange Stabilization Fund Banks and Bankers, and with the approval of the
+established by Section 10 of the Gold Reserve Act of Committee to renew such arrangements on maturity:
+1934, with foreign monetary authorities, with the
+Bank for International Settlements, and with other Foreign bank Amount of arrangement
+international financial institutions: (millions of dollars equivalent)
+Australian dollars Bank of Canada 2,000
+Brazilian reais Bank of Mexico 3,000
+Canadian dollars
+Danish kroner Any changes in the terms of existing swap arrange-
+euro ments, and the proposed terms of any new arrange-
+Japanese yen ments that may be authorized, shall be referred for re-
+Korean won view and approval to the Committee.
+
+--- Page 4 ---
+
+Page 4 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+3. All transactions in foreign currencies undertaken mittee shall be called at the request of any member, or
+under paragraph 1.A. above shall, unless otherwise ex- at the request of the Manager, System Open Market
+pressly authorized by the Committee, be at prevailing Account (“Manager”), for the purposes of reviewing
+market rates. For the purpose of providing an invest- recent or contemplated operations and of consulting
+ment return on System holdings of foreign currencies with the Manager on other matters relating to the Man-
+or for the purpose of adjusting interest rates paid or ager’s responsibilities. At the request of any member of
+received in connection with swap drawings, transac- the Subcommittee, questions arising from such reviews
+tions with foreign central banks may be undertaken at and consultations shall be referred for determination to
+non-market exchange rates. the Federal Open Market Committee.
+4. It shall be the normal practice to arrange with for- 7. The Chairman is authorized:
+eign central banks for the coordination of foreign cur- A. With the approval of the Committee, to enter
+rency transactions. In making operating arrangements into any needed agreement or understanding with the
+with foreign central banks on System holdings of for- Secretary of the Treasury about the division of re-
+eign currencies, the Federal Reserve Bank of New York sponsibility for foreign currency operations between
+shall not commit itself to maintain any specific balance, the System and the Treasury;
+unless authorized by the Federal Open Market Com- B. To keep the Secretary of the Treasury fully ad-
+mittee. Any agreements or understandings concerning vised concerning System foreign currency operations,
+the administration of the accounts maintained by the and to consult with the Secretary on policy matters
+Federal Reserve Bank of New York with the foreign relating to foreign currency operations;
+banks designated by the Board of Governors under C. From time to time, to transmit appropriate re-
+Section 214.5 of Regulation N shall be referred for re- ports and information to the National Advisory
+view and approval to the Committee. Council on International Monetary and Financial
+5. Foreign currency holdings shall be invested to Policies.
+ensure that adequate liquidity is maintained to meet 8. Staff officers of the Committee are authorized to
+anticipated needs and so that each currency portfolio transmit pertinent information on System foreign cur-
+shall generally have an average duration of no more rency operations to appropriate officials of the Treas-
+than 18 months (calculated as Macaulay duration). Such ury Department.
+investments may include buying or selling outright ob- 9. All Federal Reserve Banks shall participate in the
+ligations of, or fully guaranteed as to principal and in- foreign currency operations for System Account in ac-
+terest by, a foreign government or agency thereof; buy- cordance with paragraph 3G(1) of the Board of Gov-
+ing such securities under agreements for repurchase of ernors' Statement of Procedure with Respect to For-
+such securities; selling such securities under agreements eign Relationships of Federal Reserve Banks dated
+for the resale of such securities; and holding various January 1, 1944.
+time and other deposit accounts at foreign institutions.
+In addition, when appropriate in connection with ar-
+rangements to provide investment facilities for foreign By unanimous vote, the Foreign Currency Directive
+currency holdings, U.S. Government securities may be was reaffirmed in the form shown below:
+purchased from foreign central banks under agree-
+FOREIGN CURRENCY DIRECTIVE
+ments for repurchase of such securities within 30 cal-
+(Reaffirmed January 27, 2009)
+endar days.
+6. All operations undertaken pursuant to the preced- 1. System operations in foreign currencies shall gen-
+ing paragraphs shall be reported promptly to the For- erally be directed at countering disorderly market con-
+eign Currency Subcommittee and the Committee. The ditions, provided that market exchange rates for the
+Foreign Currency Subcommittee consists of the U.S. dollar reflect actions and behavior consistent with
+Chairman and Vice Chairman of the Committee, the IMF Article IV, Section 1.
+Vice Chairman of the Board of Governors, and such 2. To achieve this end the System shall:
+other member of the Board as the Chairman may des- A. Undertake spot and forward purchases and sales
+ignate (or in the absence of members of the Board of foreign exchange.
+serving on the Subcommittee, other Board members B. Maintain reciprocal currency (“swap”) arrange-
+designated by the Chairman as alternates, and in the ments with selected foreign central banks.
+absence of the Vice Chairman of the Committee, the
+Vice Chairman’s alternate). Meetings of the Subcom-
+
+--- Page 5 ---
+
+M i n u t e s o f t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 5
+C. Cooperate in other respects with central banks cies exceeding $300 million on any day or $600 mil-
+of other countries and with international monetary lion since the most recent regular meeting of the
+institutions. Committee.
+3. Transactions may also be undertaken: B. Any operation that would result in a change on
+A. To adjust System balances in light of probable any day in the System's net position in a single for-
+future needs for currencies. eign currency exceeding $150 million, or $300 million
+B. To provide means for meeting System and when the operation is associated with repayment of
+Treasury commitments in particular currencies, and swap drawings.
+to facilitate operations of the Exchange Stabilization C. Any operation that might generate a substantial
+Fund. volume of trading in a particular currency by the Sys-
+C. For such other purposes as may be expressly tem, even though the change in the System's net po-
+authorized by the Committee. sition in that currency might be less than the limits
+4. System foreign currency operations shall be con- specified in 1.B.
+ducted: D. Any swap drawing proposed by a foreign bank
+A. In close and continuous consultation and coop- not exceeding the larger of (i) $200 million or (ii) 15
+eration with the United States Treasury; percent of the size of the swap arrangement.
+B. In cooperation, as appropriate, with foreign 2. The Manager shall clear with the Committee (or
+monetary authorities; and with the Subcommittee, if the Subcommittee believes
+C. In a manner consistent with the obligations of that consultation with the full Committee is not feasible
+the United States in the International Monetary Fund in the time available, or with the Chairman, if the
+regarding exchange arrangements under IMF Article Chairman believes that consultation with the Subcom-
+IV. mittee is not feasible in the time available):
+A. Any operation that would result in a change in
+the System's overall open position in foreign curren-
+By unanimous vote, the Committee approved the Pro-
+cies exceeding $1.5 billion since the most recent regu-
+cedural Instructions with Respect to Foreign Currency
+lar meeting of the Committee.
+Operations, with the addition of the clarifying phrase
+B. Any swap drawing proposed by a foreign bank
+“unless otherwise directed by the Committee” in the
+exceeding the larger of (i) $200 million or (ii) 15 per-
+first sentence:
+cent of the size of the swap arrangement.
+PROCEDURAL INSTRUCTIONS WITH RESPECT 3. The Manager shall also consult with the Sub-
+TO FOREIGN CURRENCY OPERATIONS committee or the Chairman about proposed swap
+(Amended January 27, 2009) drawings by the System and about any operations that
+are not of a routine character.
+In conducting operations pursuant to the authorization
+and direction of the Federal Open Market Committee
+as set forth in the Authorization for Foreign Currency By unanimous vote, the Committee approved several
+Operations and the Foreign Currency Directive, the amendments to the Authorization for Domestic Open
+Federal Reserve Bank of New York, through the Man- Market Operations (shown below). The amendments
+ager, System Open Market Account (“Manager”), shall consolidate language authorizing repurchase agree-
+be guided by the following procedural understandings ments and reverse repurchase agreements into one pa-
+with respect to consultations and clearances with the ragraph, add a paragraph authorizing the use of agents
+Committee, the Foreign Currency Subcommittee, and to execute transactions in certain mortgage-backed se-
+the Chairman of the Committee, unless otherwise di- curities (MBS), and add language to the final paragraph
+rected by the Committee. All operations undertaken that reflects the Committee’s current focus on using
+pursuant to such clearances shall be reported promptly the composition and size of the Federal Reserve’s bal-
+to the Committee. ance sheet as instruments of monetary policy. The fi-
+1. The Manager shall clear with the Subcommittee nal paragraph now specifies that decisions to make ma-
+(or with the Chairman, if the Chairman believes that terial changes in the composition and size of the port-
+consultation with the Subcommittee is not feasible in folio of assets held in the System Open Market Ac-
+the time available): count during the period between meetings of the Fed-
+A. Any operation that would result in a change in eral Open Market Committee will be made in the same
+the System's overall open position in foreign curren-
+
+--- Page 6 ---
+
+Page 6 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+manner as decisions to change the intended level of the borrow. The Federal Reserve Bank of New York may
+federal funds rate during the intermeeting period: reject bids which could facilitate a dealer's ability to
+control a single issue as determined solely by the Fed-
+AUTHORIZATION FOR DOMESTIC OPEN
+eral Reserve Bank of New York.
+MARKET OPERATIONS
+4. In order to ensure the effective conduct of open
+(Amended January 27, 2009)
+market operations, while assisting in the provision of
+1. The Federal Open Market Committee authorizes short-term investments for foreign and international
+and directs the Federal Reserve Bank of New York, to accounts maintained at the Federal Reserve Bank of
+the extent necessary to carry out the most recent do- New York and accounts maintained at the Federal Re-
+mestic policy directive adopted at a meeting of the serve Bank of New York as fiscal agent of the United
+Committee: States pursuant to Section 15 of the Federal Reserve
+A. To buy or sell U.S. Government securities, in- Act, the Federal Open Market Committee authorizes
+cluding securities of the Federal Financing Bank, and and directs the Federal Reserve Bank of New York (a)
+securities that are direct obligations of, or fully guar- for System Open Market Account, to sell U.S. Gov-
+anteed as to principal and interest by, any agency of ernment securities to such accounts on the bases set
+the United States in the open market, from or to se- forth in paragraph 1.A under agreements providing for
+curities dealers and foreign and international ac- the resale by such accounts of those securities in 65
+counts maintained at the Federal Reserve Bank of business days or less on terms comparable to those
+New York, on a cash, regular, or deferred delivery available on such transactions in the market; and (b) for
+basis, for the System Open Market Account at mar- New York Bank account, when appropriate, to under-
+ket prices, and, for such Account, to exchange matur- take with dealers, subject to the conditions imposed on
+ing U.S. Government and Federal agency securities purchases and sales of securities in paragraph l.B, re-
+with the Treasury or the individual agencies or to al- purchase agreements in U.S. Government and agency
+low them to mature without replacement; securities, and to arrange corresponding sale and repur-
+B. To buy or sell in the open market U.S. Gov- chase agreements between its own account and such
+ernment securities, and securities that are direct obli- foreign, international, and fiscal agency accounts main-
+gations of, or fully guaranteed as to principal and in- tained at the Bank. Transactions undertaken with such
+terest by, any agency of the United States, for the accounts under the provisions of this paragraph may
+System Open Market Account under agreements to provide for a service fee when appropriate.
+resell or repurchase such securities or obligations (in- 5. In the execution of the Committee’s decision re-
+cluding such transactions as are commonly referred garding policy during any intermeeting period, the
+to as repo and reverse repo transactions) in 65 busi- Committee authorizes and directs the Federal Reserve
+ness days or less, at rates that, unless otherwise ex- Bank of New York, upon the instruction of the Chair-
+pressly authorized by the Committee, shall be deter- man of the Committee, to adjust somewhat in excep-
+mined by competitive bidding, after applying reason- tional circumstances the degree of pressure on reserve
+able limitations on the volume of agreements with positions and hence the intended federal funds rate and
+individual counterparties. to take actions that result in material changes in the
+2. In order to ensure the effective conduct of open composition and size of the assets in the System Open
+market operations, the Federal Open Market Commit- Market Account other than those anticipated by the
+tee authorizes the Federal Reserve Bank of New York Committee at its most recent meeting. Any such ad-
+to use agents in agency MBS-related transactions. justment shall be made in the context of the Commit-
+3. In order to ensure the effective conduct of open tee’s discussion and decision at its most recent meeting
+market operations, the Federal Open Market Commit- and the Committee’s long-run objectives for price sta-
+tee authorizes the Federal Reserve Bank of New York bility and sustainable economic growth, and shall be
+to lend on an overnight basis U.S. Government securi- based on economic, financial, and monetary develop-
+ties held in the System Open Market Account to deal- ments during the intermeeting period. Consistent with
+ers at rates that shall be determined by competitive bid- Committee practice, the Chairman, if feasible, will con-
+ding. The Federal Reserve Bank of New York shall set sult with the Committee before making any adjustment.
+a minimum lending fee consistent with the objectives
+of the program and apply reasonable limitations on the
+In light of its program to purchase large quantities of
+total amount of a specific issue that may be auctioned
+agency debt and mortgage-backed securities, the Com-
+and on the amount of securities that each dealer may
+
+--- Page 7 ---
+
+M i n u t e s o f t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 7
+mittee voted to suspend temporarily the Guidelines for Federal Reserve balance sheet to support credit flows
+the Conduct of System Operations in Federal Agency to, and spending by, households and businesses.
+Issues (last amended January 28, 2003). Mr. Lacker
+System Liquidity Programs and Balance Sheet
+dissented, stating that he views targeted purchases of
+Staff reported on developments in System liquidity
+agency debt and mortgage-backed securities as distort-
+programs and on changes in the System’s balance sheet
+ing credit markets and would prefer that the Desk in-
+since the Committee’s December 15-16 meeting. As of
+stead purchase Treasury securities.
+January 26, the System’s total assets and liabilities stood
+The remainder of the Committee’s meeting was con- at just under $2 trillion, about $300 billion less than on
+ducted as a joint meeting with the Board of Governors December 17, 2008. The drop, which resulted primar-
+in order to facilitate policy discussion of developments ily from a decline in foreign central bank drawings on
+with regard to the System’s liquidity facilities and bal- reciprocal currency arrangements and a reduction in
+ance sheet during the intermeeting period and to con- issuers’ sales of commercial paper to the Commercial
+sider the need for changes in the System’s approach to Paper Funding Facility (CPFF), seemed to reflect some
+using those tools. improvement in the functioning of global interbank
+markets and the commercial paper market after the
+Market Developments and Open Market Opera-
+year-end.
+tions
+The Manager of the System Open Market Account Most participants interpreted the evidence as indicating
+reported on recent developments in domestic and for- that credit markets still were not working well, and that
+eign financial markets. The Manager also reported on the Federal Reserve’s lending programs, asset pur-
+System open market operations in Treasury securities chases, and currency swaps were providing much-
+and in agency debt and mortgage-backed securities dur- needed support to economic activity by reducing dislo-
+ing the period since the Committee’s December 15-16 cations in financial markets, lowering the cost of credit,
+meeting. By unanimous vote, the Committee ratified and facilitating the flow of credit to businesses and
+these transactions. There were no open market opera- households. Several indicated that they expected the
+tions in foreign currencies for the System’s account soon-to-be-implemented Term Asset-Backed Securities
+during the period since the Committee’s December 15- Loan Facility (TALF) to improve liquidity and reduce
+16 meeting. disruptions in the markets for securities backed by stu-
+dent loans, credit card receivables, auto loans, and small
+Meeting participants discussed the potential benefits of
+business loans guaranteed by the Small Business Ad-
+conducting open market purchases of a substantial
+ministration; they also noted that it might become nec-
+quantity of longer-term Treasury securities for the Sys-
+essary to enhance or expand the TALF or other pro-
+tem Open Market Account. Participants generally
+grams. However, in the view of one participant, finan-
+agreed that purchasing such securities could be a useful
+cial markets—including those for asset-backed securi-
+adjunct to other monetary policy tools in some circum-
+ties—were working reasonably well, given the current
+stances. One participant preferred to begin purchasing
+high level of pessimism and uncertainty about eco-
+Treasury securities immediately, as a way to increase
+nomic prospects and asset values, and the System’s
+the monetary base, in lieu of expanding programs that
+lending and asset-purchase programs were resulting in
+aim to support particular segments of the credit mar-
+undesirable distortions in the allocation of credit. Oth-
+kets. Other participants were prepared to purchase
+ers noted that such programs could have undesirable
+longer-term Treasury securities if evolving circum-
+consequences if expanded too far or continued too
+stances were to indicate that such transactions would
+long. Many participants agreed that it would be desir-
+be particularly effective in improving conditions in pri-
+able for the System to develop additional measures of
+vate credit markets. However, they judged that pur-
+the effects of its programs, and they encouraged addi-
+chases of longer-term Treasury securities would only
+tional research on analytical frameworks that could in-
+modestly improve conditions in private credit markets
+form Federal Reserve policy actions with respect to the
+at present, and that completing already-announced
+size and composition of its balance sheet.
+plans to purchase large quantities of agency debt and
+mortgage-backed securities and to support certain as- Several meeting participants noted that the expansion
+set-backed securities markets was, in current circum- of the Federal Reserve’s balance sheet along with con-
+stances, likely to be a more effective way to employ the tinued growth of the money supply could help stabilize
+longer-run inflation expectations in the face of increas-
+
+--- Page 8 ---
+
+Page 8 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+ing economic slack and very low inflation in coming Credit Facility (PDCF), the Asset-Backed Commercial
+quarters. Over a longer horizon, however, the Federal Paper Money Market Mutual Fund Liquidity Facility
+Reserve will need to scale back its liquidity programs (AMLF), the CPFF, and the Money Market Investor
+and the size of its balance sheet as the economy recov- Funding Facility (MMIFF) to October 30, 2009.
+ers, to avoid the risk of an unwanted increase in ex-
+Staff Review of the Economic and Financial Situa-
+pected inflation and a buildup of inflation pressures.
+tion
+Participants observed that many of the Federal Re-
+The information reviewed at the meeting indicated a
+serve’s liquidity programs are priced so that they will
+continued sharp contraction in real economic activity.
+become unattractive to borrowers as conditions in fi-
+Sales and starts of new homes remained on a steep
+nancial markets improve; these programs will shrink
+downward trend, consumer spending continued its sig-
+automatically. In other cases, the Federal Reserve
+nificant decline, the deterioration in business equip-
+eventually may have to take a more active role in scal-
+ment investment intensified, and foreign demand
+ing back programs by adjusting their terms and condi-
+weakened. Conditions in the labor market continued
+tions. More generally, the Federal Reserve may need to
+to deteriorate rapidly in December: Private payroll
+develop additional tools to manage the size of its bal-
+employment fell sharply, and the unemployment rate
+ance sheet and the level of the federal funds rate as the
+rose. Industrial production dropped more severely
+economy recovers. As of late January, however, with
+than in earlier months. Headline consumer prices fell
+financial conditions strained and the economic outlook
+in November and December, reflecting declines in
+weak, most participants agreed that the Committee
+consumer energy prices; core consumer prices were
+should continue to focus on supporting the functioning
+about flat in those months. While conditions in some
+of financial markets and stimulating the economy
+financial markets showed limited improvement, ex-
+through purchases of agency debt and mortgage-
+traordinary financial stresses remained apparent and
+backed securities and other measures—including the
+credit conditions became still tighter for households
+implementation of the TALF—that will keep the size
+and businesses.
+of the Federal Reserve’s balance sheet at a high level
+for some time. Employment continued to contract. Private nonfarm
+payrolls fell sharply in December, with substantial
+Participants also discussed the advisability of extending
+losses over a wide range of industries. Indicators of job
+the termination dates of a number of temporary liquid-
+vacancies and hiring declined further, and layoffs con-
+ity facilities and reciprocal currency arrangements from
+tinued to mount. The unemployment rate increased to
+April 30 to October 30, 2009. Participants generally
+7.2 percent in December, the share of individuals work-
+were of the view that, despite modest improvements in
+ing part time for economic reasons surged, and the la-
+some sectors, conditions in credit markets overall re-
+bor force participation rate edged down for a second
+mained severely disrupted. Most expressed support for
+consecutive month.
+extending the termination dates in order to reassure
+market participants that the facilities would remain in In December, industrial production posted a sharp de-
+place as a backstop to private-sector credit arrange- cline after falling substantially in November; the con-
+ments while financial conditions remained strained; traction was broad-based. The decrease in production
+they were prepared to extend the facilities beyond year- of consumer goods reflected cutbacks in motor vehicle
+end if conditions warrant. Participants also noted that assemblies as well as in the output of consumer durable
+extending the termination date of these liquidity facili- goods such as appliances, furniture, and carpeting.
+ties to October 30 would not rule out the possibility of Output in high-tech sectors contracted in the fourth
+closing particular facilities sooner if improvements in quarter, reflecting reduced production of semiconduc-
+financial conditions were to indicate they were no tors, communications equipment, and computers. The
+longer needed to support credit markets and economic production of aircraft and parts recorded an increase in
+activity and to help preserve price stability. December after being held down in the autumn by a
+strike and by problems with some outsourced compo-
+Following the discussion, the Committee voted unani-
+nents. Available forward-looking indicators pointed to
+mously to extend the termination dates of existing re-
+a further contraction in manufacturing output in com-
+ciprocal currency arrangements and the Term Securities
+ing months.
+Lending Facility (TSLF) to October 30, 2009. The
+Board of Governors then voted unanimously to extend Real consumer spending appeared to decline sharply
+the termination dates of the TSLF, the Primary Dealer again in the fourth quarter, likely reflecting the com-
+
+--- Page 9 ---
+
+M i n u t e s o f t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 9
+bined effects of decreases in house and equity prices, a or declined. Vacancy rates for office, retail, and indus-
+weakening labor market, and tight credit conditions. trial properties continued to move up in the fourth
+Real spending on goods excluding motor vehicles was quarter, and the results of the January Senior Loan Of-
+estimated to have fallen noticeably in December, more ficer Opinion Survey indicated that financing for new
+than reversing an increase in November. Outlays on projects had become even more difficult to acquire.
+motor vehicles edged down in November and Decem-
+Real nonfarm inventories (excluding motor vehicles)
+ber following a sharper decline in October. Early indi-
+appeared to have fallen in the last few months of 2008.
+cators of spending in January pointed to continued soft
+However, with sales declining even more sharply, the
+demand. Readings on consumer sentiment remained at
+ratio of book-value inventories to sales increased in
+very low levels by historical standards through the end
+October and November.
+of 2008 and showed little improvement in early Janu-
+ary. The U.S. international trade deficit narrowed sharply in
+November, as a steep decline in imports outweighed a
+Real residential construction contracted in November
+sizable drop in exports. Much of the fall in exports was
+and December. Single-family housing starts dropped at
+attributable to a decline in exports of fuels, chemicals,
+a much faster rate in those months than they had in the
+and other industrial supplies, which in part reflected
+first 10 months of the year. Multifamily starts also fell
+lower prices for these goods. All other major catego-
+in those months, as did permit issuance for both cate-
+ries of exports moved down as well. More than half of
+gories. Housing demand remained very weak and, al-
+the decline in imports was due to a decrease in imports
+though the stock of unsold new single-family homes
+of oil that mostly reflected a dramatic decrease in prices
+continued to move down in November, inventories of
+but also some reduction in volume. All other major
+unsold homes remained elevated relative to the pace of
+categories of imports also recorded sizable decreases.
+sales. Sales of existing single-family homes dropped
+less than sales of new homes in November and turned Economic activity in the advanced foreign economies
+up in December, but the relative strength in sales of appeared to contract sharply in the fourth quarter, as
+existing homes appeared to be at least partly attribut- the pace of job losses rose and measures of consumer
+able to increases in foreclosure-related and other dis- spending on durable goods and business spending on
+tressed sales. Although the interest rate on conforming investment goods showed declines. In Japan and
+30-year fixed-rate mortgages declined markedly over Europe, trade and industrial production dropped
+the intermeeting period, the Senior Loan Officer Opin- steeply, and measures of consumer and business senti-
+ion Survey on Bank Lending Practices that was con- ment declined. In Canada, employment fell markedly
+ducted in January indicated that banks had tightened in November and December after edging up in Octo-
+lending standards on prime mortgage loans over the ber. Incoming data suggested that economic activity in
+preceding three months. The market for nonconform- the emerging market economies slowed significantly in
+ing loans remained severely impaired. Several indexes the fourth quarter, with real gross domestic product
+indicated that house prices continued to decline rapidly. (GDP) plunging in several Asian economies and ap-
+pearing little changed in China. Industrial production,
+In the business sector, investment in equipment and
+trade, and measures of consumer sentiment registered
+software appeared to contract noticeably in the fourth
+declines across many other countries in both emerging
+quarter, with decreases registered in all major spending
+Asia and Latin America.
+categories. In December, business purchases of autos
+and trucks moved down. Spending on high-tech capi- In the United States, overall personal consumption ex-
+tal goods appeared to decline in the fourth quarter. penditure (PCE) prices were estimated to have fallen in
+Orders and shipments for many types of equipment December, largely reflecting significant reductions in
+declined in October and November, and imports of energy prices. Increases in consumer food prices began
+capital goods dropped back in those months. Forward- to moderate toward the end of 2008. Excluding food
+looking indicators of investment in equipment and and energy prices, PCE prices appeared to have decel-
+software pointed to likely further declines. Construc- erated over the final three months of the year. The
+tion spending related to petroleum refining and power moderation in core PCE prices was widespread across
+generation and distribution continued to increase categories of goods and services. After rising rapidly
+briskly in the second half of 2008, responding to the during the first nine months of the year, producer pric-
+surge in energy prices in the first half of that year, but es excluding food and energy fell sharply in the last
+real investment for many types of buildings stagnated three months of 2008. Measures of longer-term infla-
+
+--- Page 10 ---
+
+Page 10 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+tion expectations edged up in early January, but re- der the Federal Reserve’s Term Auction Facility were
+mained lower than they had been in all but the last few undersubscribed, although one auction following the
+weeks of 2008. In December, average hourly earnings year-end did see a relatively large number of bidders.
+moved up moderately. The TSLF auctions were also undersubscribed. Use of
+the PDCF continued to fall significantly over the pe-
+The decisions of the Federal Open Market Committee
+riod.
+(FOMC) at its December 15-16 meeting reportedly
+were more aggressive than investors had been expect- Conditions in markets for repurchase agreements, or
+ing. Market participants reportedly were somewhat repos, also showed some signs of improvement. With
+surprised both by the size of the reduction in the target the overnight Treasury general collateral repo rate near
+federal funds rate, to a range of 0 to ¼ percent, and by zero for much of the period, market participants re-
+the statements that policy rates would likely remain low portedly were reluctant to lend Treasury collateral out
+for some time and that the FOMC might engage in of concern that counterparties might fail to return bor-
+additional nontraditional policy actions such as the pur- rowed securities. However, the pace of delivery fails
+chase of longer-term Treasury securities. Over the in- continued to run well below the high rates of Septem-
+termeeting period, investors marked down their expec- ber and October, reflecting in part reductions in trans-
+tations for the path of the federal funds rate, as meas- action volumes as well as industry efforts to mitigate
+ured by money market futures rates. The path first fails, including the January 5 recommendation of the
+moved down immediately after the December FOMC Treasury Market Practices Group to implement a fi-
+meeting. Later in the period, the policy path tilted low- nancial charge on settlement fails. Conditions in the
+er in response to weaker-than-expected economic data market for repo transactions backed by agency debt
+releases and increased concerns about the health of and mortgage-backed securities also improved some-
+some financial institutions. In contrast, yields on me- what, with average bid-asked spreads declining from
+dium- and longer-term nominal Treasury coupon secu- high levels.
+rities increased, on net, over the period. Yields
+The market for Treasury coupon securities showed
+dropped sharply following the release of the FOMC
+signs of increased impairment late in 2008, followed by
+statement, reportedly in part because investors inter-
+some improvement early in 2009. Trading volumes fell
+preted it as suggesting that the Federal Reserve might
+to very low levels at the end of 2008, although they
+increase its holdings of longer-term Treasury securities.
+recovered a bit after the end of the year. Bid-asked
+Those price movements were more than reversed after
+spreads in the on-the-run market declined sharply at
+the turn of the year, despite the worsening economic
+the beginning of 2009 after having increased at the end
+outlook, apparently reflecting a waning of year-end
+of 2008. The on-the-run premium for the 10-year no-
+safe-haven demands and an anticipation of substantially
+minal Treasury note was little changed at very elevated
+increased Treasury debt issuance to finance larger-than-
+levels over the intermeeting period. On balance, the
+expected deficits associated with the new Administra-
+Treasury market remained much less liquid than nor-
+tion’s economic stimulus plans. Although implied in-
+mal.
+flation compensation derived from Treasury Inflation-
+Protected Securities (TIPS) increased over the period, Treasury- and government-only money market mutual
+this increase reportedly was largely attributable to im- funds (MMMFs) faced pressures stemming from very
+proved trading conditions in the TIPS market rather low short-term interest rates, and many such funds re-
+than upward revisions to inflation expectations. portedly had waived management fees in an effort to
+retain investors. By contrast, prime MMMFs had net
+Conditions in short-term funding markets showed
+inflows over the intermeeting period. The MMIFF
+some signs of easing, although significant stresses re-
+continued to register no activity despite changes that
+mained. The spreads of London interbank offered
+eased some of the terms of the program. Market par-
+rates, or Libor, over comparable-maturity overnight
+ticipants nonetheless pointed to the MMIFF as a po-
+index swap rates declined across most maturities over
+tentially important backup facility.
+the period: The one-month spread fell to its lowest
+level since August 2007; the three-month spread also Conditions in the commercial paper (CP) market im-
+declined but remained elevated. Though depository proved over the intermeeting period, likely reflecting
+institutions continued to make substantial use of the recent measures taken in support of this market, greater
+discount window, the amount of primary credit out- demand from institutional investors, and the passing of
+standing declined. Recent auctions of term funds un- year-end. Yields and spreads on 30-day A1/P1 nonfi-
+
+--- Page 11 ---
+
+M i n u t e s o f t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 11
+nancial and financial CP as well as on asset-backed nancial market stability, the Treasury, the FDIC, and
+commercial paper (ABCP) declined modestly and re- the Federal Reserve announced on January 16 that they
+mained low. Yields and spreads on 30-day A2/P2 CP, had entered into an agreement with Bank of America
+which is not eligible for purchase under the CPFF, to provide a package of guarantees, liquidity access, and
+dropped sharply after the beginning of the year as some capital. Developments at nonbank financial institutions
+institutional investors reportedly reentered the market. were mixed. Equity prices of insurance companies
+The dollar amounts of outstanding unsecured financial edged down over the period, while their CDS spreads
+and nonfinancial CP and ABCP rose slightly, on net, declined from extremely high levels. Hedge funds
+over the intermeeting period. This small change was posted negative average returns in December.
+more than accounted for by the increase in CP held by
+Debt of the domestic nonfinancial sectors expanded at
+the CPFF. In contrast, credit extended under the
+a somewhat faster pace in the fourth quarter of 2008
+AMLF declined over the intermeeting period.
+than in the first three quarters of the year. Borrowing
+Liquidity in the corporate bond market improved over by the federal government continued to surge, boosted
+the intermeeting period, with increases in trading vol- by programs aimed at reducing financial market strains.
+ume for both investment- and speculative-grade bonds Borrowing by state and local governments picked up as
+and declines in bid-asked spreads for speculative-grade the conditions in municipal bond market improved
+bonds. Yields and spreads on corporate bonds de- somewhat. Household debt appeared to have con-
+creased noticeably, particularly for speculative-grade tracted in the fourth quarter, with both mortgage and
+firms, but spreads remained high by historical stan- consumer credit sharply curtailed due to weak house-
+dards. Gross issuance of bonds by nonfinancial in- hold spending and tight credit conditions. Business
+vestment-grade companies remained solid, but issuance debt expanded only modestly, given the high cost of
+of speculative-grade bonds was limited. Conditions in borrowing, tighter lending terms, and the deterioration
+the leveraged loan market remained very poor and issu- in the macroeconomic environment.
+ance of leveraged syndicated loans was also very weak.
+Commercial bank credit fell for the second consecutive
+Secondary market prices for leveraged loans stayed near
+month in December. Commercial and industrial loans
+record lows and the average bid-asked spread in that
+declined in November and December, likely reflecting
+market continued to be very wide. The market for
+a combination of tighter credit supply and reduced loan
+commercial mortgage-backed securities (CMBS) con-
+demand as well as some unwinding of the surge during
+tinued to show signs of strain, with the CMBX index—
+September and October. The Senior Loan Officer
+an index based on credit default swap (CDS) spreads
+Opinion Survey conducted in January indicated that
+on AAA-rated CMBS—widening during the intermeet-
+banks had continued to tighten credit standards and
+ing period from already very elevated levels.
+terms on all major loan categories over the past three
+Broad equity market indexes fell over the intermeeting months. Survey respondents also indicated that they
+period. After improving during the early part of the had reduced the size of credit lines for a wide range of
+intermeeting period, market sentiment toward financial existing business and household customers.
+firms appeared to worsen later in the period. Those
+M2 expanded at a considerably more rapid pace in De-
+firms substantially underperformed the broader market
+cember than in previous months. Flows into both de-
+as a number of large and regional banks reported siz-
+mand deposits and savings deposits surged, possibly
+able losses stemming from weak trading results, asset
+reflecting a reallocation of wealth towards assets that
+write-downs, and additional increases in loan-loss pro-
+had government insurance or guarantees. Small time
+visions in anticipation of a further deterioration in
+deposits also increased strongly, as banks continued to
+credit quality. CDS spreads for U.S. bank holding
+bid aggressively for these deposits. Currency continued
+companies rose sharply in mid-January to near their
+to grow briskly, apparently boosted by solid foreign
+historical highs, and equity prices for such companies
+demand for U.S. banknotes. In December, retail
+fell on net, ending the period below their November
+MMMF balances increased modestly after a decline in
+lows. A number of banking organizations issued debt
+November.
+through the FDIC’s Temporary Liquidity Guarantee
+Program; spreads on such debt declined to levels close Conditions in foreign financial markets were relatively
+to those on agency debt. The Treasury’s Troubled As- calm over the intermeeting period, although concerns
+set Relief Program provided additional support to sev- about bank earnings and the stability of the global
+eral banking institutions. In particular, to support fi- banking system led to widespread declines in equity
+
+--- Page 12 ---
+
+Page 12 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+prices later in the period. Governments in major for- ticipants agreed to collect and publish, on a quarterly
+eign economies initiated several actions aimed at basis, projections of the longer-run values to which
+strengthening the banking sector and easing credit they expect these three variables to converge. Partici-
+market strains. Sovereign bond yields in the advanced pants’ projections through 2011, and for the longer-
+foreign economies fell early in the period, likely reflect- run, are described in the Summary of Economic Pro-
+ing declining inflation and expectations of lower policy jections that is attached as an addendum to these min-
+rates, but moved up subsequently, perhaps in response utes.
+to concerns about fiscal deficits. The dollar increased
+In their discussion of the economic and financial situa-
+on balance against the currencies of major U.S. trading
+tion and the outlook for the economy, participants
+partners.
+agreed that the economy had weakened further going
+Staff Economic Outlook into 2009. The incoming data, as well as information
+In the forecast prepared for the meeting, the staff re- received from contacts in the business and banking
+vised down its outlook for economic activity in the first communities, indicated a sharp and widespread eco-
+half of 2009, as the implications of weaker-than- nomic contraction both domestically and abroad, re-
+anticipated economic data releases more than offset an flecting in large part the adverse effects of the intensifi-
+upward revision to the staff’s assumption of the cation of the financial crisis and the interaction be-
+amount of forthcoming fiscal stimulus. Conditions in tween deteriorating economic and financial conditions.
+the labor market deteriorated sharply over the inter- Participants generally saw credit conditions as ex-
+meeting period. Industrial production declined steeply, tremely tight, with financial markets fragile and some
+and household and business spending fell more than parts of the banking sector under substantial stress.
+anticipated. Sales and starts of new homes remained However, modest signs of improvement were evident
+on a steep downtrend. Foreign demand also was in some financial markets—particularly those that were
+weaker than expected. Financial markets continued to receiving support from Federal Reserve liquidity facili-
+be strained overall, credit remained unusually tight for ties and other government actions. Participants antici-
+both households and businesses, and equity prices had pated that a gradual recovery in U.S. economic activity
+fallen further. The staff’s projections of real GDP would begin during the third or fourth quarter of this
+growth in the second half of 2009 and in 2010 were year as the economy begins to respond to fiscal stimu-
+revised upward slightly, reflecting greater monetary and lus, relatively low energy prices, and continuing efforts
+fiscal stimulus as well as the effects of more moderate to stabilize the financial sector and increase the avail-
+oil prices and long-term interest rates, but they contin- ability of credit. Several participants noted that firms’
+ued to show no more than a gradual economic recov- efforts to control inventories as sales declined had con-
+ery. The staff again expected that unemployment tributed to the rapid downturn in production and em-
+would rise substantially through the beginning of 2010 ployment in recent quarters, but expected that the re-
+before edging down over the remainder of that year. sulting absence of widespread inventory overhangs
+Forecasts for core and overall PCE inflation in 2009 might spur a prompt pickup in production in many
+and 2010 were little changed, with growth in both core sectors later this year once sales begin to level out or
+and overall PCE prices expected to be unusually low turn up. Headline inflation would pick up some as the
+over the next few years in response to slack in resource effects of previous declines in oil and other commodity
+utilization and relatively flat prices anticipated for many prices wore off. But in an environment of considerable
+commodities and for imports. economic slack, little if any inflation pressure from en-
+ergy or other import prices, and possible declines in
+Meeting Participants’ Views and Committee Pol-
+inflation expectations, headline and core inflation were
+icy Action
+expected to be quite low for several years. Participants
+In conjunction with this FOMC meeting, all meeting
+were, however, quite uncertain about the outlook. All
+participants—the four members of the Board of Gov-
+but a few saw the risks to growth as tilted to the down-
+ernors and the presidents of the twelve Federal Reserve
+side; in light of financial stresses and tight credit condi-
+Banks—provided projections for economic growth, the
+tions, they saw a significant risk that the economic re-
+unemployment rate, and consumer price inflation for
+covery would be both delayed and initially quite weak.
+each year from 2009 through 2011. To provide the
+In particular, most participants saw the renewed dete-
+public with information about their views of likely
+rioration in the banking sector’s financial condition as
+longer-term economic trends, and as additional context
+posing a significant downside risk to the economic out-
+for the Committee’s monetary policy discussions, par-
+
+--- Page 13 ---
+
+M i n u t e s o f t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 13
+look absent additional initiatives to stabilize the bank- contraction to continue in coming quarters. Equip-
+ing system. ment investment had declined particularly sharply, re-
+flecting weak sales, tighter credit, and substantial uncer-
+Participants noted that consumers were continuing to
+tainty about future economic conditions and govern-
+cut back expenditures in response to sharply declining
+ment policies. Lower energy and commodity prices,
+employment, further declines in wealth, and tighter
+while supporting consumer spending, had reduced in-
+credit conditions. Some participants mentioned that
+vestment in oil, gas, and mineral extraction. Outside of
+business contacts had indicated that firms were reduc-
+the agricultural sector, business contacts had reported
+ing payrolls aggressively and also freezing wages and
+sizable cutbacks in their planned capital expenditures
+salaries, further restricting growth in personal income
+for 2009.
+and thus probably damping consumer spending. Look-
+ing ahead, participants anticipated that tax cuts and State and local government budgets had come under
+some other elements of the proposed fiscal stimulus significant pressure as the slowing economy led to de-
+package would add to after-tax incomes and thus boost clining revenues. Several participants noted that gov-
+consumer spending, though the magnitude of the im- ernments in their regions were responding by cutting
+petus was far from clear. For example, unless the cuts spending rather than supplementing revenues. The
+were clearly perceived to be permanent, the boost to fiscal stimulus bill, which was being considered by the
+consumer spending might prove short-lived, as was the Congress as the Committee met, would support state
+case with the tax rebates distributed in the spring of and local government spending as well as boost federal
+2008. spending, helping to buoy demands for goods and ser-
+vices. Participants generally thought that fiscal stimulus
+Participants saw no indication that the housing sector
+was a necessary and important complement to the steps
+was beginning to stabilize. Though sales of existing
+the Federal Reserve and other agencies were taking,
+homes appeared to have flattened out, a large fraction
+and that it would help foster economic recovery, but
+of those transactions seemed to have resulted from
+had questions about the details of the proposed legisla-
+foreclosures or other forced sales; moreover, new
+tion and the extent to which it would boost demands
+home sales, housing starts, and permits all continued to
+for and production of goods and services.
+decline steeply. Lower house prices and mortgage rates
+had increased housing affordability, but concerns that Participants indicated they had been surprised by the
+house prices may fall further appeared to be holding speed and magnitude of the slowdown in economic
+back potential buyers. growth abroad and the resulting drop in demand for
+U.S. exports. It was noted that the surprisingly sharp
+The pace of commercial construction also had slowed.
+decline in both U.S. exports and imports might also
+A number of participants expressed concern that the
+reflect tight credit conditions, including the reduced
+commercial real estate sector could deteriorate sharply
+availability of trade credit. Moreover, participants did
+in the months ahead. They noted that a large number
+not expect foreign economies to rebound quickly, sug-
+of commercial real estate mortgages will come due at a
+gesting that net exports would not provide much sup-
+time when banks likely will still be facing balance-sheet
+port for U.S. economic activity in coming quarters.
+constraints, the ability to securitize commercial real
+estate mortgages may remain severely restricted, and Participants agreed that inflation pressures had dimin-
+vacancy rates in commercial properties could well be ished appreciably in recent quarters, and they expected
+climbing. Some participants worried that the outcome significantly lower headline and core inflation during
+could be an increase in defaults on commercial real the next few years than during recent years. Indeed,
+estate mortgages and forced sales of commercial prop- most anticipated that inflation will slow for a time to
+erties, which could push prices down further and gen- rates somewhat lower than those they judge consistent
+erate additional losses on banks’ commercial real estate with the dual goals of price stability and maximum em-
+loan portfolios. However, the commercial real estate ployment, initially reflecting the recent declines in the
+sector had expanded more moderately during the re- prices of energy and other commodities and later re-
+cent expansion than during the expansion of the late sponding to several years of substantial economic slack.
+1980s, suggesting that the downturn in the current cy- Many participants noted some risk of a protracted pe-
+cle could be milder than that seen in the early 1990s. riod of excessively low inflation, especially if inflation
+expectations were to move down in response to lower
+Participants also noted that other categories of business
+actual inflation and increasing economic slack, and a
+investment were contracting; they expected the rapid
+
+--- Page 14 ---
+
+Page 14 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+few even saw some risk of deflation. Several others, expressed a willingness to expand the size and duration
+however, anticipated that longer-run inflation expecta- of those purchases in the near future; others stood
+tions would remain well anchored, supported in part by ready to expand the program if conditions warrant but
+the Federal Reserve’s aggressive expansion of its bal- noted that the program had only recently been imple-
+ance sheet and the resulting growth of the monetary mented and preferred to wait for more information
+base, and therefore thought it unlikely that inflation about economic and financial developments and the
+would decline below levels they saw as consistent with program’s effects before considering an expansion.
+the dual goals of price stability and maximum employ-
+At the conclusion of the discussion, with Mr. Lacker
+ment. Moreover, some noted a risk that expected infla-
+dissenting, the Committee voted to authorize and direct
+tion might actually increase to an undesirably high level
+the Federal Reserve Bank of New York, until it was
+if the public does not understand that the Federal Re-
+instructed otherwise, to execute transactions in the Sys-
+serve’s liquidity facilities will be wound down and its
+tem Account in accordance with the following domes-
+balance sheet will shrink as economic and financial
+tic policy directive:
+conditions improve.
+“The Federal Open Market Committee seeks
+Several participants indicated that they thought the
+monetary and financial conditions that will fos-
+FOMC should explore establishing quantitative guide-
+ter price stability and promote sustainable
+lines or targets for a monetary aggregate, perhaps the
+growth in output. To further its long-run ob-
+growth rate of the monetary base or M2; in their view
+jectives, the Committee seeks conditions in re-
+such guidelines would provide useful information to
+serve markets consistent with federal funds
+the public and help anchor inflation expectations. Oth-
+trading in a range from 0 to ¼ percent. The
+ers were skeptical that a single quantitative measure
+Committee directs the Desk to purchase GSE
+could adequately convey the Federal Reserve’s current
+debt and agency-guaranteed MBS during the in-
+approach to monetary policy because the stimulative
+termeeting period with the aim of providing
+effect of the Federal Reserve’s liquidity-providing and
+support to the mortgage and housing markets.
+asset-purchase programs depends not only on the scale
+The timing and pace of these purchases should
+but also on the mix of lending programs and securities
+depend on conditions in the markets for such
+purchases. In addition, a few participants noted that
+securities and on a broader assessment of con-
+the sizes of some Federal Reserve liquidity programs
+ditions in primary mortgage markets and the
+are determined by banks’ and market participants’ need
+housing sector. By the end of the second quar-
+to use those programs and thus will tend to increase
+ter of this year, the Desk is expected to pur-
+when financial conditions worsen and shrink when fi-
+chase up to $100 billion in housing-related GSE
+nancial conditions improve; the size and composition
+debt and up to $500 billion in agency-
+of the Federal Reserve’s balance sheet needs to be able
+guaranteed MBS. The System Open Market
+to adjust in response.
+Account Manager and the Secretary will keep
+In their discussion of monetary policy for the inter- the Committee informed of ongoing develop-
+meeting period, Committee members agreed that keep- ments regarding the System’s balance sheet that
+ing the target range for the federal funds rate at 0 to ¼ could affect the attainment over time of the
+percent would be appropriate. They also agreed to Committee’s objectives of maximum employ-
+continue using liquidity and asset-purchase programs to ment and price stability.”
+support the functioning of financial markets and stimu-
+The vote encompassed approval of the following
+late the economy. Members further agreed that these
+statement to be released at 2:15 p.m.:
+programs were likely to maintain the size of the Federal
+Reserve’s balance sheet at a high level. Members noted
+“The Federal Open Market Committee decided
+that it may be necessary to expand these programs, but
+today to keep its target range for the federal
+had somewhat different views about the best way of
+funds rate at 0 to ¼ percent. The Committee
+doing so. One member expressed the view that it
+continues to anticipate that economic condi-
+would be best to expand holdings of U.S. Treasury se-
+tions are likely to warrant exceptionally low lev-
+curities rather than to expand targeted liquidity pro-
+els of the federal funds rate for some time.
+grams. All other members indicated that they thought
+it appropriate to continue the program of purchasing
+agency debt and mortgage-backed securities. Several
+
+--- Page 15 ---
+
+M i n u t e s o f t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 15
+Information received since the Committee met ance sheet in light of evolving financial market
+in December suggests that the economy has developments and to assess whether expansions
+weakened further. Industrial production, hous- of or modifications to lending facilities would
+ing starts, and employment have continued to serve to further support credit markets and eco-
+decline steeply, as consumers and businesses nomic activity and help to preserve price stabil-
+have cut back spending. Furthermore, global ity.”
+demand appears to be slowing significantly.
+Voting for this action: Messrs. Bernanke and Dudley,
+Conditions in some financial markets have im-
+Ms. Duke, Messrs. Evans, Kohn, Lockhart, and Warsh,
+proved, in part reflecting government efforts to
+and Ms. Yellen.
+provide liquidity and strengthen financial institu-
+tions; nevertheless, credit conditions for house- Voting against this action: Mr. Lacker.
+holds and firms remain extremely tight. The
+Mr. Lacker dissented because he preferred to expand
+Committee anticipates that a gradual recovery in
+the monetary base by purchasing U.S. Treasury securi-
+economic activity will begin later this year, but
+ties rather than through targeted credit programs. Mr.
+the downside risks to that outlook are signifi-
+Lacker was fully supportive of the significant expansion
+cant.
+of the Federal Reserve’s balance sheet and the intention
+to maintain the size of the balance sheet at a high level.
+In light of the declines in the prices of energy
+However, while he recognized that spreads were ele-
+and other commodities in recent months and
+vated and volumes low in many credit markets, he saw
+the prospects for considerable economic slack,
+no evidence of market failures that made targeted credit
+the Committee expects that inflation pressures
+programs, including the forthcoming TALF, necessary.
+will remain subdued in coming quarters. More-
+Moreover, he was concerned that such programs chan-
+over, the Committee sees some risk that infla-
+nel credit away from other worthy borrowers, amount
+tion could persist for a time below rates that
+to fiscal policy, would exacerbate moral hazard, and
+best foster economic growth and price stability
+might be hard to unwind. He supported, instead, main-
+in the longer term.
+taining the size of the balance sheet at a high level
+through purchases of U.S. Treasury securities. In his
+The Federal Reserve will employ all available
+view, such purchases would limit distortions to private
+tools to promote the resumption of sustainable
+credit flows, minimize adverse incentive effects, and
+economic growth and to preserve price stability.
+maintain a clear distinction between monetary and fis-
+The focus of the Committee's policy is to sup-
+cal policies.
+port the functioning of financial markets and
+stimulate the economy through open market It was agreed that the next meeting of the Committee
+operations and other measures that are likely to would be held on Tuesday, March 17, 2009. The meet-
+keep the size of the Federal Reserve's balance ing adjourned at 1:05 p.m. on January 28, 2009.
+sheet at a high level. The Federal Reserve con-
+Notation Vote
+tinues to purchase large quantities of agency
+By notation vote completed on January 5, 2009, the
+debt and mortgage-backed securities to provide
+Committee unanimously approved the minutes of the
+support to the mortgage and housing markets,
+FOMC meeting held on December 15-16, 2008.
+and it stands ready to expand the quantity of
+such purchases and the duration of the purchase Conference Call
+program as conditions warrant. The Committee On January 16, 2009, the Committee met by confer-
+also is prepared to purchase longer-term Treas- ence call to discuss issues associated with establishing
+ury securities if evolving circumstances indicate an explicit numerical objective for inflation. The
+that such transactions would be particularly ef- Committee made no decisions on whether to establish
+fective in improving conditions in private credit such an objective. Most meeting participants expressed
+markets. The Federal Reserve will be imple- the view that an explicit numerical objective for longer-
+menting the Term Asset-Backed Securities Loan run inflation would be fully consistent with the Federal
+Facility to facilitate the extension of credit to Reserve’s dual mandate of promoting maximum em-
+households and small businesses. The Commit- ployment and price stability and would not impede fos-
+tee will continue to monitor carefully the size tering the stability of the financial system. A number
+and composition of the Federal Reserve's bal- of participants emphasized that additional clarity on the
+
+--- Page 16 ---
+
+Page 16 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+longer-run inflation goal would further enhance Federal pants also discussed several technical issues related to
+Reserve communications but would not involve any the implementation and communication of an explicit
+substantive change in monetary policy strategy. Many numerical inflation objective. They expressed a range
+participants agreed that establishing and maintaining a of views about whether such an objective should be
+transparent numerical inflation objective would be expressed in terms of the consumer price index or the
+helpful—at least to some degree—in anchoring infla- PCE price deflator, the merits of a point value versus a
+tion expectations and thereby improve the overall ef- range, the length of time over which policy would aim
+fectiveness of monetary policy; others judged that the to achieve any such objective, and the frequency with
+potential benefits of an explicit numerical inflation ob- which the Committee would reevaluate this framework.
+jective might be largely attained by extending the hori- At this meeting, the staff also briefed the Committee
+zon of their regular projections for economic activity on the coordinated set of measures for supporting
+and inflation. Some indicated that the establishment of Bank of America that had been taken by the Treasury,
+a numerical inflation objective could be particularly the FDIC, and the Federal Reserve earlier that day.
+helpful under present circumstances in forestalling an
+unwelcome decline in longer-run inflation expecta-
+tions—and hence in contributing to economic recov-
+ery—while also assuring the public that actions taken
+to counter economic weakness will not lead to high
+_____________________________
+inflation over the longer-run. However, several par-
+Brian F. Madigan
+ticipants expressed concern that an initiative to clarify
+Secretary
+the Committee’s longer-run inflation objective could be
+confusing to the public in the current context of eco-
+nomic weakness and financial market strains. Partici-
+
+--- Page 17 ---
+
+Page 1
+Summary of Economic Projections
+In conjunction with the January 27-28, 2009 FOMC would be unusually gradual and prolonged: All partici-
+meeting, the members of the Board of Governors and pants anticipated that unemployment would remain
+the presidents of the Federal Reserve Banks, all of substantially above its longer-run sustainable rate at the
+whom participate in deliberations of the FOMC, pro- end of 2011, even absent further economic shocks; a
+vided projections for economic growth, unemploy- few indicated that more than five to six years would be
+ment, and inflation in 2009, 2010, 2011, and over the needed for the economy to converge to a longer-run
+longer run. Projections were based on information path characterized by sustainable rates of output
+available through the conclusion of the meeting, on growth and unemployment and by an appropriate rate
+each participant’s assumptions regarding a range of of inflation. Participants generally judged that their
+factors likely to affect economic outcomes, and on his projections for both economic activity and inflation
+or her assessment of appropriate monetary policy. were subject to a degree of uncertainty exceeding his-
+“Appropriate monetary policy” is defined as the future torical norms. Nearly all participants viewed the risks
+policy that, based on current information, is deemed to the growth outlook as skewed to the downside, and
+most likely to foster outcomes for economic activity all participants saw the risks to the inflation outlook as
+and inflation that best satisfy the participant’s interpre- either balanced or tilted to the downside.
+tation of the Federal Reserve’s dual objectives of
+The Outlook
+maximum employment and price stability. Longer-run
+Participants’ projections for the change in real GDP in
+projections represent each participant’s assessment of
+2009 had a central tendency of -1.3 to -0.5 percent,
+the rate to which each variable would be expected to
+compared with the central tendency of -0.2 to 1.1 per-
+converge over time under appropriate monetary policy
+cent for their projections last October. In explaining
+and in the absence of further shocks.
+these downward revisions, participants referred to the
+FOMC participants viewed the outlook for economic further intensification of the financial crisis and its ef-
+activity and inflation as having weakened significantly fect on credit and wealth, the waning of consumer and
+since last October, when their last projections were business confidence, the marked deceleration in global
+made. As indicated in Table 1 and depicted in Figure 1, economic activity, and the weakness of incoming data
+participants projected that real GDP would contract on spending and employment. Participants anticipated
+this year, that the unemployment rate would increase a broad-based decline in aggregate output during the
+substantially, and that consumer price inflation would first half of this year; they noted that consumer spend-
+be significantly lower than in recent years. Given the ing would likely be damped by the deterioration in la-
+strength of the forces currently weighing on the econ- bor markets, the tightness of credit conditions, the con-
+omy, participants generally expected that the recovery tinuing decline in house prices, and the recent sharp
+Table 1. Economic projections of Federal Reserve Governors and Reserve Bank presidents, January 2009
+Percent
+Central tendency1 Range2
+Variable
+2009 2010 2011 Longer Run 2009 2010 2011 Longer Run
+Change in real GDP. . . . . . -1.3 to -0.5 2.5 to 3.3 3.8 to 5.0 2.5 to 2.7 -2.5 to 0.2 1.5 to 4.5 2.3 to 5.5 2.4 to 3.0
+October projection. . . . -0.2 to 1.1 2.3 to 3.2 2.8 to 3.6 n.a. -1.0 to 1.8 1.5 to 4.5 2.0 to 5.0 n.a.
+Unemployment rate. . . . . . 8.5 to 8.8 8.0 to 8.3 6.7 to 7.5 4.8 to 5.0 8.0 to 9.2 7.0 to 9.2 5.5 to 8.0 4.5 to 5.5
+October projection. . . . 7.1 to 7.6 6.5 to 7.3 5.5 to 6.6 n.a. 6.6 to 8.0 5.5 to 8.0 4.9 to 7.3 n.a.
+PCE inflation. . . . . . . . . . . 0.3 to 1.0 1.0 to 1.5 0.9 to 1.7 1.7 to 2.0 -0.5 to 1.5 0.7 to 1.8 0.2 to 2.1 1.5 to 2.0
+October projection. . . . 1.3 to 2.0 1.4 to 1.8 1.4 to 1.7 n.a. 1.0 to 2.2 1.1 to 1.9 0.8 to 1.8 n.a.
+Core PCE inflation3. . . . . . 0.9 to 1.1 0.8 to 1.5 0.7 to 1.5 0.6 to 1.5 0.4 to 1.7 0.0 to 1.8
+October projection. . . . 1.5 to 2.0 1.3 to 1.8 1.3 to 1.7 1.3 to 2.1 1.1 to 1.9 0.8 to 1.8
+NOTE: Projections of change in real gross domestic product (GDP) and of inflation are from the fourth quarter of the previous year to the fourth quarter of
+the year indicated. PCE inflation and core PCE inflation are the percentage rates of change in, respectively, the price index for personal consumption expendi-
+tures (PCE) and the price index for PCE excluding food and energy. Projections for the unemployment rate are for the average civilian unemployment rate in
+the fourth quarter of the year indicated. Each participant's projections are based on his or her assessment of appropriate monetary policy. Longer-run projec-
+tions represent each participant’s assessment of the rate to which each variable would be expected to converge under appropriate monetary policy and in the
+absence of further shocks to the economy. The October projections were made in conjunction with the FOMC meeting on October 28-29, 2008.
+1. The central tendency excludes the three highest and three lowest projections for each variable in each year.
+2. The range for a variable in a given year includes all participants' projections, from lowest to highest, for that variable in that year.
+3. Longer-run projections for core PCE inflation are not collected.
+
+--- Page 18 ---
+
+Page 2 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+Figure 1. Central tendencies and ranges of economic projections, 2009–11 and over the longer run
+Percent
+Change in real GDP 5
+Central tendency of projections
+4
+Range of projections
+3
+Actual 2
+1
++
+_0
+1
+2
+2004 2005 2006 2007 2008 2009 2010 2011 Longer
+Run
+Percent
+Unemployment rate
+9
+8
+7
+6
+5
+2004 2005 2006 2007 2008 2009 2010 2011 Longer
+Run
+Percent
+PCE inflation
+3
+2
+1
++
+_0
+2004 2005 2006 2007 2008 2009 2010 2011 Longer
+Run
+Percent
+Core PCE inflation
+3
+2
+1
++
+_0
+2004 2005 2006 2007 2008 2009 2010 2011
+NOTE: Definitions of variables are in the notes to table 1. The data for the actual values of the variables are annual.
+
+--- Page 19 ---
+
+S u m m a r y o f E c o n o m i c P r o j e c t io n s f o r t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 3
+reduction in stock market wealth, and they saw reduc- The central tendency of participants’ projections for
+tions in consumer demand contributing to further total PCE inflation this year was 0.3 to 1.0 percent,
+weakness in business investment. However, partici- about a percentage point lower than the central ten-
+pants expected that the economy would begin to re- dency of their projections last October. Many partici-
+cover—albeit gradually—during the second half of the pants noted that recent readings on inflation had been
+year, mainly reflecting the effects of fiscal stimulus and surprisingly low, and some anticipated that the unex-
+of Federal Reserve measures providing support to pected declines in the prices of energy and other com-
+credit markets. modities that had occurred in the latter part of 2008
+would continue to hold down inflation at the consumer
+Looking further ahead, participants’ growth projections
+level in 2009. Participants also marked down their pro-
+had a central tendency of 2.5 to 3.3 percent for 2010
+jections for core PCE inflation this year in light of their
+and 3.8 to 5.0 percent for 2011. Participants generally
+views about the indirect effects of lower energy prices
+expected that strains in financial markets would ebb
+and the influence of increased resource slack.
+only slowly and hence that the pace of recovery in 2010
+would be damped. Nonetheless, participants generally Looking beyond this year, participants’ projections for
+anticipated that real GDP growth would gain further total PCE inflation had a central tendency of 1.0 to 1.5
+momentum in 2011, reaching a pace that would tempo- percent for 2010, 0.9 to 1.7 percent for 2011, and 1.7 to
+rarily exceed their estimates of the longer-run sustain- 2.0 percent over the longer run. Participants’ longer-
+able rate of economic growth and would thereby help run projections for total PCE inflation reflected their
+reduce the slack in resource utilization. Most partici- individual assessments of the measured rates of infla-
+pants expected that, absent further shocks, economic tion consistent with the Federal Reserve’s dual mandate
+growth would eventually converge to a rate of 2.5 to for promoting price stability and maximum employ-
+2.7 percent, reflecting longer-term trends in the growth ment. Most participants judged that a longer-run PCE
+of productivity and the labor force. inflation rate of 2 percent would be consistent with the
+dual mandate; others indicated that 1½ or 1¾ percent
+Participants anticipated that labor market conditions
+inflation would be appropriate. Modestly positive
+would deteriorate substantially further over the course
+longer-run inflation would allow the Committee to
+of this year, and nearly all expected that unemployment
+stimulate economic activity and support employment
+would still be well above its longer-run sustainable rate
+by setting the federal funds rate temporarily below the
+at the end of 2011. Participants’ projections for the
+inflation rate when the economy is buffeted by a large
+average unemployment rate during the fourth quarter
+negative shock to demands for goods and services.
+of 2009 had a central tendency of 8.5 to 8.8 percent,
+Participants generally expected that core and overall
+markedly higher than last December’s actual unem-
+inflation would converge over time, and that persistent
+ployment rate of 7.2 percent—the latest available figure
+economic slack would continue to weigh on inflation
+at the time of the January FOMC meeting. Nearly all
+outcomes for the next few years and hence that total
+participants’ projections were more than a percentage
+PCE inflation in 2011 would still be below their as-
+point higher than their previous forecasts made last
+sessments of the appropriate inflation rate for the
+October, reflecting the sharp rise in actual unemploy-
+longer run.
+ment that occurred during the final months of 2008 as
+well as participants’ weaker outlook for economic activ- Risks to the Outlook
+ity this year. Most participants anticipated that output Participants continued to view uncertainty about the
+growth in 2010 would not be substantially above its outlook for economic activity as higher than normal.1
+longer-run trend rate and hence that unemployment The risks to their projections for real GDP growth
+would decline only modestly next year. With economic were judged as being skewed to the downside and the
+activity and job creation generally projected to acceler- associated risks to their projections for the unemploy-
+ate in 2011, participants anticipated that joblessness ment rate were tilted to the upside. Participants high-
+would decline more appreciably that year, as is evident
+from the central tendency of 6.7 to 7.5 percent for their
+1 Table 2 provides estimates of forecast uncertainty for the
+unemployment rate projections. Participants expected
+change in real GDP, the unemployment rate, and total con-
+that the unemployment rate would decline further after
+sumer price inflation over the period from 1987 to 2007. At
+2011, and most saw it settling in at a rate of 4.8 to 5.0
+the end of this summary, the box “Forecast Uncertainty”
+percent over time.
+discusses the sources and interpretation of uncertainty in
+economic forecasts and explains the approach used to assess
+the uncertainty and risks attending participants’ projections.
+
+--- Page 20 ---
+
+P age 4 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+Table 2. Average historical projection error ranges linked to their judgments about the uncertainty and
+Percentage points risks to the outlook for economic activity. Some par-
+Variable 2009 2010 2011
+ticipants noted the risk that inflation expectations
+Change in real GDP1 . . . . . . . . . ±1.2 ±1.4 ±1.4
+might become unanchored and drift downward in re-
+Unemployment rate1 . . . . . . . . . ±0.5 ±0.8 ±1.0 sponse to persistently low inflation outcomes, while
+others pointed to the possibility of an upward shift if
+Total consumer prices2 . . . . . . . ±0.9 ±1.0 ±0.9
+investors became concerned that stimulative policy
+NOTE: Error ranges shown are measured as plus or minus the root
+mean squared error of projections that were released in the winter from measures might not be unwound in a timely fashion
+1987 through 2007 for the current and following two years by various once the economy begins to recover.
+private and government forecasters. As described in the box “Forecast
+Uncertainty,” under certain assumptions, there is about a 70 percent Diversity of Views
+probability that actual outcomes for real GDP, unemployment, and con-
+Figures 2.A and 2.B provide further details on the di-
+sumer prices will be in ranges implied by the average size of projection
+errors made in the past. Further information is in David Reifschneider versity of participants’ views regarding likely outcomes
+and Peter Tulip (2007), “Gauging the Uncertainty of the Economic Out- for real GDP growth and the unemployment rate, re-
+look from Historical Forecasting Errors,” Finance and Economics Dis-
+cussion Series 2007-60 (Board of Governors of the Federal Reserve Sys- spectively. For 2009 to 2011, the dispersion in partici-
+tem, November). pants’ projections for each variable was roughly the
+1. For definitions, refer to general note in table 1.
+same as for their projections last October. This disper-
+2. Measure is the overall consumer price index, the price measure
+that has been most widely used in government and private economic sion mainly indicated the diversity of participants’ as-
+forecasts. Projection is percent change, fourth quarter of the previous sessments regarding the stimulative effects of fiscal
+year to the fourth quarter of the year indicated. The slightly narrower
+policy, the pace of recovery in financial markets, and
+estimated width of the confidence interval for inflation in the third year
+compared with that for the second year is likely the result of using a lim- the evolution of households’ desired saving rates. The
+ited sample period for computing these statistics. dispersion in participants’ longer-run projections re-
+lighted the considerable degree of uncertainty about the flected differences in their estimates regarding the sus-
+future course of the financial crisis and its impact on tainable rates of output growth and unemployment to
+the real economy; for example, rising unemployment which the economy would converge under appropriate
+and weaker growth could exacerbate delinquencies on policy and in the absence of any further shocks.
+household and business loans, leading to higher losses
+Figures 2.C and 2.D provide corresponding informa-
+for financial firms and so to a further tightening of
+tion regarding the diversity of participants’ views re-
+credit conditions that would in turn put further down-
+garding the inflation outlook. The dispersion in par-
+ward pressure on spending to a greater degree than
+ticipants’ projections for total PCE inflation in 2009
+currently foreseen. In addition, some participants
+was substantially greater than for their projections
+noted that a substantial degree of uncertainty was asso-
+made last October, due to increased diversity of par-
+ciated with gauging the stimulative effects of nontradi-
+ticipants’ views regarding the near-term evolution of
+tional monetary policy tools that are now being em-
+prices of energy and raw materials and the extent to
+ployed given that conventional policy easing was lim-
+which changes in those prices would be likely to pass
+ited by the zero lower bound on nominal interest rates.
+through into overall inflation. The dispersion in par-
+Others referred to uncertainties regarding the size,
+ticipants’ projections for core PCE inflation in 2009
+composition, and effectiveness of the fiscal stimulus
+was noticeably lower than last October, but the disper-
+package—which was still under consideration at the
+sion in their projections for core inflation in 2010 and
+time of the FOMC meeting—and of further measures
+2011 was markedly wider, reflecting varying assess-
+to stabilize the banking system.
+ments about the timing and pace of economic recovery,
+As in October, most participants continued to view the the sensitivity of inflation to slack in resource utiliza-
+uncertainty surrounding their inflation projections as tion, the prevalence of downward nominal wage rigid-
+higher than historical norms. A slight majority of par- ity, and the likelihood that inflation expectations will
+ticipants judged the risks to the inflation outlook as remain firmly anchored. A few participants anticipated
+roughly balanced, while the rest viewed these risks as that inflation in 2011 would be close to their longer-run
+skewed to the downside. Participants indicated that projections. However, most participants’ projections
+elevated uncertainty about global growth was clouding for total PCE inflation in 2011 were below their longer-
+the outlook for prices of energy and other commodities run projections, primarily reflecting the anticipated ef-
+and hence contributing to greater uncertainty in their fects of substantial slack over the next three years; this
+inflation projections. Many participants stated that inflation gap was about ¼ to ½ percentage point for
+their assessments regarding the level of uncertainty and some participants but exceeded a full percentage point
+balance of risks to the inflation outlook were closely for others.
+
+--- Page 21 ---
+
+S u m m a r y o f E c o n o m i c P r o j e c t io n s f o r t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 5
+Figure 2.A. Distribution of participants’ projections for the change in real GDP, 2009–11 and over the longer run
+Number of participants
+2009
+January projections 12
+October projections
+10
+8
+6
+4
+2
+-2.6--2.4--2.2--2.0--1.8--1.6--1.4--1.2--1.0--0.8--0.6--0.4--0.2-0.0-0.2-0.4-0.6-0.8-1.0-1.2-1.4-1.6-1.8-2.0-2.2-2.4-2.6-2.8-3.0-3.2-3.4-3.6-3.8-4.0-4.2-4.4-4.6-4.8-5.0-5.2-5.4-
+-2.5 -2.3 -2.1 -1.9 -1.7 -1.5 -1.3 -1.1 -0.9 -0.7 -0.5 -0.3 -0.1 0.1 0.3 0.5 0.7 0.9 1.1 1.3 1.5 1.7 1.9 2.1 2.3 2.5 2.7 2.9 3.1 3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7 4.9 5.1 5.3 5.5
+Percent range
+Number of participants
+2010
+12
+10
+8
+6
+4
+2
+-2.6--2.4--2.2--2.0--1.8--1.6--1.4--1.2--1.0--0.8--0.6--0.4--0.2-0.0-0.2-0.4-0.6-0.8-1.0-1.2-1.4-1.6-1.8-2.0-2.2-2.4-2.6-2.8-3.0-3.2-3.4-3.6-3.8-4.0-4.2-4.4-4.6-4.8-5.0-5.2-5.4-
+-2.5 -2.3 -2.1 -1.9 -1.7 -1.5 -1.3 -1.1 -0.9 -0.7 -0.5 -0.3 -0.1 0.1 0.3 0.5 0.7 0.9 1.1 1.3 1.5 1.7 1.9 2.1 2.3 2.5 2.7 2.9 3.1 3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7 4.9 5.1 5.3 5.5
+Percent range
+Number of participants
+2011
+12
+10
+8
+6
+4
+2
+-2.6--2.4--2.2--2.0--1.8--1.6--1.4--1.2--1.0--0.8--0.6--0.4--0.2-0.0-0.2-0.4-0.6-0.8-1.0-1.2-1.4-1.6-1.8-2.0-2.2-2.4-2.6-2.8-3.0-3.2-3.4-3.6-3.8-4.0-4.2-4.4-4.6-4.8-5.0-5.2-5.4-
+-2.5 -2.3 -2.1 -1.9 -1.7 -1.5 -1.3 -1.1 -0.9 -0.7 -0.5 -0.3 -0.1 0.1 0.3 0.5 0.7 0.9 1.1 1.3 1.5 1.7 1.9 2.1 2.3 2.5 2.7 2.9 3.1 3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7 4.9 5.1 5.3 5.5
+Percent range
+Number of participants
+Longer Run
+12
+10
+8
+6
+4
+2
+-2.6--2.4--2.2--2.0--1.8--1.6--1.4--1.2--1.0--0.8--0.6--0.4--0.2-0.0-0.2-0.4-0.6-0.8-1.0-1.2-1.4-1.6-1.8-2.0-2.2-2.4-2.6-2.8-3.0-3.2-3.4-3.6-3.8-4.0-4.2-4.4-4.6-4.8-5.0-5.2-5.4-
+-2.5 -2.3 -2.1 -1.9 -1.7 -1.5 -1.3 -1.1 -0.9 -0.7 -0.5 -0.3 -0.1 0.1 0.3 0.5 0.7 0.9 1.1 1.3 1.5 1.7 1.9 2.1 2.3 2.5 2.7 2.9 3.1 3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7 4.9 5.1 5.3 5.5
+Percent range
+NOTE: Definitions of variables are in the general note to table 1.
+
+--- Page 22 ---
+
+Page 6 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+Figure 2.B. Distribution of participants’ projections for the unemployment rate, 2009–11 and over the longer run
+Number of participants
+2009
+January projections 12
+October projections
+10
+8
+6
+4
+2
+4.4- 4.6- 4.8- 5.0- 5.2- 5.4- 5.6- 5.8- 6.0- 6.2- 6.4- 6.6- 6.8- 7.0- 7.2- 7.4- 7.6- 7.8- 8.0- 8.2- 8.4- 8.6- 8.8- 9.0- 9.2-
+4.5 4.7 4.9 5.1 5.3 5.5 5.7 5.9 6.1 6.3 6.5 6.7 6.9 7.1 7.3 7.5 7.7 7.9 8.1 8.3 8.5 8.7 8.9 9.1 9.3
+Percent range
+Number of participants
+2010
+12
+10
+8
+6
+4
+2
+4.4- 4.6- 4.8- 5.0- 5.2- 5.4- 5.6- 5.8- 6.0- 6.2- 6.4- 6.6- 6.8- 7.0- 7.2- 7.4- 7.6- 7.8- 8.0- 8.2- 8.4- 8.6- 8.8- 9.0- 9.2-
+4.5 4.7 4.9 5.1 5.3 5.5 5.7 5.9 6.1 6.3 6.5 6.7 6.9 7.1 7.3 7.5 7.7 7.9 8.1 8.3 8.5 8.7 8.9 9.1 9.3
+Percent range
+Number of participants
+2011
+12
+10
+8
+6
+4
+2
+4.4- 4.6- 4.8- 5.0- 5.2- 5.4- 5.6- 5.8- 6.0- 6.2- 6.4- 6.6- 6.8- 7.0- 7.2- 7.4- 7.6- 7.8- 8.0- 8.2- 8.4- 8.6- 8.8- 9.0- 9.2-
+4.5 4.7 4.9 5.1 5.3 5.5 5.7 5.9 6.1 6.3 6.5 6.7 6.9 7.1 7.3 7.5 7.7 7.9 8.1 8.3 8.5 8.7 8.9 9.1 9.3
+Percent range
+Number of participants
+Longer Run
+12
+10
+8
+6
+4
+2
+4.4- 4.6- 4.8- 5.0- 5.2- 5.4- 5.6- 5.8- 6.0- 6.2- 6.4- 6.6- 6.8- 7.0- 7.2- 7.4- 7.6- 7.8- 8.0- 8.2- 8.4- 8.6- 8.8- 9.0- 9.2-
+4.5 4.7 4.9 5.1 5.3 5.5 5.7 5.9 6.1 6.3 6.5 6.7 6.9 7.1 7.3 7.5 7.7 7.9 8.1 8.3 8.5 8.7 8.9 9.1 9.3
+Percent range
+NOTE: Definitions of variables are in the general note to table 1.
+
+--- Page 23 ---
+
+S u m m a r y o f E c o n o m i c P r o j e c t io n s f o r t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 7
+Figure 2.C. Distribution of participants’ projections for PCE inflation, 2009–11 and over the longer run
+Number of participants
+2009
+January projections 12
+October projections
+10
+8
+6
+4
+2
+-0.5- -0.3- -0.1- 0.1- 0.3- 0.5- 0.7- 0.9- 1.1- 1.3- 1.5- 1.7- 1.9- 2.1-
+-0.4 -0.2 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+Percent range
+Number of participants
+2010
+12
+10
+8
+6
+4
+2
+-0.5- -0.3- -0.1- 0.1- 0.3- 0.5- 0.7- 0.9- 1.1- 1.3- 1.5- 1.7- 1.9- 2.1-
+-0.4 -0.2 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+Percent range
+Number of participants
+2011
+12
+10
+8
+6
+4
+2
+-0.5- -0.3- -0.1- 0.1- 0.3- 0.5- 0.7- 0.9- 1.1- 1.3- 1.5- 1.7- 1.9- 2.1-
+-0.4 -0.2 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+Percent range
+Number of participants
+Longer Run
+12
+10
+8
+6
+4
+2
+-0.5- -0.3- -0.1- 0.1- 0.3- 0.5- 0.7- 0.9- 1.1- 1.3- 1.5- 1.7- 1.9- 2.1-
+-0.4 -0.2 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+Percent range
+NOTE: Definitions of variables are in the general note to table 1.
+
+--- Page 24 ---
+
+Page 8 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+Figure 2.D. Distribution of participants’ projections for core PCE inflation, 2009–11
+Number of participants
+2009
+January projections 12
+October projections
+10
+8
+6
+4
+2
+-0.1- 0.1- 0.3- 0.5- 0.7- 0.9- 1.1- 1.3- 1.5- 1.7- 1.9- 2.1-
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+Percent range
+Number of participants
+2010
+12
+10
+8
+6
+4
+2
+-0.1- 0.1- 0.3- 0.5- 0.7- 0.9- 1.1- 1.3- 1.5- 1.7- 1.9- 2.1-
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+Percent range
+Number of participants
+2011
+12
+10
+8
+6
+4
+2
+-0.1- 0.1- 0.3- 0.5- 0.7- 0.9- 1.1- 1.3- 1.5- 1.7- 1.9- 2.1-
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+Percent range
+NOTE: Definitions of variables are in the general note to table 1.
+
+--- Page 25 ---
+
+S u m m a r y o f E c o n o m i c P r o j e c t io n s f o r t h e M e e t i n g o f J a n u a r y 2 7 - 2 8 , 2 0 0 9 Page 9
+Forecast Uncertainty
+The economic projections provided by the past and the risks around the projections
+the members of the Board of Governors and are broadly balanced, the numbers reported in
+the presidents of the Federal Reserve Banks table 2 would imply a probability of about 70
+inform discussions of monetary policy among percent that actual GDP would expand be-
+policymakers and can aid public understand- tween 1.8 percent to 4.2 percent in the current
+ing of the basis for policy actions. Consider- year and 1.6 percent to 4.4 percent in the sec-
+able uncertainty attends these projections, ond and third years. The corresponding 70
+however. The economic and statistical models percent confidence intervals for overall infla-
+and relationships used to help produce eco- tion would be 1.1 percent to 2.9 percent in the
+nomic forecasts are necessarily imperfect de- current year, 1.0 percent to 3.0 percent in the
+scriptions of the real world. And the future second year, and 1.1 percent to 2.9 percent in
+path of the economy can be affected by myr- the third year.
+iad unforeseen developments and events. Because current conditions may differ
+Thus, in setting the stance of monetary policy, from those that prevailed on average over his-
+participants consider not only what appears to tory, participants provide judgments as to
+be the most likely economic outcome as em- whether the uncertainty attached to their pro-
+bodied in their projections, but also the range jections of each variable is greater than, smaller
+of alternative possibilities, the likelihood of than, or broadly similar to typical levels of
+their occurring, and the potential costs to the forecast uncertainty in the past as shown in
+economy should they occur. table 2. Participants also provide judgments as
+Table 2 summarizes the average historical to whether the risks to their projections are
+accuracy of a range of forecasts, including weighted to the upside, downside, or are
+those reported in past Monetary Policy Re- broadly balanced. That is, participants judge
+ports and those prepared by Federal Reserve whether each variable is more likely to be
+Board staff in advance of meetings of the above or below their projections of the most
+Federal Open Market Committee. The pro- likely outcome. These judgments about the
+jection error ranges shown in the table illus- uncertainty and the risks attending each par-
+trate the considerable uncertainty associated ticipant’s projections are distinct from the di-
+with economic forecasts. For example, sup- versity of participants’ views about the most
+pose a participant projects that real GDP and likely outcomes. Forecast uncertainty is con-
+total consumer prices will rise steadily at an- cerned with the risks associated with a particu-
+nual rates of, respectively, 3 percent and 2 lar projection, rather than with divergences
+percent. If the uncertainty attending those across a number of different projections.
+projections is similar to that experienced in
+
+# Tables
+
+## Page_14_Table_1
+
+
+| “The Federal Open Market Committee decided         |
+|----------------------------------------------------|
+| today to keep its target range for the federal     |
+| funds rate at 0 to ¼ percent. The Committee        |
+| continues to anticipate that economic condi-       |
+| tions are likely to warrant exceptionally low lev- |
+| els of the federal funds rate for some time.       |
+
+
+## Page_15_Table_1
+
+
+| Information received since the Committee met        |
+|-----------------------------------------------------|
+| in December suggests that the economy has           |
+| weakened further. Industrial production, hous-      |
+| ing starts, and employment have continued to        |
+| decline steeply, as consumers and businesses        |
+| have cut back spending. Furthermore, global         |
+| demand appears to be slowing significantly.         |
+| Conditions in some financial markets have im-       |
+| proved, in part reflecting government efforts to    |
+| provide liquidity and strengthen financial institu- |
+| tions; nevertheless, credit conditions for house-   |
+| holds and firms remain extremely tight. The         |
+| Committee anticipates that a gradual recovery in    |
+| economic activity will begin later this year, but   |
+| the downside risks to that outlook are signifi-     |
+| cant.                                               |
+| In light of the declines in the prices of energy    |
+| and other commodities in recent months and          |
+| the prospects for considerable economic slack,      |
+| the Committee expects that inflation pressures      |
+| will remain subdued in coming quarters. More-       |
+| over, the Committee sees some risk that infla-      |
+| tion could persist for a time below rates that      |
+| best foster economic growth and price stability     |
+| in the longer term.                                 |
+| The Federal Reserve will employ all available       |
+| tools to promote the resumption of sustainable      |
+| economic growth and to preserve price stability.    |
+| The focus of the Committee's policy is to sup-      |
+| port the functioning of financial markets and       |
+| stimulate the economy through open market           |
+| operations and other measures that are likely to    |
+| keep the size of the Federal Reserve's balance      |
+| sheet at a high level. The Federal Reserve con-     |
+| tinues to purchase large quantities of agency       |
+| debt and mortgage-backed securities to provide      |
+| support to the mortgage and housing markets,        |
+| and it stands ready to expand the quantity of       |
+| such purchases and the duration of the purchase     |
+| program as conditions warrant. The Committee        |
+| also is prepared to purchase longer-term Treas-     |
+| ury securities if evolving circumstances indicate   |
+| that such transactions would be particularly ef-    |
+| fective in improving conditions in private credit   |
+| markets. The Federal Reserve will be imple-         |
+| menting the Term Asset-Backed Securities Loan       |
+| Facility to facilitate the extension of credit to   |
+| households and small businesses. The Commit-        |
+| tee will continue to monitor carefully the size     |
+| and composition of the Federal Reserve's bal-       |
+
+
+## Page_15_Table_2
+
+
+| ance sheet in light of evolving financial market   |
+|----------------------------------------------------|
+| developments and to assess whether expansions      |
+| of or modifications to lending facilities would    |
+| serve to further support credit markets and eco-   |
+| nomic activity and help to preserve price stabil-  |
+| ity.”                                              |
+
+
+## Page_17_Table_1
+
+
+| Central tendency1                                                                                                                                                                                                                                                                                                          |      |      |            |      |      |      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|------------|------|------|------|
+| 2009                                                                                                                                                                                                                                                                                                                       | 2010 | 2011 | Longer Run | 2009 | 2010 | 2011 |
+| -1.3 to -0.5 2.5 to 3.3 3.8 to 5.0 2.5 to 2.7
+-0.2 to 1.1 2.3 to 3.2 2.8 to 3.6 n.a.
+8.5 to 8.8 8.0 to 8.3 6.7 to 7.5 4.8 to 5.0
+7.1 to 7.6 6.5 to 7.3 5.5 to 6.6 n.a.
+0.3 to 1.0 1.0 to 1.5 0.9 to 1.7 1.7 to 2.0
+1.3 to 2.0 1.4 to 1.8 1.4 to 1.7 n.a.
+0.9 to 1.1 0.8 to 1.5 0.7 to 1.5
+1.5 to 2.0 1.3 to 1.8 1.3 to 1.7 |      |      |            |      |      |      |

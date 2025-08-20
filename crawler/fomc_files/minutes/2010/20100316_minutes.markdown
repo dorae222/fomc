@@ -1,0 +1,650 @@
+# 20100316_minutes.pdf
+
+*Extracted on: 2025-08-20 16:36:10*
+*Pages: 9, Tables: 0*
+
+## Document Content
+
+--- Page 1 ---
+
+Page 1
+Minutes of the Federal Open Market Committee
+March 16, 2010
+A joint meeting of the Federal Open Market Committee Patrick M. Parkinson, Director, Division of Bank
+and the Board of Governors of the Federal Reserve Sys- Supervision and Regulation, Board of Gover-
+tem was held in the offices of the Board of Governors in nors
+Washington, D.C., on Tuesday, March 16, 2010, at
+8:00 a.m. Robert deV. Frierson, Deputy Secretary, Office of
+the Secretary, Board of Governors
+PRESENT:
+Ben Bernanke, Chairman Charles S. Struckmeyer, Deputy Staff Director, Of-
+William C. Dudley, Vice Chairman fice of the Staff Director for Management,
+James Bullard Board of Governors
+Elizabeth Duke
+Thomas M. Hoenig James A. Clouse, Deputy Director, Division of
+Donald L. Kohn Monetary Affairs, Board of Governors
+Sandra Pianalto
+Eric Rosengren Linda Robertson, Assistant to the Board, Office of
+Daniel K. Tarullo Board Members, Board of Governors
+Kevin Warsh
+Sherry Edwards and Andrew T. Levin, Senior As-
+Christine Cumming, Charles L. Evans, Richard W. sociate Directors, Division of Monetary Af-
+Fisher, Narayana Kocherlakota, and Charles I. fairs, Board of Governors; David Reifschneid-
+Plosser, Alternate Members of the Federal er and William Wascher, Senior Associate Di-
+Open Market Committee rectors, Division of Research and Statistics,
+Board of Governors
+Jeffrey M. Lacker, Dennis P. Lockhart, and Janet L.
+Yellen, Presidents of the Federal Reserve Michael G. Palumbo, Deputy Associate Director,
+Banks of Richmond, Atlanta, and San Francis- Division of Research and Statistics, Board of
+co, respectively Governors
+Brian F. Madigan, Secretary and Economist David H. Small, Project Manager, Division of
+Matthew M. Luecke, Assistant Secretary Monetary Affairs, Board of Governors
+David W. Skidmore, Assistant Secretary
+Michelle A. Smith, Assistant Secretary Min Wei, Senior Economist, Division of Monetary
+Scott G. Alvarez, General Counsel Affairs, Board of Governors
+Thomas C. Baxter, Deputy General Counsel
+Nathan Sheets, Economist Penelope A. Beattie, Assistant to the Secretary, Of-
+David J. Stockton, Economist fice of the Secretary, Board of Governors
+Thomas A. Connors, William B. English, Steven B. Valerie Hinojosa and Randall A. Williams, Records
+Kamin, Lawrence Slifman, Christopher J. Wal- Management Analysts, Division of Monetary
+ler, and David W. Wilcox, Associate Econo- Affairs, Board of Governors
+mists
+James M. Lyon, First Vice President, Federal Re-
+Brian Sack, Manager, System Open Market Ac- serve Bank of Minneapolis
+count
+Jamie J. McAndrews and Harvey Rosenblum, Ex-
+Jennifer J. Johnson, Secretary of the Board, Office ecutive Vice Presidents, Federal Reserve Banks
+of the Secretary, Board of Governors of New York and Dallas, respectively
+
+--- Page 2 ---
+
+Page 2 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+David Altig, Craig S. Hakkio, Loretta J. Mester, mulative volume of borrowing from the TALF had ex-
+Glenn D. Rudebusch, Mark E. Schweitzer, panded fairly steadily in recent months, the volume of
+Daniel G. Sullivan, and John A. Weinberg, Se- repayments of TALF loans had also risen as borrowers
+nior Vice Presidents, Federal Reserve Banks of were able to secure funding from other sources on more
+Atlanta, Kansas City, Philadelphia, San Fran- favorable terms. As a result, the net amount of outstand-
+cisco, Cleveland, Chicago, and Richmond, re- ing TALF credit had leveled out and would likely decline
+spectively going forward as a result of continuing repayments.
+In his report on System open market operations, the
+Giovanni Olivei, Vice President, Federal Reserve
+Manager noted that over the period since the Committee
+Bank of Boston
+had met in January, the Federal Reserve’s total assets had
+risen to about $2.3 trillion, as an increase in the System’s
+Joshua Frost, Assistant Vice President, Federal Re-
+holdings of securities was partly offset by the declining
+serve Bank of New York
+usage of the System’s credit and liquidity facilities. The
+Desk continued to gradually slow the pace of its purchas-
+Jonathan Heathcote, Senior Economist, Federal
+es of agency mortgage-backed securities (MBS) and agen-
+Reserve Bank of Minneapolis
+cy debt as it moved toward completing the Committee’s
+previously announced asset purchases by the end of
+March. The Desk’s purchases of agency MBS were on
+Developments in Financial Markets and the Federal
+track to meet the targeted amount of $1.25 trillion, while
+Reserve’s Balance Sheet
+its purchases of agency debt would likely cumulate to
+The Manager of the System Open Market Account re- slightly less than $175 billion. The Desk continued to
+ported on developments in domestic and foreign financial engage in dollar roll transactions in agency MBS securities
+markets during the period since the Committee met on to facilitate settlement of its outright purchases. There
+January 26-27, 2010. The net effect of these develop- were no open market operations in foreign currencies for
+ments was that financial conditions had become modestly the System’s account over the intermeeting period. By
+more supportive of economic growth. No market strains unanimous vote, the Committee ratified the Desk’s trans-
+emerged in conjunction with the Federal Reserve’s clos- actions. Participants also agreed that the Desk should
+ing of nearly all of its remaining special liquidity facilities continue the interim approach of allowing all maturing
+over the intermeeting period. On February 1, the Primary agency debt and all prepayments of agency MBS to be
+Dealer Credit Facility, the Commercial Paper Funding redeemed without replacement.
+Facility, the Asset-Backed Commercial Paper Money
+In addition, the Manager reported on recent progress in
+Market Mutual Fund Liquidity Facility, and the Term Se-
+the development of reserve draining tools, including the
+curities Lending Facility were closed, and the Federal Re-
+initiation of a program for expanding the set of counter-
+serve’s temporary currency swap lines with foreign central
+parties in conducting reverse repurchase agreements, and
+banks expired. Financial markets also adjusted smoothly
+the staff gave a presentation on potential approaches for
+to the final offering of funds through the Term Auction
+tightening the link between short-term market interest
+Facility on March 8.
+rates and the interest rate paid on reserve balances held at
+The Manager noted that securitized credit markets had the Federal Reserve Banks.
+not shown substantial strain from the anticipated end of
+Secretary’s note: A staff memorandum was
+new credit extensions under the Term Asset-Backed Se-
+provided to members of the Board of Gover-
+curities Loan Facility (TALF), which was scheduled to
+nors and Federal Reserve Bank presidents
+close on June 30 for loans backed by new-issue commer-
+summarizing public comments on last Decem-
+cial mortgage-backed securities (CMBS) and on March 31
+ber’s Federal Register notice regarding the estab-
+for loans backed by all other types of collateral.1 Spreads
+lishment of a term deposit facility, but that
+on asset-backed securities remained tight while
+topic was not discussed at this meeting.
+issuance—the bulk of which was being financed outside
+of TALF—continued to be fairly strong. While the cu- The staff also briefed the Committee on potential ap-
+proaches for managing the Treasury securities held by the
+Federal Reserve. To date, the Desk had been reinvesting
+1 The final non-CMBS subscription had already occurred in
+all maturing Treasury securities by exchanging those hold-
+early March and the final subscription for legacy CMBS
+ings for newly issued Treasury securities, but an alterna-
+would take place soon after the FOMC meeting; subscrip-
+tive strategy would be to allow some or all of those Trea-
+tions for new-issue CMBS would continue through June.
+
+--- Page 3 ---
+
+M i n u t e s o f t h e M e e t i n g o f M a r c h 1 6 , 2 0 1 0 Page 3
+sury securities to mature without reinvestment. Redeem- tion. Capacity utilization in manufacturing rose further,
+ing all of its maturing Treasury holdings would signifi- to a level noticeably above its trough in June, but re-
+cantly reduce the size of the Federal Reserve’s balance mained well below its longer-run average. As a result,
+sheet over coming years and hence could be helpful in incentives for manufacturing firms to expand production
+limiting the need to use other reserve draining tools such capacity were weak. The available indicators of near-term
+as reverse repurchase agreements and term deposits. Re- manufacturing activity pointed to moderate gains in IP in
+demptions would also lower the interest rate sensitivity of coming months.
+the Federal Reserve’s portfolio over time. Nevertheless,
+Consumer spending continued to move up. Although
+the initiation of a redemption strategy might generate up-
+sales of new automobiles and light trucks softened
+ward pressure on market rates, especially if that measure
+slightly, on average, in January and February, real outlays
+led investors to move up their expected timing of policy
+for a wide variety of non-auto goods and food services
+firming. Participants agreed that the Committee would
+increased appreciably, and real outlays for other services
+give further consideration to these matters and that in the
+remained on a gradual uptrend. In contrast to the modest
+interim the Desk should continue its current practice of
+recovery in spending, measures of consumer sentiment
+reinvesting all maturing Treasury securities.
+remained relatively downbeat in February and had im-
+Staff Review of the Economic Situation proved little, on balance, since a modest rebound last
+The information reviewed at the March 16 meeting sug- spring. Household income appeared less supportive of
+gested that economic activity expanded at a moderate spending than at the January meeting, reflecting down-
+pace in early 2010. Business investment in equipment ward revisions to estimates by the Bureau of Economic
+and software seemed to have picked up, consumer spend- Analysis of wages and salaries in the second half of 2009.
+ing increased further in January, and private employment The ratio of household net worth to income was little
+would likely have turned up in February in the absence of changed in the fourth quarter after two consecutive quar-
+the snowstorms that affected the East Coast. Output in ters of appreciable gains.
+the manufacturing sector continued to trend higher as
+Activity in the housing sector appeared to have flattened
+firms increased production to meet strengthening final
+out in recent months. Sales of both new and existing
+demand and to slow the pace of inventory liquidation.
+homes had turned down, while starts of single-family
+On the downside, housing activity remained flat and the
+homes were about unchanged despite the substantial re-
+nonresidential construction sector weakened further.
+duction in inventories of unsold new homes. Some of
+Meanwhile, a sizable increase in energy prices pushed up
+the recent weakness in sales might have been due to
+headline consumer price inflation in recent months; in
+transactions that had been pulled forward in anticipation
+contrast, core consumer price inflation was quite low.
+of the originally scheduled expiration of the tax credit for
+Available indicators suggested that the labor market might first-time homebuyers in November 2009; nonetheless,
+be stabilizing. Declines in private payrolls slowed mar- the underlying pace of housing demand likely remained
+kedly in recent months, and, in the absence of the snows- weak. The slowdown in sales notwithstanding, housing
+torms, private employment probably would have risen in demand was being supported by low interest rates for
+February. The average workweek for production and conforming fixed-rate 30-year mortgages and reportedly
+nonsupervisory workers fell back in February after ticking by a perception that real estate values were near their
+up in January; however, the drop was likely due to the trough.
+storms. The unemployment rate was unchanged at 9.7
+Real spending on equipment and software increased at a
+percent in February, and the labor force participation rate
+solid pace in the fourth quarter of 2009 and apparently
+inched up over the past two months. However, the level
+rose further early in the first quarter of 2010. Business
+of initial claims for unemployment insurance benefits
+outlays for motor vehicles seemed to be holding up after
+remained high.
+a sharp increase in the fourth quarter, purchases of high-
+After increasing briskly in the second half of 2009, indus- tech equipment appeared to be rising briskly, and incom-
+trial production (IP) continued to expand, on net, in the ing data pointed to some firming in outlays on other
+early months of 2010, rising sharply in January and re- equipment. The recent gains in investment spending
+maining little changed in February despite some adverse were consistent with improvements in many indicators of
+effects of the snowstorms. Recent production gains re- business demand. In contrast, conditions in the nonresi-
+mained broadly based across industries, as firms contin- dential construction sector generally remained poor. Real
+ued to boost production to meet rising domestic and for- outlays on structures outside of the drilling and mining
+eign demand and to slow the pace of inventory liquida- sector fell again in the fourth quarter, and nominal ex-
+
+--- Page 4 ---
+
+Page 4 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+penditures dropped further in January. The weakness was Japan but rising only slightly in the euro area and the
+widespread across categories and likely reflected rising United Kingdom. That divergence appeared to have per-
+vacancy rates, falling property prices, and difficult financ- sisted in the first quarter, as indicators pointed to contin-
+ing conditions for new projects. However, real spending ued rapid economic growth in Canada and moderate ex-
+on drilling and mining structures increased strongly in pansion in Japan but somewhat anemic growth in Eu-
+response to the earlier rebound in oil and natural gas pric- rope. In the emerging market economies, rebounding
+es. global trade, inventory restocking, and increased domestic
+demand supported generally robust fourth-quarter
+The pace of inventory liquidation slowed considerably in
+growth. Continued rapid expansion in China and several
+late 2009. As measured in the national income and prod-
+other Asian economies offset slowdowns elsewhere in the
+uct accounts, real nonfarm inventories excluding motor
+region. In Latin America, Mexican activity was buoyed by
+vehicles were drawn down at a much slower pace in the
+rising manufacturing and exports to the United States,
+fourth quarter than in each of the preceding two quarters.
+while Brazil’s economy again grew briskly. Headline con-
+Available data for January indicated a further small liqui-
+sumer price inflation picked up around the world over the
+dation of real stocks early this year in the manufacturing
+past two months, principally reflecting increases in food
+and wholesale trade sectors. The ratio of book-value in-
+and energy prices. Excluding food and energy, consumer
+ventories to sales (excluding motor vehicles and parts)
+prices were generally more subdued.
+edged down again in January and stood well below the
+recent peak recorded near the end of 2008. Inventories Staff Review of the Financial Situation
+remained elevated for equipment, materials, and, to a The decision by the Federal Open Market Committee
+lesser degree, construction supplies, while inventories of (FOMC) at the January meeting to keep the target range
+consumer goods and business supplies appeared to be for the federal funds rate unchanged and to retain the
+low relative to demand. “extended period” language in the statement was widely
+anticipated by market participants. However, investors
+Although rising energy prices continued to boost overall
+reportedly read the statement’s characterization of the
+consumer price inflation, consumer prices excluding food
+economic outlook as somewhat more upbeat than they
+and energy were soft, as a wide variety of goods and ser-
+had anticipated, and Eurodollar futures rates rose a bit in
+vices exhibited persistently low inflation or outright price
+response. The changes to the terms for primary credit
+declines. On a 12-month change basis, core personal
+and the Term Auction Facility that were announced on
+consumption expenditures (PCE) price inflation slowed
+February 18 resulted in a small increase in near-term fu-
+in January 2010 compared with a year earlier, as a marked
+tures rates, but this reaction proved short lived, as the
+and fairly widespread deceleration in market-based core
+statement and subsequent Federal Reserve communica-
+PCE prices was partly offset by an acceleration in non-
+tions—including the Chairman’s semiannual congression-
+market prices. Survey expectations for near-term infla-
+al testimony—emphasized that the modifications were
+tion were unchanged over the intermeeting period; me-
+technical adjustments and did not signal any near-term
+dian longer-term inflation expectations edged down to
+shifts in the overall stance of monetary policy.
+near the lower end of the narrow range that prevailed
+over the previous few years. With regard to labor costs, On balance, incoming economic data led investors to
+the revised data on wages and salaries showed that last mark down the expected path of the federal funds rate
+year’s deceleration in hourly compensation was even over the intermeeting period. By contrast, yields on
+sharper than was evident at the January meeting. 2-year and 10-year nominal Treasury securities edged up,
+on net, over the period. Yields on Treasury inflation-
+The U.S. international trade deficit widened in December
+protected securities (TIPS) rose at all maturities, reported-
+but narrowed slightly in January, ending the period a little
+ly buoyed by investor anticipation of heavier TIPS is-
+larger. Both exports and imports rose sharply in Decem-
+suance and by reduced demand for TIPS by retail inves-
+ber before pulling back somewhat the following month.
+tors. Reflecting these developments, inflation compensa-
+For the period as a whole, the rise in exports was broadly
+tion—the difference between nominal yields and TIPS
+based, with notable gains in aircraft and industrial sup-
+yields for a given term to maturity—declined over the
+plies. Oil and other industrial supplies accounted for
+period, a move that was supported by the somewhat
+much of the increase in imports over the two months,
+weaker-than-expected economic data and the publication
+while purchases of consumer products declined.
+of lower-than-expected readings on consumer prices.
+Economic performance in the advanced foreign econo-
+Conditions in short-term funding markets remained gen-
+mies was mixed in the fourth quarter, with real gross do-
+erally stable over the intermeeting period. Spreads be-
+mestic product (GDP) advancing sharply in Canada and
+
+--- Page 5 ---
+
+M i n u t e s o f t h e M e e t i n g o f M a r c h 1 6 , 2 0 1 0 Page 5
+tween London interbank offered rates (Libor) and over- higher in the fourth quarter. Nonetheless, indexes of
+night index swap (OIS) rates at one- and three-month commercial mortgage credit default swaps changed little,
+maturities stayed low, while six-month spreads edged on balance, over the intermeeting period.
+down somewhat further. Spreads of rates on A2/P2-
+Since the January meeting, yields and spreads on agency
+rated commercial paper and on AA-rated asset-backed
+MBS were little changed despite the continued tapering of
+commercial paper over the AA nonfinancial rate were
+the Federal Reserve’s purchases of these securities, and
+also little changed at low levels. The Federal Reserve
+residential mortgage interest rates and spreads were
+continued to taper its large-scale asset purchases and wind
+roughly flat. Net issuance of MBS by Fannie Mae and
+down the emergency lending facilities with no apparent
+Freddie Mac remained subdued through the end of Janu-
+adverse effects on financial markets or institutions.
+ary. Consumer credit expanded in January, its first in-
+Broad stock price indexes rose, on net, over the inter- crease since January 2009. Despite low and stable spreads
+meeting period, boosted in part by favorable earnings on consumer asset-backed securities (ABS), the amount
+reports from the retail sector. Bank equity prices outper- of ABS issued in the first two months of the year was
+formed the broader equity markets. Option-implied vola- somewhat below that in the fourth quarter, reflecting the
+tility on the S&P 500 index dropped back to post-crisis very weak pace of consumer credit originations late last
+lows after increasing earlier in the period on concerns year. The spread of credit card interest rates over two-
+about Chinese monetary policy tightening and fiscal year Treasury yields ticked up in January, while spreads
+strains in Europe. Nonetheless, the gap between the on new auto loans declined slightly, on net, over the in-
+staff’s estimate of the expected real equity return over the termeeting period. Delinquency rates on credit card loans
+next 10 years for S&P 500 firms and the real 10-year in securitized pools and on auto loans at captive finance
+Treasury yield—a rough measure of the equity risk pre- companies remained elevated in January but were down a
+mium—remained well above its average over the past bit from their recent peaks.
+decade. Yields on investment-grade corporate bonds, as
+Total bank credit contracted substantially in January and
+well as their spreads over yields on comparable-maturity
+February. Banks’ securities holdings declined at a modest
+Treasury securities, were about unchanged over the in-
+pace after several months of steady growth, and total
+termeeting period; investment-grade risk spreads were
+loans on banks’ books continued to drop. Commercial
+near the levels that prevailed late in 2007. Yields and
+and industrial (C&I) loans continued falling, as spreads of
+spreads on speculative-grade bonds edged down, and
+interest rates on C&I loans over comparable-maturity
+secondary-market prices of leveraged loans rose further.
+market instruments climbed further in the first quarter
+Overall, net debt financing by nonfinancial firms was and nonfinancial firms’ need for external finance appar-
+about zero over the first two months of 2010, consistent ently remained subdued. Commercial real estate loans
+with firms’ weak demand for credit and banks’ tight credit also posted significant declines. Household loans on
+policies. Gross public equity issuance by nonfinancial banks’ books contracted as well, in part because of a
+firms was robust in the fourth quarter of 2009. Since the pickup in bank securitizations of first-lien residential
+turn of the year, gross public equity issuance by nonfi- mortgages with the government-sponsored enterprises in
+nancial firms slowed somewhat, while announcements of February. Consumer loans originated by banks declined,
+both new share repurchase programs and cash-financed primarily reflecting a large drop in credit card loans. In
+mergers and acquisitions picked up. Public equity is- contrast, other consumer loans—including auto, student,
+suance by financial firms declined in January and Febru- and tax advance loans—were roughly flat during January
+ary following very strong issuance in December, when and February.
+several large banks issued equity to facilitate the repay-
+M2 decreased in January, owing partly to a contraction in
+ment of capital received under the Troubled Asset Relief
+liquid deposits. Many institutions opted out of the Fed-
+Program. Gross bond issuance by financial firms re-
+eral Deposit Insurance Corporation’s Transaction Ac-
+mained solid. The contraction in commercial mortgage
+count Guarantee Program because of the higher fees as-
+debt accelerated in the fourth quarter. The dollar value of
+sociated with participation after year-end, reportedly driv-
+commercial real estate sales remained very low in Febru-
+ing depositors to transfer funds out of transaction ac-
+ary, and the share of properties sold at a nominal loss
+counts and into alternative investments outside of M2.
+inched higher. The delinquency rate on commercial
+M2 expanded in February, however, as liquid deposits
+mortgages in securitized pools increased in January, and
+resumed their growth. Small time deposits and retail
+the delinquency rate on commercial mortgages at com-
+money market mutual funds contracted in January and, to
+mercial banks rose in the fourth quarter. The percentage
+a lesser extent, in February, while currency declined a bit
+of delinquent construction loans at banks also ticked
+
+--- Page 6 ---
+
+Page 6 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+in January but advanced notably in February. The mone- inflation was projected to be quite subdued at rates below
+tary base rose in both months, as the increase in reserve last year’s pace. Although increased oil prices had
+balances resulting from the ongoing large-scale asset pur- boosted overall inflation over recent months, the staff
+chases by the Federal Reserve more than offset the con- anticipated that consumer prices for energy would in-
+traction in balances associated with the decline in credit crease more slowly going forward, consistent with quotes
+outstanding under the System’s liquidity and credit facili- on oil futures contracts. Consequently, total PCE price
+ties. inflation was projected to run a little above core inflation
+this year and then edge down to the same rate as core
+Movements in foreign financial markets since the January
+inflation in 2011.
+meeting were importantly influenced by concerns over
+fiscal problems in Greece. Spreads on Greek government Participants’ Views on Current Conditions and the
+debt relative to German bunds widened appreciably be- Economic Outlook
+fore falling back as press reports indicated that euro-area In their discussion of the economic situation and outlook,
+countries were discussing a possible aid package for participants agreed that economic activity continued to
+Greece and the Greek government announced further strengthen and that the labor market appeared to be stabi-
+deficit reduction measures. Spreads on debt issued by lizing. Incoming information on economic activity re-
+several other European countries followed a similar pat- ceived over the intermeeting period was somewhat mixed
+tern over the intermeeting period. The Bank of England but generally confirmed that the economic recovery was
+(BOE) and the European Central Bank (ECB) held rates likely to proceed at a moderate pace. On the positive
+steady during the period, and the BOE elected not to ex- side, recent data pointed to significant gains in retail sales,
+pand its Asset Purchase Facility, which reached its limit at a substantial pickup in business spending on equipment
+the end of January. In early March, the ECB announced and software, and a further expansion of goods exports.
+several steps to normalize its provision of liquidity. Equi- Moreover, the latest labor market readings had been mild-
+ty prices in most foreign countries were up moderately ly encouraging, with a considerable increase in temporary
+since the January FOMC meeting. Likely reflecting the employment, especially in the manufacturing and infor-
+concerns about Greece as well as weak economic data in mation technology sectors. However, housing starts had
+Europe, the dollar appreciated notably against sterling remained flat at a depressed level, investment in nonresi-
+and the euro over the intermeeting period. However, the dential structures was still declining, and state and local
+dollar declined against most emerging market currencies, government expenditures were being depressed by lower
+which were buoyed by brightening growth prospects, revenues. Moreover, consumer sentiment continued to
+leaving the broad trade-weighted value of the dollar down be damped by very weak labor market conditions, and
+a bit since the January meeting. firms remained reluctant to add to payrolls or to commit
+to new capital projects. Participants saw recent inflation
+Staff Economic Outlook
+readings as suggesting a slightly greater deceleration in
+In the forecast prepared for the March FOMC meeting,
+consumer prices than had been expected. In light of sta-
+the staff’s outlook for real economic activity was broadly
+ble longer-term inflation expectations and the likely con-
+similar to that at the time of the January meeting. In par-
+tinuation of substantial resource slack, they generally an-
+ticular, the staff continued to anticipate a moderate pace
+ticipated that inflation would be subdued for some time.
+of economic recovery over the next two years, reflecting
+the accommodative stance of monetary policy and a fur- Participants agreed that financial market conditions re-
+ther diminution of the factors that had weighed on spend- mained supportive of economic growth. Spreads in
+ing and production since the onset of the financial crisis. short-term funding markets were near pre-crisis levels,
+The staff did make modest downward adjustments to its and risk spreads on corporate bonds and measures of
+projections for real GDP growth in response to unfavor- implied volatility in equity markets were broadly consis-
+able news on housing activity, unexpectedly weak spend- tent with historical norms given the outlook for the econ-
+ing by state and local governments, and a substantial re- omy. Participants were also reassured by the absence of
+duction in the estimated level of household income in the any signs of renewed strains in financial market function-
+second half of 2009. The staff’s forecast for the unem- ing as a consequence of the Federal Reserve’s winding
+ployment rate at the end of 2011 was about the same as in down of its special liquidity facilities. In contrast, bank
+its previous projection. lending was still contracting and interest rates on many
+bank loans had risen further in recent months. Partici-
+Recent data on consumer prices and unit labor costs led
+pants anticipated that credit conditions would gradually
+the staff to revise down slightly its projection for core
+improve over time, and they noted the possibility of a
+PCE price inflation for 2010 and 2011; as before, core
+beneficial feedback loop in which the economic recovery
+
+--- Page 7 ---
+
+M i n u t e s o f t h e M e e t i n g o f M a r c h 1 6 , 2 0 1 0 Page 7
+would contribute to stronger bank balance sheets and so Participants were also concerned that activity in the hous-
+to an increased availability of credit to households and ing sector appeared to be leveling off in most regions de-
+small businesses, which would in turn help boost the spite various forms of government support, and they
+economy further. noted that commercial and industrial real estate markets
+continued to weaken. Indeed, housing sales and starts
+While participants saw incoming information as broadly
+had flattened out at depressed levels, suggesting that pre-
+consistent with continued strengthening of economic ac-
+vious improvements in those indicators may have largely
+tivity, they also highlighted a variety of factors that would
+reflected transitory effects from the first-time homebuyer
+be likely to restrain the overall pace of recovery, especially
+tax credit rather than a fundamental strengthening of
+in light of the waning effects of fiscal stimulus and inven-
+housing activity. Participants indicated that the pace of
+tory rebalancing over coming quarters. While recent data
+foreclosures was likely to remain quite high; indeed, re-
+pointed to a noticeable pickup in the pace of consumer
+cent data on the incidence of seriously delinquent mort-
+spending during the first quarter, participants agreed that
+gages pointed to the possibility that the foreclosure rate
+household spending going forward was likely to remain
+could move higher over coming quarters. Moreover, the
+constrained by weak labor market conditions, lower hous-
+prospect of further additions to the already very large
+ing wealth, tight credit, and modest income growth. For
+inventory of vacant homes posed downside risks to home
+example, real disposable personal income in January was
+prices.
+virtually unchanged from a year earlier and would have
+been even lower in the absence of a substantial rise in Participants referred to a wide array of evidence as indi-
+federal transfer payments to households. Business spend- cating that underlying inflation trends remained subdued.
+ing on equipment and software picked up substantially The latest readings on core inflation—which exclude the
+over recent months, but anecdotal information suggested relatively volatile prices of food and energy—were gener-
+that this pickup was driven mainly by increased spending ally lower than they had anticipated, and with petroleum
+on maintaining existing capital and updating technology prices having leveled out, headline inflation was likely to
+rather than expanding capacity. The continued gains in come down to a rate close to that of core inflation over
+manufacturing production were bolstered by growing coming months. While the ongoing decline in the impli-
+demand from foreign trading partners, especially emerg- cit rental cost for owner-occupied housing was weighing
+ing market economies. However, a few participants on core inflation, a number of participants observed that
+noted the possibility that fiscal retrenchment in some for- the moderation in price changes was widespread across
+eign countries could trigger a slowdown of those econo- many categories of spending. This moderation was evi-
+mies and hence weigh on the demand for U.S. exports. dent in the appreciable slowing of inflation measures such
+as trimmed means and medians, which exclude the most
+Some labor market indicators displayed positive signals
+extreme price movements in each period.
+over the intermeeting period, including a pickup in tem-
+porary employment and increased job postings. Indeed, In discussing the inflation outlook, participants took note
+nonfarm payrolls might well have increased in February in of signs that inflation expectations were reasonably well
+the absence of weather disruptions. Nevertheless, partic- anchored, and most agreed that substantial resource slack
+ipants were concerned about the scarcity of job openings, was continuing to restrain cost pressures. Measures of
+the elevated level of unemployment, and the extent of gains in nominal compensation had slowed, and sharp
+longer-term unemployment, which was seen as potentially increases in productivity had pushed down producers’
+leading to the loss of worker skills. Moreover, the unit labor costs. Anecdotal information indicated that
+downward trend in initial unemployment insurance claims planned wage increases were small or nonexistent and
+appeared to have leveled off in recent weeks, while hiring suggested that large margins of underutilized capital and
+remained at historically low rates. Information from labor and a highly competitive pricing environment were
+business contacts and evidence from regional surveys exerting considerable downward pressure on price ad-
+generally underscored the degree to which firms’ reluc- justments. Survey readings and financial market data
+tance to add to payrolls or start large capital projects re- pointed to a modest decline in longer-term inflation ex-
+flected their concerns about the economic outlook and pectations over recent months. While all participants an-
+uncertainty regarding future government policies. A ticipated that inflation would be subdued over the near
+number of participants pointed out that the economic term, a few noted that the risks to inflation expectations
+recovery could not be sustained over time without a sub- and the medium-term inflation outlook might be tilted to
+stantial pickup in job creation, which they still anticipated the upside in light of the large fiscal deficits and the
+but had not yet become evident in the data. extraordinarily accommodative stance of monetary policy.
+
+--- Page 8 ---
+
+Page 8 F e d e r a l O p e n M a r k e t C o m m i t t e e _
+Committee Policy Action ing the Term Asset-Backed Securities Loan Facility was
+In their discussion of monetary policy for the period being maintained. The Committee also discussed possi-
+ahead, members agreed that it would be appropriate to ble approaches for formulating and communicating key
+maintain the target range of 0 to ¼ percent for the federal elements of its strategy for removing extraordinary mone-
+funds rate and to complete the Committee’s previously tary policy accommodation at the appropriate time. No
+announced purchases of $1.25 trillion of agency MBS and decisions about the Committee’s exit strategy were made
+about $175 billion of agency debt by the end of March. at this meeting, but participants agreed to give further
+Nearly all members judged that it was appropriate to rei- consideration to these issues at a later date.
+terate the expectation that economic conditions— includ-
+At the conclusion of the discussion, the Committee voted
+ing low levels of resource utilization, subdued inflation
+to authorize and direct the Federal Reserve Bank of New
+trends, and stable inflation expectations—were likely to
+York, until it was instructed otherwise, to execute transac-
+warrant exceptionally low levels of the federal funds rate
+tions in the System Account in accordance with the fol-
+for an extended period, but one member believed that
+lowing domestic policy directive:
+communicating such an expectation would create condi-
+tions that could lead to financial imbalances. A number “The Federal Open Market Committee seeks
+of members noted that the Committee’s expectation for monetary and financial conditions that will fos-
+policy was explicitly contingent on the evolution of the ter price stability and promote sustainable
+economy rather than on the passage of any fixed amount growth in output. To further its long-run ob-
+of calendar time. Consequently, such forward guidance jectives, the Committee seeks conditions in re-
+would not limit the Committee’s ability to commence serve markets consistent with federal funds
+monetary policy tightening promptly if evidence sug- trading in a range from 0 to ¼ percent. The
+gested that economic activity was accelerating markedly Committee directs the Desk to complete the
+or underlying inflation was rising notably; conversely, the execution of its purchases of about $1.25 tril-
+duration of the extended period prior to policy firming lion of agency MBS and of about $175 billion
+might last for quite some time and could even increase if in housing-related agency debt by the end of
+the economic outlook worsened appreciably or if trend March. The Committee directs the Desk to
+inflation appeared to be declining further. A few mem- engage in dollar roll transactions as necessary
+bers also noted that at the current juncture the risks of an to facilitate settlement of the Federal Reserve’s
+early start to policy tightening exceeded those associated agency MBS transactions. The System Open
+with a later start, because the Committee could be flexible Market Account Manager and the Secretary
+in adjusting the magnitude and pace of tightening in re- will keep the Committee informed of ongoing
+sponse to evolving economic circumstances; in contrast, developments regarding the System’s balance
+its capacity for providing further stimulus through con- sheet that could affect the attainment over
+ventional monetary policy easing continued to be con- time of the Committee’s objectives of maxi-
+strained by the effective lower bound on the federal funds mum employment and price stability.”
+rate.
+The vote encompassed approval of the statement below
+Members noted the importance of continued close moni- to be released at 2:15 p.m.:
+toring of financial markets and institutions—including
+“Information received since the Federal Open
+asset prices, levels of leverage, and underwriting stan-
+Market Committee met in January suggests
+dards—to help identify significant financial imbalances at
+that economic activity has continued to streng-
+an early stage. At the time of the meeting the information
+then and that the labor market is stabilizing.
+collected in this process, including that by supervisory
+Household spending is expanding at a mod-
+staff, had not revealed emerging misalignments in finan-
+erate rate but remains constrained by high un-
+cial markets or widespread instances of excessive risk-
+employment, modest income growth, lower
+taking. All members agreed that the Committee would
+housing wealth, and tight credit. Business
+continue to monitor the economic outlook and financial
+spending on equipment and software has risen
+developments and would employ its policy tools as neces-
+significantly. However, investment in nonresi-
+sary to promote economic recovery and price stability.
+dential structures is declining, housing starts
+In light of the improved functioning of financial markets, have been flat at a depressed level, and em-
+Committee members agreed that it would be appropriate ployers remain reluctant to add to payrolls.
+for the statement to be released following the meeting to While bank lending continues to contract, fi-
+indicate that the previously announced schedule for clos- nancial market conditions remain supportive
+
+--- Page 9 ---
+
+M i n u t e s o f t h e M e e t i n g o f M a r c h 1 6 , 2 0 1 0 Page 9
+of economic growth. Although the pace of Voting for this action: Ben Bernanke, William C. Dud-
+economic recovery is likely to be moderate for ley, James Bullard, Elizabeth Duke, Donald L. Kohn,
+a time, the Committee anticipates a gradual re- Sandra Pianalto, Eric Rosengren, Daniel K. Tarullo, and
+turn to higher levels of resource utilization in a Kevin Warsh.
+context of price stability.
+Voting against this action: Thomas M. Hoenig.
+With substantial resource slack continuing to
+Mr. Hoenig dissented because he believed it was no long-
+restrain cost pressures and longer-term infla-
+er advisable to indicate that economic and financial con-
+tion expectations stable, inflation is likely to be
+ditions were likely to warrant “exceptionally low levels of
+subdued for some time.
+the federal funds rate for an extended period.” Mr. Hoe-
+The Committee will maintain the target range nig was concerned that communicating such an expecta-
+for the federal funds rate at 0 to ¼ percent and tion could lead to the buildup of future financial imbal-
+continues to anticipate that economic condi- ances and increase the risks to longer-run macroeconomic
+tions, including low rates of resource utiliza- and financial stability. Accordingly, Mr. Hoenig believed
+tion, subdued inflation trends, and stable infla- that it would be more appropriate for the Committee to
+tion expectations, are likely to warrant excep- express its anticipation that economic conditions were
+tionally low levels of the federal funds rate for likely to warrant “a low level of the federal funds rate for
+an extended period. To provide support to some time.” Such a change in communication would
+mortgage lending and housing markets and to provide the Committee flexibility to begin raising rates
+improve overall conditions in private credit modestly. He further believed that making such an ad-
+markets, the Federal Reserve has been pur- justment to the Committee’s target for the federal funds
+chasing $1.25 trillion of agency mortgage- rate sooner rather than later would reduce longer-run
+backed securities and about $175 billion of risks to macroeconomic and financial stability while con-
+agency debt; those purchases are nearing com- tinuing to provide needed support to the economic re-
+pletion, and the remaining transactions will be covery.
+executed by the end of this month. The
+It was agreed that the next meeting of the Committee
+Committee will continue to monitor the eco-
+would be held on Tuesday-Wednesday, April 27-28, 2010.
+nomic outlook and financial developments and
+The meeting adjourned at 1:00 p.m. on March 16, 2010.
+will employ its policy tools as necessary to
+promote economic recovery and price stability. Notation Vote
+In light of improved functioning of financial By notation vote completed on February 16, 2010, the
+markets, the Federal Reserve has been closing Committee unanimously approved the minutes of the
+the special liquidity facilities that it created to FOMC meeting held on January 26-27, 2010.
+support markets during the crisis. The only
+remaining such program, the Term Asset-
+Backed Securities Loan Facility, is scheduled to
+close on June 30 for loans backed by new-issue
+_____________________________
+commercial mortgage-backed securities and on
+Brian F. Madigan
+March 31 for loans backed by all other types of
+Secretary
+collateral.”

@@ -1,0 +1,2969 @@
+# 20190918_minutes.pdf
+
+*Extracted on: 2025-08-20 16:39:23*
+*Pages: 32, Tables: 31*
+
+## Document Content
+
+--- Page 1 ---
+
+________________________________________________________________________________________P_a_g_e_ _1
+Minutes of the Federal Open Market Committee
+September 17–18, 2019
+A joint meeting of the Federal Open Market Committee Ann E. Misback, Secretary, Office of the Secretary,
+and the Board of Governors was held in the offices of Board of Governors
+the Board of Governors of the Federal Reserve System
+in Washington, D.C., on Tuesday, September 17, 2019, Eric Belsky,2 Director, Division of Consumer and
+at 10:15 a.m. and continued on Wednesday, Community Affairs, Board of Governors; Matthew
+September 18, 2019, at 9:00 a.m.1 J. Eichner,3 Director, Division of Reserve Bank
+Operations and Payment Systems, Board of
+PRESENT: Governors; Michael S. Gibson, Director, Division
+Jerome H. Powell, Chair of Supervision and Regulation, Board of
+John C. Williams, Vice Chair Governors; Andreas Lehnert, Director, Division of
+Michelle W. Bowman Financial Stability, Board of Governors
+Lael Brainard
+James Bullard Daniel M. Covitz, Deputy Director, Division of
+Richard H. Clarida Research and Statistics, Board of Governors;
+Charles L. Evans Michael T. Kiley, Deputy Director, Division of
+Esther L. George Financial Stability, Board of Governors; Trevor A.
+Randal K. Quarles Reeve, Deputy Director, Division of Monetary
+Eric Rosengren Affairs, Board of Governors
+Patrick Harker, Robert S. Kaplan, Neel Kashkari, Jon Faust, Senior Special Adviser to the Chair, Office
+Loretta J. Mester, and Michael Strine, Alternate of Board Members, Board of Governors
+Members of the Federal Open Market Committee
+Joshua Gallin, Special Adviser to the Chair, Office of
+Thomas I. Barkin, Raphael W. Bostic, and Mary C. Board Members, Board of Governors
+Daly, Presidents of the Federal Reserve Banks of
+Richmond, Atlanta, and San Francisco, respectively Brian M. Doyle, Wendy E. Dunn, Joseph W. Gruber,
+Ellen E. Meade, and Ivan Vidangos, Special
+James A. Clouse, Secretary Advisers to the Board, Office of Board Members,
+Matthew M. Luecke, Deputy Secretary Board of Governors
+David W. Skidmore, Assistant Secretary
+Michelle A. Smith, Assistant Secretary Linda Robertson, Assistant to the Board, Office of
+Mark E. Van Der Weide, General Counsel Board Members, Board of Governors
+Michael Held, Deputy General Counsel
+Steven B. Kamin, Economist Shaghil Ahmed, Senior Associate Director, Division of
+Thomas Laubach, Economist International Finance, Board of Governors
+Stacey Tevlin, Economist
+Antulio Bomfim, Jane E. Ihrig, and Edward Nelson,
+Rochelle M. Edge, Eric M. Engen, William Wascher, Senior Advisers, Division of Monetary Affairs,
+Jonathan L. Willis, and Beth Anne Wilson, Board of Governors; Jeremy B. Rudd, Senior
+Associate Economists Adviser, Division of Research and Statistics, Board
+of Governors
+Lorie K. Logan, Manager pro tem, System Open
+Market Account
+1 The Federal Open Market Committee is referenced as the 3 Attended through the discussion of developments in finan-
+“FOMC” and the “Committee” in these minutes. cial markets and open market operations.
+2 Attended through the discussion of the review of the mone-
+tary policy framework.
+
+--- Page 2 ---
+
+_P_ag_e_ _2_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+David López-Salido, Associate Director, Division of Kenneth C. Montgomery, First Vice President, Federal
+Monetary Affairs, Board of Governors; John J. Reserve Bank of Boston
+Stevens, Associate Director, Division of Research
+and Statistics, Board of Governors David Altig,2 Kartik B. Athreya, Michael Dotsey,
+Jeffrey Fuhrer,2 Sylvain Leduc, Simon Potter,7 and
+Andrew Figura and John M. Roberts, Deputy Associate Ellis W. Tallman, Executive Vice Presidents,
+Directors, Division of Research and Statistics, Federal Reserve Banks of Atlanta, Richmond,
+Board of Governors; Christopher J. Gust, Deputy Philadelphia, Boston, San Francisco, New York,
+Associate Director, Division of Monetary Affairs, and Cleveland, respectively
+Board of Governors; Matteo Iacoviello and Andrea
+Raffo,2 Deputy Associate Directors, Division of David Andolfatto, Marc Giannoni, Evan F. Koenig,2
+International Finance, Board of Governors; Jeffrey Paula Tkac, and Mark L.J. Wright, Senior Vice
+D. Walker,3 Deputy Associate Director, Division Presidents, Federal Reserve Banks of St. Louis,
+of Reserve Bank Operations and Payment Systems, Dallas, Dallas, Atlanta, and Minneapolis,
+Board of Governors respectively
+Zeynep Senyuz,4 Assistant Director, Division of Jonas Fisher, Giovanni Olivei, Giorgio Topa, and
+Monetary Affairs, Board of Governors Patricia Zobel, Vice Presidents, Federal Reserve
+Banks of Chicago, Boston, New York, and New
+Penelope A. Beattie,5 Assistant to the Secretary, Office York, respectively
+of the Secretary, Board of Governors
+Jonas Arias,2 Thorsten Drautzburg,2 and Leonardo
+Martin Bodenstein,2 Section Chief, Division of Melosi,2 Senior Economists, Federal Reserve Banks
+International Finance, Board of Governors of Philadelphia, Philadelphia, and Chicago,
+respectively
+David H. Small,6 Project Manager, Division of
+Monetary Affairs, Board of Governors Fernando Duarte,2 Financial Economist, Federal
+Reserve Bank of New York
+Hess T. Chung,2 Group Manager, Division of Research
+and Statistics, Board of Governors Review of Monetary Policy Strategy, Tools, and
+Communication Practices
+Jonathan E. Goldberg, Edward Herbst,2 and Benjamin Committee participants continued their discussions re-
+K. Johannsen, Principal Economists, Division of lated to the ongoing review of the Federal Reserve’s
+Monetary Affairs, Board of Governors monetary policy strategy, tools, and communication
+practices. Staff briefings provided an assessment of the
+Fabian Winkler,2 Senior Economist, Division of risk that the federal funds rate could, in some future
+Monetary Affairs, Board of Governors downturn, be constrained by the effective lower bound
+(ELB) and discussed options for mitigating the costs as-
+Randall A. Williams,2 Senior Information Manager, sociated with this constraint. The staff’s analysis sug-
+Division of Monetary Affairs, Board of Governors gested that the ELB would likely bind in most future re-
+cessions, which could make it more difficult for the
+James Hebden,2 Senior Technology Analyst, Division FOMC to achieve its longer-run objectives of maximum
+of Monetary Affairs, Board of Governors employment and symmetric 2 percent inflation. The
+staff discussed several options for mitigating ELB risks,
+Achilles Sangster II, Information Management Analyst, including using forward guidance and balance sheet pol-
+Division of Monetary Affairs, Board of Governors icies earlier and more aggressively than in the past.
+4 Attended the discussion of developments in financial mar- 6 Attended the discussion of the review of the monetary policy
+kets and open market operations. framework through the end of the meeting.
+5 Attended Tuesday’s session only. 7 Attended opening remarks for Tuesday session only.
+
+--- Page 3 ---
+
+___________________________M__i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ S_e_p_t_e_m_b_e_r_ 1_7_–_1_8_, _2_0_1_9______________________P__ag_e_ _3
+The staff also illustrated the properties of “makeup” perience with forward guidance and balance sheet poli-
+strategies using model simulations. Under such strate- cies would likely allow the Committee to deploy these
+gies, policymakers would promise to make up for past tools earlier and more aggressively in the event that they
+inflation shortfalls with a sustained accommodative were needed. A few indicated that the uncertainty about
+stance of policy that is intended to generate higher future the effectiveness of these policies was smaller than the
+inflation. These strategies are designed to provide ac- uncertainty surrounding the effectiveness of a makeup
+commodation at the ELB by keeping the policy rate low strategy.
+for an extended period in order to support an economic
+Participants generally agreed that the current framework
+recovery. Because of their properties both at and away
+also served the Committee well by providing a strong
+from the ELB, makeup strategies may also more firmly
+commitment to achieving the Committee’s maximum-
+anchor inflation expectations at 2 percent than a policy
+employment and symmetric inflation objectives. Such a
+strategy that does not compensate for past inflation
+commitment was seen as flexible enough to allow the
+misses. The staff analysis emphasized, however, that the
+Committee to choose policy actions that best support its
+benefits of makeup strategies depend importantly on the
+objectives in a wide array of economic circumstances.
+private sector’s understanding of these strategies and
+Because of the downside risk to inflation and employ-
+their confidence that future policymakers would follow
+ment associated with the ELB, most participants were
+through on promises to keep policy accommodative.
+open to the possibility that the dual-mandate objectives
+Participants generally agreed with the staff’s analysis that of maximum employment and stable prices could be
+the risk of future ELB episodes had likely increased over best served by strategies that deliver inflation rates that
+time, and that future ELB episodes and the reduced ef- over time are, on average, equal to the Committee’s
+fect of resource utilization on inflation could inhibit the longer-run objective of 2 percent. Promoting such out-
+Committee’s ability to achieve its employment and infla- comes may require aiming for inflation somewhat above
+tion objectives. The increased ELB risk was attributed 2 percent when the policy rate was away from the ELB,
+in part to structural changes in the U.S. economy that recognizing that inflation would tend to be lower than
+had lowered the longer-run real short-term interest rate 2 percent when the policy rate was constrained by the
+and thus the neutral level of the policy rate. In this con- ELB. Participants suggested several alternatives for do-
+text, a couple of participants noted that uncertainty ing so, including strategies that make up for past infla-
+about the neutral rate made it especially challenging to tion shortfalls and those that respond more aggressively
+determine any appropriate changes to the current frame- to below-target inflation than to above-target inflation.
+work. In light of a low neutral rate and shortfalls of in- In this context, several participants suggested that the
+flation below the 2 percent objective for several years, adoption of a target range for inflation could be helpful
+some participants raised the concern that the policy in achieving the Committee’s objective of 2 percent in-
+space to reduce the federal funds rate in response to fu- flation, on average, as it could help communicate to the
+ture recessions could be compressed further if inflation public that periods in which the Committee judged in-
+shortfalls continued and led to a decline in inflation ex- flation to be moderately away from its 2 percent objec-
+pectations, a risk that was also discussed in the staff anal- tive were appropriate. A couple of participants sug-
+ysis. These participants pointed to long, ongoing ELB gested analyzing policies in which there was a target
+spells in other major foreign economies and suggested range for inflation whose midpoint was modestly higher
+that, to avoid similar circumstances in the United States, than 2 percent or in which 2 percent was an inflation
+it was important to be aggressive when confronted with floor; these policies might enhance policymakers’ scope
+forces holding inflation below objective. A couple of to provide accommodation as appropriate when the
+participants judged that the lack of monetary policy neutral real interest rate was low.
+space abroad and the possibility that fiscal space in the
+Although ensuring inflation outcomes averaging 2 per-
+United States might be limited reinforced the case for
+cent over time was seen as important, many participants
+strengthening the FOMC’s monetary policy framework
+noted that the illustrated makeup strategies delivered
+as a matter of prudent planning.
+only modest benefits in the staff’s model simulations.
+With regard to the current monetary policy framework, These modest benefits in part reflected that the respon-
+participants agreed that this framework served the Com- siveness of inflation to resource slack had diminished,
+mittee well in the aftermath of the financial crisis. A making it more difficult to provide sufficient accommo-
+number of participants noted that the Committee’s ex- dation to push inflation back to the Committee’s objec-
+tive in a timely manner. Some participants suggested
+
+--- Page 4 ---
+
+_P_ag_e_ _4_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+that the modest effects were particularly pronounced us- the policy response in situations in which inflation had
+ing the FRB/US model and indicated the need for more been running above 2 percent amid signs of an impend-
+robustness analysis of simulation results along several di- ing economic downturn. Accordingly, these participants
+mensions and for further comparison to other alterna- favored makeup strategies that only reversed past infla-
+tive strategies. In addition, several participants noted tion shortfalls relative to makeup strategies that reversed
+that the implementation of the makeup strategies in the both past inflation shortfalls and past overruns.
+form of either average inflation targeting or price-level
+Participants continued to discuss the benefits of the
+targeting in the simulations was tied too rigidly to the
+Committee’s review of the monetary policy framework
+details of particular rules. An advantage of the current
+as well as the Committee’s Statement on Longer-Run
+framework over such alternative approaches is that it has
+Goals and Monetary Policy Strategy, which articulates
+provided the Committee with the flexibility to assess a
+the Committee’s approach to monetary policy. As they
+broad range of factors and information in choosing its
+did at their meeting in July, participants mentioned sev-
+policy actions, and these actions can vary depending on
+eral issues that this statement might possibly address.
+economic circumstances in order to best achieve the
+These issues included the conduct of monetary policy in
+Committee’s dual mandate. Similarly, makeup strategies
+the presence of the ELB constraint, the role of inflation
+could be implemented more flexibly in order to deliver
+expectations in the Committee’s pursuit of its inflation
+more accommodation during a future downturn and
+goal, the best means of conveying the Committee’s bal-
+through the subsequent recovery than what could be
+anced approach to monetary policy, the symmetry of its
+achieved with a mechanical makeup rule.
+inflation goal, and the time frame over which the Com-
+Participants also discussed a number of challenges asso- mittee aimed to achieve it. Participants expected that
+ciated with makeup strategies. Many participants ex- they would continue their deliberations on these and
+pressed reservations with the makeup strategies analyzed other topics pertinent to the review at upcoming meet-
+by the staff. Some participants raised the concern that ings. They also generally agreed that the Committee’s
+the effective use of the makeup strategies in the form of consideration of possible modifications to its policy
+the average inflation targeting and price-level targeting strategy, tools, and communication practices would take
+rules that the staff presented depended on future policy- some time, and that the process would be careful, delib-
+makers following through on commitments to keep pol- erate, and patient.
+icy accommodative for a long time. Such commitments
+Developments in Financial Markets and Open Mar-
+might be difficult for future policymakers to follow
+ket Operations
+through on, especially in situations in which the labor
+The manager pro tem first discussed developments in
+market was strong and inflation was above target. A few
+global financial markets over the intermeeting period.
+participants acknowledged that credibly committing to
+Global financial markets were volatile over the inter-
+makeup strategies posed challenges. However, they
+meeting period, with market participants reacting to in-
+pointed to the commitments that central banks around
+coming information about U.S.–China trade tensions
+the world made to inflation targeting as examples in
+and the global growth outlook. In the weeks following
+which similar challenges had been overcome. A couple
+the July FOMC meeting, U.S. yields declined sharply and
+of participants raised the concern that keeping policy
+risk asset prices fell amid a spate of largely negative news
+rates low for a long time could lead to excessive risk-
+about risks to the global economic outlook. These price
+taking in financial markets and threaten financial stabil-
+moves reversed to some degree in September as devel-
+ity. However, a couple of other participants judged that
+opments on trade and economic data turned more posi-
+macroprudential tools could be used to help ensure that
+tive. On net, Treasury yields remained substantially
+any overleveraging of households and firms did not
+lower, while the S&P 500 and corporate credit spreads
+threaten the financial system, while monetary policy
+reversed most or all of their earlier losses to end the pe-
+needed to be focused on achieving maximum employ-
+riod little changed.
+ment and symmetric 2 percent inflation. A few partici-
+pants viewed the communication challenges associated Even after the partial rebound in September, market-
+with average-inflation targeting strategies, including the and survey-based indicators of policy rate expectations
+difficulty of conveying the dangers of low inflation to suggested that investors viewed it as very likely that the
+the public, as greater than for some other strategies that Committee would ease policy further at this meeting. All
+use threshold-based forward guidance. Several partici- respondents from the Desk’s Survey of Primary Dealers
+pants noted that makeup strategies could unduly limit and Survey of Market Participants viewed a 25 basis
+
+--- Page 5 ---
+
+___________________________M__i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ S_e_p_t_e_m_b_e_r_ 1_7_–_1_8_, _2_0_1_9______________________P__ag_e_ _5
+point decrease in the target range as the most likely out- operation, rates in secured and unsecured markets de-
+come at this meeting. Looking beyond September, most clined sharply. Rates in secured markets were trading
+survey respondents expected another 25 basis point cut around 2.5 percent after the operation. Market partici-
+by year-end. Further out, while the median of respond- pants reportedly expected that additional temporary
+ents’ modal forecasts for the end of 2020 pointed to no open market operations would be necessary both over
+rate cuts next year, individual forecasts were much more subsequent days and around the end of the quarter.
+dispersed, with nearly half of respondents expecting at Many also reportedly expected another 5 basis point
+least one additional 25 basis point cut in 2020, and about technical adjustment of the IOER rate.
+one-fourth expecting two or more cuts. Market partici-
+By unanimous vote, the Committee ratified the Desk’s
+pants remained attentive to a range of global risk factors
+domestic transactions over the intermeeting period.
+that could affect the policy rate path, including trade ten-
+There were no intervention operations in foreign curren-
+sions between the United States and China, develop-
+cies for the System’s account during the intermeeting pe-
+ments in Europe, political tensions in Hong Kong, un-
+riod.
+certainties related to Brexit, and escalating geopolitical
+tension in the Middle East following attacks on Saudi oil Staff Review of the Economic Situation
+facilities. The information available for the September 17–18
+meeting indicated that labor market conditions remained
+The manager pro tem turned next to a discussion of
+strong and that real gross domestic product (GDP) ap-
+money market conditions. Money markets were stable
+peared to be increasing at a moderate rate in the third
+over most of the period, and the reduction in the interest
+quarter. Consumer price inflation, as measured by the
+on excess reserves (IOER) rate following the July
+12-month percentage change in the price index for per-
+FOMC meeting fully passed through to money market
+sonal consumption expenditures (PCE), was below
+rates. However, money markets became highly volatile
+2 percent in July. Survey-based measures of longer-run
+just before the September meeting, apparently spurred
+inflation expectations were little changed.
+partly by large corporate tax payments and Treasury set-
+tlements, and remained so through the time of the meet- Total nonfarm payroll employment expanded at a solid
+ing. In an environment of greater perceived uncertainty pace in July and August, although at a slower rate than
+about potential outflows related to the corporate tax in the first half of the year. (Separately, the Bureau of
+payment date, typical lenders in money markets were less Labor Statistics’ preliminary estimate of the upcoming
+willing to accommodate increased dealer demand for benchmark revision to payroll employment, which will
+funding. Moreover, some banks maintained reserve lev- be incorporated in the published data in February 2020,
+els significantly above those reported in the Senior Fi- indicated that the revised pace of average monthly job
+nancial Officer Survey about their lowest comfortable gains from April 2018 to March 2019 would be notably
+level of reserves rather than lend in repo markets. slower than in the current published data.) The unem-
+Money market mutual funds reportedly also held back ployment rate remained at 3.7 percent through August,
+some liquidity in order to cushion against potential out- and both the labor force participation rate and the em-
+flows. Rates on overnight Treasury repurchase agree- ployment-to-population ratio moved up. The unem-
+ments rose to over 5 percent on September 16 and above ployment rates for African Americans and Hispanics de-
+8 percent on September 17. clined over July and August, while the rates for whites
+and Asians increased; the unemployment rate for each
+Highly elevated repo rates passed through to rates in un-
+group was below its level at the end of the previous eco-
+secured markets. Federal Home Loan Banks reportedly
+nomic expansion, though persistent differentials be-
+scaled back their lending in the federal funds market in
+tween these rates remained. The average share of work-
+order to maintain some liquidity in anticipation of higher
+ers employed part time for economic reasons in July and
+demand for advances from their members and to shift
+August continued to be below its level in late 2007. Both
+more of their overnight funding into repo. In this envi-
+the rate of private-sector job openings and the rate of
+ronment, the effective federal funds rate (EFFR) rose to
+quits moved roughly sideways in June and July and were
+the top of the target range on September 16. The fol-
+still at relatively high levels; the four-week moving aver-
+lowing morning, in accordance with the FOMC’s di-
+age of initial claims for unemployment insurance bene-
+rective to the Desk to foster conditions to maintain the
+fits through early September was near historically low
+EFFR in the target range, the Desk conducted overnight
+levels. Total labor compensation per hour in the busi-
+repurchase operations for up to $75 billion. After the
+ness sector increased 4.4 percent over the four quarters
+
+--- Page 6 ---
+
+_P_ag_e_ _6_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+ending in the second quarter, a faster rate than a year falling back in July. Building permit issuance for new
+earlier. Average hourly earnings for all employees rose single-family homes—which tends to be a good indica-
+3.2 percent over the 12 months ending in August, the tor of the underlying trend in construction of such
+same pace as a year earlier. homes—was higher in July and August than its second-
+quarter average. Sales of existing homes rose modestly
+Total consumer prices, as measured by the PCE price
+in July, while new home sales declined following an out-
+index, increased 1.4 percent over the 12 months ending
+sized increase in June.
+in July. This increase was slower than a year earlier, as
+core PCE price inflation (which excludes changes in Real nonresidential private fixed investment looked to
+consumer food and energy prices) moved down to be declining further in the third quarter. Nominal ship-
+1.6 percent, consumer food price inflation remained be- ments of nondefense capital goods excluding aircraft de-
+low core inflation, and consumer energy prices declined. creased in July, and forward-looking indicators generally
+The average monthly change in core PCE prices in re- pointed to continued softness in business equipment
+cent months was faster than earlier this year, suggesting spending. Orders for nondefense capital goods exclud-
+that the soft inflation readings during the earlier period ing aircraft increased in June but were still below the
+were transitory. The trimmed mean measure of level of shipments, most measures of business sentiment
+12-month PCE price inflation constructed by the Fed- deteriorated, analysts’ expectations of firms’ longer-term
+eral Reserve Bank of Dallas remained at 2 percent in profit growth declined further, and trade policy concerns
+July. The consumer price index (CPI) rose 1.7 percent continued to weigh on firms’ investment decisions.
+over the 12 months ending in August, while core CPI Nominal business expenditures for nonresidential struc-
+inflation was 2.4 percent. Recent survey-based measures tures outside the drilling and mining sector decreased in
+of longer-run inflation expectations were little changed July, and the number of crude oil and natural gas rigs in
+on balance. The preliminary September reading from operation—an indicator of business spending for struc-
+the University of Michigan Surveys of Consumers tures in the drilling and mining sector—continued to de-
+dipped after edging up in August, but it remained within cline through mid-September.
+its recent range; the measures of longer-run inflation ex-
+Industrial production increased modestly, on net, over
+pectations from the Desk’s Survey of Primary Dealers
+July and August, but production remained notably lower
+and Survey of Market Participants were little changed.
+than at the beginning of the year. Automakers’ assembly
+Real consumer expenditures appeared to be rising solidly schedules indicated that the production of light motor
+in the third quarter after expanding strongly in the sec- vehicles would be roughly flat in the near term (although
+ond quarter. Real PCE rose briskly in July, while the the labor strike at General Motors was expected to tem-
+components of the nominal retail sales data used by the porarily disrupt vehicle production), while new orders
+Bureau of Economic Analysis (BEA) to estimate PCE indexes from national and regional manufacturing sur-
+were flat in August and the rate of sales of light motor veys and a persistent drag from trade tariffs pointed to-
+vehicles only edged up, suggesting some slowing in con- ward continued softness in factory output in coming
+sumer spending growth in the third quarter from its months.
+strong second-quarter pace. Key factors that influence
+Total real government purchases appeared to be rising
+consumer spending—including a low unemployment
+at a slower pace in the third quarter than in the second
+rate, further gains in real disposable income, high levels
+quarter. Federal defense spending over July and August
+of households’ net worth, and generally low borrowing
+decelerated, and federal hiring of temporary workers for
+rates—were supportive of solid real PCE growth in the
+next year’s decennial census was modest in August.
+near term. The preliminary September reading on the
+State and local government payrolls rose moderately
+Michigan survey measure of consumer sentiment picked
+over July and August, and nominal spending by these
+up a little after weakening notably in August, although
+governments on structures in July was below its second-
+the Conference Board survey measure of consumer con-
+quarter average.
+fidence did not show a similar decline in August.
+The nominal U.S. international trade deficit remained
+Real residential investment seemed to be picking up a
+about unchanged in June before narrowing in July. Ex-
+little in the third quarter after declining over the previous
+ports, which had been soft over most of the past year,
+year and a half. Starts of new single-family homes were
+declined sharply in June but partially rebounded in July.
+higher in July and August than the second-quarter aver-
+This pattern was particularly notable in exports of non-
+age, and starts of multifamily units rose in August after
+aircraft capital goods and consumer goods. Imports also
+
+--- Page 7 ---
+
+___________________________M__i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ S_e_p_t_e_m_b_e_r_ 1_7_–_1_8_, _2_0_1_9______________________P__ag_e_ _7
+declined sharply in June and then declined a little further Measures of expectations of the near- and medium-term
+in July. Imports of oil and consumer goods fell in June, path for the federal funds rate were particularly sensitive
+while imports of capital goods dropped significantly in to news about U.S.–China trade tensions, while FOMC
+July. The BEA estimated that the change in net exports communications had only modest effects on market-
+was a drag of about ¾ percentage point on real GDP based measures of policy rate expectations. A straight
+growth in the second quarter. read of the option-implied probability distribution of the
+federal funds rate suggested that the odds investors at-
+Foreign economic growth remained subdued in the sec-
+tached to a 25 basis point reduction in the target range
+ond quarter. Growth picked up in Canada as oil produc-
+of the federal funds rate at the September FOMC meet-
+tion rebounded, but growth slowed sharply in Europe
+ing increased from about 50 percent at the time of the
+amid a downturn in manufacturing activity and persis-
+July FOMC meeting to 90 percent by the end of the in-
+tent policy-related uncertainty. Growth also slowed in
+termeeting period. Respondents to the Desk’s Survey of
+China and India. Recent indicators suggested wide-
+Primary Dealers and Survey of Market Participants as-
+spread weakness in manufacturing abroad even as ser-
+signed, on average, similarly high odds to a rate decrease
+vices activity appeared to be holding up relatively well.
+at the September FOMC meeting. In addition, market-
+Foreign inflation rose in the second quarter, pushed up
+implied expectations for the federal funds rate at year-
+by earlier increases in oil prices as well as by rising food
+end and beyond moved down. A straight read of OIS
+prices in some emerging economies. However, data on
+(overnight index swap) forward rates suggested that in-
+foreign core consumer prices showed little sign of un-
+vestors expected the federal funds rate to decline about
+derlying inflationary pressures abroad. Late in the inter-
+45 basis points by year-end, to a level nearly 10 basis
+meeting period, an attack on a key oil facility in Saudi
+points lower than was expected at the time of the July
+Arabia disrupted Saudi oil production and caused an in-
+FOMC meeting, and to decrease an additional roughly
+itial spike in prices on near-dated oil futures contracts.
+45 basis points by the end of 2020.
+Staff Review of the Financial Situation
+Nominal Treasury yields decreased, on net, over the in-
+Financial market developments over the intermeeting
+termeeting period, with longer-term yields falling the
+period were driven by an escalation in international trade
+most. The spread between 10-year and 3-month Treas-
+tensions, growing concerns about the global economic
+ury yields became a bit more negative, while the spread
+growth outlook, and the prospect of more policy accom-
+between 10-year and 2-year Treasury yields turned neg-
+modation by central banks. Nominal Treasury yields
+ative for the first time since 2007 and fluctuated around
+posted very large declines in August as investors reacted
+zero until the September FOMC meeting. Measures of
+to the U.S. Administration’s announcement of addi-
+inflation compensation derived from Treasury Inflation-
+tional tariffs on Chinese goods, along with the deprecia-
+Protected Securities declined on net.
+tion of the Chinese renminbi through the perceived
+threshold of 7 renminbi per U.S. dollar and the associ- Broad stock price indexes decreased slightly, on net,
+ated implications of these actions for the global eco- over the intermeeting period amid heightened volatility.
+nomic outlook. Treasury yields partially rebounded fol- The escalation of trade tensions between China and the
+lowing better-than-expected incoming economic data in United States weighed on equity prices, but investors’
+the United States and abroad, a perceived reduction in expectations that major central banks would shift toward
+the probability of a no-deal Brexit, and some positive more accommodative monetary policies provided some
+headlines about trade policy. The market-implied path support. Equity prices were also boosted by better-than-
+of the federal funds rate shifted down on net. Broad anticipated corporate earnings and retail-sector data.
+equity price indexes were down as much as 6 percent in Stock prices of firms with high exposure to China un-
+early August but almost fully recovered by the end of the derperformed the broader market somewhat, as did
+intermeeting period. Spreads on investment-grade cor- bank stocks amid downward revisions to banks’ earnings
+porate bonds widened modestly, while those on specu- forecasts. Conversely, the stock prices of utilities and
+lative-grade corporate bonds were little changed on net. real estate firms increased noticeably, reportedly benefit-
+Financing conditions for businesses and households ing from demand by investors reaching for less cyclical
+were largely unaffected by the intermeeting turbulence and higher-yielding assets. One-month option-implied
+in financial markets and remained generally supportive volatility on the S&P 500 index—the VIX—was little
+of spending and economic activity. changed, on net, over the intermeeting period and re-
+mained at the lower end of its historical distribution after
+retracing a sharp increase in early August.
+
+--- Page 8 ---
+
+_P_ag_e_ _8_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Despite the volatility in many domestic and global finan- domestic firms in August amid increased market volatil-
+cial markets over the intermeeting period, conditions in ity, but several deals were expected to be completed in
+domestic short-term funding markets remained stable the coming months. On balance, the credit quality of
+until the Monday before the September FOMC meeting, nonfinancial corporations weakened slightly, with the
+when flows associated with a combination of corporate volume of nonfinancial corporate bond downgrades
+tax payments and Treasury coupon securities settle- modestly outpacing that of upgrades in recent months.
+ments led to significant tightening of conditions, partic- Credit conditions for both small businesses and munici-
+ularly for overnight funding. The EFFR rose to the top palities remained accommodative on balance.
+of the target range on September 16 and exceeded it by
+In the commercial real estate (CRE) sector, financing
+5 basis points on September 17, after which funding
+conditions remained generally accommodative. Bank
+pressures eased somewhat following the Desk’s open
+CRE loan growth slowed moderately since the second
+market operations. On net, the EFFR averaged
+quarter, driven by slower growth in loans secured by
+2.14 percent over the current intermeeting period, with
+nonfarm nonresidential properties. The volume of
+the spread to the IOER rate down a bit relative to the
+agency and non-agency commercial mortgage-backed
+previous intermeeting period.
+securities issuance was slightly weaker in July and August
+Early in the intermeeting period, bond yields in the ad- than in the same period last year, though industry ana-
+vanced foreign economies (AFEs) plunged and foreign lysts reportedly anticipated that issuance would soon
+equities declined notably following an increase in U.S.– pick up in response to recent declines in interest rates.
+China trade tensions. Some weakness in foreign eco-
+Financing conditions in the residential mortgage market
+nomic data, growing concerns about global growth, and
+eased over the intermeeting period. Residential mort-
+the prospect of more monetary policy accommodation
+gage rates declined less than long-term Treasury yields,
+abroad contributed to further declines in yields. Later in
+as the increase in prepayment risk and the rise in implied
+the period, AFE yields partially rebounded and foreign
+interest rate volatility reportedly reduced the demand for
+equity prices fully recovered on some easing of U.S.–
+mortgage-backed securities. Home-purchase origina-
+China trade tensions, as well as perceptions of reduced
+tions and refinancing originations both rose.
+political uncertainty in the United Kingdom and Italy.
+Financial market reactions were mixed after the Euro- Financing conditions in consumer credit markets re-
+pean Central Bank (ECB) announced a package of policy mained generally supportive of growth in consumer
+easing measures, including a rate cut on deposits at the spending, although supply conditions continued to be
+ECB, resumption of its asset purchase program, and tight for subprime credit card borrowers. Consumer
+more favorable terms for longer-term lending to banks. credit expanded at a moderate pace in the second quarter
+overall, with bank credit data pointing to continued
+The dollar appreciated against emerging market curren-
+growth through July and August. In consumer asset-
+cies but was little changed, on balance, against AFE cur-
+backed securities markets, issuance was solid, and
+rencies, leaving the broad dollar index slightly higher.
+spreads remained at relatively low levels, though some-
+Emerging market sovereign bond spreads widened no-
+what above their post-crisis averages.
+tably. The Argentine peso depreciated sharply and Ar-
+gentine sovereign yields soared following the defeat of Staff Economic Outlook
+the current pro-market president in the primary election The projection for U.S. economic activity prepared by
+and the subsequent announcement of plans for debt re- the staff for the September FOMC meeting was little
+structuring and the imposition of capital controls. changed in the near term; real GDP growth was still
+forecast to be slower in the second half of the year than
+Financing conditions for nonfinancial businesses re-
+in the first half, mostly attributable to continued soft
+mained accommodative. Overall issuance of corporate
+business investment and a slower increase in govern-
+bonds was solid in August, driven by resilient invest-
+ment spending. The projection for real GDP growth
+ment-grade issuance. While speculative-grade corporate
+over the medium term was a bit weaker than the previ-
+bond issuance was somewhat subdued in August, it was
+ous forecast, primarily reflecting the effects of a higher
+comparable to that seen over the same period in 2018.
+projected path for the foreign exchange value of the dol-
+Growth of commercial and industrial loans at banks
+lar and a lower trajectory for economic growth abroad,
+ticked up, driven by faster growth at large domestic
+which were partially offset by a lower assumed path for
+banks. There were no initial public equity offerings by
+interest rates. Real GDP was forecast to expand at a rate
+a little above the staff’s estimate of potential output
+
+--- Page 9 ---
+
+___________________________M__i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ S_e_p_t_e_m_b_e_r_ 1_7_–_1_8_, _2_0_1_9______________________P__ag_e_ _9
+growth in 2019 and 2020 and then slow to a pace slightly over the longer run, based on their individual assess-
+below potential output growth in 2021 and 2022. The ments of the appropriate path for the federal funds rate.
+unemployment rate was projected to be roughly flat The longer-run projections represented each partici-
+through 2022 and to remain below the staff’s estimate of pant’s assessment of the rate to which each variable
+its longer-run natural rate, which was revised down a lit- would be expected to converge, over time, under appro-
+tle. In addition, the staff revised up its estimate of the priate monetary policy and in the absence of further
+level of trend productivity in recent years after incorpo- shocks to the economy. These projections are described
+rating the BEA’s recent annual revisions to the national in the Summary of Economic Projections, which is an
+income and product accounts. Both of these supply-side addendum to these minutes.
+adjustments led to a somewhat higher projected path for
+Participants agreed that the labor market had remained
+potential output, implying that estimates of current and
+strong over the intermeeting period and that economic
+projected resource utilization were less tight than the
+activity had risen at a moderate rate. Job gains had been
+staff previously assumed.
+solid, on average, in recent months, and the unemploy-
+The staff’s forecast of total PCE price inflation for this ment rate had remained low. Although household
+year was revised down somewhat, reflecting slightly spending had risen at a strong pace, business fixed in-
+lower projected paths for consumer food and energy vestment and exports had weakened. On a 12-month
+prices, along with a little lower forecast for core PCE basis, overall inflation and inflation for items other than
+prices. The core PCE price inflation forecast for this food and energy were running below 2 percent. Market-
+year was revised down to reflect recent data as well as based measures of inflation compensation remained
+downward-revised data for earlier in the year from the low; survey-based measures of longer-term inflation ex-
+BEA’s annual revision. Both total and core inflation pectations were little changed.
+were projected to move up slightly next year, as the low
+Participants generally viewed the baseline economic out-
+readings early this year were expected to be transitory;
+look as positive and indicated that their views of the
+nevertheless, both inflation measures were forecast to
+most likely outcomes for economic activity and inflation
+continue to run below 2 percent through 2022.
+had changed little since the July meeting. However, for
+The staff continued to view the uncertainty around its most participants, that economic outlook was premised
+projections for real GDP growth, the unemployment on a somewhat more accommodative path for policy
+rate, and inflation as generally similar to the average of than in July. Participants generally had become more
+the past 20 years. Moreover, the staff still judged that concerned about risks associated with trade tensions and
+the risks to the forecast for real GDP growth were tilted adverse developments in the geopolitical and global eco-
+to the downside, with a corresponding skew to the up- nomic spheres. In addition, inflation pressures contin-
+side for the unemployment rate. Important factors in ued to be muted. Many participants expected that real
+that assessment were that international trade tensions GDP growth would moderate to around its potential
+and foreign economic developments seemed more likely rate in the second half of the year. Participants agreed
+to move in directions that could have significant nega- that consumer spending was increasing at a strong pace.
+tive effects on the U.S. economy than to resolve more They also expected that, in the period ahead, household
+favorably than assumed. In addition, softness in busi- spending would likely remain on a firm footing, sup-
+ness investment and manufacturing so far this year was ported by strong labor market conditions, rising in-
+seen as pointing to the possibility of a more substantial comes, and accommodative financial conditions. Sev-
+slowing in economic growth than the staff projected. eral participants indicated that the housing sector was
+The risks to the inflation projection were also viewed as starting to rebound, stimulated by a significant decline in
+having a downward skew, in part because of the down- mortgage rates. With regard to the contrast between ro-
+side risks to the forecast for economic activity bust consumption growth and weak investment growth,
+several participants mentioned that uncertainties in the
+Participants’ Views on Current Conditions and the
+business outlook and sustained weak investment could
+Economic Outlook
+eventually lead to slower hiring, which, in turn, could
+In conjunction with this FOMC meeting, members of
+damp the growth of income and consumption.
+the Board of Governors and Federal Reserve Bank pres-
+idents submitted their projections of the most likely out- In their discussion of the business sector, participants
+comes for real GDP growth, the unemployment rate, saw trade tensions and concerns about the global out-
+and inflation for each year from 2019 through 2022 and
+
+--- Page 10 ---
+
+_P_ag_e_ _1_0____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+look as the main factors weighing on business invest- firms were also reluctant to raise wages because of their
+ment, exports, and manufacturing production. Partici- limited pricing power, while others thought the wages
+pants judged that trade uncertainty and global develop- they were offering were in line with the skill sets of the
+ments would continue to affect firms’ investment spend- workers available to fill new positions. Participants gen-
+ing, and that this uncertainty was discouraging them erally viewed overall wage growth as broadly consistent
+from investing in their businesses. A couple of partici- with modest average rates of labor productivity growth
+pants noted that businesses had the capacity to adjust to in recent years and as exerting little upward pressure on
+ongoing uncertainty concerning trade, and some firms inflation. A couple of participants noted that, with in-
+were reconfiguring supply chains and making logistical flationary pressures remaining muted and wage growth
+arrangements as part of contingency planning to mitigate moderate even as employment and spending expanded
+the effects of trade tensions on their businesses. further, they had again adjusted downward their esti-
+mates of the longer-run normal unemployment rate.
+Participants discussed developments in the manufactur-
+ing and the agricultural sectors of the U.S. economy. In their discussion of inflation developments, partici-
+Manufacturing production remained lower than at the pants noted that, despite a recent firming in the incom-
+beginning of the year, and recent indicators suggested ing data, readings on overall and core PCE inflation had
+that conditions were unlikely to improve materially over continued to run below the Committee’s symmetric
+the near term. Participants saw the ongoing global slow- 2 percent objective. Furthermore, in light of weakness
+down and trade uncertainty as contributing importantly in the global economy, perceptions of downside risks to
+to these declines. A few participants noted ongoing growth, and subdued inflation pressures, some partici-
+challenges in the agricultural sector, including those as- pants continued to view the risks to the outlook for in-
+sociated with tariffs, weak export demand, and more in- flation as weighted to the downside. Some participants,
+tense financial burdens arising from the increase in car- however, saw the recent inflation data as consistent with
+ryover debt in preceding years. Participants commented their previous assessment that much of the weakness
+on the potential disruption to global oil production aris- seen early in the year was transitory. In this connection,
+ing from the attack on Saudi Arabia’s facilities. several participants noted that recent monthly readings,
+notably for CPI inflation, seemed broadly consistent
+Participants judged that conditions in the labor market
+with the Committee’s longer-run inflation objective of
+remained strong, with the unemployment rate near his-
+2 percent, while the trimmed mean measure of PCE in-
+torical lows and continued solid job gains, on average, in
+flation, constructed by the Federal Reserve Bank of Dal-
+recent months. The labor force participation rate of
+las, remained at 2 percent in July.
+prime-age individuals, especially of prime-age women,
+moved up in August, continuing its upward trajectory, In their discussion of the outlook for inflation, partici-
+and the unemployment rate of African Americans fell to pants generally agreed that, under appropriate policy, in-
+its lowest rate on record. However, a number of partic- flation would move up to the Committee’s 2 percent ob-
+ipants noted that, although the labor market was clearly jective over the medium term. Participants saw inflation
+in a strong position, the preliminary benchmark revision expectations as reasonably well anchored, but many par-
+by the Bureau of Labor Statistics indicated that payroll ticipants observed that market-based measures of infla-
+employment gains would likely show less momentum tion compensation and some survey measures of con-
+coming into this year when the revisions are incorpo- sumers’ inflation expectations were at historically low
+rated in published data early next year. A few partici- levels. Some of these participants further noted that
+pants observed that it would be important to be vigilant longer-term inflation expectations could be somewhat
+in monitoring incoming data for any sign of softening in below levels consistent with the Committee’s 2 percent
+labor market conditions. That said, reports from busi- inflation objective, or that continued weakness in infla-
+ness contacts in many Districts pointed to continued tion could prompt expectations to drift lower.
+strong labor demand, with some firms still reporting dif-
+Participants generally judged that downside risks to the
+ficulties finding qualified workers and others broadening
+outlook for economic activity had increased somewhat
+their recruiting to include traditionally marginalized
+since their July meeting, particularly those stemming
+groups. In some Districts, employers were also expand-
+from trade policy uncertainty and conditions abroad. In
+ing training and provision of nonwage benefits, which
+addition, although readings on the labor market and the
+could help sustain their expansion of hiring against a
+overall economy continued to be strong, a clearer picture
+background of a very tight national labor market without
+spurring above-trend aggregate wage growth. Some
+
+--- Page 11 ---
+
+___________________________M__i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ S_e_p_t_e_m_b_e_r_ 1_7_–_1_8_, _2_0_1_9_____________________P__ag_e_ _1_1
+of protracted weakness in investment spending, manu- Participants noted that there had been little change in
+facturing production, and exports had emerged. Partic- their economic outlook since the July meeting and that
+ipants also noted that there continued to be a significant incoming data had continued to suggest that the pace of
+probability of a no-deal Brexit, and that geopolitical ten- economic expansion was consistent with the mainte-
+sions had increased in Hong Kong and the Middle East. nance of strong labor market conditions. However, a
+Several participants commented that, in the wake of this couple of participants pointed out that data revisions an-
+increase in downside risk, the weakness in business nounced in recent months implied that the economy had
+spending, manufacturing, and exports could give rise to likely entered the year with somewhat less momentum
+slower hiring, a development that would likely weigh on than previously thought. In addition, data received since
+consumption and the overall economic outlook. Several July had confirmed the weakening in business fixed in-
+participants noted that statistical models designed to vestment and exports. One risk that the economy faced
+gauge the probability of recession, including those based was that the softness recorded of late in firms’ capital
+on information from the yield curve, suggested that the formation, manufacturing, and exporting activities
+likelihood of a recession occurring over the medium might spread to their hiring decisions, with adverse im-
+term had increased notably in recent months. However, plications for household income and spending. Partici-
+a couple of these participants stressed the difficulty of pants observed that such an eventuality was not embed-
+extracting the right signal from these probability models, ded in their baseline outlook; however, a couple of them
+especially in the current period of unusually low levels of indicated that this was partly because they assumed that
+term premiums. an appropriate adjustment to the policy rate path would
+help forestall that eventuality. Several also noted that,
+With regard to developments in financial markets, par-
+because monetary policy actions affected economic ac-
+ticipants noted that longer-term U.S. Treasury rates had
+tivity with a lag, it was appropriate to provide the requi-
+been volatile over the intermeeting period but, on net,
+site policy accommodation now to support economic ac-
+had registered a sizable decline. Participants observed
+tivity over coming quarters.
+that a key source of downward pressure on Treasury
+rates arose from flight-to-safety flows, driven by down- Participants favoring a modest adjustment to the stance
+side risks to global growth, escalating trade tensions, and of monetary policy at this juncture cited other risks to
+disappointing global data. Low interest rates abroad the economic outlook that further underscored the case
+were also considered an important influence on U.S. for such a move. As their discussion of risks had high-
+longer-term rates. Participants expressed a range of lighted, downside risks had become more pronounced
+views about the implications of low longer-term Treas- since July: Trade uncertainty had increased, prospects
+ury rates. Some participants judged that a prolonged in- for global growth had become more fragile, and various
+version of the yield curve could be a matter of concern. intermeeting developments had intensified geopolitical
+Participants also noted that equity prices had exhibited risks. Against this background, risk-management con-
+volatility but had been largely flat, on balance, over the siderations implied that it would be prudent for the
+intermeeting period. Several participants cited consider- Committee to adopt a somewhat more accommodative
+ations that led them to be concerned about financial sta- stance of policy. In addition, a number of participants
+bility, including low risk spreads and a buildup of corpo- suggested that a reduction at this meeting in the target
+rate debt, corporate stock buybacks financed through range for the federal funds rate would likely better align
+low-cost leverage, and the pace of lending in the CRE the target range with a variety of indicators of the appro-
+market. However, several others pointed to signs that priate policy stance, including those based on estimates
+the financial system remained resilient. of the neutral interest rate. A few participants observed
+that the considerations favoring easing were reinforced
+In their consideration of the monetary policy options at
+by the proximity of the federal funds rate to the ELB. If
+this meeting, most participants believed that a reduction
+policymakers provided adequate accommodation while
+of 25 basis points in the target range for the federal funds
+still away from the ELB, this course of action would help
+rate would be appropriate. In discussing the reasons for
+forestall the possibility of a prolonged ELB episode.
+such a decision, these participants pointed to considera-
+tions related to the economic outlook, risk management, Many participants also cited the level of inflation or in-
+and the need to center inflation and inflation expecta- flation expectations as justifying a reduction of 25 basis
+tions on the Committee’s longer-run objective of 2 per- points in the federal funds rate at this meeting. Inflation
+cent. had generally fallen short of the Committee’s objective
+
+--- Page 12 ---
+
+_P_ag_e_ _1_2____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+for several years and, notwithstanding some stronger re- move would help reduce the risk of an economic down-
+cent monthly readings on inflation, the 12-month rate turn and would more appropriately recognize important
+was still below 2 percent. Some estimates of trend infla- recent developments, such as slowing job gains, weaken-
+tion were also below 2 percent. Several participants ad- ing investment, and continued low values of market-
+ditionally stressed that survey measures of longer-term based measures of inflation compensation. In addition,
+inflation expectations and market-based measures of in- these participants stressed the need for a policy stance—
+flation compensation were near historical lows and that possibly one using enhanced forward guidance—that
+these values pointed to the possibility that inflation ex- was sufficiently accommodative to make it unlikely that
+pectations were below levels consistent with the 2 per- the United States would experience a protracted period
+cent objective or could soon fall below such levels. of the kind seen abroad in which the economy became
+Against this backdrop, participants suggested that a pol- mired in a combination of undesirably low inflation,
+icy easing would help underline policymakers’ commit- weak economic activity, and near-zero policy rates. They
+ment to the symmetric 2 percent longer-run objective. also argued that it was desirable for the Committee to
+With inflation pressures muted and U.S. inflation likely seek and maintain a level of accommodation sufficient
+being weighed down by global disinflationary forces, to deliver inflation at 2 percent on a sustained basis and
+policymakers saw little chance of an outsized increase in that such a policy would be consistent with inflation ex-
+inflation in response to additional policy accommoda- ceeding 2 percent for a time.
+tion and argued that such an increase, should it occur,
+With regard to monetary policy beyond this meeting,
+could be addressed in a straightforward manner using
+participants agreed that policy was not on a preset course
+conventional monetary policy tools.
+and would depend on the implications of incoming in-
+Several participants favored maintaining the existing tar- formation for the evolution of the economic outlook. A
+get range for the federal funds rate at this meeting. few participants judged that the expectations regarding
+These participants suggested that the baseline projection the path of the federal funds rate implied by prices in
+for the economy had changed very little since the Com- financial markets were currently suggesting greater pro-
+mittee’s previous meeting and that the state of the econ- vision of accommodation at coming meetings than they
+omy and the economic outlook did not justify a shift saw as appropriate and that it might become necessary
+away from the current policy stance, which they felt was for the Committee to seek a better alignment of market
+already adequately accommodative. They acknowledged expectations regarding the policy rate path with policy-
+the uncertainties that currently figured importantly in makers’ own expectations for that path. Several partici-
+evaluations of the economic outlook, but they con- pants suggested that the Committee’s postmeeting state-
+tended that the key uncertainties were unlikely to be re- ment should provide more clarity about when the recal-
+solved soon. Furthermore, as they did not believe that ibration of the level of the policy rate in response to
+these uncertainties would derail the expansion, they did trade uncertainty would likely come to an end.
+not see further policy accommodation as needed at this
+Participants’ Discussion of Recent Money Market
+time. Changes in the stance of policy, they believed,
+Developments
+should instead occur only when the macroeconomic
+The manager pro tem provided a summary of the most
+data readily justified those moves. In this connection, a
+recent developments in money markets. Open market
+couple of participants suggested that, if it decided to pro-
+operations conducted on the previous day had helped to
+vide more policy accommodation at the present junc-
+ease strains in money markets, but the EFFR had none-
+ture, the Committee might be taking out too much in-
+theless printed 5 basis points above the top of the target
+surance against possible future shocks, leaving monetary
+range. With significant pressures still evident in repo
+policy with less scope to boost aggregate demand in the
+markets and the federal funds market, and in accordance
+event that such shocks materialized. A few of the par-
+with the FOMC’s directive to maintain the federal funds
+ticipants favoring an unchanged target range for the fed-
+rate within the target range, the Desk conducted another
+eral funds rate also expressed concern that an easing of
+repo operation on the morning of the second day of the
+monetary policy at this meeting could exacerbate finan-
+meeting. The staff presented a proposal to lower the
+cial imbalances.
+IOER rate and the overnight reverse repurchase agree-
+A couple of participants indicated their preference for a ment rate by 5 basis points, relative to the target range
+50 basis point cut in the federal funds rate at this meet- for the federal funds rate, in order to foster trading of
+ing. These participants suggested that a larger policy federal funds within the target range.
+
+--- Page 13 ---
+
+___________________________M__i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ S_e_p_t_e_m_b_e_r_ 1_7_–_1_8_, _2_0_1_9_____________________P__ag_e_ _1_3
+Participants agreed that developments in money markets these members observed that, because monetary policy
+over recent days implied that the Committee should actions affected aggregate spending with a lag, the pre-
+soon discuss the appropriate level of reserve balances sent meeting was an appropriate occasion for providing
+sufficient to support efficient and effective implementa- accommodation that would support economic activity in
+tion of monetary policy in the context of the ample-re- the period ahead. Two members preferred to maintain
+serves regime that the Committee had chosen. A few the current target range for the federal funds rate at this
+participants noted the possibility of resuming trend meeting. These members noted that economic data re-
+growth of the balance sheet to help stabilize the level of ceived over the intermeeting period had been largely
+reserves in the banking system. Participants agreed that positive and that they anticipated, under an unchanged
+any Committee decision regarding the trend pace of bal- policy stance, continued strong labor markets and solid
+ance sheet expansion necessary to maintain a level of re- growth in activity, with inflation gradually moving up to
+serve balances appropriate to facilitate policy implemen- the Committee’s 2 percent objective. These members
+tation should be clearly distinguished from past large- also suggested that providing further accommodation
+scale asset purchase programs that were aimed at altering during a period of high economic activity and elevated
+the size and composition of the Federal Reserve’s asset asset prices could have adverse consequences for finan-
+holdings in order to provide monetary policy accommo- cial stability. One member preferred a reduction in the
+dation and ease overall financial conditions. Several par- target range of 50 basis points in the federal funds rate
+ticipants suggested that such a discussion could benefit at this meeting. This member suggested that such a
+from also considering the merits of introducing a stand- larger rate adjustment would be more consistent with the
+ing repurchase agreement facility as part of the frame- achievement of the Committee’s objectives over time
+work for implementing monetary policy. and, in particular, with helping preclude the possibility
+of a protracted period in which inflation and employ-
+Committee Policy Action
+ment were below the Committee’s objectives.
+In their discussion of monetary policy for this meeting,
+members noted that information received since the July Members agreed that, in determining the timing and size
+meeting indicated that the labor market remained strong of future adjustments to the target range for the federal
+and that economic activity had been rising at a moderate funds rate, the Committee would assess realized and ex-
+rate. Job gains had been solid, on average, in recent pected economic conditions relative to its maximum-
+months, and the unemployment rate had remained low. employment objective and its symmetric 2 percent infla-
+Household spending had been rising at a strong pace. tion objective. They also agreed that those assessments
+However, business fixed investment and exports had would take into account a wide range of information, in-
+weakened, and this outcome suggested that risks and un- cluding measures of labor market conditions, indicators
+certainty associated with international trade develop- of inflation pressures and inflation expectations, and
+ments and with ongoing weakness in global economic readings on financial and international developments.
+growth were continuing to weigh on the domestic econ-
+With regard to the postmeeting statement, members
+omy. On a 12-month basis, both the overall inflation
+agreed to update the language of the Committee’s de-
+rate and inflation for items other than food and energy
+scription of incoming data to acknowledge the weaken-
+were running below 2 percent. Market-based measures
+ing in investment spending and in U.S. exports, as well
+of inflation compensation remained low. Survey-based
+as the recent strong rate of increase of household spend-
+measures of longer-term inflation expectations were lit-
+ing.
+tle changed. In light of these developments, most mem-
+bers agreed to lower the target range for the federal At the conclusion of the discussion, the Committee
+funds rate to 1¾ to 2 percent at this meeting. voted to authorize and direct the Federal Reserve Bank
+of New York, until instructed otherwise, to execute
+With this adjustment to policy, those members who sup-
+transactions in the SOMA in accordance with the fol-
+ported the policy action sought to make the overall
+lowing domestic policy directive, to be released at
+stance of monetary policy most consistent with helping
+2:00 p.m.:
+to offset the effects on aggregate demand of weak global
+growth and trade policy uncertainty, insure against fur- “Effective September 19, 2019, the Federal
+ther downside risks arising from those sources and from Open Market Committee directs the Desk to
+geopolitical developments, and promote a more rapid undertake open market operations as necessary
+return of inflation to the Committee’s symmetric 2 per- to maintain the federal funds rate in a target
+cent objective than would otherwise occur. A couple of range of 1¾ to 2 percent, including overnight
+
+--- Page 14 ---
+
+_P_ag_e_ _1_4____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+reverse repurchase operations (and reverse re- Consistent with its statutory mandate, the Com-
+purchase operations with maturities of more mittee seeks to foster maximum employment
+than one day when necessary to accommodate and price stability. In light of the implications
+weekend, holiday, or similar trading conven- of global developments for the economic out-
+tions) at an offering rate of 1.70 percent, in look as well as muted inflation pressures, the
+amounts limited only by the value of Treasury Committee decided to lower the target range for
+securities held outright in the System Open the federal funds rate to 1¾ to 2 percent. This
+Market Account that are available for such op- action supports the Committee’s view that sus-
+erations and by a per-counterparty limit of tained expansion of economic activity, strong
+$30 billion per day. labor market conditions, and inflation near the
+Committee’s symmetric 2 percent objective are
+The Committee directs the Desk to continue
+the most likely outcomes, but uncertainties
+rolling over at auction all principal payments
+about this outlook remain. As the Committee
+from the Federal Reserve’s holdings of Treasury
+contemplates the future path of the target range
+securities and to continue reinvesting all princi-
+for the federal funds rate, it will continue to
+pal payments from the Federal Reserve’s hold-
+monitor the implications of incoming infor-
+ings of agency debt and agency mortgage-
+mation for the economic outlook and will act as
+backed securities received during each calendar
+appropriate to sustain the expansion, with a
+month. Principal payments from agency debt
+strong labor market and inflation near its sym-
+and agency mortgage-backed securities up to
+metric 2 percent objective.
+$20 billion per month will continue to be rein-
+vested in Treasury securities to roughly match In determining the timing and size of future ad-
+the maturity composition of Treasury securities justments to the target range for the federal
+outstanding; principal payments in excess of funds rate, the Committee will assess realized
+$20 billion per month will continue to be rein- and expected economic conditions relative to its
+vested in agency mortgage-backed securities. maximum employment objective and its sym-
+Small deviations from these amounts for oper- metric 2 percent inflation objective. This as-
+ational reasons are acceptable. sessment will take into account a wide range of
+information, including measures of labor mar-
+The Committee also directs the Desk to engage
+ket conditions, indicators of inflation pressures
+in dollar roll and coupon swap transactions as
+and inflation expectations, and readings on fi-
+necessary to facilitate settlement of the Federal
+nancial and international developments.”
+Reserve’s agency mortgage-backed securities
+transactions.” Voting for this action: Jerome H. Powell, John C.
+Williams, Michelle W. Bowman, Lael Brainard, Richard
+The vote also encompassed approval of the statement
+H. Clarida, Charles L. Evans, and Randal K. Quarles.
+below to be released at 2:00 p.m.:
+Voting against this action: James Bullard, Esther L.
+“Information received since the Federal Open
+George, and Eric Rosengren.
+Market Committee met in July indicates that the
+labor market remains strong and that economic President Bullard dissented because he believed that
+activity has been rising at a moderate rate. Job lowering the target range for the federal funds rate by
+gains have been solid, on average, in recent 50 basis points at this time would provide insurance
+months, and the unemployment rate has re- against further declines in expected inflation and a slow-
+mained low. Although household spending has ing economy subject to elevated downside risks. In ad-
+been rising at a strong pace, business fixed in- dition, a 50 basis point cut at this time would help pro-
+vestment and exports have weakened. On a mote a more rapid return of inflation and inflation ex-
+12-month basis, overall inflation and inflation pectations to target. President George dissented be-
+for items other than food and energy are run- cause she believed that an unchanged setting of policy
+ning below 2 percent. Market-based measures was appropriate based on incoming data and the outlook
+of inflation compensation remain low; survey- for economic activity over the medium term. Recogniz-
+based measures of longer-term inflation expec- ing the risks to the outlook from the effects of trade pol-
+tations are little changed. icy and weaker global activity, President George would
+be prepared to adjust policy should incoming data point
+
+--- Page 15 ---
+
+___________________________M__i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ S_e_p_t_e_m_b_e_r_ 1_7_–_1_8_, _2_0_1_9_____________________P__ag_e_ _1_5
+to a materially weaker outlook for the economy. Presi- It was agreed that the next meeting of the Committee
+dent Rosengren dissented because he judged that mon- would be held on Tuesday–Wednesday, October 29–
+etary policy was already accommodative. In his view, 30, 2019. The meeting adjourned at 10:40 a.m. on Sep-
+additional accommodation was not needed for an econ- tember 18, 2019.
+omy in which labor markets are already tight and could
+Notation Vote
+pose risks of further inflating the prices of risky assets
+By notation vote completed on August 20, 2019, the
+and encouraging households and firms to take on too
+Committee unanimously approved the minutes of the
+much leverage.
+Committee meeting held on July 30–31, 2019.
+Consistent with the Committee’s decision to lower the
+target range for the federal funds rate to 1¾ to 2 percent,
+the Board of Governors voted unanimously to lower the
+interest rate paid on required and excess reserve balances
+_______________________
+to 1.80 percent and voted unanimously to approve a
+James A. Clouse
+¼ percentage point decrease in the primary credit rate to
+Secretary
+2.50 percent, effective September 19, 2019.
+
+--- Page 16 ---
+
+________________________________________________________________________________________P_a_g_e_ _1
+Summary of Economic Projections
+In conjunction with the Federal Open Market Commit- 2019, some participants slightly revised down their esti-
+tee (FOMC) meeting held on September 17–18, 2019, mates of the longer-run unemployment rate; the median
+meeting participants submitted their projections of the estimate of the longer-run unemployment rate was un-
+most likely outcomes for real gross domestic product changed. Participants’ projections for total and core in-
+(GDP) growth, the unemployment rate, and inflation for flation were generally little changed compared with their
+each year from 2019 to 2022 and over the longer run. projections in June.
+Each participant’s projections were based on infor-
+As shown in figure 2, participants expected that the evo-
+mation available at the time of the meeting, together with
+lution of the economy, relative to their objectives of
+his or her assessment of appropriate monetary policy—
+maximum employment and 2 percent inflation, would
+including a path for the federal funds rate and its longer-
+likely warrant a federal funds rate target by the end of
+run value—and assumptions about other factors likely
+this year at or below the target range that the Committee
+to affect economic outcomes. The longer-run projec-
+adopted at its July 30–31 meeting. Compared with the
+tions represent each participant’s assessment of the
+June SEP submissions, the median projection for the
+value to which each variable would be expected to con-
+federal funds rate was 50 basis points lower for the end
+verge, over time, under appropriate monetary policy and
+of 2019 and 25 basis points lower for the end of 2020
+in the absence of further shocks to the economy.1 “Ap-
+and 2021. In the September SEP submissions, the me-
+propriate monetary policy” is defined as the future path
+dian for the federal funds rate for 2020 was equal to the
+of policy that each participant deems most likely to fos-
+median for 2019. The median of participants’ assess-
+ter outcomes for economic activity and inflation that
+ments of the appropriate level for the federal funds rate
+best satisfy his or her individual interpretation of the
+in 2022 was slightly below the median of participants’
+statutory mandate to promote maximum employment
+estimates of its longer-run level. Some participants re-
+and price stability.
+vised lower their assessments of the longer-run federal
+Participants who submitted longer-run projections ex- funds rate, but the median assessment of the longer-run
+pected that, under appropriate monetary policy, growth federal funds rate was unchanged.
+of real GDP in 2019 would run slightly or somewhat
+Most participants regarded the uncertainties around
+above their individual estimates of its longer-run rate.
+their forecasts for GDP growth, total inflation, and core
+Participants expected real GDP growth to edge down
+inflation as broadly similar to the average over the past
+over the projection horizon, with all participants project-
+20 years. Just over half of the participants viewed the
+ing growth in 2022 to be at or modestly below their es-
+level of uncertainty around their unemployment rate
+timates of its longer-run rate. Almost all participants
+projections as being similar to the average of the past
+who submitted longer-run projections expected that the
+20 years, while the rest of the participants viewed uncer-
+unemployment rate through 2022 would run below their
+tainty as higher. Most participants assessed the risks to
+estimates of its longer-run level. All participants contin-
+their outlooks for real GDP growth as weighted to the
+ued to project that total inflation, as measured by the
+downside and for the unemployment rate as weighted to
+four-quarter percent change in the price index for per-
+the upside. Most participants judged the risks to the in-
+sonal consumption expenditures (PCE), would increase
+flation outlook as broadly balanced; some participants
+from 2019 to 2020, and many expected another slight
+viewed the risks to inflation as weighted to the downside,
+increase in 2021. The vast majority of participants ex-
+and no participant assessed risks to inflation as weighted
+pected that inflation would be at or slightly above the
+to the upside. Participants’ assessments of the uncer-
+Committee’s 2 percent objective in 2021 and 2022. The
+tainties and risks around their forecasts for real GDP
+median of participants’ projections for core PCE price
+growth and the unemployment rate were little changed
+inflation increased over the projection period, rising to
+overall relative to June. The uncertainties around their
+2.0 percent in 2021. Table 1 and figure 1 provide sum-
+projections for headline and core inflation were little
+mary statistics for the projections. Compared with the
+Summary of Economic Projections (SEP) from June
+1 One participant did not submit longer-run projections for
+real GDP growth, the unemployment rate, or the federal funds
+rate.
+
+--- Page 17 ---
+
+,stnediserp
+knaB
+evreseR
+laredeF
+dna
+srebmem
+draoB
+evreseR
+laredeF
+fo
+snoitcejorp
+cimonocE
+.1
+elbaT
+9102
+rebmetpeS
+,ycilop
+yratenom
+etairporppa
+detcejorp
+fo
+snoitpmussa
+laudividni
+rieht
+rednu
+tnecreP
+3egnaR
+2ycnedneT
+lartneC
+1naideM
+regnoL
+elbairaV
+2202
+1202
+0202
+9102
+regnoL
+2202
+1202
+0202
+9102
+regnoL
+2202
+1202
+0202
+9102
+nur
+nur
+nur
+1.2–7.1
+1.2–6.1
+1.2–7.1
+3.2–7.1
+4.2–1.2
+0.2–8.1
+0.2–7.1
+0.2–8.1
+1.2–8.1
+3.2–1.2
+9.1
+8.1
+9.1
+0.2
+2.2
+PDG
+laer
+ni
+egnahC
+1.2–7.1
+1.2–5.1
+3.2–5.1
+4.2–0.2
+0.2–8.1
+0.2–8.1
+2.2–8.1
+2.2–0.2
+9.1
+8.1
+0.2
+1.2
+noitcejorp
+enuJ
+5.4–6.3
+2.4–3.3
+1.4–3.3
+0.4–3.3
+8.3–5.3
+3.4–0.4
+0.4–7.3
+9.3–6.3
+8.3–6.3
+7.3–6.3
+2.4
+9.3
+8.3
+7.3
+7.3
+etar
+tnemyolpmenU
+5.4–6.3
+2.4–3.3
+0.4–3.3
+8.3–5.3
+4.4–0.4
+0.4–6.3
+9.3–5.3
+7.3–6.3
+2.4
+8.3
+7.3
+6.3
+noitcejorp
+enuJ
+0.2
+2.2–8.1
+3.2–8.1
+1.2–7.1
+7.1–4.1
+0.2
+2.2–0.2
+0.2
+0.2–8.1
+6.1–5.1
+0.2
+0.2
+0.2
+9.1
+5.1
+noitaflni
+ECP
+0.2
+2.2–9.1
+1.2–8.1
+7.1–4.1
+0.2
+1.2–0.2
+0.2–9.1
+6.1–5.1
+0.2
+0.2
+9.1
+5.1
+noitcejorp
+enuJ
+2.2–8.1
+3.2–8.1
+1.2–7.1
+8.1–6.1
+2.2–0.2
+0.2
+0.2–9.1
+8.1–7.1
+0.2
+0.2
+9.1
+8.1
+4noitaflni
+ECP
+eroC
+2.2–8.1
+1.2–8.1
+8.1–4.1
+1.2–0.2
+0.2–9.1
+8.1–7.1
+0.2
+9.1
+8.1
+noitcejorp
+enuJ
+detcejorP
+:omeM
+htap
+ycilop
+etairporppa
+3.3–0.2
+9.2–6.1
+6.2–6.1
+4.2–6.1
+1.2–6.1
+8.2–5.2
+6.2–9.1
+4.2–6.1
+1.2–6.1
+1.2–6.1
+5.2
+4.2
+1.2
+9.1
+9.1
+etar
+sdnuf
+laredeF
+3.3–4.2
+1.3–9.1
+1.3–9.1
+6.2–9.1
+0.3–5.2
+6.2–9.1
+4.2–9.1
+4.2–9.1
+5.2
+4.2
+1.2
+4.2
+noitcejorp
+enuJ
+htruofehtmorfsegnahctnecreperanoitaflnifoserusaemhtobrofsnoitcejorpdna)PDG(tcudorpcitsemodssorglaerniegnahcfosnoitcejorP
+:etoN
+,ylevitcepser,niegnahcfosetaregatnecrepehteranoitaflniECPerocdnanoitaflniECP
+.detacidniraeyehtforetrauqhtruofehtotraeysuoiverpehtforetrauq
+etartnemyolpmenuehtrofsnoitcejorP
+.ygrenednadoofgnidulcxeECProfxedniecirpehtdna)ECP(serutidnepxenoitpmusnoclanosreprofxedniecirpeht
+fotnemssessarehrosihnodesaberasnoitcejorps’tnapicitraphcaE
+.detacidniraeyehtforetrauqhtruofehtnietartnemyolpmenunailivicegarevaehtrofera
+egrevnocotdetcepxeebdluowelbairavhcaehcihwotetarehtfotnemssessas’tnapicitraphcaetneserpersnoitcejorpnur-regnoL
+.ycilopyratenometairporppa
+tniopdimehtfoeulavehteraetarsdnuflaredefehtrofsnoitcejorpehT
+.ymonoceehtotskcohsrehtruffoecnesbaehtnidnaycilopyratenometairporpparednu
+defiicepsehtfodneehttaetarsdnuflaredefehtrofleveltegratetairporppadetcejorpehtroetarsdnuflaredefehtrofegnartegratetairporppadetcejorpehtfo ,91-81enuJnoeettimmoCtekraMnepOlaredeFehtfogniteemehthtiwnoitcnujnocniedamerewsnoitcejorpenuJehT
+.nurregnolehtrevororaeyradnelac
+htiwnoitcnujnocnietarsdnuflaredefehtro,etartnemyolpmenueht,PDGlaerniegnahcehtrofsnoitcejorpnur-regnoltimbustondidtnapicitrapenO
+.9102
+.gniteem,9102,81-71rebmetpeSehthtiwnoitcnujnocnisnoitcejorphcustimbustondidtnapicitrapenodna,gniteem,9102,91-81enuJeht
+,nevesisnoitcejorpforebmunehtnehW
+.tsehgihottsewolmorfdegnarraerasnoitcejorpehtnehwnoitcejorpelddimehtsinaidemeht,doirephcaeroF
+.1
+.snoitcejorpelddimowtehtfoegarevaehtsinaidemeht
+.raeyhcaenielbairavhcaerofsnoitcejorptsewoleerhtdnatsehgiheerhtehtsedulcxeycnednetlartnecehT
+.2
+.raeytahtnielbairavtahtrof,tsehgihottsewolmorf,snoitcejorp’stnapicitrapllasedulcniraeyneviganielbairavarofegnarehT
+.3
+.detcelloctoneranoitaflniECPerocrofsnoitcejorpnur-regnoL
+.4
+_P_ag_e_ _2_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+
+--- Page 18 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9____________P__ag_e_ _3
+Figure 1. Medians, central tendencies, and ranges of economic projections, 2019-22 and over the longer run
+Percent
+Change in real GDP
+Median of projections
+Central tendency of projections
+Range of projections
+3
+Actual
+2
+1
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run
+Percent
+Unemployment rate
+7
+6
+5
+4
+3
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run
+Percent
+PCE inflation
+3
+2
+1
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run
+Percent
+Core PCE inflation
+3
+2
+1
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run
+Note: Definitionsofvariablesandotherexplanationsareinthenotestotable1. Thedatafortheactualvalues
+ofthevariablesareannual.
+
+--- Page 19 ---
+
+_P_ag_e_ _4_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Figure 2. FOMC participants’ assessments of appropriate monetary policy: Midpoint of target range
+or target level for the federal funds rate
+Percent
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2019 2020 2021 2022 Longer run
+Note: Each shaded circle indicates the value (rounded to the nearest 1/8 percentage point) of an individual
+participant’sjudgmentofthemidpointoftheappropriatetargetrangeforthefederalfundsrateortheappropriate
+targetlevelforthefederalfundsrateattheendofthespecifiedcalendaryearoroverthelongerrun. Oneparticipant
+didnotsubmitlonger-runprojectionsforthefederalfundsrate.
+
+--- Page 20 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9____________P__ag_e_ _5
+changed as well, but more participants saw the inflation core inflation for 2021 and 2022 were 2.0 percent. These
+risks as broadly balanced than in June. medians were also unchanged from June for each year
+included in the June SEP.
+The Outlook for Real GDP Growth and Unemploy-
+ment Figures 3.C and 3.D provide information on the distri-
+As shown in table 1, the median of participants’ projec- butions of participants’ views about the outlook for in-
+tions for the growth rate of real GDP in 2019, condi- flation. The distributions of projections for total and
+tional on their individual assessments of appropriate core PCE price inflation in 2019, 2020, and 2021 were
+monetary policy, was 2.2 percent, a bit above the median little changed overall relative to those in June. For 2022,
+estimate of its longer-run rate of 1.9 percent. Almost all all participants projected total and core inflation between
+participants continued to expect GDP growth to slow 1.8 and 2.2 percent.
+over the projection period, with the median projection
+Appropriate Monetary Policy
+at 2.0 percent in 2020, 1.9 percent in 2021, and 1.8 per-
+Figure 3.E shows distributions of participants’ judg-
+cent in 2022. Relative to the June SEP, the medians of
+ments regarding the appropriate target—or midpoint of
+the projections for real GDP growth in 2019, 2020,
+the target range—for the federal funds rate at the end of
+2021, and the longer run were unchanged or revised
+each year from 2019 to 2022 and over the longer run.
+slightly higher.
+Compared with the June projections, the range of pro-
+The median of projections for the unemployment rate in jections for 2019, 2020, and 2021 shifted toward lower
+the fourth quarter of 2019 was 3.7 percent, ½ percentage values and narrowed somewhat. The vast majority of
+point below the median assessment of its longer-run participants viewed the appropriate levels of the federal
+level of 4.2 percent. The medians of projections for funds rate at the end of 2019, 2020, and 2021 as lower
+2020, 2021, and 2022 were 3.7 percent, 3.8 percent, and than those that they deemed appropriate in June. All
+3.9 percent, respectively. The median projected unem- participants lowered their projections for the appropri-
+ployment rate for 2019 was slightly higher than in the ate level of the federal funds rate, relative to June, at
+June SEP, while the median projected unemployment some point in the projection period, and none raised
+rates for 2020 and 2021 were unchanged relative to the their projections for the federal funds rate for any year.
+June SEP. A vast majority of participants who submit- Compared with the projections prepared for the June
+ted longer-run projections expected that the unemploy- SEP, the median federal funds rate was 50 basis points
+ment rate in 2022 would be below their estimates of its lower in 2019 and 25 basis points lower in 2020 and
+longer-run level, with some participants projecting a gap 2021. Muted inflation pressures, slower global growth,
+of ½ percentage point or more. and weak business fixed investment were cited as rea-
+sons for downward revisions to the appropriate path for
+Figures 3.A and 3.B show the distributions of partici-
+the federal funds rate, as were trade tensions and risk-
+pants’ projections for real GDP growth and the unem-
+management considerations.
+ployment rate, respectively, from 2019 to 2022 and in
+the longer run. The distribution of individual projec- The median federal funds rate projection for the end of
+tions for real GDP growth for 2019 shifted up some- 2019 was 1.88 percent. Seven participants assessed that
+what relative to that in the June SEP. The distributions the most likely appropriate federal funds rate at the end
+of individual projections of real GDP growth for 2020 of 2019 was 1.63 percent, while five assessed that the
+and 2021 and for the longer run were little changed over- most likely appropriate rate at year-end was 2.13 percent.
+all. The distributions of individual projections for the The median for 2020 was 1.88 percent, equal to the me-
+unemployment rate for 2019 to 2021 and for the longer dian for 2019. For subsequent years, the medians of the
+run were also little changed overall relative to those in projections were 2.13 percent at the end of 2021 and
+June. 2.38 percent at the end of 2022. Some participants re-
+vised lower their estimates of the longer-run level of the
+The Outlook for Inflation
+federal funds rate, while a majority of participants’ esti-
+As shown in table 1, the median of projections for total
+mates were unchanged. The median estimate of the
+PCE price inflation was 1.5 percent in 2019, 1.9 percent
+longer-run federal funds rate was 2.50 percent, un-
+in 2020, and 2.0 percent in 2021; these medians were un-
+changed from the median estimate in June.
+changed from June. For 2022, the median projection for
+total PCE was 2.0 percent. The medians of projections Uncertainty and Risks
+for core PCE price inflation were 1.8 percent for 2019 In assessing the appropriate path of the federal funds
+and 1.9 percent for 2020. The median projections for rate, FOMC participants take account of the range of
+
+--- Page 21 ---
+
+_P_ag_e_ _6_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Figure3.A.Distributionofparticipants’projectionsforthechangeinrealGDP,2019-22andoverthelongerrun
+Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range
+Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range
+Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range
+Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range
+Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range
+Note: Definitionsofvariablesandotherexplanationsareinthenotestotable1.
+
+--- Page 22 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9____________P__ag_e_ _7
+Figure3.B.Distributionofparticipants’projectionsfortheunemploymentrate,2019-22andoverthelongerrun
+Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range
+Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range
+Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range
+Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range
+Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range
+Note: Definitionsofvariablesandotherexplanationsareinthenotestotable1.
+
+--- Page 23 ---
+
+_P_ag_e_ _8_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Figure3.C.Distributionofparticipants’projectionsforPCEinflation,2019-22andoverthelongerrun
+Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Note: Definitionsofvariablesandotherexplanationsareinthenotestotable1.
+
+--- Page 24 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9____________P__ag_e_ _9
+Figure3.D.Distributionofparticipants’projectionsforcorePCEinflation,2019-22
+Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range
+Note: Definitionsofvariablesandotherexplanationsareinthenotestotable1.
+
+--- Page 25 ---
+
+_P_ag_e_ _1_0____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Figure3.E.Distributionofparticipants’judgmentsofthemidpointoftheappropriatetargetrangeforthe
+federalfundsrateortheappropriatetargetlevelforthefederalfundsrate,2019-22andoverthelongerrun
+Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range
+Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range
+Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range
+Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range
+Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range
+Note: Definitionsofvariablesandotherexplanationsareinthenotestotable1.
+
+--- Page 26 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9___________P__ag_e_ _1_1
+possible economic outcomes, the likelihood of those Table 2. Average historical projection error ranges
+outcomes, and the potential benefits and costs should Percentage points
+Variable 2019 2020 2021 2022
+they occur. As a reference, table 2 provides measures of
+forecast uncertainty—based on the forecast errors of
+Change in real GDP1 . . . . . . ±1.2 ±1.8 ±1.9 ±2.0
+various private and government forecasts over the past Unemployment rate1 . . . . . . ±0.3 ±1.1 ±1.6 ±2.0
+20 years—for real GDP growth, the unemployment rate,
+Total consumer prices2 . . . . ±0.8 ±1.0 ±1.1 ±1.0
+and total PCE price inflation. Those measures are rep-
+Short-term interest rates3 . . . ±0.5 ±1.7 ±2.2 ±2.7
+resented graphically in the “fan charts” shown in the top
+panels of figures 4.A, 4.B, and 4.C. The fan charts dis-
+NOTE: Error ranges shown are measured as plus or minus the
+root mean squared error of projections for 1999 through 2018 that
+play the SEP medians for the three variables surrounded were released in the fall by various private and government forecasters.
+by symmetric confidence intervals derived from the As described in the box “Forecast Uncertainty,” under certain assump-
+tions, there is about a 70 percent probability that actual outcomes for
+forecast errors reported in table 2. If the degree of un-
+real GDP, unemployment, consumer prices, and the federal funds rate
+certainty attending these projections is similar to the typ- will be in ranges implied by the average size of projection errors made
+ical magnitude of past forecast errors and the risks in the past. For more information, see David Reifschneider and Peter
+Tulip (2017), “Gauging the Uncertainty of the Economic Outlook Us-
+around the projections are broadly balanced, then future
+ing Historical Forecasting Errors: The Federal Reserve’s Approach,”
+outcomes of these variables would have about a 70 per- Finance and Economics Discussion Series 2017-020 (Washington:
+Board of Governors of the Federal Reserve System, February),
+cent probability of being within these confidence inter-
+https://dx. doi.org/10.17016/FEDS.2017.020.
+vals. For all three variables, this measure of uncertainty 1. Definitions of variables are in the general note to table 1.
+is substantial and generally increases as the forecast hori- 2. Measure is the overall consumer price index, the price measure
+that has been most widely used in government and private economic
+zon lengthens.
+forecasts. Projections are percent changes on a fourth quarter to
+fourth quarter basis.
+Participants’ assessments of the level of uncertainty sur-
+3. For Federal Reserve staff forecasts, measure is the federal funds
+rounding their individual economic projections are rate. For other forecasts, measure is the rate on 3-month Treasury
+shown in the bottom-left panels of figures 4.A, 4.B, and bills. Projection errors are calculated using average levels, in percent,
+in the fourth quarter.
+4.C. Most participants continued to view the uncertain-
+ties around their forecasts for GDP growth, total infla-
+In discussing the uncertainty and risks surrounding their
+tion, and core inflation as broadly similar to the average
+economic projections, several participants mentioned
+over the past 20 years. Just over half of the participants
+trade developments, concerns about foreign economic
+viewed the level of uncertainty around their unemploy-
+growth, and weaker business fixed investment as sources
+ment rate projections as being similar to the average of
+of uncertainty or downside risk to the U.S. economic
+the past 20 years, while the rest of the participants
+growth outlook. For the inflation outlook, the possibil-
+viewed uncertainty as higher.2
+ity that inflation expectations could be drifting below
+Because the fan charts are constructed to be symmetric
+levels consistent with the FOMC’s 2 percent inflation
+around the median projections, they do not reflect any
+objective and the potential for weaker domestic demand
+asymmetries in the balance of risks that participants may
+to put downward pressure on inflation were viewed as
+see in their economic projections. Participants’ assess-
+downside risks. A few participants noted the possibility
+ments of the balance of risks to their current economic
+that higher tariffs could lead to aggregate price pressure
+projections are shown in the bottom-right panels of fig-
+as a source of upside risk to inflation. A number of par-
+ures 4.A, 4.B, and 4.C. Most participants continued to
+ticipants mentioned that their assessments of risks re-
+view the risks to their outlooks for real GDP growth as
+mained roughly balanced, in part because the downward
+weighted to the downside and for the unemployment
+revisions to their appropriate path for the federal funds
+rate as weighted to the upside. Most participants—four
+rate were offsetting factors that would otherwise con-
+more than in the June SEP—judged the risks to the in-
+tribute to asymmetric risks.
+flation outlook as broadly balanced; some participants
+Participants’ assessments of the appropriate future path
+viewed the risks to inflation as weighted to the downside,
+of the federal funds rate are also subject to considerable
+and no participants assessed risks to inflation as
+uncertainty. Because the Committee adjusts the federal
+weighted to the upside.
+2 At the end of this summary, the box “Forecast Uncertainty” used to assess the uncertainty and risks attending the partici-
+discusses the sources and interpretation of uncertainty sur- pants’ projections.
+rounding the economic forecasts and explains the approach
+
+--- Page 27 ---
+
+_P_ag_e_ _1_2____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Figure 4.A. Uncertainty and risks in projections of GDP growth
+Median projection and confidence interval based on historical forecast errors
+Percent
+Change in real GDP
+Median of projections
+70% confidence interval
+4
+3
+Actual 2
+1
+0
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+FOMC participants’ assessments of uncertainty and risks around their economic projections
+Number of participants Number of participants
+Uncertainty about GDP growth Risks to GDP growth
+September projections September projections
+June projections June projections
+18 18
+16 16
+14 14
+12 12
+10 10
+8 8
+6 6
+4 4
+2 2
+Lower Broadly Higher Weighted to Broadly Weighted to
+similar downside balanced upside
+Note: Theblueandredlinesinthetoppanelshowactualvaluesandmedianprojectedvalues,respectively,ofthe
+percent change in real gross domestic product (GDP) from the fourth quarter of the previous year to the fourth
+quarteroftheyearindicated. Theconfidenceintervalaroundthemedianprojectedvaluesisassumedtobesymmetric
+andisbasedonrootmeansquarederrorsofvariousprivateandgovernmentforecastsmadeovertheprevious20years;
+more information about these data is available in table 2. Because current conditions may differ from those that
+prevailed, onaverage, overtheprevious20years, thewidthandshapeoftheconfidenceintervalestimatedonthe
+basisofthehistoricalforecasterrorsmaynotreflectFOMCparticipants’currentassessmentsoftheuncertaintyand
+risks around their projections; these current assessments are summarized in the lower panels. Generally speaking,
+participantswhojudgetheuncertaintyabouttheirprojectionsas“broadlysimilar”totheaveragelevelsofthepast20
+yearswouldviewthewidthoftheconfidenceintervalshowninthehistoricalfanchartaslargelyconsistentwiththeir
+assessmentsoftheuncertaintyabouttheirprojections. Likewise,participantswhojudgetheriskstotheirprojections
+as“broadlybalanced”wouldviewtheconfidenceintervalaroundtheirprojectionsasapproximatelysymmetric. For
+definitionsofuncertaintyandrisksineconomicprojections,seethebox“ForecastUncertainty.”
+
+--- Page 28 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9___________P__ag_e_ _1_3
+Figure 4.B. Uncertainty and risks in projections of the unemployment rate
+Median projection and confidence interval based on historical forecast errors
+Percent
+Unemployment rate
+10
+Median of projections
+70% confidence interval 9
+8
+7
+Actual 6
+5
+4
+3
+2
+1
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+FOMC participants’ assessments of uncertainty and risks around their economic projections
+Number of participants Number of participants
+Uncertainty about the unemployment rate Risks to the unemployment rate
+September projections September projections
+June projections June projections
+18 18
+16 16
+14 14
+12 12
+10 10
+8 8
+6 6
+4 4
+2 2
+Lower Broadly Higher Weighted to Broadly Weighted to
+similar downside balanced upside
+Note: Theblueandredlinesinthetoppanelshowactualvaluesandmedianprojectedvalues,respectively,ofthe
+averagecivilianunemploymentrateinthefourthquarteroftheyearindicated. Theconfidenceintervalaroundthe
+medianprojectedvaluesisassumedtobesymmetricandisbasedonrootmeansquarederrorsofvariousprivateand
+government forecasts made over the previous 20 years; more information about these data is available in table 2.
+Becausecurrentconditionsmaydifferfromthosethatprevailed,onaverage,overtheprevious20years,thewidth
+andshapeoftheconfidenceintervalestimatedonthebasisofthehistoricalforecasterrorsmaynotreflectFOMC
+participants’currentassessmentsoftheuncertaintyandrisksaroundtheirprojections;thesecurrentassessmentsare
+summarizedinthelowerpanels. Generallyspeaking,participantswhojudgetheuncertaintyabouttheirprojectionsas
+“broadlysimilar”totheaveragelevelsofthepast20yearswouldviewthewidthoftheconfidenceintervalshowninthe
+historicalfanchartaslargelyconsistentwiththeirassessmentsoftheuncertaintyabouttheirprojections. Likewise,
+participantswhojudgetheriskstotheirprojectionsas“broadlybalanced”wouldviewtheconfidenceintervalaround
+theirprojectionsasapproximatelysymmetric. Fordefinitionsofuncertaintyandrisksineconomicprojections,seethe
+box“ForecastUncertainty.”
+
+--- Page 29 ---
+
+_P_ag_e_ _1_4____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Figure 4.C. Uncertainty and risks in projections of PCE inflation
+Median projection and confidence interval based on historical forecast errors
+Percent
+PCE inflation
+Median of projections
+3
+70% confidence interval
+2
+1
+Actual
+0
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+FOMC participants’ assessments of uncertainty and risks around their economic projections
+Number of participants Number of participants
+Uncertainty about PCE inflation Risks to PCE inflation
+September projections September projections
+June projections June projections
+18 18
+16 16
+14 14
+12 12
+10 10
+8 8
+6 6
+4 4
+2 2
+Lower Broadly Higher Weighted to Broadly Weighted to
+similar downside balanced upside
+Number of participants Number of participants
+Uncertainty about core PCE inflation Risks to core PCE inflation
+September projections September projections
+June projections June projections
+18 18
+16 16
+14 14
+12 12
+10 10
+8 8
+6 6
+4 4
+2 2
+Lower Broadly Higher Weighted to Broadly Weighted to
+similar downside balanced upside
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively,
+ofthepercentchangeinthepriceindexforpersonalconsumptionexpenditures(PCE)fromthefourthquarterof
+thepreviousyeartothefourthquarteroftheyearindicated. Theconfidenceintervalaroundthemedianprojected
+values is assumed to be symmetric and is based on root mean squared errors of various private and government
+forecastsmadeovertheprevious20years;moreinformationaboutthesedataisavailableintable2. Becausecurrent
+conditionsmaydifferfromthosethatprevailed,onaverage,overtheprevious20years,thewidthandshapeofthe
+confidenceintervalestimatedonthebasisofthehistoricalforecasterrorsmaynotreflectFOMCparticipants’current
+assessmentsoftheuncertaintyandrisksaroundtheirprojections;thesecurrentassessmentsaresummarizedinthe
+lowerpanels. Generallyspeaking,participantswhojudgetheuncertaintyabouttheirprojectionsas“broadlysimilar”
+totheaveragelevelsofthepast20yearswouldviewthewidthoftheconfidenceintervalshowninthehistoricalfan
+chartaslargelyconsistentwiththeirassessmentsoftheuncertaintyabouttheirprojections. Likewise,participants
+who judge the risks to their projections as “broadly balanced” would view the confidence interval around their
+projectionsasapproximatelysymmetric. Fordefinitionsofuncertaintyandrisksineconomicprojections,seethebox
+“ForecastUncertainty.”
+
+--- Page 30 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9___________P__ag_e_ _1_5
+funds rate in response to actual and prospective devel-
+opments over time in key economic variables—such as
+real GDP growth, the unemployment rate, and infla-
+tion—uncertainty surrounding the projected path for
+the federal funds rate importantly reflects the uncertain-
+ties about the paths for these economic variables, along
+with other factors. Figure 5 provides a graphic represen-
+tation of this uncertainty, plotting the SEP median for
+the federal funds rate surrounded by confidence inter-
+vals derived from the results presented in table 2.3 As
+with the macroeconomic variables, the forecast uncer-
+tainty surrounding the appropriate path of the federal
+funds rate is substantial and increases for longer hori-
+zons.
+3 The confidence interval for the federal funds rate is assumed the bottom of the lowest target range for the federal funds rate
+to be symmetric except when it is truncated at zero, which is that has been adopted in the past by the Committee.
+
+--- Page 31 ---
+
+_P_ag_e_ _1_6____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Figure 5. Uncertainty and risks in projections of the federal funds rate
+Percent
+Federal funds rate
+Midpoint of target range
+Median of projections 6
+70% confidence interval*
+5
+4
+3
+2
+1
+Actual
+0
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+Note: The blue and red lines are based on actual values and median projected values, respectively, of the
+Committee’stargetforthefederalfundsrateattheendoftheyearindicated. Theactualvaluesarethemidpointof
+thetargetrange;themedianprojectedvaluesarebasedoneitherthemidpointofthetargetrangeorthetargetlevel.
+Theconfidenceintervalaroundthemedianprojectedvaluesisbasedonrootmeansquarederrorsofvariousprivate
+andgovernmentforecastsmadeovertheprevious20years. Theconfidenceintervalisnotstrictlyconsistentwiththe
+projectionsforthefederalfundsrate,primarilybecausetheseprojectionsarenotforecastsofthelikeliestoutcomesfor
+thefederalfundsrate,butratherprojectionsofparticipants’individualassessmentsofappropriatemonetarypolicy.
+Still,historicalforecasterrorsprovideabroadsenseoftheuncertaintyaroundthefuturepathofthefederalfundsrate
+generatedbytheuncertaintyaboutthemacroeconomicvariablesaswellasadditionaladjustmentstomonetarypolicy
+thatmaybeappropriatetooffsettheeffectsofshockstotheeconomy.
+Theconfidenceintervalisassumedtobesymmetricexceptwhenitistruncatedatzero-thebottomofthelowest
+targetrangeforthefederalfundsratethathasbeenadoptedinthepastbytheCommittee. Thistruncationwould
+notbeintendedtoindicatethelikelihoodoftheuseofnegativeinterestratestoprovideadditionalmonetarypolicy
+accommodationifdoingsowasjudgedappropriate. Insuchsituations,theCommitteecouldalsoemployothertools,
+includingforwardguidanceandlarge-scaleassetpurchases,toprovideadditionalaccommodation. Becausecurrent
+conditionsmaydifferfromthosethatprevailed,onaverage,overtheprevious20years,thewidthandshapeofthe
+confidenceintervalestimatedonthebasisofthehistoricalforecasterrorsmaynotreflectFOMCparticipants’current
+assessmentsoftheuncertaintyandrisksaroundtheirprojections.
+*Theconfidenceintervalisderivedfromforecastsoftheaveragelevelofshort-terminterestratesinthefourth
+quarteroftheyearindicated;moreinformationaboutthesedataisavailableintable2. Theshadedareaencompasses
+lessthana70percentconfidenceintervaliftheconfidenceintervalhasbeentruncatedatzero.
+
+--- Page 32 ---
+
+_________________S_u_m_m__a_ry_ _o_f _E_c_o_n_o_m__ic_ _P_ro_j_e_ct_io__n_s _o_f _t_h_e _M__ee_t_in_g_ _o_f _S_e_p_te_m__b_er_ _1_7–_1_8_,_ 2_0_1_9___________P__ag_e_ _1_7
+Forecast Uncertainty
+The economic projections provided by the members of rent assessments of the uncertainty surrounding their projec-
+the Board of Governors and the presidents of the Federal tions are summarized in the bottom-left panels of those fig-
+Reserve Banks inform discussions of monetary policy among ures. Participants also provide judgments as to whether the
+policymakers and can aid public understanding of the basis risks to their projections are weighted to the upside, are
+for policy actions. Considerable uncertainty attends these weighted to the downside, or are broadly balanced. That is,
+projections, however. The economic and statistical models while the symmetric historical fan charts shown in the top
+and relationships used to help produce economic forecasts panels of figures 4.A through 4.C imply that the risks to par-
+are necessarily imperfect descriptions of the real world, and ticipants’ projections are balanced, participants may judge that
+the future path of the economy can be affected by myriad there is a greater risk that a given variable will be above rather
+unforeseen developments and events. Thus, in setting the than below their projections. These judgments are summa-
+stance of monetary policy, participants consider not only rized in the lower-right panels of figures 4.A through 4.C.
+what appears to be the most likely economic outcome as em- As with real activity and inflation, the outlook for the
+bodied in their projections, but also the range of alternative future path of the federal funds rate is subject to considerable
+possibilities, the likelihood of their occurring, and the poten- uncertainty. This uncertainty arises primarily because each
+tial costs to the economy should they occur. participant’s assessment of the appropriate stance of mone-
+Table 2 summarizes the average historical accuracy of a tary policy depends importantly on the evolution of real ac-
+range of forecasts, including those reported in past Monetary tivity and inflation over time. If economic conditions evolve
+Policy Reports and those prepared by the Federal Reserve in an unexpected manner, then assessments of the appropri-
+Board’s staff in advance of meetings of the Federal Open ate setting of the federal funds rate would change from that
+Market Committee (FOMC). The projection error ranges point forward. The final line in table 2 shows the error ranges
+shown in the table illustrate the considerable uncertainty as- for forecasts of short-term interest rates. They suggest that
+sociated with economic forecasts. For example, suppose a the historical confidence intervals associated with projections
+participant projects that real gross domestic product (GDP) of the federal funds rate are quite wide. It should be noted,
+and total consumer prices will rise steadily at annual rates of, however, that these confidence intervals are not strictly con-
+respectively, 3 percent and 2 percent. If the uncertainty at- sistent with the projections for the federal funds rate, as these
+tending those projections is similar to that experienced in the projections are not forecasts of the most likely quarterly out-
+past and the risks around the projections are broadly bal- comes but rather are projections of participants’ individual as-
+anced, the numbers reported in table 2 would imply a prob- sessments of appropriate monetary policy and are on an end-
+ability of about 70 percent that actual GDP would expand of-year basis. However, the forecast errors should provide a
+within a range of 1.8 to 4.2 percent in the current year, 1.2 to sense of the uncertainty around the future path of the federal
+4.8 percent in the second year, 1.1 to 4.9 percent in the third funds rate generated by the uncertainty about the macroeco-
+year, and 1.0 to 5.0 percent in the fourth year. The corre- nomic variables as well as additional adjustments to monetary
+sponding 70 percent confidence intervals for overall infla- policy that would be appropriate to offset the effects of
+tion would be 1.2 to 2.8 percent in the current year, 1.0 to shocks to the economy.
+3.0 percent in the second year, 0.9 to 3.1 percent in the third If at some point in the future the confidence interval
+year, and 1.0 to 3.0 percent in the fourth year. Figures 4.A around the federal funds rate were to extend below zero, it
+through 4.C illustrate these confidence bounds in “fan would be truncated at zero for purposes of the fan chart
+charts” that are symmetric and centered on the medians of shown in figure 5; zero is the bottom of the lowest target
+FOMC participants’ projections for GDP growth, the unem- range for the federal funds rate that has been adopted by the
+ployment rate, and inflation. However, in some instances, Committee in the past. This approach to the construction of
+the risks around the projections may not be symmetric. In the federal funds rate fan chart would be merely a convention;
+particular, the unemployment rate cannot be negative; fur- it would not have any implications for possible future policy
+thermore, the risks around a particular projection might be decisions regarding the use of negative interest rates to pro-
+tilted to either the upside or the downside, in which case the vide additional monetary policy accommodation if doing so
+corresponding fan chart would be asymmetrically positioned were appropriate. In such situations, the Committee could
+around the median projection. also employ other tools, including forward guidance and asset
+Because current conditions may differ from those that purchases, to provide additional accommodation.
+prevailed, on average, over history, participants provide While figures 4.A through 4.C provide information on
+judgments as to whether the uncertainty attached to their the uncertainty around the economic projections, figure 1
+projections of each economic variable is greater than, smaller provides information on the range of views across FOMC
+than, or broadly similar to typical levels of forecast uncer- participants. A comparison of figure 1 with figures 4.A
+tainty seen in the past 20 years, as presented in table 2 and through 4.C shows that the dispersion of the projections
+reflected in the widths of the confidence intervals shown in across participants is much smaller than the average forecast
+the top panels of figures 4.A through 4.C. Participants’ cur- errors over the past 20 years.
+
+# Tables
+
+## Page_14_Table_1
+
+
+| President Bullard dissented because he believed that        |
+|-------------------------------------------------------------|
+| lowering the target range for the federal funds rate by     |
+| 50 basis points at this time would provide insurance        |
+| against further declines in expected inflation and a slow-  |
+| ing economy subject to elevated downside risks. In ad-      |
+| dition, a 50 basis point cut at this time would help pro-   |
+| mote a more rapid return of inflation and inflation ex-     |
+| pectations to target. President George dissented be-        |
+| cause she believed that an unchanged setting of policy      |
+| was appropriate based on incoming data and the outlook      |
+| for economic activity over the medium term. Recogniz-       |
+| ing the risks to the outlook from the effects of trade pol- |
+| icy and weaker global activity, President George would      |
+| be prepared to adjust policy should incoming data point     |
+
+
+## Page_15_Table_1
+
+
+| to a materially weaker outlook for the economy. Presi-     |
+|------------------------------------------------------------|
+| dent Rosengren dissented because he judged that mon-       |
+| etary policy was already accommodative. In his view,       |
+| additional accommodation was not needed for an econ-       |
+| omy in which labor markets are already tight and could     |
+| pose risks of further inflating the prices of risky assets |
+| and encouraging households and firms to take on too        |
+| much leverage.                                             |
+
+
+## Page_17_Table_1
+
+
+|                   | 2202       | 1.2–6.1 2.4–3.3 2.2–8.1 2.2–8.1
+1.2–7.1 1.2–5.1 1.4–3.3 2.4–3.3 3.2–8.1 2.2–9.1 3.2–8.1 2.2–8.1
+3.2–7.1 3.2–5.1 0.4–3.3 0.4–3.3 1.2–7.1 1.2–8.1 1.2–7.1 1.2–8.1
+4.2–1.2 4.2–0.2 8.3–5.3 8.3–5.3 7.1–4.1 7.1–4.1 8.1–6.1 8.1–4.1   | 9.2–6.1
+6.2–6.1 1.3–9.1
+4.2–6.1 1.3–9.1
+1.2–6.1 6.2–9.1   |
+|-------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+|                   | 1202       |                                                                                                                                                                                                                                   |                                                           |
+|                   | 0202       |                                                                                                                                                                                                                                   |                                                           |
+|                   | 9102       |                                                                                                                                                                                                                                   |                                                           |
+| 2ycnedneT
+lartneC | regnoL
+nur | 0.2–8.1 0.2–8.1 3.4–0.4 4.4–0.4
+0.2 0.2                                                                                                                                                                                           | 8.2–5.2 0.3–5.2                                           |
+|                   | 2202       | 0.2–7.1 0.4–7.3 2.2–0.2 2.2–0.2
+0.2–8.1 0.2–8.1 9.3–6.3 0.4–6.3 1.2–0.2 1.2–0.2
+0.2 0.2
+1.2–8.1 2.2–8.1 8.3–6.3 9.3–5.3 0.2–8.1 0.2–9.1 0.2–9.1 0.2–9.1
+3.2–1.2 2.2–0.2 7.3–6.3 7.3–6.3 6.1–5.1 6.1–5.1 8.1–7.1 8.1–7.1           | 6.2–9.1
+4.2–6.1 6.2–9.1
+1.2–6.1 4.2–9.1
+1.2–6.1 4.2–9.1   |
+|                   | 1202       |                                                                                                                                                                                                                                   |                                                           |
+|                   | 0202       |                                                                                                                                                                                                                                   |                                                           |
+|                   | 9102       |                                                                                                                                                                                                                                   |                                                           |
+| 1naideM           | regnoL
+nur | 9.1 9.1 2.4 2.4 0.2 0.2                                                                                                                                                                                                           | 5.2 5.2                                                   |
+|                   | 2202       | 8.1 9.3 0.2 0.2
+9.1 8.1 8.3 8.3 0.2 0.2 0.2 0.2
+0.2 0.2 7.3 7.3 9.1 9.1 9.1 9.1
+2.2 1.2 7.3 6.3 5.1 5.1 8.1 8.1                                                                                                                   | 4.2
+1.2 4.2
+9.1 1.2
+9.1 4.2                               |
+|                   | 1202       |                                                                                                                                                                                                                                   |                                                           |
+|                   | 0202       |                                                                                                                                                                                                                                   |                                                           |
+|                   | 9102       |                                                                                                                                                                                                                                   |                                                           |
+
+
+## Page_18_Table_1
+
+
+| Percent
+Change in real GDP
+Median of projections
+Central tendency of projections
+Range of projections
+3
+Actual
+2
+1
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Percent
+Unemployment rate
+7
+6
+5
+4
+3
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run                                                                                  |
+| Percent
+PCE inflation
+3
+2
+1
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run                                                                                          |
+| Percent
+Core PCE inflation
+3
+2
+1
+2014 2015 2016 2017 2018 2019 2020 2021 2022 Longer
+run                                                                                     |
+
+
+## Page_18_Table_2
+
+
+| Chang   | e in r          | eal GD            | P             |         |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|---------|-----------------|-------------------|---------------|---------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| C       | Median
+entral t | of projec
+endency | tions
+of proj | ections |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| R       | ange of         | project           | ions          |         |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|         | Actual          |                   |               |         |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_18_Table_3
+
+
+|    |      |       |        |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | P   |    |
+|----|------|-------|--------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-----|----|
+|    | Unem | ploym | ent ra | te |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |     |    |
+
+
+## Page_18_Table_4
+
+
+|       |         |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | P   |
+|-------|---------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-----|
+| PCE i | nflatio | n  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |     |
+
+
+## Page_18_Table_5
+
+
+|      |        |        |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | P   |
+|------|--------|--------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-----|
+| Core | PCE in | flatio | n  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |     |
+
+
+## Page_21_Table_1
+
+
+| Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range                                          |
+| Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range                                          |
+| Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range                                          |
+| Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.4− 1.6− 1.8− 2.0− 2.2− 2.4−
+1.5 1.7 1.9 2.1 2.3 2.5
+Percent range                                    |
+
+
+## Page_21_Table_2
+
+
+|    | 2019   |       |                |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|--------|-------|----------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|    |        | Septe | mber projectio | ns |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|    | June p |       | rojections     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_22_Table_1
+
+
+| Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range                                          |
+| Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range                                          |
+| Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range                                          |
+| Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+3.2− 3.4− 3.6− 3.8− 4.0− 4.2− 4.4− 4.6−
+3.3 3.5 3.7 3.9 4.1 4.3 4.5 4.7
+Percent range                                    |
+
+
+## Page_22_Table_2
+
+
+|    | 2019   |    |    |             |            |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|--------|----|----|-------------|------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|    |        |    |    | September p | rojections |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|    | J      |    |    | une project | ions       |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_23_Table_1
+
+
+| Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range                                          |
+| Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range                                          |
+| Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range                                          |
+| Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range                                    |
+
+
+## Page_23_Table_2
+
+
+|    | 2019   |       |                |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|--------|-------|----------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|    |        | Septe | mber projectio |    | ns |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|    | June p |       | rojections     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_24_Table_1
+
+
+| Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range                                          |
+| Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range                                          |
+| Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.3− 1.5− 1.7− 1.9− 2.1− 2.3−
+1.4 1.6 1.8 2.0 2.2 2.4
+Percent range                                          |
+
+
+## Page_24_Table_2
+
+
+|    | 2019   |                |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|--------|----------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|    | Septe  | mber projectio | ns |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|    | June p | rojections     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_25_Table_1
+
+
+| Number of participants
+2019
+September projections 18
+June projections 16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of participants
+2020
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range                                          |
+| Number of participants
+2021
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range                                          |
+| Number of participants
+2022
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range                                          |
+| Number of participants
+Longer run
+18
+16
+14
+12
+10
+8
+6
+4
+2
+1.38− 1.63− 1.88− 2.13− 2.38− 2.63− 2.88− 3.13− 3.38−
+1.62 1.87 2.12 2.37 2.62 2.87 3.12 3.37 3.62
+Percent range                                    |
+
+
+## Page_25_Table_2
+
+
+|    | 2019   |    |    |           |             |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|--------|----|----|-----------|-------------|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|    |        |    |    | Septemb   | er projecti |    | ons |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|    |        |    |    | June proj | ections     |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_27_Table_1
+
+
+| Chang   |    |    | e in rea   | l GDP   |          |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|---------|----|----|------------|---------|----------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| M       |    |    | edian      | of proj | ections  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|         |    | 70 | % con      | fidenc  | e interv | al |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| A       |    |    | ctual      |         |          |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_27_Table_3
+
+
+|    | Uncertain
+Se   | ty about
+ptember p   | GDP gr
+rojections   |    | owth   |    |    |    |    |    |    |
+|----|----------------|----------------------|---------------------|----|--------|----|----|----|----|----|----|
+|    | Ju             | ne projec            | tions               |    |        |    |    |    |    |    |    |
+
+
+## Page_27_Table_4
+
+
+|    | Risks to
+Se   |    | GDP gro
+ptember p   |    | wth
+rojections   |    |    |    |    |    |    |
+|----|---------------|----|---------------------|----|------------------|----|----|----|----|----|----|
+|    | Ju            |    | ne projec           |    | tions            |    |    |    |    |    |    |
+
+
+## Page_28_Table_1
+
+
+|    | Unemp   | loyme   | nt rate   |          |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|---------|---------|-----------|----------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|    | M       | edian   | of proj   | ections  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|    | 70      | % con   | fidenc    | e interv | al |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|    |         | Actual  |           |          |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+
+## Page_28_Table_3
+
+
+|    | Uncertain
+Se   | ty about
+ptember p   | the une
+rojections   |    | mployme   |    | nt rate   |    |    |    |    |
+|----|----------------|----------------------|----------------------|----|-----------|----|-----------|----|----|----|----|
+|    | Ju             | ne projec            | tions                |    |           |    |           |    |    |    |    |
+
+
+## Page_28_Table_4
+
+
+|    | Risks to t
+Se   |    | he unem
+ptember p   |    | ploymen
+rojections   |    | t rate   |    |    |    |    |    |    |
+|----|-----------------|----|---------------------|----|----------------------|----|----------|----|----|----|----|----|----|
+|    | Ju              |    | ne projec           |    | tions                |    |          |    |    |    |    |    |    |
+
+
+## Page_29_Table_1
+
+
+|          |               |         |          |    |    |    |    |    |    |    |    |    |    |    |    |    | Pe   |
+|----------|---------------|---------|----------|----|----|----|----|----|----|----|----|----|----|----|----|----|------|
+| PCE in
+M | flation
+edian | of proj | ections  |    |    |    |    |    |    |    |    |    |    |    |    |    |      |
+| 70       | % con         | fidenc  | e interv | al |    |    |    |    |    |    |    |    |    |    |    |    |      |
+| A        | ctual         |         |          |    |    |    |    |    |    |    |    |    |    |    |    |    |      |
+
+
+## Page_29_Table_2
+
+
+| Number of participants
+Uncertainty about PCE inflation
+September projections
+June projections
+18
+16
+14
+12
+10
+8
+6
+4
+2
+Lower Broadly Higher
+similar   | Number of participants
+Risks to PCE inflation
+September projections
+June projections
+18
+16
+14
+12
+10
+8
+6
+4
+2
+Weighted to Broadly Weighted to
+downside balanced upside   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of participants                                                                                                                              | Number of participants                                                                                                                                                 |
+| Uncertainty about core PCE inflation
+September projections
+June projections
+18
+16
+14
+12
+10
+8
+6
+4
+2
+Lower Broadly Higher
+similar                     | Risks to core PCE inflation
+September projections
+June projections
+18
+16
+14
+12
+10
+8
+6
+4
+2
+Weighted to Broadly Weighted to
+downside balanced upside                     |
+
+
+## Page_29_Table_3
+
+
+|    | Uncertain
+Se   | ty about
+ptember p   | PCE inf
+rojections   |    | lation   |    |    |    |    |    |    |
+|----|----------------|----------------------|----------------------|----|----------|----|----|----|----|----|----|
+|    | Ju             | ne projec            | tions                |    |          |    |    |    |    |    |    |
+
+
+## Page_29_Table_4
+
+
+|    | Risks to
+Se   |    | PCE infl
+ptember p   |    | ation
+rojections   |    |    |    |    |    |    |
+|----|---------------|----|----------------------|----|--------------------|----|----|----|----|----|----|
+|    | Ju            |    | ne projec            |    | tions              |    |    |    |    |    |    |
+
+
+## Page_29_Table_5
+
+
+|    | Uncertain
+Se   | ty about
+ptember p   | core PC
+rojections   |    | E inflati   |    | on   |    |    |    |    |
+|----|----------------|----------------------|----------------------|----|-------------|----|------|----|----|----|----|
+|    | Ju             | ne projec            | tions                |    |             |    |      |    |    |    |    |
+
+
+## Page_29_Table_6
+
+
+|    | Risks to c
+Se   |    | ore PCE
+ptember p   |    | inflatio
+rojections   |    | n   |    |    |    |    |
+|----|-----------------|----|---------------------|----|-----------------------|----|-----|----|----|----|----|
+|    | Ju              |    | ne projec           |    | tions                 |    |     |    |    |    |    |
+
+
+## Page_31_Table_1
+
+
+| Federa   | l funds        | rate           |               |     |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----------|----------------|----------------|---------------|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| M        | idpoint        | of targ        | et rang       | e   |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| M
+70     | edian o
+% conf | f proje
+idence | ctions
+interv | al* |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| A        | ctual          |                |               |     |    |    |    |    |    |    |    |    |    |    |    |    |    |

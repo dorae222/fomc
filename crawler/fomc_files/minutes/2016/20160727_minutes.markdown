@@ -1,0 +1,1169 @@
+# 20160727_minutes.pdf
+
+*Extracted on: 2025-08-20 16:38:07*
+*Pages: 14, Tables: 4*
+
+## Document Content
+
+--- Page 1 ---
+
+_______________________________________________ _________________________________________P_a_g_e_ _1
+Minutes of the Federal Open Market Committee
+July 26–27, 2016
+A joint meeting of the Federal Open Market Committee Simon Potter, Manager, System Open Market Account
+and the Board of Governors was held in the offices of
+the Board of Governors of the Federal Reserve System Lorie K. Logan, Deputy Manager, System Open
+in Washington, D.C., on Tuesday, July 26, 2016, at Market Account
+10:00 a.m. and continued on Wednesday, July 27, 2016,
+at 9:00 a.m.1 Robert deV. Frierson, Secretary of the Board, Office of
+the Secretary, Board of Governors
+PRESENT:
+Matthew J. Eichner,2 Director, Division of Reserve
+Janet L. Yellen, Chair
+Bank Operations and Payment Systems, Board of
+William C. Dudley, Vice Chairman
+Governors; Michael S. Gibson, Director, Division
+Lael Brainard
+of Banking Supervision and Regulation, Board of
+James Bullard
+Governors; Nellie Liang, Director, Division of
+Stanley Fischer
+Financial Stability, Board of Governors
+Esther L. George
+Loretta J. Mester
+James A. Clouse, Deputy Director, Division of
+Jerome H. Powell
+Monetary Affairs, Board of Governors; Daniel M.
+Eric Rosengren
+Covitz, Deputy Director, Division of Research and
+Daniel K. Tarullo
+Statistics, Board of Governors
+Charles L. Evans, Patrick Harker, Robert S. Kaplan,
+Andrew Figura, David Reifschneider, and Stacey
+Neel Kashkari, and Michael Strine, Alternate
+Tevlin, Special Advisers to the Board, Office of
+Members of the Federal Open Market Committee
+Board Members, Board of Governors
+Jeffrey M. Lacker, Dennis P. Lockhart, and John C.
+Trevor A. Reeve, Special Adviser to the Chair, Office
+Williams, Presidents of the Federal Reserve Banks
+of Board Members, Board of Governors
+of Richmond, Atlanta, and San Francisco,
+respectively
+Linda Robertson, Assistant to the Board, Office of
+Board Members, Board of Governors
+Brian F. Madigan, Secretary
+Matthew M. Luecke, Deputy Secretary
+Fabio M. Natalucci and Gretchen C. Weinbach,3 Senior
+David W. Skidmore, Assistant Secretary
+Associate Directors, Division of Monetary Affairs,
+Michelle A. Smith, Assistant Secretary
+Board of Governors; Michael G. Palumbo, Senior
+Scott G. Alvarez, General Counsel
+Associate Director, Division of Research and
+Steven B. Kamin, Economist
+Statistics, Board of Governors; Beth Anne Wilson,
+Thomas Laubach, Economist
+Senior Associate Director, Division of
+David W. Wilcox, Economist
+International Finance, Board of Governors
+Thomas A. Connors, Troy Davig, Michael P. Leahy,
+Michael T. Kiley, Senior Adviser, Division of Research
+David E. Lebow, Stephen A. Meyer, Ellis W.
+and Statistics, and Senior Associate Director,
+Tallman, Christopher J. Waller, and William
+Division of Financial Stability, Board of Governors
+Wascher, Associate Economists
+1 The Federal Open Market Committee is referenced as the 3 Attended the discussion of the long-run monetary policy im-
+“FOMC” and the “Committee” in these minutes. plementation framework.
+2 Attended the discussions of the long-run monetary policy
+implementation framework and financial developments.
+
+--- Page 2 ---
+
+_P_ag_e_ _2_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a _rk_e_t_ C__o_m_m__it_te_e__________________________________
+Antulio N. Bomfim and Joyce K. Zickler, Senior Long-Run Monetary Policy Implementation
+Advisers, Division of Monetary Affairs, Board of Framework
+Governors; Brian M. Doyle,3 Senior Adviser, The staff provided several briefings that reviewed pro-
+Division of International Finance, Board of gress on a long-term effort begun in July 2015 to evalu-
+Governors ate potential long-run frameworks for monetary policy
+implementation. The briefings highlighted some foun-
+Jane E. Ihrig,3 Associate Director, Division of dational considerations that are relevant for such an
+Monetary Affairs, Board of Governors evaluation. The staff described the recent experience of
+several central banks of advanced foreign economies
+John J. Stevens, Deputy Associate Director, Division of (AFEs) in implementing monetary policy, noting that
+Research and Statistics, Board of Governors they use a wide variety of frameworks to control short-
+term interest rates and that their approaches have
+Glenn Follette and Steven A. Sharpe, Assistant evolved over time. For example, foreign central banks
+Directors, Division of Research and Statistics, vary in their choice of the interest rate used to communi-
+Board of Governors; Elizabeth Klee,3 Assistant cate monetary policy; in their approach to the provision
+Director, Division of Monetary Affairs, Board of of reserve balances; and in their use of policies, such as
+Governors large-scale asset purchases, various funding programs,
+and negative interest rates, to supplement more tradi-
+David H. Small, Project Manager, Division of tional means of policy implementation. The staff also
+Monetary Affairs, Board of Governors described the Federal Reserve’s experience in imple-
+menting monetary policy during the recent financial cri-
+Elmar Mertens, Principal Economist, Division of sis. Before the financial crisis, traditional implementa-
+Monetary Affairs, Board of Governors tion tools—relatively small-sized open market opera-
+tions and discount window lending—were adequate for
+Valerie Hinojosa, Information Manager, Division of interest rate control even during periods of stress. But
+Monetary Affairs, Board of Governors the evidence from the period of the crisis and its after-
+math suggested that the Federal Reserve’s pre-crisis
+Marie Gooding, First Vice President, Federal Reserve framework did not enable close control over the federal
+Bank of Atlanta funds rate when liquidity programs were expanded sig-
+nificantly and subsequently was unable to generate suf-
+David Altig and Ron Feldman, Executive Vice ficiently accommodative financial conditions to support
+Presidents, Federal Reserve Banks of Atlanta and economic recovery without the use of new policy tools.
+Minneapolis, respectively Finally, the staff noted that various aspects of U.S.
+money markets, which determine short-term interest
+Tobias Adrian, Michael Dotsey, Stephanie Heller, rates and are important for transmitting monetary policy,
+Susan McLaughlin,3 Julie Ann Remache,3 and John have changed since the financial crisis. The differences
+A. Weinberg, Senior Vice Presidents, Federal include changes the Federal Reserve has made to its pol-
+Reserve Banks of New York, Philadelphia, New icy tools and balance sheet, changes in market partici-
+York, New York, New York, and Richmond, pants’ business practices, and the regulatory changes
+respectively made around the globe to strengthen the financial sys-
+tem. Taken together, these factors may, for example,
+John Duca, Jonas D. M. Fisher, Deborah L. Leonard,3 raise the long-run demand for safe assets, including re-
+Antoine Martin,3 Ed Nosal,3 Anna Paulson,3 Joe serve balances, and they should help make U.S. money
+Peek, and Patricia Zobel,3 Vice Presidents, Federal markets more stable than they were before and during
+Reserve Banks of Dallas, Chicago, New York, New the financial crisis.
+York, Chicago, Chicago, Boston, and New York,
+In the discussion that followed the staff presentations,
+respectively
+policymakers agreed that decisions regarding an appro-
+priate long-run implementation framework would not
+John Fernald, Senior Research Advisor, Federal
+be necessary for some time. Furthermore, their judg-
+Reserve Bank of San Francisco
+ments regarding a future framework would benefit from
+accruing additional experience with recently developed
+
+--- Page 3 ---
+
+______________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_ g_ _o_f _J_u_ly_ 2_6_–_2_7_,_ 2_0_1_6_________________________P_a_g_e_ _3
+policy tools, such as the payment of interest on reserves, perceived stigma associated with borrowing at the dis-
+and accumulating more information about some im- count window, particularly in periods of financial strain,
+portant considerations that are still evolving, including would need further careful consideration. In addition, it
+financial regulations and market participants’ responses was noted that the dollar is a principal reserve currency
+to them. and that monetary transmission in the United States oc-
+curs through funding markets that are quite globally con-
+One key consideration discussed by policymakers was
+nected. At the conclusion of the discussion, the Chair
+the appropriate amount of flexibility that an implemen-
+asked the staff to continue its work and noted that poli-
+tation framework might have—for example, the extent
+cymakers would review further analysis at a future meet-
+to which a framework could readily enable interest rate
+ing.
+control under a wide range of economic and financial
+circumstances. With neutral interest rates potentially re- Developments in Financial Markets and Open
+maining quite low, policymakers also observed that, in Market Operations
+order to promote the Federal Reserve’s policy objec- The deputy manager of the System Open Market Ac-
+tives, the framework should have the capacity to supple- count (SOMA) reported on developments in financial
+ment conventional policy accommodation with other markets and open market operations during the period
+measures when short-term nominal interest rates are since the Committee met on June 14–15, 2016. Follow-
+near zero. Policymakers emphasized that the relation- ing the outcome of the June 23 referendum in the United
+ship between the monetary policy implementation Kingdom in which a majority indicated a preference to
+framework and financial stability considerations would leave the European Union (EU), yields on U.S. Treasury
+require careful attention. Importantly, the policy imple- securities fell sharply, U.S. equity prices declined, and the
+mentation framework would need to be consistent with foreign exchange value of the dollar increased. How-
+recent changes in regulation designed to enhance the sta- ever, these changes generally reversed in subsequent
+bility of the financial system. Also, because episodes of weeks. On balance, Treasury yields were down only
+financial stress can arise with little warning, policymakers slightly over the intermeeting period, equity prices were
+noted the advantage of being operationally ready for higher, and the foreign exchange value of the dollar was
+such situations; however, they also recognized that such little changed. Although the expected path of the federal
+operational readiness could entail some costs. Partici- funds rate implied by market prices was about un-
+pants observed that various choices associated with pol- changed on net, the Open Market Desk’s Survey of Pri-
+icy implementation frameworks—such as the selection mary Dealers and Survey of Market Participants indi-
+of counterparties or types of collateral to accept, and the cated that the median responses for the most likely path
+overall size and composition of the Federal Reserve’s of the federal funds rate over coming quarters had de-
+balance sheet—may both be influenced by, and them- clined.
+selves influence, incentives and activity in financial mar-
+During the intermeeting period, federal funds continued
+kets. Moreover, they indicated that the implications of
+to trade at rates well within the FOMC’s ¼ to ½ percent
+the implementation framework for the efficiency of the
+target range. However, the average effective federal
+financial system needed to be taken into account.
+funds rate was modestly higher than in the previous in-
+Meeting participants commented on several other con- termeeting period. The slightly firmer conditions in the
+siderations that they saw as being relevant for evaluating federal funds market were supported by higher rates in
+possible implementation frameworks. Other major cen- money markets for secured transactions, which appeared
+tral banks have successfully employed a range of policy to reflect at least in part more cautious liquidity manage-
+rates, including both administered rates and market ment by some money market participants in the wake of
+rates, suggesting that either type of rate can be effective the U.K. referendum. Take-up at the System’s overnight
+in communicating and implementing policy. However, reverse repurchase agreement facility rose somewhat.
+the factors affecting market rates, as well as the relation- The increase seemed to be in part the result of shifts in
+ships between the policy interest rate and other short- investments by money market funds in advance of the
+term interest rates, would need to be well understood in scheduled implementation in October of changes to the
+deciding on a particular policy rate. The potential bene- regulation of the money market fund industry.
+fits of improving the functioning of certain policy tools
+By unanimous vote, the Committee ratified the Desk’s
+were noted; for example, approaches to reducing the
+domestic transactions over the intermeeting period.
+
+--- Page 4 ---
+
+_P_ag_e_ _4_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a _rk_e_t_ C__o_m_m__it_te_e__________________________________
+There were no intervention operations in foreign curren- new orders diffusion indexes from national and regional
+cies for the System’s account during the intermeeting pe- manufacturing surveys, suggested only modest gains in
+riod. factory output over the next few months.
+Staff Review of the Economic Situation Growth in real personal consumption expenditures
+The information reviewed for the July 26–27 meeting in- (PCE) appeared to have picked up in the second quarter.
+dicated that labor market conditions generally improved The components of the nominal retail sales data used by
+in June and that growth in real gross domestic product the Bureau of Economic Analysis to construct its esti-
+(GDP) was moderate in the second quarter. Consumer mate of PCE continued to rise at a solid pace in June.
+price inflation continued to run below the Committee’s Although sales of light motor vehicles declined in June,
+longer-run objective of 2 percent, restrained in part by the average pace for the second quarter as a whole was
+earlier decreases in energy prices and in prices of non- essentially the same as in the first quarter. The apparent
+energy imports. Most survey-based measures of longer- pickup in real PCE growth was consistent with recent
+run inflation expectations were little changed, on bal- readings on key factors that influence consumer spend-
+ance, while market-based measures of inflation compen- ing, including continued gains in real disposable personal
+sation remained low. income and in households’ net worth. Also, consumer
+sentiment as measured by the University of Michigan
+Total nonfarm payroll employment increased briskly in
+Surveys of Consumers remained reasonably upbeat in
+June, but the increase for the second quarter as a whole
+the second quarter and in early July.
+was noticeably slower than in the first quarter. The un-
+employment rate rose to 4.9 percent in June, partly re- Recent information on housing activity suggested that
+versing its decline in the previous month. The labor the pace of the gradual recovery in the sector had slowed
+force participation rate edged up in June, while the in recent months. Starts for new single-family homes
+employment-to-population ratio edged down. The were little changed, on average, in May and June at a level
+share of workers employed part time for economic rea- below that in the first quarter, while starts for multifam-
+sons declined in June after a similarly sized increase in ily units moved up, on net, and were above their first-
+May. The rate of private-sector job openings declined in quarter average. Building permit issuance for both
+May, albeit from an elevated level, and the rates of hires single-family and multifamily units remained essentially
+and of quits were both unchanged. The four-week mov- flat in the second quarter and pointed to little improve-
+ing average of initial claims for unemployment insurance ment in the rate of starts over the next few months.
+benefits remained low through mid-July. Average Sales of new and existing homes both increased, on net,
+hourly earnings for all employees increased 2½ percent in May and June.
+over the 12 months ending in June.
+Real private expenditures for business equipment and in-
+The unemployment rates for African Americans and for tellectual property appeared to have declined for a third
+Hispanics stayed above the rate for whites, although the consecutive quarter. Nominal shipments of nondefense
+differentials in jobless rates across the different groups capital goods excluding aircraft decreased in May and
+were similar to those before the most recent recession. June, and orders for these goods also declined on bal-
+A similar pattern among demographic groups held for a ance. However, recent readings from national and re-
+broader measure of labor underutilization that also in- gional surveys of business conditions suggested some
+cludes persons who were marginally attached to the la- pickup in business equipment spending in the near term.
+bor force and those who were employed part time for Firms’ nominal spending for nonresidential structures
+economic reasons. excluding drilling and mining declined in May. The
+number of oil and gas rigs in operation, an indicator of
+Total industrial production rose modestly, on net, in
+spending for structures in the drilling and mining sector,
+May and June, primarily reflecting an increase in the out-
+fell through late May but edged up through mid-July.
+put of utilities in June related to unseasonably warm
+weather during that month. Manufacturing production Nominal outlays for defense through June pointed to a
+was little changed, on balance, in May and June, and min- decline in real federal government purchases in the sec-
+ing output edged up following a string of steep declines. ond quarter. Real state and local government purchases
+Automakers’ assembly schedules pointed to an increase also appeared to have declined. Although payrolls for
+in motor vehicle production during the third quarter, but state and local governments expanded over the quarter,
+other indicators of manufacturing production, such as
+
+--- Page 5 ---
+
+______________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_ g_ _o_f _J_u_ly_ 2_6_–_2_7_,_ 2_0_1_6_________________________P_a_g_e_ _5
+nominal construction spending by these governments the Brexit vote, and corporate bond spreads declined on
+declined noticeably in April and May. balance. Conditions in business and consumer credit
+markets were about unchanged. The expected policy
+The U.S. international trade deficit widened in May, as
+path of the federal funds rate implied by market quotes
+imports rose and exports declined slightly. The export
+was little changed, on net, but fluctuated notably over
+decline was led by decreased exports of capital goods
+the intermeeting period.
+and automotive products. For imports, increased im-
+ports of industrial supplies and consumer goods more In the days immediately following the Brexit vote, asset
+than offset decreased imports of capital goods. These prices were volatile, and some financial markets, partic-
+recent indicators, combined with data from earlier in the ularly certain foreign exchange markets, experienced
+year, suggested that net exports made a near-neutral con- brief periods of strained liquidity. Global stock indexes
+tribution to the growth of real GDP in the first half of fell notably, credit spreads widened, and safe-haven as-
+2016. sets appreciated substantially. However, broad-based
+market dislocations did not develop, apparently because
+Total U.S. consumer prices, as measured by the PCE
+market participants had prepared for a significant risk
+price index, increased about 1 percent over the
+event. Market analysts also pointed to the communica-
+12 months ending in May, partly restrained by earlier de-
+tions and actions by advanced-economy authorities both
+clines in consumer energy prices. Core PCE price infla-
+before and after the vote as helping to reassure investors.
+tion, which excludes changes in food and energy prices,
+Overall, negative sentiment surrounding the Brexit out-
+was a little above 1½ percent over the same 12-month
+come early in the intermeeting period was subsequently
+period, held down in part by decreases in the prices of
+alleviated by expectations for greater policy accommo-
+non-energy imports over much of this period and the
+dation in some AFEs, some resolution of near-term po-
+pass-through of the declines in energy prices to the
+litical uncertainty in the United Kingdom, and positive
+prices of other goods and services. Over the 12 months
+U.S. economic data releases. Nevertheless, several
+ending in June, total consumer prices as measured by the
+longer-term global risks related to Brexit remained.
+consumer price index (CPI) rose 1 percent, while core
+CPI inflation was about 2¼ percent. The Michigan sur- Federal Reserve communications released in conjunc-
+vey measure of longer-run inflation expectations edged tion with the June FOMC meeting were interpreted by
+up in June and was unchanged in early July. Other market participants as more accommodative than ex-
+measures of longer-run inflation expectations—includ- pected. The expected path of the federal funds rate im-
+ing those from the Desk’s Survey of Primary Dealers and plied by market quotes declined in response to the re-
+Survey of Market Participants—were generally little lease of forecasts collected for the June Summary of
+changed, on balance, in recent months. Economic Projections, which showed larger-than-
+expected downward revisions to projections of the fed-
+The pace of foreign real GDP growth appeared to slow
+eral funds rate. The expected policy path implied by
+in the second quarter, driven in large part by temporary
+market quotes fell further in the aftermath of the Brexit
+factors such as wildfires in Canada and, to a lesser extent,
+vote, but it later retraced most of the earlier declines,
+by a deceleration of activity in the euro area. In the
+supported by better-than-expected domestic data re-
+emerging market economies (EMEs), a pickup in growth
+leases—particularly the employment and retail sales re-
+in China in the second quarter, supported by policy stim-
+ports for June—as well as improved sentiment regarding
+ulus, appeared to be more than offset by slower growth
+the possible near-term implications of Brexit. The me-
+in Latin America. In the United Kingdom, early indica-
+dian respondents to the Desk’s Survey of Primary Deal-
+tors following the June 23 referendum on exit from the
+ers and Survey of Market Participants saw one rate hike
+EU (“Brexit”) pointed to a slowdown in economic
+in 2016 as most likely, the same as in the June surveys.
+growth. Inflation in the AFEs picked up in the second
+quarter, largely reflecting some increase in energy prices, The nominal Treasury yield curve flattened slightly, on
+but generally remained low. Inflation also remained sub- net, over the intermeeting period. Longer-term nominal
+dued in the EMEs. Treasury yields fell sharply in the two weeks following
+the Brexit vote. Market participants attributed the de-
+Staff Review of the Financial Situation
+cline in Treasury yields to a variety of factors, including
+Domestic financial conditions remained accommodative
+expectations for a more accommodative stance of mon-
+over the intermeeting period. Equity price indexes in-
+etary policy by major central banks; an intensification of
+creased, on net, despite an initial sharp decline following
+demand for safe-haven assets immediately following the
+
+--- Page 6 ---
+
+_P_ag_e_ _6_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a _rk_e_t_ C__o_m_m__it_te_e__________________________________
+Brexit vote; and strong demand by global institutional some indicators suggested that the pace of deterioration
+investors for higher-yielding U.S. fixed-income assets was subsiding. The net volume of bonds downgraded in
+following decreases in sovereign yields in Europe and the second quarter was notably smaller than in the pre-
+Japan, in some cases further into negative territory. vious quarter. Even so, default rates on bonds issued by
+Most of the decline in nominal Treasury yields was re- nonfinancial corporations and expected year-ahead de-
+versed later in the period. The small net decline in fault rates for nonfinancial firms both remained elevated
+longer-term nominal Treasury yields over the period was relative to the ranges that typically prevail during expan-
+attributable to a comparable drop in real yields, as sions.
+longer-term inflation compensation measures based on
+Financing conditions for commercial real estate (CRE)
+Treasury Inflation-Protected Securities and inflation
+stayed fairly accommodative, on balance, and bank lend-
+swaps were little changed on net. Spreads of yields on
+ing in all major CRE categories was strong through June.
+agency mortgage-backed securities over yields on Treas-
+Spreads on U.S. commercial mortgage-backed securities
+ury securities narrowed slightly.
+(CMBS) did not appear to have been affected by the
+Broad stock price indexes increased, on net, over the in- Brexit vote. They remained elevated, however, a factor
+termeeting period. One-month-ahead option-implied that likely contributed to depressed CMBS issuance so
+volatility on the S&P 500 index—the VIX—fell, return- far this year. Meanwhile, CMBS delinquency rates edged
+ing to the lower end of its distribution of the past few up for the third consecutive month. A significant net
+years. U.S. bank stock prices dropped sharply after the fraction of respondents to the July SLOOS indicated
+Brexit vote but then retraced that decrease, buoyed by that, during the second quarter, they had tightened their
+better-than-expected earnings reports from some of the CRE lending standards for construction and land devel-
+largest domestic banks. Declines in European bank opment loans and loans secured by multifamily residen-
+stock prices following the Brexit vote also reversed later tial properties, and a moderate net fraction of respond-
+in the intermeeting period. Spreads of yields on ents reported tightening their lending standards for loans
+investment-grade corporate bonds over those on secured by nonfarm nonresidential properties.
+comparable-maturity Treasury securities ended the pe-
+Credit conditions in municipal bond markets remained
+riod somewhat lower, on net, and spreads on
+solid. Gross issuance of municipal bonds in June was
+speculative-grade corporate bonds declined notably.
+strong, credit quality continued to be stable overall, and
+Near-term forward spreads on speculative-grade issues
+the ratio of yields on general obligation bonds to those
+dropped substantially more than their far-term forward
+on comparable-maturity Treasury securities was little
+counterparts, suggesting that the overall decline in
+changed on net. The default by Puerto Rico and the
+speculative-grade spreads was due in part to a less nega-
+downgrade of the general obligation bonds of Illinois
+tive credit outlook and not just an increase in investors’
+both appeared to have only a limited effect on the
+risk appetite.
+broader municipal bond market.
+Overall financing conditions for nonfinancial firms re-
+Financing conditions in the residential mortgage market
+mained accommodative. Gross issuance of corporate
+became more accommodative, on balance, since the
+bonds stayed robust in June, particularly in the
+June FOMC meeting. Interest rates on 30-year fixed-
+investment-grade sector. Issuance slowed significantly
+rate mortgages decreased further, partly reflecting the
+in early July for both investment- and speculative-grade
+declines in yields on Treasury securities. A number of
+bonds, in part reflecting seasonal factors. The growth of
+large banks noted in the July SLOOS an easing of stand-
+commercial and industrial (C&I) lending on banks’
+ards for home-purchase loans eligible for purchase by
+books slowed in June, but expansion of such loans con-
+the government-sponsored enterprises (GSEs). Banks
+tinued through early July. This pattern was consistent
+also reported a broad-based pickup in demand across
+with the responses to the July 2016 Senior Loan Officer
+most major categories of home-purchase loans. Indica-
+Opinion Survey on Bank Lending Practices (SLOOS), in
+tors suggested a pickup in refinancing activity in re-
+which modest net fractions of respondents indicated
+sponse to the drop in mortgage rates.
+that they had tightened their C&I lending standards and
+experienced weaker demand for such loans during the Financing conditions in consumer credit markets were
+second quarter. little changed and remained largely accommodative
+against a backdrop of stable credit performance across
+On balance, the credit quality of nonfinancial corpora-
+debt categories. Growth of auto loans remained robust
+tions continued to weaken in recent months, although
+
+--- Page 7 ---
+
+______________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_ g_ _o_f _J_u_ly_ 2_6_–_2_7_,_ 2_0_1_6_________________________P_a_g_e_ _7
+even though a modest net fraction of respondents to the in the previous assessment. Although upcoming regula-
+July SLOOS indicated that they had tightened their tory changes were expected to improve the stability of
+standards for such loans. Credit card balances continued money market funds in the longer run, the staff noted
+to grow moderately on balance. Yield spreads for secu- the potential for large withdrawals by investors in antic-
+rities backed by credit card and auto loans over Treasury ipation of those changes to lead to some disruptions in
+securities remained largely stable, and market partici- the short run. Vulnerabilities emanating from leverage
+pants reportedly expected asset-backed security issuance in the nonfinancial private sector remained moderate:
+to pick up in the coming weeks. While business debt ratios stayed elevated, household
+debt-to-income ratios continued to inch down. Valua-
+As in the United States, global financial market develop-
+tion pressures also remained at a moderate level. Al-
+ments during the intermeeting period were driven, in
+though term premiums on Treasury securities became
+large part, by reactions to the U.K. referendum on EU
+more deeply negative and CRE valuation pressures re-
+membership on June 23 and to the release of U.S. eco-
+mained appreciable, corporate bond and equity risk pre-
+nomic data. Immediately after the Brexit vote, the Brit-
+miums were unchanged on net.
+ish pound depreciated sharply against other major cur-
+rencies, while the U.S. dollar and the Japanese yen Staff Economic Outlook
+strengthened on what appeared to be safe-haven flows. In the U.S. economic projection prepared by the staff
+Prices of risky assets and advanced-economy bond yields for the July FOMC meeting, real GDP growth was esti-
+also fell in response to the heightened uncertainty and mated to have picked up in the second quarter, con-
+expectations of slower economic growth. Later in the sistent with the forecast in June. However, the projected
+period, however, investors’ concerns eased substantially step-up in real GDP growth over the second half of this
+on the resolution of some of the near-term political un- year was marked down a little, partly reflecting softer
+certainty in the United Kingdom, increased expectations news on construction. The forecast for real GDP
+for additional policy stimulus in Europe and Japan, and growth in 2017 and 2018 was little revised, as the posi-
+U.S. data on employment and retail sales in June that ex- tive effects of a slightly lower assumed path for interest
+ceeded market expectations. Some AFE sovereign rates and a stronger trajectory for household wealth were
+yields recovered partially from their post-Brexit lows, mostly offset by the restraint from a weaker outlook for
+but U.K. long-term yields remained low on expectations foreign GDP growth and a slightly stronger path for the
+of slower growth there and further monetary policy ac- foreign exchange value of the dollar. The staff contin-
+commodation. Global equity indexes ended higher, on ued to forecast that real GDP would expand at a mod-
+net, over the intermeeting period. However, European estly faster pace than potential output in 2016 through
+bank equities, especially those of Italian banks, under- 2018, supported primarily by increases in consumer
+performed, reflecting investor fears that lower interest spending and, to a lesser degree, by a projected pickup
+rates will continue to weigh on profitability. Emerging in business and residential investment. The unemploy-
+market asset prices were generally resilient over the in- ment rate was expected to remain flat over the second
+termeeting period; the dollar was weaker against most half of this year and then to gradually decline through
+emerging market currencies, and flows into emerging the end of 2018. Over this period, the unemployment
+market assets surged. Although the Chinese renminbi rate was projected to run somewhat below the staff’s es-
+depreciated against both the U.S. dollar and the broader timate of its longer-run natural rate.
+currency basket referenced by the Chinese government,
+The staff’s forecast for consumer price inflation over the
+this development elicited little market reaction. The un-
+second half of 2016 was a little lower than in the previ-
+successful coup attempt in Turkey on July 15 left little
+ous projection, as recent declines in crude oil prices were
+imprint on global financial markets.
+expected to hold down consumer energy prices. There-
+In its latest report on potential risks to the stability of the after, the forecast for inflation was essentially unrevised.
+U.S. financial system, the staff continued to judge that The staff continued to project that inflation would in-
+vulnerabilities overall remained at a moderate level and crease over the next several years, as energy prices and
+noted that the financial system had been resilient to the the prices of non-energy imports were expected to begin
+Brexit vote. While vulnerabilities stemming from steadily rising this year and as resource utilization was
+financial-sector leverage were assessed as still low, those expected to tighten further. However, inflation was still
+from maturity and liquidity transformation were judged projected to be slightly below the Committee’s longer-
+by the staff to be somewhat higher in the near term than run objective of 2 percent in 2018.
+
+--- Page 8 ---
+
+_P_ag_e_ _8_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a _rk_e_t_ C__o_m_m__it_te_e__________________________________
+The staff viewed the uncertainty around its July projec- clines in energy and import prices dissipated and the la-
+tions for real GDP growth, the unemployment rate, and bor market strengthened further. Participants viewed
+inflation as similar to the average of the past 20 years. the near-term risks to the U.S. economic outlook as hav-
+The risks to the forecast for real GDP were seen as tilted ing diminished. However, some noted that the Brexit
+to the downside, reflecting the staff’s assessment that vote had created uncertainty about the medium- to
+both monetary and fiscal policy appeared to be better longer-run outlook for foreign economies that could af-
+positioned to offset large positive shocks than adverse fect economic and financial conditions in the United
+ones. In addition, the staff continued to see the risks to States. Participants generally agreed that the Committee
+the forecast from developments abroad as skewed to the should continue to closely monitor inflation indicators
+downside. Consistent with the downside risks to aggre- and global economic and financial developments.
+gate demand, the staff viewed the risks to its outlook for
+Growth in consumer spending was estimated to have re-
+the unemployment rate as tilted to the upside. The risks
+bounded in the second quarter from the slow pace in the
+to the projection for inflation were still judged as
+first quarter, as monthly gains in retail sales were strong
+weighted to the downside, reflecting the possibility that
+through June. Sales of new motor vehicles remained at
+longer-term inflation expectations may have edged
+a high level, on average, in the second quarter, although
+lower.
+sales appeared to be supported by substantial incentives
+Participants’ Views on Current Conditions and the for consumers and by business fleet purchases. With the
+Economic Outlook second-quarter pickup in spending, real PCE appeared
+In their discussion of the economic situation and the to have risen over the first half of the year at a rate con-
+outlook, meeting participants agreed that the infor- sistent with the positive trends in fundamental determi-
+mation received over the intermeeting period indicated nants of household spending. Participants cited a num-
+that the labor market had strengthened and that eco- ber of factors that had likely been supporting household
+nomic activity had been expanding at a moderate rate. spending, including solid real income growth, gains in
+Job gains were strong in June following weak growth in house and equity values, low gasoline prices, and favor-
+May. On balance, payrolls and other labor market indi- able levels of consumer confidence.
+cators pointed to some increase in labor utilization in re-
+Residential investment posted a strong increase in the
+cent months. Household spending had been growing
+first quarter of the year, but data on starts of new single-
+strongly, but business fixed investment had been soft.
+family homes indicated that outlays likely edged down in
+Inflation had continued to run below the Committee’s
+the second quarter. Data on permit issuance through
+2 percent longer-run objective, partly reflecting earlier
+June suggested that new-home building activity might
+declines in energy prices and in prices of non-energy im-
+rise only slowly in the near term. However, participants
+ports. Market-based measures of inflation compensa-
+commented on a number of factors suggesting that the
+tion remained low; most survey-based measures of
+housing sector was likely to continue to improve, albeit
+longer-run inflation expectations were little changed, on
+gradually: Rising sales of existing homes, responses to
+balance, in recent months. Domestic and global asset
+the July SLOOS pointing to stronger demand for resi-
+prices were volatile early in the intermeeting period fol-
+dential mortgage loans, and the steady increase in house
+lowing the vote by the United Kingdom to leave the EU,
+prices were seen as evidence of rising demand. In addi-
+but they subsequently recovered their earlier declines,
+tion, credit conditions remained favorable: Mortgage
+and, on net, U.S. financial conditions eased over the in-
+rates had fallen further, and the SLOOS reported easier
+termeeting period.
+terms for loans eligible for purchase by the GSEs.
+Participants generally indicated that their economic fore- Moreover, several participants noted positive reports on
+casts had changed little over the intermeeting period. residential construction activity from business contacts
+They continued to anticipate that, with gradual adjust- in their Districts, with a few suggesting that shortages of
+ments in the stance of monetary policy, economic activ- lots and skilled labor, rather than low demand, might be
+ity would expand at a moderate pace and labor market contributing to the recent slowing.
+indicators would strengthen. Inflation was expected to
+Business fixed investment appeared to have declined
+remain low in the near term, in part because of earlier
+further during the second quarter, with broad-based
+declines in energy prices, but to rise to 2 percent over
+weakness in equipment and another steep drop in drill-
+the medium term as the transitory effects of past de-
+ing and mining structures. Participants noted that the
+
+--- Page 9 ---
+
+______________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_ g_ _o_f _J_u_ly_ 2_6_–_2_7_,_ 2_0_1_6_________________________P_a_g_e_ _9
+recent rise in energy prices had spurred an uptick in drill- more than reversed its increase in May, and the broader
+ing activity, suggesting that if energy prices firm over U-6 measure of labor underutilization continued to
+time as expected, the drag on investment from declining move down. Some participants noted that recent signs
+energy-sector activity should diminish. In addition, it of a moderate step-up in wage increases provided further
+was pointed out that the upward trend in investment in evidence of improving labor market conditions. Al-
+intellectual property products was a positive in the out- though most participants judged that labor market con-
+look for investment. Several participants commented on ditions were at or approaching those consistent with
+favorable reports from their business contacts on com- maximum employment, their views on the implications
+mercial construction. Based on conversations with their for progress on the Committee’s policy objectives var-
+contacts, participants discussed a number of factors that ied. Some of them believed that a convergence to a
+may have been contributing to businesses’ cautious ap- more moderate, sustainable pace of job gains would
+proach to investment spending, including concern about soon be necessary to prevent an unwanted increase in
+the likelihood of an extended period of slow economic inflationary pressures. Other participants continued to
+growth, both in the United States and abroad; narrowing judge that labor utilization remained below that con-
+profit margins; and uncertainty about prospects for gov- sistent with the Committee’s maximum-employment
+ernment policies. objective. These participants noted that progress in re-
+ducing slack in the labor market had slowed, citing rela-
+In their discussion of business conditions in their Dis-
+tively little change, on net, since the beginning of the year
+tricts, many participants reported that their contacts an-
+in the unemployment rate, the number of persons work-
+ticipated that the U.K. referendum would have little ef-
+ing part time for economic reasons, the employment-to-
+fect on their businesses. Activity in the manufacturing
+population ratio, labor force participation, or rates of job
+sector continued to be mixed: Several participants indi-
+openings and quits.
+cated that manufacturing in their Districts was still quite
+weak, while several others reported that their Banks’ Available information on inflation suggested that the
+June surveys showed that manufacturing activity had change in headline PCE prices for the 12 months ending
+picked up or stabilized. The available surveys indicated in June continued to run well below the Committee’s
+that service-sector activity continued to expand. How- longer-run objective and that the 12-month change in
+ever, economic activity continued to be depressed in ar- core PCE prices likely remained near its May level of
+eas affected by the downturn in the energy sector and 1.6 percent. On a 12-month-change basis, core PCE in-
+falling agricultural commodity prices, although several flation had risen from 1.3 percent a year earlier, but it
+participants noted that the recent firming in crude oil continued to be held down by the pass-through of earlier
+prices had led to a modest increase in drilling activity. declines in energy prices and by soft prices of imports.
+Businesses in the energy industry were reported to be Core PCE inflation over the first half of 2016 was ex-
+highly leveraged, and additional restructurings and bank- pected to have been close to an annual rate of 2 percent,
+ruptcies were seen as likely. Farm loans continued to but it was noted that some of the increase likely reflected
+increase, and banks had seen some rise in delinquencies transitory effects that would be in part reversed during
+on such credits. the second half of the year. Longer-run inflation expec-
+tations, as reported in the Michigan survey, were little
+The labor market report for June appeared to confirm
+changed in June and early July. The reading from the
+participants’ earlier assessments that the small gain in
+Federal Reserve Bank of New York’s Survey of Con-
+payroll employment in May likely had substantially un-
+sumer Expectations for inflation three years ahead
+derstated its underlying pace. The sharp rebound in pay-
+moved up further in June, returning to near its level of a
+roll employment gains put the average monthly increase
+year earlier. Most market-based measures of longer-run
+in jobs over the three months ending in June at about
+inflation compensation remained low.
+150,000. Although this pace was noticeably slower than
+the average rate during 2015 and the first quarter of Participants also discussed recent developments in fi-
+2016, many participants viewed it as consistent with con- nancial markets and issues related to financial stability.
+tinued strengthening in labor market conditions and The vote by the United Kingdom to leave the EU led to
+with a further gradual decline in the unemployment rate. sharp declines in risk asset prices and a spike in volatility
+The unemployment rate rose in June after having de- in financial markets early in the intermeeting period. But
+clined in May, but the labor force participation rate those price moves were subsequently reversed, likely in
+ticked up, the rate of involuntary part-time employment
+
+--- Page 10 ---
+
+_P_ag_e_ _1_0____________________________F_e_d_e_r_al_ O__p_e_n_ M__a _rk_e_t_ C__o_m_m__it_te_e__________________________________
+response to expectations for policy actions by some ma- job gains in June had alleviated two key uncertainties
+jor central banks, the resolution of some of the political about the outlook that they had faced at the June meet-
+uncertainty in the United Kingdom, and better-than- ing. Brexit now appeared likely to have little effect on
+expected data on U.S. economic activity. Financial mar- the U.S. economic outlook in the near term. Moreover,
+kets and institutions were generally resilient in the after- the employment report for June, along with other recent
+math of the vote, apparently reflecting in part advance information that suggested that real GDP rose at a mod-
+preparations by key market participants and communi- erate rate in the second quarter, provided some reassur-
+cations from advanced-economy central banks before ance that a sharp slowdown in employment and eco-
+and after the vote that they would take the steps neces- nomic activity was not under way. Participants judged
+sary to provide liquidity to support the orderly function- that the incoming information, on the whole, had low-
+ing of markets. Overall, U.S. financial conditions eased ered the downside risks to the near-term economic out-
+during the intermeeting period: Major equity indexes look. Most participants anticipated that economic
+rose, longer-term interest rates fell, credit spreads nar- growth would move up to a rate somewhat above its
+rowed, and the broad index of the foreign exchange longer-run trend during the second half of 2016 and that
+value of the dollar was little changed. the labor market would strengthen further. However,
+several noted that while the outlook for consumer
+In the discussion of developments related to financial
+spending remained positive, continued weakness in busi-
+stability, it was noted that while the capital and liquidity
+ness investment and the possibility of slower improve-
+positions of U.S. banks remained strong, European
+ment in the housing sector posed some downside risks
+banks, particularly Italian banks, were under pressure—
+to their forecasts.
+as evidenced by the sharp declines in their equity
+prices—from a weaker economic outlook for that re- Although the near-term risks to the outlook associated
+gion, thin interest margins, and concerns about the qual- with Brexit had diminished over the intermeeting period,
+ity of their loan portfolios. In U.S. markets, overall fi- participants generally agreed that they should continue
+nancial vulnerabilities were judged to remain moderate, to closely monitor economic and financial developments
+as nonfinancial debt had continued to increase roughly abroad. As a consequence of Brexit, economic growth
+in line with nominal GDP and valuation pressures were in the United Kingdom and, to a lesser extent, in the
+not widespread. However, during the discussion, several euro area would likely be slower than previously antici-
+participants commented on a few developments, includ- pated. Moreover, the exit process was expected to entail
+ing potential overvaluation in the market for CRE, the an extended period of negotiations that, in the view of
+elevated level of equity values relative to expected earn- most participants, had the potential to increase the po-
+ings, and the incentives for investors to reach for yield litical and economic uncertainties in that region; several
+in an environment of continued low interest rates. Re- also saw the possibility that complications during the exit
+garding CRE, it was noted that the recent SLOOS re- process could result in spells of elevated volatility in
+ported that a significant fraction of banks tightened global financial markets. Some participants noted that
+lending standards in the first and second quarters of the the weak capital positions and high levels of nonper-
+year and that overvaluation did not appear to be wide- forming loans at some European banks could also weigh
+spread across markets. It was also pointed out that in- on economic growth in the region. In addition to the
+vestors potentially were becoming more comfortable situation in Europe, some participants continued to see
+locking in current yields in an environment in which low a number of other downside risks to the medium-term
+interest rates were expected to persist, rather than engag- economic and financial outlook from abroad, including
+ing in the type of speculative behavior that could pose weakness in the global economy more broadly, uncer-
+financial stability concerns. tainty about the outlook for China’s foreign exchange
+policy, and the implications of China’s run-up in debt to
+Participants discussed the implications of recent eco-
+support its economy. A few others noted uncertainty
+nomic and financial developments for the economic out-
+about the strength of domestic economic activity going
+look and the risks attending the outlook. They indicated
+forward. However, some other participants indicated
+that their forecasts for economic growth, the labor mar-
+that they did not view the uncertainties attending the
+ket, and inflation had changed little over the intermeet-
+outlook to be unusually elevated and continued to see
+ing period. Regarding the near-term outlook, partici-
+the risks to their economic forecasts as balanced.
+pants generally agreed that the prompt recovery in finan-
+cial markets following the Brexit vote and the pickup in
+
+--- Page 11 ---
+
+______________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_ g_ _o_f _J_u_ly_ 2_6_–_2_7_,_ 2_0_1_6________________________P__ag_e_ _1_1
+In discussing the outlook for the labor market, most par- it was appropriate to wait for additional information that
+ticipants viewed some further strengthening in labor would allow them to evaluate the underlying momentum
+market indicators as consistent with achieving the Com- in economic activity and the labor market and whether
+mittee’s maximum-employment objective. With infla- inflation was continuing to rise gradually to 2 percent as
+tion still below the Committee’s longer-run objective expected. Several suggested that the Committee would
+and likely to continue to respond only slowly to some- likely have ample time to react if inflation rose more
+what tighter labor markets, most also saw relatively low quickly than they currently anticipated, and they pre-
+risk that a further gradual strengthening of the labor ferred to defer another increase in the federal funds rate
+market would generate an unwanted increase in infla- until they were more confident that inflation was moving
+tionary pressures. Nevertheless, a few participants con- closer to 2 percent on a sustained basis. In addition, al-
+tinued to caution about the risks to the inflation outlook though near-term downside risks to the outlook had di-
+from overshooting the natural rate of unemployment. minished over the intermeeting period, some partici-
+Some indicated that a step-down in monthly job gains pants stressed that the Committee needed to consider
+seemed appropriate as labor market conditions ap- the constraints on the conduct of monetary policy asso-
+proached those consistent with the Committee’s ciated with proximity to the effective lower bound on
+maximum-employment objective and that a more mod- short-term interest rates. These participants concluded
+erate pace of hiring could still be consistent with further that the Committee should wait to take another step in
+increases in labor utilization. However, several others removing accommodation until the data on economic
+were concerned that if labor market slack diminished activity provided a greater level of confidence that eco-
+more slowly than they had previously anticipated, pro- nomic growth was strong enough to withstand a possi-
+gress on the Committee’s maximum-employment and ble downward shock to demand. However, some other
+inflation objectives could be delayed. participants viewed recent economic developments as
+indicating that labor market conditions were at or close
+Regarding the outlook for inflation, incoming infor-
+to those consistent with maximum employment and ex-
+mation appeared to be broadly in line with most partici-
+pected that the recent progress in reaching the Commit-
+pants’ earlier expectations that inflation would gradually
+tee’s inflation objective would continue, even with fur-
+rise to 2 percent over the medium term. Most noted that
+ther steps to gradually remove monetary policy accom-
+the firming in various indicators of core inflation over
+modation. Given their economic outlook, they judged
+the past year, together with signs that the direct and in-
+that another increase in the federal funds rate was or
+direct effects of earlier declines in energy prices and
+would soon be warranted, with a couple of them advo-
+prices of non-oil imports had begun to fade, provided
+cating an increase at this meeting. A few participants
+support for their forecasts. Several added that recent in-
+pointed out that various benchmarks for assessing the
+dications of a pickup in wage increases were evidence of
+appropriate stance of monetary policy supported taking
+the effect of tightening resource utilization. However,
+another step in removing policy accommodation. A few
+other participants expressed greater uncertainty about
+also emphasized the risk to the economic expansion that
+the trajectory of inflation. They saw little evidence that
+would be associated with allowing labor market condi-
+inflation was responding much to higher levels of re-
+tions to tighten to an extent that could lead to an un-
+source utilization and suggested that the natural rate of
+wanted buildup of inflation pressures and thus eventu-
+unemployment, and the responsiveness of inflation to
+ally require a rapid increase in the federal funds rate. In
+labor market conditions, may be lower than most current
+addition, several expressed concern that an extended pe-
+estimates. Several viewed the risks to their inflation
+riod of low interest rates risked intensifying incentives
+forecasts as weighted to the downside, particularly in
+for investors to reach for yield and could lead to the mis-
+light of the still-low level of measures of longer-run in-
+allocation of capital and mispricing of risk, with possible
+flation expectations and inflation compensation and the
+adverse consequences for financial stability.
+likelihood that disinflationary pressures from abroad
+would persist. Committee Policy Action
+In their discussion of monetary policy for the period
+Against the backdrop of their views of the economic
+ahead, members judged that the information received
+outlook, participants discussed the conditions that could
+since the Committee met in June indicated that the labor
+warrant taking another step in removing monetary policy
+market had strengthened and that economic activity had
+accommodation. With inflation continuing to run below
+been expanding at a moderate rate. They noted that the
+the Committee’s 2 percent objective, many judged that
+most recent employment report showed that job gains
+
+--- Page 12 ---
+
+_P_ag_e_ _1_2____________________________F_e_d_e_r_al_ O__p_e_n_ M__a _rk_e_t_ C__o_m_m__it_te_e__________________________________
+had been strong in June following weak growth in May, While members judged that near-term risks to the do-
+and, on balance, payrolls and other labor market indica- mestic outlook had diminished, some noted that the
+tors pointed to some increase in labor utilization in re- U.K. vote, along with other developments abroad, still
+cent months. Members agreed that household spending imparted significant uncertainty to the medium- to
+had been growing strongly but business fixed investment longer-term outlook for foreign economies, with possi-
+had been soft. Inflation continued to run below the ble consequences for the U.S. outlook. As a result,
+Committee’s 2 percent longer-run objective, partly re- members agreed to indicate that they would continue to
+flecting earlier declines in energy prices and in prices of closely monitor global economic and financial develop-
+non-energy imports. Market-based measures of infla- ments.
+tion compensation remained low over the intermeeting
+Members continued to expect inflation to remain low in
+period, and most survey-based measures of longer-term
+the near term, in part because of earlier declines in en-
+inflation expectations were, on balance, little changed.
+ergy prices, but most anticipated that inflation would rise
+With respect to the economic outlook and its implica- to 2 percent over the medium term as the transitory ef-
+tions for monetary policy, members continued to expect fects of past declines in energy and import prices dissi-
+that, with gradual adjustments in the stance of monetary pated and the labor market strengthened further. None-
+policy, economic activity would expand at a moderate theless, in light of the current shortfall of inflation from
+pace and labor market indicators would strengthen. 2 percent, members agreed that they would continue to
+Members saw developments during the intermeeting pe- carefully monitor actual and expected progress toward
+riod as reducing near-term uncertainty along two dimen- the Committee’s inflation goal.
+sions discussed at the June meeting. The first was about
+After assessing the outlook for economic activity, the la-
+the outlook for the labor market. They agreed that the
+bor market, and inflation, as well as the risks around that
+strong rebound in job gains in June—together with a rise
+outlook, members decided to maintain the target range
+in the labor force participation rate and a decline in the
+for the federal funds rate at ¼ to ½ percent at this meet-
+number of individuals who were working part time for
+ing. Members generally agreed that, before taking an-
+economic reasons—suggested that, despite the very soft
+other step in removing monetary accommodation, it was
+employment report for May, labor market conditions re-
+prudent to accumulate more data in order to gauge the
+mained solid and slack had continued to diminish. Many
+underlying momentum in the labor market and eco-
+members commented on the somewhat slower average
+nomic activity. A couple of members preferred also to
+pace of improvement in labor market conditions in re-
+wait for more evidence that inflation would rise to 2 per-
+cent months. Several of these members observed that
+cent on a sustained basis. Some other members antici-
+the recent pace of job gains remained well above that
+pated that economic conditions would soon warrant tak-
+consistent with stable rates of labor utilization. A couple
+ing another step in removing policy accommodation.
+of members indicated that, in light of their judgment that
+One member preferred to raise the target range for the
+labor market conditions were at or close to the Commit-
+federal funds rate at the current meeting, citing the eas-
+tee’s objectives, some moderation in employment gains
+ing of financial conditions since the U.K. referendum,
+was to be expected. In contrast, several other members
+the return to trend economic growth, solid job growth,
+expressed concern about the likelihood of a further re-
+and inflation moving toward 2 percent.
+duction in the pace of job gains, and it was noted that if
+that slowing turned out to be persistent, the case for in- Members again agreed that, in determining the timing
+creasing the target range for the federal funds rate in the and size of future adjustments to the target range for the
+near term would be less compelling. federal funds rate, the Committee would assess realized
+and expected economic conditions relative to its objec-
+A second source of near-term uncertainty that members
+tives of maximum employment and 2 percent inflation.
+had discussed at the June meeting pertained to the po-
+They noted that this assessment would take into account
+tential economic and financial market consequences of
+a wide range of information, including measures of labor
+the U.K. referendum on membership in the EU. At the
+market conditions, indicators of inflation pressures and
+current meeting, most members pointed to the quick re-
+inflation expectations, and readings on financial and in-
+covery of financial market conditions since the “leave”
+ternational developments. The Committee expected
+vote as an encouraging sign of resilience in global finan-
+that economic conditions would evolve in a manner that
+cial markets that helped reduce near-term uncertainty
+would warrant only gradual increases in the federal funds
+about the outlook for the U.S. economy.
+rate, and that the federal funds rate was likely to remain,
+
+--- Page 13 ---
+
+______________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_ g_ _o_f _J_u_ly_ 2_6_–_2_7_,_ 2_0_1_6________________________P__ag_e_ _1_3
+for some time, below levels that are expected to prevail backed securities in agency mortgage-backed se-
+in the longer run. However, members emphasized that curities. The Committee also directs the Desk
+the actual path of the federal funds rate would depend to engage in dollar roll and coupon swap trans-
+on the economic outlook as informed by incoming data. actions as necessary to facilitate settlement of
+In that regard, members judged it appropriate to con- the Federal Reserve’s agency mortgage-backed
+tinue to leave their policy options open and maintain the securities transactions.”
+flexibility to adjust the stance of policy based on incom-
+The vote also encompassed approval of the statement
+ing information and its implications for the Committee’s
+below to be released at 2:00 p.m.:
+assessment of the outlook for economic activity, the la-
+bor market, and inflation, as well as the risks to the out- “Information received since the Federal Open
+look. Most members noted that effective communica- Market Committee met in June indicates that
+tions from the Committee would help the public under- the labor market strengthened and that eco-
+stand how monetary policy might respond to incoming nomic activity has been expanding at a moder-
+data and developments. ate rate. Job gains were strong in June following
+weak growth in May. On balance, payrolls and
+The Committee also decided to maintain its existing pol-
+other labor market indicators point to some in-
+icy of reinvesting principal payments from its holdings
+crease in labor utilization in recent months.
+of agency debt and agency mortgage-backed securities in
+Household spending has been growing strongly
+agency mortgage-backed securities and of rolling over
+but business fixed investment has been soft. In-
+maturing Treasury securities at auction, and it antici-
+flation has continued to run below the Commit-
+pated doing so until normalization of the level of the
+tee’s 2 percent longer-run objective, partly re-
+federal funds rate is well under way. Members noted
+flecting earlier declines in energy prices and in
+that this policy, by keeping the Committee’s holdings of
+prices of non-energy imports. Market-based
+longer-term securities at sizable levels, should help main-
+measures of inflation compensation remain low;
+tain accommodative financial conditions.
+most survey-based measures of longer-term in-
+At the conclusion of the discussion, the Committee flation expectations are little changed, on bal-
+voted to authorize and direct the Federal Reserve Bank ance, in recent months.
+of New York, until it was instructed otherwise, to exe-
+Consistent with its statutory mandate, the Com-
+cute transactions in the SOMA in accordance with the
+mittee seeks to foster maximum employment
+following domestic policy directive, to be released at
+and price stability. The Committee currently ex-
+2:00 p.m.:
+pects that, with gradual adjustments in the
+“Effective July 28, 2016, the Federal Open stance of monetary policy, economic activity
+Market Committee directs the Desk to will expand at a moderate pace and labor market
+undertake open market operations as necessary indicators will strengthen. Inflation is expected
+to maintain the federal funds rate in a target to remain low in the near term, in part because
+range of ¼ to ½ percent, including overnight of earlier declines in energy prices, but to rise to
+reverse repurchase operations (and reverse 2 percent over the medium term as the transi-
+repurchase operations with maturities of more tory effects of past declines in energy and im-
+than one day when necessary to accommodate port prices dissipate and the labor market
+weekend, holiday, or similar trading strengthens further. Near-term risks to the eco-
+conventions) at an offering rate of 0.25 percent, nomic outlook have diminished. The Commit-
+in amounts limited only by the value of Treasury tee continues to closely monitor inflation indi-
+securities held outright in the System Open cators and global economic and financial devel-
+Market Account that are available for such opments.
+operations and by a per-counterparty limit of
+Against this backdrop, the Committee decided
+$30 billion per day.
+to maintain the target range for the federal
+The Committee directs the Desk to continue funds rate at ¼ to ½ percent. The stance of
+rolling over maturing Treasury securities at auc- monetary policy remains accommodative,
+tion and to continue reinvesting principal pay-
+ments on all agency debt and agency mortgage-
+
+--- Page 14 ---
+
+_P_ag_e_ _1_4____________________________F_e_d_e_r_al_ O__p_e_n_ M__a _rk_e_t_ C__o_m_m__it_te_e__________________________________
+thereby supporting further improvement in la- rate was appropriate at this meeting. Information avail-
+bor market conditions and a return to 2 percent able since the June FOMC meeting showed solid em-
+inflation. ployment growth, economic growth near its trend, and
+inflation outcomes aligning with the Committee’s objec-
+In determining the timing and size of future ad-
+tive. Domestic financial conditions had eased since the
+justments to the target range for the federal
+U.K. referendum. She believed that monetary policy
+funds rate, the Committee will assess realized
+should respond to these developments by gradually re-
+and expected economic conditions relative to its
+moving accommodation, consistent with the prescrip-
+objectives of maximum employment and 2 per-
+tions of several frameworks for assessing the appropri-
+cent inflation. This assessment will take into ac-
+ate stance of monetary policy. She believed that by wait-
+count a wide range of information, including
+ing longer to adjust the policy stance and deviating from
+measures of labor market conditions, indicators
+the appropriate path to policy normalization, the Com-
+of inflation pressures and inflation expectations,
+mittee risked eroding the credibility of its policy commu-
+and readings on financial and international de-
+nications.
+velopments. In light of the current shortfall of
+inflation from 2 percent, the Committee will Consistent with the Committee’s decision to leave the
+carefully monitor actual and expected progress target range for the federal funds rate unchanged, the
+toward its inflation goal. The Committee ex- Board of Governors took no action to change the
+pects that economic conditions will evolve in a interest rates on reserves or discount rates.
+manner that will warrant only gradual increases
+Secretary’s note: The following statement
+in the federal funds rate; the federal funds rate
+regarding the June 14–15, 2016, FOMC meeting
+is likely to remain, for some time, below levels
+was inadvertently omitted from minutes of that
+that are expected to prevail in the longer run.
+meeting: “Consistent with the Committee’s
+However, the actual path of the federal funds
+decision to leave the target range for the federal
+rate will depend on the economic outlook as in-
+funds rate unchanged, the Board of Governors
+formed by incoming data.
+took no action to change the interest rates on
+The Committee is maintaining its existing policy reserves or discount rates.”
+of reinvesting principal payments from its hold-
+It was agreed that the next meeting of the Committee
+ings of agency debt and agency mortgage-
+would be held on Tuesday–Wednesday, Septem-
+backed securities in agency mortgage-backed se-
+ber 20–21, 2016. The meeting adjourned at 10:30 a.m.
+curities and of rolling over maturing Treasury
+on July 27, 2016.
+securities at auction, and it anticipates doing so
+until normalization of the level of the federal Notation Vote
+funds rate is well under way. This policy, by By notation vote completed on July 5, 2016, the
+keeping the Committee’s holdings of longer- Committee unanimously approved the minutes of the
+term securities at sizable levels, should help Committee meeting held on June 14–15, 2016.
+maintain accommodative financial conditions.”
+Voting for this action: Janet L. Yellen, William C.
+Dudley, Lael Brainard, James Bullard, Stanley Fischer,
+Loretta J. Mester, Jerome H. Powell, Eric Rosengren, _____________________________
+and Daniel K. Tarullo. Brian F. Madigan
+Secretary
+Voting against this action: Esther L. George.
+Ms. George dissented because she believed that a 25 ba-
+sis point increase in the target range for the federal funds
+
+# Tables
+
+## Page_11_Table_1
+
+
+| In their discussion of monetary policy for the period    |
+|----------------------------------------------------------|
+| ahead, members judged that the information received      |
+| since the Committee met in June indicated that the labor |
+| market had strengthened and that economic activity had   |
+| been expanding at a moderate rate. They noted that the   |
+| most recent employment report showed that job gains      |
+
+
+## Page_12_Table_1
+
+
+| had been strong in June following weak growth in May,       |
+|-------------------------------------------------------------|
+| and, on balance, payrolls and other labor market indica-    |
+| tors pointed to some increase in labor utilization in re-   |
+| cent months. Members agreed that household spending         |
+| had been growing strongly but business fixed investment     |
+| had been soft. Inflation continued to run below the         |
+| Committee’s 2 percent longer-run objective, partly re-      |
+| flecting earlier declines in energy prices and in prices of |
+| non-energy imports. Market-based measures of infla-         |
+| tion compensation remained low over the intermeeting        |
+| period, and most survey-based measures of longer-term       |
+| inflation expectations were, on balance, little changed.    |
+| With respect to the economic outlook and its implica-       |
+| tions for monetary policy, members continued to expect      |
+| that, with gradual adjustments in the stance of monetary    |
+| policy, economic activity would expand at a moderate        |
+| pace and labor market indicators would strengthen.          |
+| Members saw developments during the intermeeting pe-        |
+| riod as reducing near-term uncertainty along two dimen-     |
+| sions discussed at the June meeting. The first was about    |
+| the outlook for the labor market. They agreed that the      |
+| strong rebound in job gains in June—together with a rise    |
+| in the labor force participation rate and a decline in the  |
+| number of individuals who were working part time for        |
+| economic reasons—suggested that, despite the very soft      |
+| employment report for May, labor market conditions re-      |
+| mained solid and slack had continued to diminish. Many      |
+| members commented on the somewhat slower average            |
+| pace of improvement in labor market conditions in re-       |
+| cent months. Several of these members observed that         |
+| the recent pace of job gains remained well above that       |
+| consistent with stable rates of labor utilization. A couple |
+| of members indicated that, in light of their judgment that  |
+| labor market conditions were at or close to the Commit-     |
+| tee’s objectives, some moderation in employment gains       |
+| was to be expected. In contrast, several other members      |
+| expressed concern about the likelihood of a further re-     |
+| duction in the pace of job gains, and it was noted that if  |
+| that slowing turned out to be persistent, the case for in-  |
+| creasing the target range for the federal funds rate in the |
+| near term would be less compelling.                         |
+| A second source of near-term uncertainty that members       |
+| had discussed at the June meeting pertained to the po-      |
+| tential economic and financial market consequences of       |
+| the U.K. referendum on membership in the EU. At the         |
+| current meeting, most members pointed to the quick re-      |
+| covery of financial market conditions since the “leave”     |
+| vote as an encouraging sign of resilience in global finan-  |
+| cial markets that helped reduce near-term uncertainty       |
+| about the outlook for the U.S. economy.                     |
+
+
+## Page_12_Table_2
+
+
+| While members judged that near-term risks to the do-         |
+|--------------------------------------------------------------|
+| mestic outlook had diminished, some noted that the           |
+| U.K. vote, along with other developments abroad, still       |
+| imparted significant uncertainty to the medium- to           |
+| longer-term outlook for foreign economies, with possi-       |
+| ble consequences for the U.S. outlook. As a result,          |
+| members agreed to indicate that they would continue to       |
+| closely monitor global economic and financial develop-       |
+| ments.                                                       |
+| Members continued to expect inflation to remain low in       |
+| the near term, in part because of earlier declines in en-    |
+| ergy prices, but most anticipated that inflation would rise  |
+| to 2 percent over the medium term as the transitory ef-      |
+| fects of past declines in energy and import prices dissi-    |
+| pated and the labor market strengthened further. None-       |
+| theless, in light of the current shortfall of inflation from |
+| 2 percent, members agreed that they would continue to        |
+| carefully monitor actual and expected progress toward        |
+| the Committee’s inflation goal.                              |
+| After assessing the outlook for economic activity, the la-   |
+| bor market, and inflation, as well as the risks around that  |
+| outlook, members decided to maintain the target range        |
+| for the federal funds rate at ¼ to ½ percent at this meet-   |
+| ing. Members generally agreed that, before taking an-        |
+| other step in removing monetary accommodation, it was        |
+| prudent to accumulate more data in order to gauge the        |
+| underlying momentum in the labor market and eco-             |
+| nomic activity. A couple of members preferred also to        |
+| wait for more evidence that inflation would rise to 2 per-   |
+| cent on a sustained basis. Some other members antici-        |
+| pated that economic conditions would soon warrant tak-       |
+| ing another step in removing policy accommodation.           |
+| One member preferred to raise the target range for the       |
+| federal funds rate at the current meeting, citing the eas-   |
+| ing of financial conditions since the U.K. referendum,       |
+| the return to trend economic growth, solid job growth,       |
+| and inflation moving toward 2 percent.                       |
+| Members again agreed that, in determining the timing         |
+| and size of future adjustments to the target range for the   |
+| federal funds rate, the Committee would assess realized      |
+| and expected economic conditions relative to its objec-      |
+| tives of maximum employment and 2 percent inflation.         |
+| They noted that this assessment would take into account      |
+| a wide range of information, including measures of labor     |
+| market conditions, indicators of inflation pressures and     |
+| inflation expectations, and readings on financial and in-    |
+| ternational developments. The Committee expected             |
+| that economic conditions would evolve in a manner that       |
+| would warrant only gradual increases in the federal funds    |
+| rate, and that the federal funds rate was likely to remain,  |
+
+
+## Page_13_Table_1
+
+
+| for some time, below levels that are expected to prevail    |
+|-------------------------------------------------------------|
+| in the longer run. However, members emphasized that         |
+| the actual path of the federal funds rate would depend      |
+| on the economic outlook as informed by incoming data.       |
+| In that regard, members judged it appropriate to con-       |
+| tinue to leave their policy options open and maintain the   |
+| flexibility to adjust the stance of policy based on incom-  |
+| ing information and its implications for the Committee’s    |
+| assessment of the outlook for economic activity, the la-    |
+| bor market, and inflation, as well as the risks to the out- |
+| look. Most members noted that effective communica-          |
+| tions from the Committee would help the public under-       |
+| stand how monetary policy might respond to incoming         |
+| data and developments.                                      |
+| The Committee also decided to maintain its existing pol-    |
+| icy of reinvesting principal payments from its holdings     |
+| of agency debt and agency mortgage-backed securities in     |
+| agency mortgage-backed securities and of rolling over       |
+| maturing Treasury securities at auction, and it antici-     |
+| pated doing so until normalization of the level of the      |
+| federal funds rate is well under way. Members noted         |
+| that this policy, by keeping the Committee’s holdings of    |
+| longer-term securities at sizable levels, should help main- |
+| tain accommodative financial conditions.                    |
