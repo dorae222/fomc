@@ -11,14 +11,66 @@ import matplotlib.dates as mdates
 import os
 from pathlib import Path
 
-# --- 경로 설정 (스크립트 위치 기준으로 프로젝트 루트 찾기) ---
-# 파일이 어디서 실행되든 (cwd와 무관하게) 작동하도록 __file__ 기반으로 경로를 만듭니다.
-SCRIPT_DIR = Path(__file__).resolve().parent            # .../fomc/model
-BASE_DIR = SCRIPT_DIR.parent                            # .../fomc
-DATA_DIR = BASE_DIR / "data"
-RESULTS_DIR = BASE_DIR / "predicted"
+# --- Robust path resolution (script-location based) ---
+from pathlib import Path
+SCRIPT_PATH = Path(__file__).resolve()
+# Candidate roots to locate project root (usually SCRIPT_PATH.parents[1] -> fomc_clean)
+POTENTIAL_ROOTS = [
+    SCRIPT_PATH.parents[1] if len(SCRIPT_PATH.parents) > 1 else SCRIPT_PATH.parent,
+    SCRIPT_PATH.parents[2] if len(SCRIPT_PATH.parents) > 2 else SCRIPT_PATH.parent,
+    Path.cwd(),
+    Path("/home/cora3/workSpace/fomc_clean")
+]
+
+PRED_DIR = None
+for root in POTENTIAL_ROOTS:
+    cand = root / "predicted" / "txt_pred"
+    if cand.exists():
+        PRED_DIR = cand
+        break
+
+# fallback: walk up from script path up to 6 levels and try
+if PRED_DIR is None:
+    p = SCRIPT_PATH
+    for _ in range(6):
+        cand = p / "predicted" / "txt_pred"
+        if cand.exists():
+            PRED_DIR = cand
+            break
+        p = p.parent
+
+if PRED_DIR is None:
+    raise SystemExit(f"No predicted/txt_pred directory found. Checked: {POTENTIAL_ROOTS}")
+
+# Define output directories relative to PRED_DIR
+RESULTS_DIR = PRED_DIR
 CSV_SAVE_DIR = RESULTS_DIR / "csv"
 PLOTS_SAVE_DIR = RESULTS_DIR / "plots"
+CSV_SAVE_DIR.mkdir(parents=True, exist_ok=True)
+PLOTS_SAVE_DIR.mkdir(parents=True, exist_ok=True)
+
+print("Using PRED_DIR =", PRED_DIR)
+# --- define DATA_DIR and common output dirs expected by the script ---
+from pathlib import Path as _Path  # local alias to avoid shadowing if Path already imported
+
+SCRIPT_DIR = _Path(__file__).resolve().parent    # .../fomc_clean/model
+BASE_DIR = SCRIPT_DIR.parent                     # .../fomc_clean
+DATA_DIR = BASE_DIR / "data"                     # where fomc_dates_template.csv should live
+
+# ensure CSV/plots dirs under predicted/txt_pred exist (script expects these)
+# PRED_DIR should be a Path object; if it's a string, convert: PRED_DIR = _Path(PRED_DIR)
+if not isinstance(PRED_DIR, _Path):
+    PRED_DIR = _Path(PRED_DIR)
+
+CSV_SAVE_DIR = PRED_DIR / "csv"
+PLOTS_SAVE_DIR = PRED_DIR / "plots"
+CSV_SAVE_DIR.mkdir(parents=True, exist_ok=True)
+PLOTS_SAVE_DIR.mkdir(parents=True, exist_ok=True)
+
+# debug prints (optional)
+print("Using DATA_DIR =", DATA_DIR)
+print("CSV_SAVE_DIR =", CSV_SAVE_DIR)
+print("PLOTS_SAVE_DIR =", PLOTS_SAVE_DIR)
 
 # 결과 디렉토리 생성
 CSV_SAVE_DIR.mkdir(parents=True, exist_ok=True)
@@ -51,6 +103,46 @@ def calculate_ratios(df_sentiment):
     neutral_ratio = (neutral_count / total_count) * 100 if total_count > 0 else 0
 
     return dovish_ratio, hawkish_ratio, neutral_ratio
+
+
+# Helper: find likely label column and normalize to "pred_label"
+LABEL_CANDIDATES = ["pred_label", "predlabel", "pred", "label", "prediction", "predicted"]
+
+def normalize_label_column(df):
+    # returns new df (copy) that contains 'pred_label' normalized to 'dovish'/'hawkish'/'neutral'
+    if df is None or df.empty:
+        return pd.DataFrame()
+    df2 = df.copy()
+    found = None
+    for col in df2.columns:
+        low = col.lower()
+        for cand in LABEL_CANDIDATES:
+            if low == cand or cand in low:
+                found = col
+                break
+        if found:
+            break
+
+    if not found:
+        # no label-like column found
+        return pd.DataFrame()
+
+    def normalize_val(v):
+        try:
+            s = str(v).strip().lower()
+        except Exception:
+            return 'neutral'
+        if 'hawk' in s:
+            return 'hawkish'
+        if 'dov' in s or 'dove' in s:
+            return 'dovish'
+        if 'neu' in s:
+            return 'neutral'
+        # if it's numeric probabilities etc, fallback to neutral
+        return 'neutral'
+
+    df2['pred_label'] = df2[found].apply(normalize_val)
+    return df2
 
 
 for index, row in fomc_dates_df.iterrows():
@@ -136,15 +228,19 @@ for index, row in fomc_dates_df.iterrows():
     else:
         print(f"Warning: Statement sentiment data not found for {date_str} at {mone_csv_path}")
 
+    # Normalize label columns (robust)
+    norm_pres = normalize_label_column(df_pres) if not df_pres.empty else pd.DataFrame()
+    norm_mone = normalize_label_column(df_mone) if not df_mone.empty else pd.DataFrame()
+
     # sentiment 파일이 하나라도 있으면 표(table) 추가 (ratio 계산)
-    if not df_pres.empty or not df_mone.empty:
-        if not df_mone.empty:
-            mone_dovish, mone_hawkish, mone_neutral = calculate_ratios(df_mone)
+    if not norm_pres.empty or not norm_mone.empty:
+        if not norm_mone.empty:
+            mone_dovish, mone_hawkish, mone_neutral = calculate_ratios(norm_mone)
         else:
             mone_dovish, mone_hawkish, mone_neutral = (0, 0, 0)
 
-        if not df_pres.empty:
-            pres_dovish, pres_hawkish, pres_neutral = calculate_ratios(df_pres)
+        if not norm_pres.empty:
+            pres_dovish, pres_hawkish, pres_neutral = calculate_ratios(norm_pres)
         else:
             pres_dovish, pres_hawkish, pres_neutral = (0, 0, 0)
 
@@ -158,13 +254,13 @@ for index, row in fomc_dates_df.iterrows():
                          colLabels=None,
                          cellLoc='center',
                          loc='upper left',
-                         bbox=[0.0, 0.75, 0.4, 0.2])
+                         bbox=[0.01, 0.70, 0.38, 0.22])
         table.auto_set_font_size(False)
         table.set_fontsize(10)
-        table.scale(1.2, 1.2)
+        table.scale(1.0, 1.0)
     else:
         # sentiment 정보 없으면 표 없이 (요청하신 대로) 가격 차트 + 시점만 표시
-        print(f"Skipping sentiment table for {date_str} (no sentiment files).")
+        print(f"Skipping sentiment table for {date_str} (no sentiment files or label column).")
 
     # 포맷팅 & 저장
     ax.set_title(f"QQQ 1-hour bars on {date_str} (ET)")

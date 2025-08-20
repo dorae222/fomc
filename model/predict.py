@@ -5,6 +5,7 @@ predict.py - Enhanced version with spaCy sentence splitting, sliding-window toke
 Usage examples:
   python predict.py --pdf docs/fomc.pdf --mode sentence_spacy --model_dir ./finbert2-fomc-classifier --output preds.csv
   python predict.py --pdf docs/fomc.pdf --mode chunk_slide --max_length 512 --overlap 128 --batch_size 8 --threshold 0.6
+  python predict.py --pdf docs/fomc.pdf --mode moderator_blocks --moderator "MICHELLE SMITH." --model_dir ./finbert2-fomc-classifier
 """
 
 import argparse
@@ -46,7 +47,7 @@ def split_into_sentences_regex(text: str) -> List[str]:
     text = text.replace("\r\n", "\n").replace("\r", "\n")
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
     sentences = []
-    sentence_end_re = re.compile(r'(?<=[\.\?\!])\s+(?=[A-Z0-9“"\'(])')
+    sentence_end_re = re.compile(r'(?<=["\.\?\!])\s+(?=[A-Z0-9“\"\`\(\'])')
     for p in paragraphs:
         parts = sentence_end_re.split(p)
         for s in parts:
@@ -68,6 +69,78 @@ def split_into_sentences_spacy(text: str, model_name="en_core_web_sm") -> List[s
     doc = nlp(text)
     sentences = [sent.text.strip() for sent in doc.sents if sent.text.strip()]
     return sentences
+
+def split_by_moderator(text: str, moderator_name: str = "MICHELLE SMITH", sentence_splitter_func=None) -> List[str]:
+    """
+    (Legacy/alternate) Splits text based on the first occurrence of a moderator's name.
+    The text before the moderator's name is treated as a single item.
+    The text after is split using the provided sentence_splitter_func.
+    (Note: this function is kept for compatibility but main behavior is provided by split_with_moderator_blocks)
+    """
+    if sentence_splitter_func is None:
+        if _HAS_SPACY:
+            sentence_splitter_func = split_into_sentences_spacy
+        else:
+            sentence_splitter_func = split_into_sentences_regex
+
+    match = re.search(re.escape(moderator_name), text, re.IGNORECASE)
+    if match:
+        pre_moderator_text = text[:match.start()].strip()
+        post_moderator_text = text[match.start():].strip()
+        items = []
+        if pre_moderator_text:
+            items.extend(sentence_splitter_func(pre_moderator_text))
+        if post_moderator_text:
+            items.append(post_moderator_text)
+        return items
+    else:
+        return sentence_splitter_func(text)
+
+
+def split_with_moderator_blocks(text: str, moderator_name: str = "MICHELLE SMITH.") -> List[str]:
+    """
+    Splits the document into items according to the rule:
+      - Everything BEFORE the first occurrence of moderator_name is sentence-split (spaCy if available, else regex).
+      - From the first occurrence onward, each block that starts with moderator_name and continues
+        up to (but not including) the next occurrence of moderator_name is treated as ONE PARAGRAPH (no sentence split).
+    Returns list[str] where initial items are sentences, subsequent items are moderator-starting blocks.
+
+    Notes:
+      - matching is case-insensitive.
+      - moderator_name is treated as a literal string (if you want regex, pre-process the name).
+      - If moderator_name not found at all, the entire text is sentence-split.
+    """
+    # Choose sentence splitter for the initial part
+    if _HAS_SPACY:
+        sentence_splitter = split_into_sentences_spacy
+    else:
+        sentence_splitter = split_into_sentences_regex
+
+    # Find all occurrences (case-insensitive)
+    matches = list(re.finditer(re.escape(moderator_name), text, flags=re.IGNORECASE))
+
+    if not matches:
+        # No moderator marker found -> sentence-split entire document
+        return sentence_splitter(text)
+
+    items: List[str] = []
+
+    # Text before first moderator occurrence -> sentence-split
+    first_match = matches[0]
+    pre_text = text[:first_match.start()].strip()
+    if pre_text:
+        items.extend(sentence_splitter(pre_text))
+
+    # For each occurrence, create a block from its start up to the next occurrence (or end of text)
+    for idx, m in enumerate(matches):
+        start = m.start()
+        end = matches[idx + 1].start() if (idx + 1) < len(matches) else len(text)
+        block = text[start:end].strip()
+        if block:
+            # include the moderator marker as part of the block (helps clarity)
+            items.append(block)
+
+    return items
 
 
 def chunk_text_by_tokens(text: str, tokenizer, max_length=512, overlap=0, stride_mode=False) -> List[str]:
@@ -142,6 +215,8 @@ def save_results_csv(results: List[dict], out_path: str):
     df = pd.DataFrame(results)
     # Keep columns in a friendly order
     cols = ["id", "pred_label", "pred", "max_prob", "uncertain", "probs", "logits", "text"]
+    # if some columns missing, keep existing order
+    cols = [c for c in cols if c in df.columns]
     df = df[cols]
     df.to_csv(out_path, index=False, encoding="utf-8")
 
@@ -164,7 +239,8 @@ def summarize_results(results: List[dict], threshold=0.6):
 def main():
     parser = argparse.ArgumentParser(description="Predict dovish/neutral/hawkish on PDFs with advanced splitting and uncertainty")
     parser.add_argument("--pdf", required=True, help="Path to PDF file")
-    parser.add_argument("--mode", choices=["sentence_spacy", "sentence_regex", "chunk", "chunk_slide", "page"], default="sentence_spacy", help="split mode")
+    parser.add_argument("--mode", choices=["sentence_spacy", "sentence_regex", "chunk", "chunk_slide", "page", "moderator_blocks"], default="sentence_spacy", help="split mode")
+    parser.add_argument("--moderator", default="MICHELLE SMITH.", help='Moderator marker string used by moderator_blocks mode (e.g. "MICHELLE SMITH.")')
     parser.add_argument("--max_length", type=int, default=512, help="max tokens for chunking / tokenizer")
     parser.add_argument("--overlap", type=int, default=0, help="overlap tokens for chunk_slide")
     parser.add_argument("--batch_size", type=int, default=8, help="inference batch size")
@@ -218,6 +294,10 @@ def main():
         if args.overlap <= 0:
             raise ValueError("For chunk_slide, please set --overlap > 0 (for example 128)")
         items = chunk_text_by_tokens(text, tokenizer, max_length=args.max_length, overlap=args.overlap, stride_mode=True)
+    elif args.mode == "moderator_blocks":
+        # New behavior: everything before first moderator marker -> sentence-split (spaCy if available),
+        # then each moderator block (from moderator marker to just before next marker) is a single item.
+        items = split_with_moderator_blocks(text, moderator_name=args.moderator)
     else:
         raise ValueError("Unknown mode")
 
