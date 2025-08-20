@@ -1,0 +1,5 @@
+pdfplumber
+PyMuPDF
+pandas
+tqdm
+tabulate

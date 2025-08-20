@@ -1,0 +1,1368 @@
+# 20190501_tealbook.pdf
+
+*Extracted on: 2025-08-20 16:52:28*
+*Pages: 39, Tables: 0*
+
+## Document Content
+
+--- Page 1 ---
+
+Prefatory Note
+The attached document represents the most complete and accurate version available
+based on original files from the FOMC Secretariat at the Board of Governors of the
+Federal Reserve System.
+Please note that some material may have been redacted from this document if that
+material was received on a confidential basis. Redacted material is indicated by
+occasional gaps in the text or by gray boxes around non-text content. All redacted
+passages are exempt from disclosure under applicable provisions of the Freedom of
+Information Act.
+Content last modified 1/10/2025.
+
+--- Page 2 ---
+
+Authorized for Public Release
+Class I FOMC – Restricted Controlled (FR)
+Report to the FOMC
+on Economic Conditions
+and Monetary Policy
+Book B
+Monetary Policy Alternatives
+April 25, 2019
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+--- Page 3 ---
+
+Authorized for Public Release
+(This page is intentionally blank.)
+
+--- Page 4 ---
+
+Monetary Policy Alternatives
+Information received since the Committee met in March indicates that the labor
+market has remained strong. Payrolls rose 196,000 in March, following the weak reading
+in February. For the first quarter as a whole, job gains averaged 180,000 per month—a
+solid rate of job growth but slower than the average monthly pace for 2018. The
+unemployment rate held steady at 3.8 percent in March. Recent data on household
+spending and business fixed investment have been consistent with GDP growth slowing
+in the first quarter from its strong pace in 2018, albeit by less than previously projected.
+Consumer price data have been softer than expected in recent months. Based on current
+information, the staff estimates that core PCE inflation was 1.6 percent over the
+12 months ending in March and projects it to edge up to 1.8 percent by the end of the
+year.
+Against this backdrop, the alternative policy statements presented below offer a
+range of options for communicating the likely future path of monetary policy.
+Alternative B is intended to reaffirm the policy message that was conveyed in the March
+postmeeting statement. The case for a “patient” approach to monetary policy is
+buttressed by the recent downside surprise to inflation as well as by remaining
+uncertainty about the extent to which the recent softness in economic indicators will
+prove to be transitory. Alternative B continues to indicate that, based on the current
+stance of policy, the Committee views sustained expansion of economic activity, strong
+labor market conditions, and inflation near the Committee’s symmetric 2 percent
+objective as the most likely outcomes.
+Alternative A conveys a more-accommodative posture than Alternative B by
+replacing the “patient” characterization with a signal that a cut in the federal funds rate
+may soon be appropriate. This alternative notes that inflation is “softening” and that,
+consequently, the Committee will “assess whether it may soon become appropriate to
+adjust the target range” to achieve the Committee’s desired outcomes.
+Alternative C is based on some future scenario in which the economy continues to
+perform well and another increase in the federal funds rate may be seen as appropriate.
+Under such a scenario, the characterization of incoming data in the first paragraph could
+go a long way in shaping expectations for policy. Because current data do not support
+such an assessment, and continuing the practice followed in the March Tealbook, no first
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 1 of 36
+
+--- Page 5 ---
+
+paragraph is presented for Alternative C. As noted in the second paragraph, the
+Committee could mention the developments justifying a firmer policy stance and signal
+that “it may soon become appropriate to adjust the target range.”
+With regard to the specifics of the language in Alternatives A, B, and C:
+ The assessment of the incoming data:
+o Alternatives A and B share the same characterization of the incoming data.
+Both alternatives note that the labor market remains strong, that the
+unemployment rate remains low, and that average job gains in recent months
+have been “solid.” Alternatives A and B state that “economic activity has
+been rising at a moderate rate” and that “growth of household spending and
+business fixed investment slowed in the first quarter.” The alternatives also
+note that “overall inflation and inflation for items other than food and energy
+have declined and are running below 2 percent.” Regarding indicators of
+inflation expectations, Alternatives A and B continue to state that “on balance,
+market-based measures of inflation compensation have remained low in recent
+months, and survey-based measures of longer-term inflation expectations are
+little changed.”
+o As noted above, Alternative C omits a description of the incoming data
+because it is intended to be considered in some future scenario in which the
+data point toward a potential need for further policy firming.
+ The outlook for economic activity and inflation:
+o Under all three alternatives, the outlook for economic activity and inflation is
+unchanged from the March statement. However, to achieve the outcomes of
+“sustained expansion of economic activity, strong labor market conditions,
+and inflation near the Committee’s symmetric 2 percent objective” the
+alternatives condition on potentially different paths for the federal funds rate.
+ For the current policy decision and the outlook for policy:
+o All three alternatives maintain the current target range for the federal funds
+rate.
+o Alternative B maintains the March perspective that “global economic and
+financial developments and muted inflation pressures” are factors that shape
+the outlook for policy and states that the Committee “will be patient as it
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 2 of 36
+
+--- Page 6 ---
+
+determines what future adjustments to the target range for the federal funds
+rate may be appropriate” to support the Committee’s outlook.
+o Alternative A links the policy outlook predominantly to inflation. In
+particular, it states that “in light of softening inflation, the Committee will
+assess whether it may soon become appropriate to adjust the target range for
+the federal funds rate.”
+o By contrast, Alternative C offers an illustrative selection of circumstances
+under which an increase in the federal funds rate “may soon become
+appropriate.” Specifically, the alternative lists “firmer inflation readings,”
+“tightening resource utilization,” or “diminished risks to the outlook” as
+possible reasons for considering a change in the stance of policy.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 3 of 36
+
+--- Page 7 ---
+
+The 199596 Mid‐Cycle Rate Adjustments
+A number of market commentaries have discussed whether, in light of recent lower
+inflation readings, a reduction in the target range for the federal funds rate might
+become appropriate to support a sustained return of inflation to 2 percent alongside
+strong labor market conditions. With inflation running below 2 percent and economic
+growth moderating, inflation expectations could drift downward, potentially making
+the current setting of the federal funds rate unwantedly restrictive. Some
+commentaries pointed back to several instances in the mid‐1990s when the Committee
+was perceived as taking out insurance by cutting the federal funds rate after a series of
+rate hikes. This box analyzes the circumstances behind the mid‐cycle adjustments of
+policy rates during 1995 and 1996.
+Starting in February 1994, the FOMC began raising interest rates to forestall an increase
+in inflation. Over the next year, the Committee raised the federal funds rate from
+3 percent to 6 percent (figure 1). These rate hikes prevented inflation from rising, while
+the unemployment rate continued to decline (figure 2). After the final tightening step
+in February 1995, participants viewed the economy as having moved to a more
+sustainable path, even though some inflationary pressures still persisted. By the time of
+the July 1995 meeting, however, signs of a sharp slowing in economic activity were
+accumulating. At that meeting, the Committee decided to cut the federal funds rate
+target by 25 basis points. Two more 25 basis point reductions occurred in December
+1995 and January 1996. These adjustments were intended to provide insurance against
+the risk of an undue weakening of economic activity.
+The news leading up to the July 1995 meeting consisted almost entirely of surprises on
+the downside. The economy had softened to a greater extent than participants had
+anticipated. Nonfarm payroll employment had fallen in April and May, and the
+unemployment rate in May had risen somewhat from its first‐quarter average. The
+central tendency of participants’ projections, submitted for the Monetary Policy Report,
+for real GDP growth in 1995 fell from 2 to 3 percent in February to 1½ to 2 percent in
+early July. Pessimism brought on by the decline in jobs was reinforced by the string of
+negative reports on retail sales, industrial production, and the leading indicators.
+At the July 1995 meeting, most participants perceived the pause in the expansion to be
+temporary and anticipated that economic activity would grow near its potential rate
+later in the year. However, the risk of a more pronounced slowdown figured
+prominently in the Committee’s discussion. With inflation still running near 3 percent,
+above what participants considered to be consistent with the price stability mandate,
+the key question the Committee confronted was whether an easing in the stance of
+policy to support the expansion would risk forestalling further progress toward
+reducing inflation. In the event, and as noted earlier, the Committee cut the federal
+funds rate by 25 basis points. Participants viewed this adjustment as appropriate
+insurance against the risk of a more persistent slowdown. Although participants
+discussed a 50 basis point cut, that option was dismissed because, as Chairman
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 4 of 36
+
+--- Page 8 ---
+
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 5 of 36
+
+--- Page 9 ---
+
+Greenspan put it, they were “concerned about spooking the markets.” They agreed
+that there was little harm in leaving a further reduction to a future meeting.
+In the following months, the economic expansion picked up again without notable
+upward pressure on inflation. Towards the end of the year, however, the economy
+again showed signs of slowing. Moreover, the minutes of the December 1995 FOMC
+meeting noted that “inflation had slowed from the elevated pace observed in the early
+part of the year.” Measures of inflation expectations had also declined over the
+previous months, suggesting that the real federal funds rate had increased. Against the
+backdrop of a policy stance that most judged as somewhat restrictive, participants at
+the December meeting discussed the merits of taking an “opportunistic approach” to
+achieving further disinflation. Easing the stance of policy somewhat further was seen
+as reducing the risk of a more pronounced economic slowdown without forestalling
+further gradual disinflation, as participants noted emerging signs of positive supply side
+developments as well as muted inflation pressures abroad. In light of these
+considerations, at both the December 1995 and January 1996 meetings, the Committee
+decided to reduce the federal funds rate target by 25 basis points.
+1995 ended with inflation below 3 percent, alongside a low and steady unemployment
+rate of around 5½ percent. Real GDP growth came down from around 4 percent in
+1994 to about 2 percent in 1995, but no recession ensued. After the rate cut in January
+1996, the federal funds rate target remained stable until the fall of 1998, with the
+exception of one rate increase in March 1997. During this period, real GDP growth
+rebounded and the unemployment rate drifted lower, while the Committee’s
+discussions paid considerable attention to the evolution of actual and projected
+inflation. Although high resource utilization started to be reflected in wage increases,
+core inflation continued to trend lower. Starting in early 1997, participants expressed
+greater confidence in the possible role of faster‐than‐reported productivity increases as
+the source of the benign behavior of inflation.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 6 of 36
+
+--- Page 10 ---
+
+MARCH 2019 FOMC STATEMENT
+1. Information received since the Federal Open Market Committee met in January
+indicates that the labor market remains strong but that growth of economic
+activity has slowed from its solid rate in the fourth quarter. Payroll employment
+was little changed in February, but job gains have been solid, on average, in
+recent months, and the unemployment rate has remained low. Recent indicators
+point to slower growth of household spending and business fixed investment in
+the first quarter. On a 12-month basis, overall inflation has declined, largely as a
+result of lower energy prices; inflation for items other than food and energy
+remains near 2 percent. On balance, market-based measures of inflation
+compensation have remained low in recent months, and survey-based measures of
+longer-term inflation expectations are little changed.
+2. Consistent with its statutory mandate, the Committee seeks to foster maximum
+employment and price stability. In support of these goals, the Committee decided
+to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent.
+The Committee continues to view sustained expansion of economic activity,
+strong labor market conditions, and inflation near the Committee’s symmetric 2
+percent objective as the most likely outcomes. In light of global economic and
+financial developments and muted inflation pressures, the Committee will be
+patient as it determines what future adjustments to the target range for the federal
+funds rate may be appropriate to support these outcomes.
+3. In determining the timing and size of future adjustments to the target range for the
+federal funds rate, the Committee will assess realized and expected economic
+conditions relative to its maximum employment objective and its symmetric 2
+percent inflation objective. This assessment will take into account a wide range
+of information, including measures of labor market conditions, indicators of
+inflation pressures and inflation expectations, and readings on financial and
+international developments.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 7 of 36
+
+--- Page 11 ---
+
+ALTERNATIVE A FOR APRIL/MAY 2019
+1. Information received since the Federal Open Market Committee met in January
+March indicates that the labor market remains strong but and that growth of
+economic activity has slowed from its solid rate in the fourth quarter been rising
+at a moderate rate. Payroll employment was little changed in February, but Job
+gains have been solid, on average, in recent months, and the unemployment rate
+has remained low. Recent indicators point to slower Growth of household
+spending and business fixed investment slowed in the first quarter. On a 12-
+month basis, overall inflation has declined, largely as a result of lower energy
+prices; and inflation for items other than food and energy remains near have
+declined and are running below 2 percent. On balance, market-based measures
+of inflation compensation have remained low in recent months, and survey-based
+measures of longer-term inflation expectations are little changed.
+2. Consistent with its statutory mandate, the Committee seeks to foster maximum
+employment and price stability. In support of these goals, the Committee decided
+to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent.
+The Committee continues to view sustained expansion of economic activity,
+strong labor market conditions, and inflation near the Committee’s symmetric 2
+percent objective as the most likely outcomes. To support these outcomes in
+light of global economic and financial developments and muted softening
+inflation pressures, the Committee will be patient as it determines what future
+adjustments to assess whether it may soon become appropriate to adjust the
+target range for the federal funds rate may be appropriate to support these
+outcomes.
+3. In determining the timing and size of future adjustments to the target range for the
+federal funds rate, the Committee will assess realized and expected economic
+conditions relative to its maximum employment objective and its symmetric 2
+percent inflation objective. This assessment will take into account a wide range
+of information, including measures of labor market conditions, indicators of
+inflation pressures and inflation expectations, and readings on financial and
+international developments.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 8 of 36
+
+--- Page 12 ---
+
+ALTERNATIVE B FOR APRIL/MAY 2019
+1. Information received since the Federal Open Market Committee met in January
+March indicates that the labor market remains strong but and that growth of
+economic activity has slowed from its solid rate in the fourth quarter been rising
+at a moderate rate. Payroll employment was little changed in February, but Job
+gains have been solid, on average, in recent months, and the unemployment rate
+has remained low. Recent indicators point to slower Growth of household
+spending and business fixed investment slowed in the first quarter. On a 12-
+month basis, overall inflation has declined, largely as a result of lower energy
+prices; and inflation for items other than food and energy remains near have
+declined and are running below 2 percent. On balance, market-based measures
+of inflation compensation have remained low in recent months, and survey-based
+measures of longer-term inflation expectations are little changed.
+2. Consistent with its statutory mandate, the Committee seeks to foster maximum
+employment and price stability. In support of these goals, the Committee decided
+to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent.
+The Committee continues to view sustained expansion of economic activity,
+strong labor market conditions, and inflation near the Committee’s symmetric 2
+percent objective as the most likely outcomes. In light of global economic and
+financial developments and muted inflation pressures, the Committee will be
+patient as it determines what future adjustments to the target range for the federal
+funds rate may be appropriate to support these outcomes.
+3. In determining the timing and size of future adjustments to the target range for the
+federal funds rate, the Committee will assess realized and expected economic
+conditions relative to its maximum employment objective and its symmetric 2
+percent inflation objective. This assessment will take into account a wide range
+of information, including measures of labor market conditions, indicators of
+inflation pressures and inflation expectations, and readings on financial and
+international developments.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 9 of 36
+
+--- Page 13 ---
+
+ALTERNATIVE C FOR APRIL/MAY 2019
+1. Information received since the Federal Open Market Committee met in…
+2. Consistent with its statutory mandate, the Committee seeks to foster maximum
+employment and price stability. In support of these goals, the Committee decided
+to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent.
+The Committee continues to view sustained expansion of economic activity,
+strong labor market conditions, and inflation near the Committee’s symmetric 2
+percent objective as the most likely outcomes. To support these outcomes in
+light of global economic and financial developments and muted inflation
+pressures [ firmer inflation readings | tightening resource utilization |
+diminished risks to the outlook ], the Committee will be patient as it determines
+what future adjustments to assess whether it may soon become appropriate to
+adjust the target range for the federal funds rate may be appropriate to support
+these outcomes.
+3. In determining the timing and size of future adjustments to the target range for the
+federal funds rate, the Committee will assess realized and expected economic
+conditions relative to its maximum employment objective and its symmetric 2
+percent inflation objective. This assessment will take into account a wide range
+of information, including measures of labor market conditions, indicators of
+inflation pressures and inflation expectations, and readings on financial and
+international developments.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 10 of 36
+
+--- Page 14 ---
+
+THE CASE FOR ALTERNATIVE B
+Economic Conditions and Outlook
+ Data received in recent weeks suggest that the risk of a pronounced slowing of the
+economy has diminished. The staff now estimates that real GDP in the first quarter
+rose at an annual rate of 2.1 percent; this estimate is about 1 percentage point higher
+than projected in the March Tealbook, as data on housing, state and local
+construction, and net exports came in stronger than anticipated. Moreover, retail
+sales, after declining in February, bounced back in the following month, reflecting
+delayed tax refunds that pushed some February spending into March. Household
+spending and business fixed investment are estimated to have slowed in the first
+quarter, consistent with the expectation that GDP growth is stepping down from its
+strong pace in 2018. For the current year as a whole, GDP is projected to grow at a
+rate little above the growth rate of potential output.
+ Available data indicate that the labor market remains strong.
+o After the weakness in February, payrolls rose by 196,000 in March. Given the
+very strong figures for January, payroll gains averaged a solid 180,000 per
+month for the first quarter, well above the pace that the staff estimates to be
+consistent with no change in resource utilization.
+o The labor force participation rate ticked down to 63.0 percent in March, while
+the unemployment rate stayed at 3.8 percent. Although the unemployment
+rate remains below all participants’ estimates of the longer-run rate of
+unemployment in the March Summary of Economic Projections,
+policymakers do not expect high levels of labor utilization to generate notable
+upward pressure on inflation.
+o Average hourly earnings rose 3.2 percent over the 12 months ending in
+March, up from 2.8 percent a year earlier. The Federal Reserve Bank of
+Atlanta’s wage growth tracker also had a higher reading than a year earlier,
+but none of these rates suggest that the labor market is overheating.
+ Headline and core PCE inflation rates have declined and are running below the
+Committee’s 2 percent objective. Inflation is expected to move up later this year, as
+the effects of idiosyncratic and temporary factors that are currently holding down
+inflation dissipate.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 11 of 36
+
+--- Page 15 ---
+
+o The staff estimates the 12-month change in core PCE prices at 1.6 percent for
+March, reflecting in part unusual and notable declines in a few categories.
+Staff projects 12-month core inflation to stay around 1.6 percent before
+moving up by the end of the summer. For 2019 as a whole, core PCE prices
+are expected to increase 1.8 percent. Thereafter, core price inflation is
+expected to edge up to 1.9 percent in 2020 and 2021. 12-month headline
+inflation is expected to run close to core inflation over the projection period.
+o Indicators of inflation expectations are little changed, on balance, since the
+March Tealbook and suggest that long-term inflation expectations remain
+well-anchored.
+ Increases in equity prices and declines in corporate-bond yields and spreads have
+continued to produce easier financing conditions for businesses and households.
+ Although downside risks have diminished somewhat, several persist.
+o The factors that have caused the decline in inflation may turn out to be more
+persistent than the staff currently projects. In addition, indicators of longer-
+term inflation expectations bear watching.
+o The possibility that softer household and business spending will turn out to be
+more persistent poses downside risks for economic activity.
+o The staff has revised up its projection for economic growth in emerging
+market economies, although growth in advanced foreign economies is likely
+to languish in the near term. Notably, soft euro-area data, especially in
+manufacturing, may be signaling more pronounced weakness.
+o While a “no-deal, no-transition” Brexit seems to have been avoided for now,
+the prolonged uncertainty associated with the Brexit process will weigh on
+investment and spending in the United Kingdom. Furthermore, despite
+reported progress towards a U.S.-China trade agreement, the outcomes of the
+ongoing negotiations remain uncertain.
+Policy Strategy
+ Policymakers may have anticipated a moderation in overall output growth from
+2018 to 2019, and see the first-quarter dip in estimated growth of household and
+business spending as transitory. Consequently, they may anticipate a rebound in
+spending over the remainder of 2019 and therefore continue to see economic
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 12 of 36
+
+--- Page 16 ---
+
+conditions evolving broadly in line with their expectations, notwithstanding notable
+risks.
+ Policymakers may interpret the decline in inflation as having been caused largely or
+entirely by idiosyncratic and temporary factors. Thus, policymakers may be
+confident that, under the current monetary policy stance, inflation will rise to the
+Committee’s 2 percent objective over the medium term.
+o Policymakers may also anticipate that price pressures from resource
+utilization will facilitate the return of inflation to 2 percent.
+o In addition, they may judge long-term inflation expectations to be
+sufficiently well-anchored to withstand the temporary decline in inflation.
+ Seeing muted inflation pressures in the context of near-potential growth and the
+policy rate within the range of estimates of its neutral level, policymakers may deem
+the current stance of policy as appropriate.
+ Market quotes along with responses to the Desk’s latest surveys of primary dealers
+and market participants indicate that a change in the target range at the May meeting
+is seen as very unlikely. A statement such as Alternative B also appears generally in
+line with the expectations of respondents to the Desk’s surveys. Consequently, a
+statement along the lines of Alternative B seems unlikely to generate appreciable
+changes in asset prices.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 13 of 36
+
+--- Page 17 ---
+
+Monetary Policy Expectations and Uncertainty
+Measures of the expected path of the federal funds rate based on financial
+market prices moved down a bit, on net, over the intermeeting period. Early in
+the period, policy expectations declined notably in reaction to FOMC
+communications following the March meeting, including the larger‐than‐
+expected downward revisions to FOMC participants’ March SEP assessments for
+the federal funds rate. These declines were partly reversed later in the period as
+U.S. and Chinese data were, on balance, stronger than expected and as
+sentiment improved regarding trade negotiations between the United States and
+China. Compared with the March surveys, respondents to the Desk’s April/May
+surveys revised down their federal funds rate projections modestly.
+A straight read of the probability distribution of the federal funds rate at the end
+of 2019 implied by the most recent quotes on options and not adjusted for risk
+premiums (figure 1) suggests that the federal funds rate is most likely to end the
+year in the 2 to 2.25 percent range. The probability distribution shows a notable
+shift since March towards lower outcomes, leaving only marginal probability on
+outcomes above the current target range. By comparison, Desk survey
+respondents on average assigned the greatest probability to an unchanged year‐
+end target range and judged the odds on higher rates as slightly outweighing
+those on lower rates (not shown).
+Figure 2 shows how option‐implied policy rate expectations at the six‐month
+horizon have evolved since the September 2018 FOMC meeting. The bars depict
+the probabilities that the target range six months ahead would be lower (in
+blue), unchanged (in yellow), or higher (in red) relative to the target range in
+effect just before each meeting. As shown in the leftmost bar, ahead of the
+September 2018 meeting markets priced in a higher future policy rate in six
+months’ time with virtual certainty. By the time of the January meeting,
+however, substantial probability of an unchanged or lower future target range
+had emerged. At the January meeting the FOMC indicated it would take a
+“patient” approach going forward. Between the January and March meetings,
+the implied probability that the policy rate would be unchanged at the six‐month
+horizon—which can be interpreted as one measure of perceived patience—rose
+significantly. Since March, the implied probability of no change in the target
+range has held relatively steady while the odds on lower outcomes have
+increased.
+Figure 3 compares various measures of the expected federal funds rate over the
+next few years. A straight read of forward rates derived from overnight index
+swaps (the solid blue line) suggests that the federal funds rate will decline
+roughly 20 basis points this year and about 25 basis points in 2020. In contrast,
+the latest expected path from a staff term structure model that adjusts for term
+premiums (the solid red line) continues to suggest further gradual increases in
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 14 of 36
+
+--- Page 18 ---
+
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 15 of 36
+
+--- Page 19 ---
+
+the federal funds rate of about 20 to 25 basis points per year over the next
+several years. The path from the staff’s model beyond 2019 lies notably above
+the modal path reported by the median respondent to the Desk’s April/May
+surveys (the brown line), which was flat. Relative to the March surveys, the
+median respondent no longer anticipates a rate hike by the end of this year as
+the modal outcome and expects the target range for the federal funds rate to
+remain unchanged through 2021. As shown by the dashed lines in figure 3, both
+the unadjusted and adjusted market‐based paths declined somewhat on net,
+following more notable declines earlier in the intermeeting period.
+Figure 4 shows the median and interquartile range of respondents’ modal federal
+funds rate projections from the Desk’s April/May surveys (in blue) relative to the
+March surveys (in green). The median projection (the orange bars) declined by
+25 basis points at each of the next three year‐ends. The median for the longer‐
+run modal projection has remained unchanged. While the interquartile range has
+converged on the median for the end of 2019, its width has stayed about
+unchanged for the end of 2020 and has expanded for the end of 2021.
+Figure 5 shows measures of the longer‐run expected federal funds rate. A
+straight read of forward rates at longer horizons implied by Treasury yields (the
+blue line) suggests that investors’ current expectation for the average federal
+funds rate 5 to 10 years ahead declined a touch further, to about 2.75 percent.
+Adjusting for term premiums using various staff term structure models (with the
+light‐red‐shaded region showing a range of three such model estimates)
+continues to suggest that 5‐to‐10‐year‐ahead expectations are above the
+unadjusted forward rates, at between 3.1 and 3.9 percent, consistent with a
+negative term premium at those horizons. In contrast, surveys of professional
+forecasters project rates closer to the unadjusted forward rates; the average
+longer‐run forecast from the December Blue Chip survey (the yellow diamonds)
+and the median forecast from the Desk’s April/May surveys (the green diamonds)
+are 3.1 and 2.75 percent, respectively.
+The Desk’s April/May surveys also asked respondents for their assessments of the
+rate of PCE inflation two to three years ahead. Figure 6 shows the average
+probability distribution across respondents from the current surveys (the red
+bars) together with that from the June 2018 surveys (the black dashed line), the
+last time a comparable question was asked. These medium‐term forward PCE
+inflation expectations were little changed, on balance, with respondents
+continuing to assign the highest average probability to the 1.76 to 2.25 percent
+range. Respondents also continue to assign greater odds to the next‐lower
+range for PCE inflation (1.26 to 1.75 percent) than to the next‐higher range (2.26‐
+2.75 percent). Meanwhile, the median forecast in the survey of primary dealers
+for core PCE inflation in 2019 and 2020 has declined by 20 and 4 basis points,
+respectively, since the March survey (not shown).
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 16 of 36
+
+--- Page 20 ---
+
+THE CASE FOR ALTERNATIVE A
+If policymakers judge that the softening in inflation indicates an increased risk of
+inflation running persistently below the 2 percent objective, they may want to
+communicate that they stand ready to adjust rates. With Alternative A, the Committee
+would signal the potential for rate cuts in the near term by stating that, in light of
+“softening” inflation, it will “assess whether it may soon become appropriate to adjust the
+target range for the federal funds rate.” Under Alternative A, the “patient” language used
+in Alternative B would be removed.
+Policymakers may judge that solid job growth and gradually firming wage data
+indicate that the labor market strengthened at a steady pace over the past few years
+without generating a sizable increase in inflation. Meanwhile, recent data suggest that
+the growth rates of household and business spending have been slowing from their pace
+last year. With inflation already running below the Committee’s symmetric 2 percent
+objective, policymakers may see significant risks that inflation could fail to return to
+2 percent on a sustained basis, particularly if resource utilization were to soften. In this
+case, the credibility of the Committee’s commitment to its 2 percent longer-run inflation
+objective could be damaged or longer-term inflation expectations may erode.
+In addition, policymakers may deem it prudent to emphasize their commitment to
+support a sustained return of inflation to the Committee’s symmetric 2 percent objective.
+Consequently, Alternative A stresses that adjustments to the target range may be
+“appropriate” to support the outcome of “inflation near the Committee’s symmetric
+2 percent objective.”
+While Alternative A signals an inclination to reduce the target range in the future,
+the inclusion of the phrase “assess whether it may soon become appropriate to adjust the
+target range” does not lock the Committee into making such an adjustment. Hence, the
+Committee may see this communication as reducing the risk of a policy surprise while
+preserving optionality for a future rate reduction.
+A statement from the Committee such as Alternative A could be seen by market
+participants as signaling a more accommodative path for the policy rate than had been
+anticipated and market expectations for the federal funds rate would likely fall. If, in
+addition, market participants judged Alternative A as indicating a more accommodative
+policy reaction function, then equity prices and inflation compensation would likely rise.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 17 of 36
+
+--- Page 21 ---
+
+The effect on the dollar might be more ambiguous, with lower real rates and higher future
+inflation pointing to depreciation, but stronger economic activity suggesting the opposite.
+If, by contrast, market participants inferred from Alternative A that the Committee had
+lowered its outlook for economic activity and inflation, equity prices would likely fall
+together with the exchange value of the dollar, and possibly inflation compensation.
+THE CASE FOR ALTERNATIVE C
+Alternative C provides a possible template for a statement the Committee could
+consider in circumstances in which the economy continues to perform well and the case
+for further increases in the target range for the federal funds rate has materially
+strengthened. Because Alternative C is primarily meant to spur thinking on future
+statement language in circumstances different from those currently prevailing, it omits
+the usual discussion of recent data in the first paragraph. Presumably, at a time when
+Alternative C became appropriate, the language of the first paragraph would convey a
+view of firming inflation, a strengthening economy, or diminished risks to the outlook; it
+is also possible that one or more of these signals would be in postmeeting statements
+prior to the removal of the “patient” language.
+If policymakers see a growing likelihood for another increase in the target range,
+the language characterizing the Committee’s approach as “patient” would need to change.
+The March Tealbook offered two possibilities for altering this language. The first was to
+simply delete the last sentence of the second paragraph, and the second was to replace
+that sentence with the thought that “some further policy firming may become
+appropriate.” The current version of Alternative C takes a slightly different approach by
+modifying the last sentence of the second paragraph to identify the economic conditions
+that may justify a subsequent increase in the target range. In particular, Alternative C
+states: “In light of [firmer inflation readings | tightening resource utilization | diminished
+risks to the outlook], the Committee will assess whether it may soon become appropriate
+to adjust the target range for the federal funds rate.”
+Policymakers may see this statement as addressing a need to provide more clarity
+about the future course of policy than is given by simply deleting the sentence containing
+the “patient” language. While the sentence indicates a bias toward an increase in the
+target range in the future, the language does not commit to such an adjustment. As with
+Alternative A, the Committee may view this communication as reducing the risk of a
+surprise change in policy, while creating optionality for future rate hikes.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 18 of 36
+
+--- Page 22 ---
+
+IMPLEMENTATION NOTE
+Under any of the Alternatives, the Committee would issue an implementation note
+that indicates no change to the Federal Reserve’s administered rates—the interest rate on
+required and excess reserve balances, the offering rate on overnight reverse repurchase
+agreements, and the primary credit rate. The draft implementation note on the following
+pages reflects the Committee’s decision, announced March 20, 2019, to reduce the
+monthly cap on Treasury securities redemptions from its current level of $30 billion to
+$15 billion beginning May 2019. As usual, struck-out text indicates language deleted
+from the March directive and implementation note, bold red underlined text indicates
+added language, and blue underlined text indicates text that links to websites.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 19 of 36
+
+--- Page 23 ---
+
+Implementation Note for May 2019 (all Alternatives)
+Release Date: May 1, 2019
+Decisions Regarding Monetary Policy Implementation
+The Federal Reserve has made the following decisions to implement the monetary policy
+stance announced by the Federal Open Market Committee in its statement on March 20,
+2019 May 1, 2019:
+ The Board of Governors of the Federal Reserve System voted [ unanimously ]
+to maintain the interest rate paid on required and excess reserve balances at
+2.40 percent, effective March 21, 2019 May 2, 2019.
+ As part of its policy decision, the Federal Open Market Committee voted to
+authorize and direct the Open Market Desk at the Federal Reserve Bank of
+New York, until instructed otherwise, to execute transactions in the System
+Open Market Account in accordance with the following domestic policy
+directive:
+“Effective March 21, 2019 May 2, 2019, the Federal Open Market
+Committee directs the Desk to undertake open market operations as
+necessary to maintain the federal funds rate in a target range of 2-1/4 to
+2-1/2 percent, including overnight reverse repurchase operations (and
+reverse repurchase operations with maturities of more than one day when
+necessary to accommodate weekend, holiday, or similar trading
+conventions) at an offering rate of 2.25 percent, in amounts limited only
+by the value of Treasury securities held outright in the System Open
+Market Account that are available for such operations and by a per-
+counterparty limit of $30 billion per day.
+Effective May 2, 2019, the Committee directs the Desk to continue rolling
+over at auction the amount of principal payments from the Federal
+Reserve’s holdings of Treasury securities maturing during each calendar
+month that exceeds $30 $15 billion. , and The Committee directs the
+Desk to continue reinvesting in agency mortgage-backed securities the
+amount of principal payments from the Federal Reserve’s holdings of
+agency debt and agency mortgage-backed securities received during each
+calendar month that exceeds $20 billion. Small deviations from these
+amounts for operational reasons are acceptable.
+The Committee also directs the Desk to engage in dollar roll and coupon
+swap transactions as necessary to facilitate settlement of the Federal
+Reserve’s agency mortgage-backed securities transactions.”
+ In a related action, the Board of Governors of the Federal Reserve System
+voted [ unanimously ] to approve the establishment of the primary credit rate
+at the existing level of 3.00 percent.
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 20 of 36
+
+--- Page 24 ---
+
+This information will be updated as appropriate to reflect decisions of the Federal Open
+Market Committee or the Board of Governors regarding details of the Federal Reserve’s
+operational tools and approach used to implement monetary policy.
+More information regarding open market operations and reinvestments may be found on
+the Federal Reserve Bank of New York’s website. sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 21 of 36
+
+--- Page 25 ---
+
+(This page is intentionally blank.)
+sevitanretlA
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 22 of 36
+
+--- Page 26 ---
+
+Balance Sheet and Income Projections
+The staff has prepared projections of the Federal Reserve’s balance sheet and the
+associated income statement that are consistent with the baseline forecast in Tealbook A.
+These projections are substantially revised from those presented in the previous Tealbook
+for two principal reasons.
+First, the staff’s revised financial projections in Tealbook A imply a much flatter
+path for the federal funds rate relative to the March Tealbook, with the short-term policy
+rate 140 basis points lower at the end of the medium term, in 2021:Q4. Over the medium
+run, the paths for the 10-year Treasury yield and the 30-year fixed mortgage rate are both,
+on average, 50 basis points below the March Tealbook projection. As a result of these
+revisions to the forecast, the projected path of prepayments from agency mortgage-
+backed securities (MBS) is higher, which induces a steeper pace of decline in SOMA
+MBS holdings throughout the projection horizon.
+Second, the projections incorporate new policy assumptions regarding the
+evolution of the Federal Reserve’s balance sheet, which embed the Balance Sheet
+Normalization Principles and Plans released after the March FOMC meeting. Over the
+current quarter and the next, these plans lead to a slower balance sheet runoff, which
+comes to a conclusion at the end of September 2019. After this date, the size of the
+SOMA portfolio will be held roughly constant for some time, while allowing for gradual
+declines in reserves to accommodate growth in currency and other nonreserve liabilities.1
+In our projections, we continue to assume that reserve balances will decline until they
+reach $1 trillion, which will take place in the fourth quarter of 2021, nearly two years
+later than in the March Tealbook.2
+1 Runoff of Treasury securities is slowed by reducing the cap on monthly redemptions from
+$30 billion to $15 billion beginning in May 2019. Beginning in October 2019, proceeds from principal
+payments of agency securities will be reinvested in Treasury securities subject to a monthly cap of
+$20 billion, with purchases roughly matching the maturity composition of Treasury securities outstanding.
+Principal payments of agency securities in excess of the monthly cap will continue to be reinvested in
+agency MBS.
+2 Because reserve balances are expected to reach $1 trillion later than in the previous Tealbook,
+and, thus, at a time when nominal GDP is projected to be at a higher level, the size of the balance sheet as a
+share of GDP is projected to be slightly smaller over the longer term. However, as discussed in the March
+FOMC memo “Transitioning to an Ample Reserves Regime with Lower Reserves,” the actual level at
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 23 of 36
+
+--- Page 27 ---
+
+Evolution of the SOMA portfolio. Under the balance sheet normalization
+program initiated in October 2017 and revised in March 2019, cumulative redemptions
+are projected to reach $747 billion by the time the reduction in the size of SOMA
+holdings concludes at the end of the third quarter. Of this total, redemptions of Treasury
+and agency securities will amount to $419 billion and $328 billion, respectively (see the
+table in the exhibit “Redemptions and Reinvestments of SOMA Principal Payments”).
+Through the same date, cumulative reinvestments of principal payments in Treasury and
+agency securities are projected to be $363 billion and $153 billion, respectively.3
+Relative to the March Tealbook, lower redemptions of Treasury securities through the
+third quarter of 2019 and the corresponding higher reinvestments reflect the new policy
+assumptions for the evolution of the balance sheet. In addition, the projection for
+cumulative redemptions of agency securities is $10 billion higher than in the March
+Tealbook given the lower projected paths of longer-term interest rates and the resulting
+faster pace of MBS prepayments over coming months.
+By the time the reduction in total securities holdings concludes at the end
+of 2019:Q3, the size of the SOMA portfolio is projected to be slightly above $3.5 trillion,
+consisting of about $2.1 trillion of Treasury securities and $1.5 trillion in agency
+securities. At that time, the balance sheet is projected to stand at about 17 percent of
+nominal GDP, with nonreserve liabilities totaling 11 percent (see the bottom panels of the
+exhibit titled “Total Assets and Selected Balance Sheet Items”). Starting from the fourth
+quarter of 2021, when reserves are projected to reach $1 trillion, the size of the balance
+sheet is projected to remain a nearly 16 percent share of GDP.4 For comparison, the size
+of the balance sheet as a share of GDP peaked at about 25 percent in the fourth quarter of
+2014 and averaged about 5 percent over the decade prior to the crisis. After reserves
+reach $1 trillion, SOMA holdings are projected to start rising in line with nominal GDP,
+keeping pace with increases in Federal Reserve liabilities and Federal Reserve Bank
+capital.
+which the decline in reserves ceases will need to be chosen in light of information on banks’ reserve
+demand.
+3 MBS prepayments are projected to slightly exceed the $20 billion per month redemption cap in
+June so that $300 million of reinvestments in agency MBS are projected to occur in that month. However,
+the projections for agency MBS are subject to considerable uncertainty because of unscheduled
+prepayments. In particular, should longer-term interest rates decline significantly from the current
+projected paths, prepayments of MBS are likely to rise and may more frequently exceed the monthly cap of
+$20 billion.
+4 At that time, the SOMA portfolio is comprised of about $2.4 trillion in Treasury securities and
+$1.1 trillion in agency securities.
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 24 of 36
+
+--- Page 28 ---
+
+Redemptions and Reinvestments of SOMA Principal Payments
+Projections for Treasury Securities Projections for Agency Securities
+(Billions of dollars) (Billions of dollars)
+Redemptions Reinvestments* Redemptions Reinvestments**
+(Agency/Treasury)
+Since Since Since Since
+Oct. Oct. Oct. Oct.
+Period 2017 Period 2017 Period 2017 Period 2017
+2019:Q2 60.0 375.7 51.9 302.2 2019:Q2 56.6 274.7 18 0.3 / 0 152.6 / 0
+2019:Q3 43.0 418.7 61.0 363.2 2019:Q3 53.4 328.1 190. 0 / 0 152.6 / 0
+2019:Q4 0 418.7 76.6 439.8 2019:Q4 0 328.1 190. 0 / 47.2 152.6 / 47.2
+2018 229.1 247.1 197.1 224.2 2018 160.8 172.8 1 87.6 / 0 152.3 / 0
+2019 171.6 418.7 215.6 439.8 2019 155.3 328.1 18 0.3 / 47.2 152.6 / 47.2
+2020 0 418.7 339.1 779.0 2020 0 328.1 190. 0 / 175.2 152.6 / 222.4
+2021*** 0 418.7 369.1 1148.1 2021*** 0 328.1 190. 0 / 143.2 152.6 / 365.6
+SOMA Treasury Securities SOMA Agency Debt and MBS
+Principal Payments Principal Payments
+Monthly Billions of dollars Monthly Billions of dollars
+100 100
+Redemptions Redemptions
+Reinvestments Reinvestments
+Reinvestments from MBS Reinvestments into Treasuries
+Monthly Cap* Monthly Caps**
+80 80
+Projections Projections
+60 60
+40 40
+20 20
+0 0
+2017 2018 2019 2020 2021*** 2017 2018 2019 2020 2021***
+* Starting in May 2019, principal payments from maturing Treasury securities below $15 billion per month are redeemed, while those above are reinvested
+into Treasury securities. Starting in October 2019, all principal payments from maturing Treasury securities are reinvested into Treasury securities.
+** Starting in October 2019, principal payments from holdings of agency securities below $20 billion per month are reinvested into Treasury securities,
+while those above are reinvested into agency MBS.
+*** Reserves are projected to reach $1 trillion in November 2021. After this date, all principal payments received from all security holdings are reinvested
+into Treasury securities.
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 25 of 36
+
+--- Page 29 ---
+
+Total Assets and Selected Balance Sheet Items
+April Tealbook baseline March Tealbook baseline
+Total Assets
+8102 0202 2202 4202 6202 8202 0302
+Reserve Balances
+Billions of dollars
+6500
+Monthly
+6000
+5500
+5000
+4500
+4000
+3500
+3000
+8102 0202 2202 4202 6202 8202 0302
+Billions of dollars
+3500
+Monthly
+3000
+2500
+2000
+1500
+1000
+500
+SOMA Treasury Holdings
+8102 0202 2202 4202 6202 8202 0302
+SOMA Agency MBS Holdings
+Billions of dollars
+6000
+Monthly
+5500
+5000
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+8102 0202 2202 4202 6202 8202 0302
+Billions of dollars
+2400
+Monthly
+2200
+2000
+1800
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+8102 0202 2202 4202 6202 8202 0302
+Assets as a Share of GDP
+Percent
+Projections Loans 25
+Other Assets
+Agency Securities
+Treasury Securities
+20
+15
+10
+5
+0
+8102 0202 2202 4202 6202 8202 0302
+Liabilities as a Share of GDP
+Percent
+Projections Total Reserves 25
+Other Liabilities
+Treasury General Account
+Federal Reserve Notes in Circulation
+20
+15
+10
+5
+0
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 26 of 36
+
+--- Page 30 ---
+
+FederalReserveBalanceSheet
+Month-endProjections--AprilTealbook
+(Billionsofdollars)
+Historical* Projections
+Aug Sep Mar Dec Dec Dec Dec Dec
+2014 2017 2019 2019 2020 2022 2025 2030
+Totalassets 4,416 4,460 3,935 3,681 3,673 3,824 4,222 4,992
+Selectedassets
+Loansandothercreditextensions** 2 6 2 0 0 0 0 0
+Securitiesheldoutright 4,157 4,240 3,748 3,519 3,524 3,692 4,111 4,905
+U.S.Treasurysecurities 2,437 2,465 2,153 2,083 2,263 2,689 3,333 4,390
+Agencydebtsecurities 42 7 2 2 2 2 2 2
+Agencymortgage-backedsecurities 1,678 1,768 1,593 1,434 1,258 1,000 775 513
+Unamortizedpremiums 209 162 136 123 111 91 68 41
+Unamortizeddiscounts -19 -14 -13 -12 -12 -10 -8 -5
+Totalotherassets 66 66 63 51 51 51 51 51
+Totalliabilities 4,360 4,419 3,896 3,659 3,649 3,780 4,172 4,928
+Selectedliabilities
+FederalReservenotesincirculation 1,249 1,533 1,677 1,749 1,857 2,044 2,256 2,665
+Reverserepurchaseagreements 277 432 248 240 240 249 275 324
+DepositswithFederalReserveBanks 2,825 2,447 1,966 1,666 1,548 1,483 1,637 1,934
+Reservebalancesheldbydepository 2,762 2,190 1,589 1,263 1,131 1,037 1,144 1,352
+institutions
+U.S.Treasury,GeneralAccount 49 176 307 342 357 384 423 500
+Otherdeposits 15 82 69 60 60 62 69 81
+EarningsremittancesduetotheU.S. 3 2 1 0 0 0 0 0
+Treasury
+TotalFederalReserveBankcapital*** 56 41 39 40 40 44 50 64
+Source:FederalReserveH.4.ldailydataandstaffcalculations.
+Note:Componentsmaynotsumtototalsduetorounding.
+*August2014correspondstothepeakmonth-endvalueofreservebalances;September2017correspondstothelastmonth-endbeforetheinitiationofthenormal-
+izationprogram;March2019isthemostrecenthistoricalvalue.
+**Loansandothercreditextensionsincludesdiscountwindowcredit;centralbankliquidityswaps;andnetportfolioholdingsofMaidenLaneLLC.
+***Totalcapitalincludescapitalpaid-inandcapitalsurplusaccounts.
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 27 of 36
+
+--- Page 31 ---
+
+The share of agency MBS in the SOMA portfolio, which currently stands at
+42 percent, is expected to decline somewhat more rapidly than projected in the March
+Tealbook, and reach about 19 percent by the end of 2025 given the higher projected pace
+of MBS prepayments.
+SOMA portfolio characteristics. The weighted-average duration of the SOMA
+Treasury portfolio is currently about six and a half years (see the top panel of the exhibit
+titled “Projections for the Characteristics of SOMA Treasury Securities Holdings”).
+Duration is projected to edge up to nearly seven years as redemptions continue over this
+quarter and the next and longer-duration securities become a larger share of the
+portfolio.5 As in the March Tealbook we continue to assume that, once the level of
+reserves reaches $1 trillion, all principal payments received on maturing Treasury
+securities and on agency securities is entirely reinvested in Treasury bills until the share
+of Treasury bills in the Treasury securities portfolio reaches about one-third, close to their
+pre-crisis share.6 This process is expected to take about 5 quarters and leads to a sharp
+reduction in the weighted-average duration to just over 5 years. Thereafter, further
+purchases of Treasury securities are assumed to be spread across the maturity spectrum
+(see the bottom panel of the exhibit).
+Federal Reserve remittances. Remittances to the Treasury are projected to
+decline to $49 billion this year from $65 billion in 2018 (see the exhibit “Income
+Projections”), mainly reflecting the decline in interest income resulting from the
+reduction in SOMA securities holdings.7 Total interest expense is projected to be little
+5 Consistent with the Desk’s current practice, these projections assume that rollovers of maturing
+Treasury securities will be allocated across newly issued securities at Treasury auctions on a pro-rata basis
+in proportion with the amount being issued. Consistent with the Desk’s plans for reinvesting principal
+payments from agency debt and MBS into Treasury securities beginning in October 2019, these projections
+also assume that these purchases will be made across the Treasury curve during each month. Purchase
+amounts will be allocated to sectors in line with the amounts outstanding in those sectors. Secondary-
+market purchases of Treasury securities will be distributed across eight sectors for nominal coupon
+securities and one sector each for bills, Treasury Inflation-Protected Securities (TIPS), and Floating Rate
+Notes (FRNs). Of note, the share of these purchases allocated to bills will be 15 percent, while the share
+allocated to coupon securities with residual maturity shorter than three years will be 41 percent.
+6 Excluding securities acquired through small-value test operations, the SOMA portfolio currently
+contains no Treasury bills.
+7 Remittances in 2018 included two mandated transfers to the Treasury due to reductions to the
+statutory limit on aggregate Reserve Bank surplus. First, $2.5 billion was transferred in February 2018
+following an amendment to Section 7 of the Federal Reserve Act by the Bipartisan Budget Act of 2018,
+enacted in that month. Second, $675 million was transferred in June 2018, reflecting another amendment
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 28 of 36
+
+--- Page 32 ---
+
+Projections for the Characteristics of SOMA Treasury Securities Holdings
+SSOOMMAA WWeeiigghhtteedd−−AAvveerraaggee TTrreeaassuurryy DDuurraattiioonn
+MMoonntthhllyy YYeeaarrss
+1100
+April Tealbook baseline
+March Tealbook baseline
+99
+88
+77
+66
+55
+44
+33
+22
+22000088 22001100 22001122 22001144 22001166 22001188 22002200 22002222 22002244 22002266 22002288 22003300
+Maturity Composition of SOMA Treasury Portfolio
+April Tealbook baseline Billions of Dollars
+5000
+Maturing in less than 1 year
+Maturing between 1 year and 5 years
+Maturing between 5 years and 10 years
+Maturing in more than 10 years
+4000
+End of decline in
+reserve balances
+3000
+End of balance
+sheet runoff
+2000
+1000
+0
+2019 2021 2023 2025 2027 2029
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 29 of 36
+
+--- Page 33 ---
+
+April Tealbook baseline March Tealbook baseline
+Interest Income
+8102 0202 2202 4202 6202 8202 0302
+Interest Expense
+Billions of dollars
+160
+Annual
+140
+120
+100
+80
+60
+40
+20
+0
+8102 0202 2202 4202 6202 8202 0302
+Billions of dollars
+160
+Annual
+140
+120
+100
+80
+60
+40
+20
+0
+Remittances to Treasury
+8102 0202 2202 4202 6202 8202 0302
+Remittances as a Percent of GDP
+Billions of dollars
+130
+Annual
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+8102 0202 2202 4202 6202 8202 0302
+Percent
+0.8
+End of year
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+2000−2007
+0.1
+0.0
+Unrealized Gains/Losses
+8102 0202 2202 4202 6202 8202 0302
+Unrealized Gains/Losses as a Percent of GDP
+Billions of dollars
+200
+Annual
+150
+100
+50
+0
+−50
+−100
+−150
+−200
+8102 0202 2202 4202 6202 8202 0302
+Income Projections
+Percent
+1.0
+End of year
+0.8
+0.6
+0.4
+0.2
+0.0
+−0.2
+−0.4
+−0.6
+−0.8
+−1.0
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 30 of 36
+
+--- Page 34 ---
+
+changed at $42 billion this year.8 Remittances are expected to increase to $55 billion in
+2020. Thereafter, remittances rise reflecting an increase in interest income associated
+with a growing balance sheet.
+Relative to the previous Tealbook, the projected path for remittances has been
+revised up over the next few years and revised down in the longer term. These revisions
+reflect the differential effects over time that the revised financial projections have on
+interest expense and interest income. Over the medium term, remittances are somewhat
+higher than previously projected primarily because the lower path for the interest rate
+paid on reserve balances reduces interest expense. In the longer term, this effect is more
+than offset by a downward revision to interest income stemming from a shift in the
+composition of the portfolio. In particular, the faster pace of prepayments from relatively
+higher-yielding MBS results in larger reinvestments into lower-yielding Treasury
+securities, thus reducing interest income. As shown in the middle right panel of the
+exhibit “Income Projections”, annual remittances are projected to rise gradually from
+around 0.25 percent of nominal GDP next year to just below 0.3 percent by the end of the
+projection horizon.
+Unrealized gains or losses. The SOMA portfolio was in a net unrealized gain
+position of about $61 billion at the end of March. The staff estimates that the SOMA
+portfolio will be in a net unrealized gain position of about $41 billion at the end of April.9
+This amount is attributable to a $53 billion unrealized gain position in Treasury securities
+which more than offsets a $13 billion unrealized loss position in agency MBS. With
+longer-term interest rates projected to rise, the unrealized gain position is expected to turn
+into an unrealized loss position during the second half of 2020. The unrealized loss
+position is expected to reach a peak around $86 billion in 2023:Q2. Compared with the
+to Section 7 by the Economic Growth, Regulatory Relief, and Consumer Protection Act, enacted in
+May 2018.
+8 We continue to assume that the FOMC will set a 25-basis-point-wide target range for the federal
+funds rate throughout the projection period. Consistent with the FOMC’s December 2018 Implementation
+Note, we assume that the interest rates paid on reserve balances will be set 10 basis points below the top of
+the target range. We continue to assume that the offering rate on overnight RRPs will be set at the bottom
+of the range.
+9 See the Tealbook B box titled “What Does it Mean for the SOMA Portfolio to be in an
+‘Unrealized Loss’ Position?” (June 2018) for an explanation of the accounting notions of unrealized and
+realized gain and loss positions, as well as their implications for the Federal Reserve’s ability to meet its
+obligations.
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 31 of 36
+
+--- Page 35 ---
+
+March Tealbook, the path for the unrealized position of the SOMA portfolio is generally
+higher reflecting the lower projections for longer-term interest rates.
+Total term premium effect: SOMA securities holdings are estimated to be
+reducing the term premium embedded in the 10-year Treasury yield by about 131 basis
+points in the current quarter (see the exhibit “Projections for the 10-year Treasury Total
+Term Premium Effect”). Relative to the March projection, the level of this total term
+premium effect (TTPE) is slightly more negative over the coming year, but it is slightly
+less negative over the longer term.
+Over the next year, the downward effect on the TTPE resulting from the slower
+pace of securities redemptions and larger SOMA holdings more than offsets the upward
+effect stemming from faster MBS prepayments due to the revised financial assumptions,
+thereby leading to a slightly more negative TTPE. However, by the end of 2021, the
+effect of the slower pace of securities redemptions fades, and, through the end of the
+projection horizon, a slightly less negative TTPE results from the projected more rapid
+shift in the composition of the portfolio from MBS towards Treasury securities arising
+from the lower path for longer-term interest rates.10,11
+10 The lower path of longer-term interest rates, which induces faster MBS prepayments and higher
+reinvestments of MBS proceeds into Treasury securities, leads to a shift in the composition of the portfolio
+from MBS towards Treasury securities. Shifts of such nature reduce the projected magnitude of the TTPE,
+because in the term-structure model on which the TTPE estimates are based MBS holdings are measured at
+par value, whereas Treasury securities are measured on a 10-year equivalents basis.
+11 The slightly less negative path of the TTPE is also due, in part, to the smaller size of the balance
+sheet relative to GDP in the longer run.
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 32 of 36
+
+--- Page 36 ---
+
+Projections for the 10-Year Treasury
+Total Term Premium Effect (TTPE)
+(Basis Points)
+April March
+Date
+Tealbook Tealbook
+QuarterlyAverages
+2019:Q2 -131 -129
+Q3 -130 -127
+Q4 -129 -126
+2020:Q4 -123 -122
+2021:Q4 -118 -120
+2022:Q4 -114 -119
+2023:Q4 -112 -116
+2024:Q4 -110 -114
+2025:Q4 -109 -112
+2026:Q4 -107 -110
+2027:Q4 -105 -109
+2028:Q4 -104 -108
+2029:Q4 -102 -106
+2030:Q4 -101 -105
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 33 of 36
+
+--- Page 37 ---
+
+(This page is intentionally blank.)
+emocnI
+&
+teehS
+ecnalaB
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Page 34 of 36
+
+--- Page 38 ---
+
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+Abbreviations
+ABS asset-backed securities
+AFE advanced foreign economy
+BEA Bureau of Economic Analysis, Department of Commerce
+BHC bank holding company
+CDS credit default swaps
+CFTC Commodity Futures Trading Commission
+C&I commercial and industrial
+CLO collateralized loan obligation
+CMBS commercial mortgage-backed securities
+CPI consumer price index
+CRE commercial real estate
+DEDO section in Tealbook A: “Domestic Economic Developments and Outlook”
+Desk Open Market Desk
+DFMU Designated Financial Market Utilities
+ECB European Central Bank
+EFFR effective federal funds rate
+ELB effective lower bound
+EME emerging market economy
+EU European Union
+FAST Act Fixing America’s Surface Transportation Act
+FDIC Federal Deposit Insurance Corporation
+FOMC Federal Open Market Committee; also, the Committee
+GCF general collateral finance
+GDI gross domestic income
+GDP gross domestic product
+GSIBs globally systemically important banking organizations
+HQLA high-quality liquid assets
+IOER interest on excess reserves
+Page 35 of 36
+
+--- Page 39 ---
+
+Authorized for Public Release
+Class I FOMC - Restricted Controlled (FR) April 25, 2019
+ISM Institute for Supply Management
+LIBOR London interbank offered rate
+LSAPs large-scale asset purchases
+MBS mortgage-backed securities
+MMFs money market funds
+NBER National Bureau of Economic Research
+NI nominal income
+NIPA national income and product accounts
+OIS overnight index swap
+ON RRP overnight reverse repurchase agreement
+PCE personal consumption expenditures
+QS Quantitative Surveillance
+repo repurchase agreement
+RMBS residential mortgage-backed securities
+RRP reverse repurchase agreement
+SCOOS Senior Credit Officer Opinion Survey on Dealer Financing Terms
+SEP Summary of Economic Projections
+SFA Supplemental Financing Account
+SLOOS Senior Loan Officer Opinion Survey on Bank Lending Practices
+SOMA System Open Market Account
+TBA to be announced (for example, TBA market)
+TCJA Tax Cuts and Jobs Act of 2017
+TGA U.S. Treasury’s General Account
+TIPS Treasury inflation-protected securities
+TPE Term premium effects
+ZLB zero lower bound
+Page 36 of 36

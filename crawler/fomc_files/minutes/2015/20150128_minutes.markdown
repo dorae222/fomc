@@ -1,0 +1,1398 @@
+# 20150128_minutes.pdf
+
+*Extracted on: 2025-08-20 16:37:47*
+*Pages: 21, Tables: 1*
+
+## Document Content
+
+--- Page 1 ---
+
+________________________________________________________________________________________P_a_g_e_ _1
+Minutes of the Federal Open Market Committee
+January 27–28, 2015
+A meeting of the Federal Open Market Committee was Michael S. Gibson, Director, Division of Banking
+held in the offices of the Board of Governors of the Supervision and Regulation, Board of Governors
+Federal Reserve System in Washington, D.C., on
+Tuesday, January 27, 2015, at 10:00 a.m. and continued Nellie Liang, Director, Office of Financial Stability
+on Wednesday, January 28, 2015, at 9:00 a.m. Policy and Research, Board of Governors
+PRESENT: James A. Clouse, Deputy Director, Division of
+Janet L. Yellen, Chair Monetary Affairs, Board of Governors
+William C. Dudley, Vice Chairman
+Lael Brainard William B. English, Senior Special Adviser to the
+Charles L. Evans Board, Office of Board Members, Board of
+Stanley Fischer Governors
+Jeffrey M. Lacker
+Dennis P. Lockhart Andrew Figura, David Reifschneider, and Stacey
+Jerome H. Powell Tevlin, Special Advisers to the Board, Office of
+Daniel K. Tarullo Board Members, Board of Governors
+John C. Williams
+Trevor A. Reeve, Special Adviser to the Chair, Office
+James Bullard, Esther L. George, Loretta J. Mester, and of Board Members, Board of Governors
+Eric Rosengren, Alternate Members of the Federal
+Open Market Committee David E. Lebow, Senior Associate Director, Division
+of Research and Statistics, Board of Governors
+Richard W. Fisher, Narayana Kocherlakota, and
+Charles I. Plosser, Presidents of the Federal Michael T. Kiley, Senior Adviser, Division of Research
+Reserve Banks of Dallas, Minneapolis, and and Statistics, and Senior Associate Director,
+Philadelphia, respectively Office of Financial Stability Policy and Research,
+Board of Governors
+Thomas Laubach, Secretary and Economist
+Matthew M. Luecke, Deputy Secretary Jeremy B. Rudd, Senior Adviser, Division of Research
+Michelle A. Smith, Assistant Secretary and Statistics, Board of Governors; Joyce K.
+Scott G. Alvarez, General Counsel Zickler, Senior Adviser, Division of Monetary
+Thomas C. Baxter, Deputy General Counsel Affairs, Board of Governors
+Steven B. Kamin, Economist
+David W. Wilcox, Economist Fabio M. Natalucci2 and Gretchen C. Weinbach,3
+Associate Directors, Division of Monetary Affairs,
+David Altig, Thomas A. Connors, Michael P. Leahy, Board of Governors
+Jonathan P. McCarthy, William R. Nelson, Glenn
+D. Rudebusch, Daniel G. Sullivan, and William
+Wascher, Associate Economists
+________________
+Simon Potter, Manager, System Open Market Account
+1 Attended the joint session of the Federal Open Market
+Committee and the Board of Governors.
+Lorie K. Logan, Deputy Manager, System Open 2 Attended the portion of the meeting following the joint
+Market Account session of the Federal Open Market Committee and the
+Board of Governors.
+Robert deV. Frierson,1 Secretary of the Board, Office 3 Attended through the conclusion of the joint session of the
+of the Secretary, Board of Governors Federal Open Market Committee and the Board of
+Governors.
+
+--- Page 2 ---
+
+_P_ag_e_ _2_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Joseph W. Gruber, Deputy Associate Director, Blake Prichard, First Vice President, Federal Reserve
+Division of International Finance, Board of Bank of Philadelphia
+Governors; David López-Salido, Deputy Associate
+Director, Division of Monetary Affairs, Board of Jeff Fuhrer and Alberto G. Musalem, Executive Vice
+Governors Presidents, Federal Reserve Banks of Boston and
+New York, respectively
+Jennifer Gallagher, Special Assistant to the Board,
+Office of Board Members, Board of Governors Troy Davig, Michael Dotsey, Joshua L. Frost,4 Evan F.
+Koenig, Samuel Schulhofer-Wohl, and Christopher
+Edward Nelson, Assistant Director, Division of J. Waller, Senior Vice Presidents, Federal Reserve
+Monetary Affairs, Board of Governors; Shane M. Banks of Kansas City, Philadelphia, New York,
+Sherlund, Assistant Director, Division of Research Dallas, Minneapolis, and St. Louis, respectively
+and Statistics, Board of Governors
+Todd E. Clark and Douglas Tillett, Vice Presidents,
+Burcu Duygan-Bump and Robert J. Tetlow,21 Advisers, Federal Reserve Banks of Cleveland and Chicago,
+Division of Monetary Affairs, Board of Governors; respectively
+Eric C. Engstrom, Adviser, Division of Research
+and Statistics, Board of Governors Robert L. Hetzel, Senior Economist, Federal Reserve
+Bank of Richmond
+Penelope A. Beattie,12 Assistant to the Secretary, Office
+of the Secretary, Board of Governors
+Dana L. Burnett and Christopher J. Gust, Section Annual Organizational Matters5
+Chiefs, Division of Monetary Affairs, Board of In the agenda for this meeting, it was reported that ad-
+Governors vices of the election of the following members and alter-
+nate members of the Federal Open Market Committee
+Katie Ross,1 Manager, Office of the Secretary, Board of (the “Committee”) for a term beginning January 27,
+Governors 2015, had been received and that these individuals had
+executed their oaths of office.
+David H. Small, Project Manager, Division of
+Monetary Affairs, Board of Governors The elected members and alternate members were as fol-
+lows:
+Carlos O. Arteta, Senior Economist, Division of
+International Finance, Board of Governors; William C. Dudley, President of the Federal Reserve
+Kimberly Bayard, Senior Economist, Division of Bank of New York, with Christine Cumming, First Vice
+Research and Statistics, Board of Governors; President of the Federal Reserve Bank of New York, as
+Elmar Mertens, Senior Economist, Division of alternate
+Monetary Affairs, Board of Governors
+Jeffrey M. Lacker, President of the Federal Reserve Bank
+Bernd Schlusche and Emre Yoldas, Economists, of Richmond, with Eric Rosengren, President of the
+Division of Monetary Affairs, Board of Governors Federal Reserve Bank of Boston, as alternate
+Peter M. Garavuso, Information Management Analyst, Charles L. Evans, President of the Federal Reserve Bank
+Division of Monetary Affairs, Board of Governors of Chicago, with Loretta J. Mester, President of the Fed-
+eral Reserve Bank of Cleveland, as alternate
+1 Attended the joint session of the Federal Open Market 4 Attended through the discussion on liftoff tools and possi-
+Committee and the Board of Governors. ble liftoff options.
+2 Attended the portion of the meeting following the joint 5 Versions of the current Committee documents are available
+session of the Federal Open Market Committee and the at www.federalreserve.gov/monetarypolicy/rules_au-
+Board of Governors. thorizations.htm.
+
+--- Page 3 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5________________________P_a_g_e_ _3
+Dennis P. Lockhart, President of the Federal Reserve SOMA, respectively, on the understanding that their se-
+Bank of Atlanta, with James Bullard, President of the lection was subject to their being satisfactory to the Fed-
+Federal Reserve Bank of St. Louis, as alternate eral Reserve Bank of New York.
+John C. Williams, President of the Federal Reserve Bank Secretary’s note: Advice subsequently was re-
+of San Francisco, with Esther L. George, President of ceived that the manager and deputy manager
+the Federal Reserve Bank of Kansas City, as alternate selections indicated above were satisfactory to
+the Federal Reserve Bank of New York.
+By unanimous vote, the following officers of the Com-
+mittee were selected to serve until the selection of their By unanimous vote, the Authorization for Domestic
+successors at the first regularly scheduled meeting of the Open Market Operations was approved with two sets of
+Committee in 2016: amendments. The first set of amendments aimed at sim-
+plifying the language by defining common terms, elimi-
+Janet L. Yellen Chairman nating duplication of language, and standardizing refer-
+William C. Dudley Vice Chairman ences to the Committee.7 The second set of amend-
+Thomas Laubach Secretary and Economist ments clarified or modified existing authority, in partic-
+Matthew M. Luecke Deputy Secretary ular by introducing the defined term “Selected Bank” as
+David W. Skidmore Assistant Secretary6 part of prudent planning to simplify transfer of authority
+Michelle A. Smith Assistant Secretary from the Federal Reserve Bank of New York to another
+Scott G. Alvarez General Counsel Federal Reserve Bank selected by the Committee in the
+Thomas C. Baxter Deputy General Counsel event of a significant contingency, removing the author-
+Richard M. Ashton Assistant General Counsel ization to use agents for agency mortgage-backed secu-
+Steven B. Kamin Economist rities (“MBS”) transactions, defining the types of collat-
+David W. Wilcox Economist eral accepted in securities lending operations described
+in paragraph 3, and updating the language relating to the
+David Altig Chair’s authority to act in exceptional circumstances.8
+Thomas A. Connors The Guidelines for the Conduct of System Open Market
+Eric M. Engen Operations in Federal-Agency Issues remained sus-
+Michael P. Leahy pended.
+Jonathan P. McCarthy
+William R. Nelson AUTHORIZATION FOR DOMESTIC OPEN
+Glenn D. Rudebusch MARKET OPERATIONS
+Daniel G. Sullivan (As amended effective January 27, 2015)
+John A. Weinberg
+William Wascher Associate Economists 1. The Federal Open Market Committee (the “Com-
+mittee”) authorizes and directs the Federal Reserve Bank
+By unanimous vote, the Federal Reserve Bank of New selected by the Committee to execute open market trans-
+York was selected to execute transactions for the System actions (the “Selected Bank”), to the extent necessary to
+Open Market Account (“SOMA”). carry out the most recent domestic policy directive
+adopted by the Committee:
+By unanimous vote, the Committee selected Simon Pot- A. To buy or sell in the open market securities that
+ter and Lorie K. Logan to serve at the pleasure of the are direct obligations of, or fully guaranteed as to prin-
+Committee as manager and deputy manager of the cipal and interest by, the United States, and securities
+that are direct obligations of, or fully guaranteed as to
+principal and interest by, any agency of the United
+6 Effective February 2, 2015. 8 The change regarding the introduction of the term “Selected
+7 To improve consistency, references to “the FOMC,” “the Bank” was implemented in other affected documents, in-
+Federal Open Market Committee,” and “the Committee” cluding the Authorization for Foreign Currency Opera-
+were standardized, where appropriate, around the con- tions, Procedural Instructions with Respect to Foreign
+vention of “the Committee.” This change was imple- Currency Operations, and Program for Security of
+mented in other affected documents. FOMC Information.
+
+--- Page 4 ---
+
+_P_ag_e_ _4_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+States, that are eligible for purchase or sale under Sec- (except that the Selected Bank may lend Eligible Securi-
+tion 14(b) of the Federal Reserve Act (“Eligible Secu- ties for longer than an overnight term to accommodate
+rities”) for the System Open Market Account weekend, holiday, and similar trading conventions).
+(“SOMA”): A. Such securities lending must be:
+i. As an outright operation with securities dealers i. At rates determined by competitive bidding;
+and foreign and international accounts maintained ii. At a minimum lending fee consistent with the
+at the Selected Bank: on a same-day or deferred de- objectives of the program;
+livery basis (including such transactions as are com- iii. Subject to reasonable limitations on the total
+monly referred to as dollar rolls and coupon swaps) amount of a specific issue of Eligible Securities that
+at market prices; or may be auctioned; and
+ii. As a temporary operation: on a same-day or iv. Subject to reasonable limitations on the
+deferred delivery basis, to purchase such Eligible Se- amount of Eligible Securities that each borrower
+curities subject to an agreement to resell (“repo may borrow.
+transactions”) or to sell such Eligible Securities sub- B. The Selected Bank may:
+ject to an agreement to repurchase (“reverse repo i. Reject bids that, as determined in its sole dis-
+transactions”) for a term of 65 business days or less, cretion, could facilitate a bidder’s ability to control a
+at rates that, unless otherwise authorized by the single issue;
+Committee, are determined by competitive bidding, ii. Accept Treasury securities or cash as collateral
+after applying reasonable limitations on the volume for any loan of securities authorized in this para-
+of agreements with individual counterparties; graph 3; and
+B. To allow Eligible Securities in the SOMA to ma- iii. Accept agency securities as collateral only for a
+ture without replacement; loan of agency securities authorized in this para-
+C. To exchange, at market prices, in connection graph 3.
+with a Treasury auction, maturing Eligible Securities in 4. In order to ensure the effective conduct of open
+the SOMA with the Treasury, in the case of Eligible market operations, while assisting in the provision of
+Securities that are direct obligations of the United short-term investments or other authorized services for
+States or that are fully guaranteed as to principal and foreign central bank and international accounts main-
+interest by the United States; and tained at a Federal Reserve Bank (the “Foreign Ac-
+D. To exchange, at market prices, maturing Eligible counts”) and accounts maintained at a Federal Reserve
+Securities in the SOMA with an agency of the United Bank as fiscal agent of the United States pursuant to sec-
+States, in the case of Eligible Securities that are direct tion 15 of the Federal Reserve Act (together with the
+obligations of that agency or that are fully guaranteed Foreign Accounts, the “Customer Accounts”), the Com-
+as to principal and interest by that agency. mittee authorizes the following when undertaken on
+2. The Committee authorizes the Selected Bank to terms comparable to those available in the open market:
+undertake transactions of the type described in para- A. The Selected Bank, for the SOMA, to undertake
+graph 1 from time to time for the purpose of testing op- reverse repo transactions in Eligible Securities held in
+erational readiness, subject to the following limitations: the SOMA with the Customer Accounts for a term of
+A. All transactions authorized in this paragraph 2 65 business days or less; and
+shall be conducted with prior notice to the Commit- B. Any Federal Reserve Bank that maintains Cus-
+tee; tomer Accounts, for any such Customer Account,
+B. The aggregate par value of the transactions au- when appropriate and subject to all other necessary
+thorized in this paragraph 2 that are of the type de- authorization and approvals, to:
+scribed in paragraph 1.A.i shall not exceed $5 billion i. Undertake repo transactions in Eligible Securi-
+per calendar year; and ties with dealers with a corresponding reverse repo
+C. The outstanding amount of the transactions de- transaction in such Eligible Securities with the Cus-
+scribed in paragraph 1.A.ii shall not exceed $5 billion tomer Accounts; and
+at any given time. ii. Undertake intraday reverse repo transactions
+3. In order to ensure the effective conduct of open in Eligible Securities with Foreign Accounts.
+market operations, the Committee authorizes the Se- Transactions undertaken with Customer Accounts un-
+lected Bank to operate a program to lend Eligible Secu- der the provisions of this paragraph 4 may provide for a
+rities held in the SOMA to dealers on an overnight basis service fee when appropriate. Transactions undertaken
+
+--- Page 5 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5________________________P_a_g_e_ _5
+with Customer Accounts are also subject to the authori- AUTHORIZATION FOR FOREIGN CURRENCY
+zation or approval of other entities, including the Board OPERATIONS
+of Governors of the Federal Reserve System and, when (As amended effective January 27, 2015)
+involving accounts maintained at a Federal Reserve
+Bank as fiscal agent of the United States, the United 1. The Federal Open Market Committee (the “Com-
+States Department of the Treasury. mittee”) authorizes and directs the Federal Reserve Bank
+5. The Committee authorizes the Chairman of the selected by the Committee to execute open market trans-
+Committee, in fostering the Committee’s objectives dur- actions (the “Selected Bank”), for the System Open Mar-
+ing any period between meetings of the Committee, to ket Account, to the extent necessary to carry out the
+instruct the Selected Bank to act on behalf of the Com- Committee’s foreign currency directive and express au-
+mittee to: thorizations by the Committee pursuant thereto, and in
+A. Adjust somewhat in exceptional circumstances conformity with such procedural instructions as the
+the stance of monetary policy and to take actions that Committee may issue from time to time:
+may result in material changes in the composition and A. To purchase and sell the following foreign cur-
+size of the assets in the SOMA; or rencies in the form of cable transfers through spot or
+B. Undertake transactions with respect to Eligible forward transactions on the open market at home and
+Securities in order to appropriately address temporary abroad, including transactions with the U.S. Treasury,
+disruptions of an operational or highly unusual nature with the U.S. Exchange Stabilization Fund established
+in U.S. dollar funding markets. by section 10 of the Gold Reserve Act of 1934, with
+Any such adjustment described in subparagraph A of foreign monetary authorities, with the Bank for Inter-
+this paragraph 5 shall be made in the context of the national Settlements, and with other international fi-
+Committee’s discussion and decision about the stance of nancial institutions:
+policy at its most recent meeting and the Committee’s
+long-run objectives to foster maximum employment and Australian dollars
+price stability, and shall be based on economic, financial, Brazilian reais
+and monetary developments since the most recent meet- Canadian dollars
+ing of the Committee. The Chairman, whenever feasi- Danish kroner
+ble, will consult with the Committee before making any euro
+instruction under this paragraph 5. Japanese yen
+Korean won
+The Committee voted to amend the Authorization for Mexican pesos
+Foreign Currency Operations and the Procedural In- New Zealand dollars
+structions with Respect to Foreign Currency Opera- Norwegian kroner
+tions, and to reaffirm the Foreign Currency Directive in Pounds sterling
+the form shown below. The approval of these docu- Singapore dollars
+ments included approval of the System’s warehousing Swedish kronor
+agreement with the U.S. Treasury. A change was made Swiss francs
+to the Authorization for Foreign Currency Operations
+to increase the duration limit of the foreign currency B. To hold balances of, and to have outstanding for-
+portfolio to 24 months from 18 months. This change ward contracts to receive or to deliver, the foreign cur-
+was made to provide greater flexibility in the manage- rencies listed in paragraph A above.
+ment of the foreign currency portfolio, in an environ- C. To draw foreign currencies and to permit foreign
+ment in which interest rates are low in many major econ- banks to draw dollars under the arrangements listed in
+omies. Mr. Lacker dissented in the votes on the Author- paragraph 2 below, in accordance with the Procedural
+ization for Foreign Currency Operations and the For- Instructions with Respect to Foreign Currency Oper-
+eign Currency Directive to indicate his opposition to for- ations.
+eign currency intervention by the Federal Reserve. In D. To maintain an overall open position in all for-
+his view, such intervention would be ineffective if it did eign currencies not exceeding $25.0 billion. For this
+not also signal a shift in domestic monetary policy; and purpose, the overall open position in all foreign cur-
+if it did signal such a shift, it could potentially compro- rencies is defined as the sum (disregarding signs) of net
+mise the Federal Reserve’s monetary policy independ- positions in individual currencies, excluding changes
+ence.
+
+--- Page 6 ---
+
+_P_ag_e_ _6_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+in dollar value due to foreign exchange rate move- 4. It shall be the normal practice to arrange with for-
+ments and interest accruals. The net position in a sin- eign central banks for the coordination of foreign cur-
+gle foreign currency is defined as holdings of balances rency transactions. In making operating arrangements
+in that currency, plus outstanding contracts for future with foreign central banks on System holdings of foreign
+receipt, minus outstanding contracts for future deliv- currencies, the Selected Bank shall not commit itself to
+ery of that currency, i.e., as the sum of these elements maintain any specific balance, unless authorized by the
+with due regard to sign. Committee. Any agreements or understandings con-
+2. The Committee directs the Selected Bank to main- cerning the administration of the accounts maintained
+tain for the System Open Market Account (subject to the by the Selected Bank with the foreign banks designated
+requirements of section 214.5 of Regulation N, Rela- by the Board of Governors under section 214.5 of Reg-
+tions with Foreign Banks and Bankers): ulation N shall be referred for review and approval to
+A. Reciprocal currency arrangements with the fol- the Committee.
+lowing foreign banks: 5. Foreign currency holdings shall be invested to en-
+sure that adequate liquidity is maintained to meet antici-
+Foreign bank Amount of arrangement pated needs and so that each currency portfolio shall
+(millions of dollars equivalent) generally have an average duration of no more than 24
+months (calculated as Macaulay duration). Such invest-
+Bank of Canada 2,000 ments may include buying or selling outright obligations
+Bank of Mexico 3,000 of, or fully guaranteed as to principal and interest by, a
+foreign government or agency thereof; buying such se-
+B. Standing dollar liquidity swap arrangements with curities under agreements for repurchase of such securi-
+the following foreign banks: ties; selling such securities under agreements for the re-
+sale of such securities; and holding various time and
+Bank of Canada other deposit accounts at foreign institutions. In addi-
+Bank of England tion, when appropriate in connection with arrangements
+Bank of Japan to provide investment facilities for foreign currency
+European Central Bank holdings, U.S. government securities may be purchased
+Swiss National Bank from foreign central banks under agreements for repur-
+chase of such securities within 30 calendar days.
+C. Standing foreign currency liquidity swap arrange- 6. All operations undertaken pursuant to the preced-
+ments with the following foreign banks: ing paragraphs shall be reported promptly to the Foreign
+Currency Subcommittee (the “Subcommittee”) and the
+Bank of Canada Committee. The Subcommittee consists of the Chair-
+Bank of England man and Vice Chairman of the Committee, the Vice
+Bank of Japan Chairman of the Board of Governors, and such other
+European Central Bank member of the Board as the Chairman may designate (or
+Swiss National Bank in the absence of members of the Board serving on the
+Subcommittee, other Board members designated by the
+Dollar and foreign currency liquidity swap arrangements Chairman as alternates, and in the absence of the Vice
+have no pre-set size limits. Any new swap arrangements Chairman of the Committee, the Vice Chairman’s alter-
+shall be referred for review and approval to the Commit- nate). Meetings of the Subcommittee shall be called at
+tee. All swap arrangements are subject to annual review the request of any member, or at the request of the man-
+and approval by the Committee. ager, System Open Market Account (“manager”), for the
+3. All transactions in foreign currencies undertaken purposes of reviewing recent or contemplated opera-
+under paragraph 1.A above shall, unless otherwise ex- tions and of consulting with the manager on other mat-
+pressly authorized by the Committee, be at prevailing ters relating to the manager’s responsibilities. At the re-
+market rates. For the purpose of providing an invest- quest of any member of the Subcommittee, questions
+ment return on System holdings of foreign currencies or arising from such reviews and consultations shall be re-
+for the purpose of adjusting interest rates paid or re- ferred for determination to the Committee.
+ceived in connection with swap drawings, transactions 7. The Chairman is authorized:
+with foreign central banks may be undertaken at non- A. With the approval of the Committee, to enter
+market exchange rates. into any needed agreement or understanding with the
+
+--- Page 7 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5________________________P_a_g_e_ _7
+Secretary of the Treasury about the division of respon- A. To adjust System balances in light of probable
+sibility for foreign currency operations between the future needs for currencies.
+System and the Treasury; B. To provide means for meeting System and Treas-
+B. To keep the Secretary of the Treasury fully ad- ury commitments in particular currencies, and to facil-
+vised concerning System foreign currency operations, itate operations of the Exchange Stabilization Fund.
+and to consult with the Secretary on policy matters re- C. For such other purposes as may be expressly au-
+lating to foreign currency operations; thorized by the Committee.
+C. From time to time, to transmit appropriate re- 4. System foreign currency operations shall be con-
+ports and information to the National Advisory Coun- ducted:
+cil on International Monetary and Financial Policies. A. In close and continuous consultation and coop-
+8. All Federal Reserve Banks shall participate in the eration with the United States Treasury;
+foreign currency operations for System Account in ac- B. In cooperation, as appropriate, with foreign
+cordance with paragraph 3G(1) of the Board of Gover- monetary authorities; and
+nors’ Statement of Procedure with Respect to Foreign C. In a manner consistent with the obligations of
+Relationships of Federal Reserve Banks dated January 1, the United States in the International Monetary Fund
+1944. regarding exchange arrangements under IMF Article
+9. The Committee authorizes the Selected Bank to IV.
+undertake transactions of the type described in para-
+graphs 1, 2, and 5, and foreign exchange and investment PROCEDURAL INSTRUCTIONS WITH RESPECT
+transactions that it may be otherwise authorized to TO FOREIGN CURRENCY OPERATIONS
+undertake from time to time for the purpose of testing (As amended effective January 27, 2015)
+operational readiness. The aggregate amount of such
+transactions shall not exceed $2.5 billion per calendar In conducting operations pursuant to the authoriza-
+year. These transactions shall be conducted with prior tion and direction of the Federal Open Market Commit-
+notice to the Committee. tee (the “Committee”) as set forth in the Authorization
+for Foreign Currency Operations and the Foreign Cur-
+FOREIGN CURRENCY DIRECTIVE rency Directive, the Federal Reserve Bank selected by
+(As reaffirmed effective January 27, 2015) the Committee to execute open market transactions (the
+“Selected Bank”), through the manager, System Open
+1. System operations in foreign currencies shall gen- Market Account (“manager”), shall be guided by the fol-
+erally be directed at countering disorderly market condi- lowing procedural understandings with respect to con-
+tions, provided that market exchange rates for the U.S. sultations and clearances with the Committee, the For-
+dollar reflect actions and behavior consistent with IMF eign Currency Subcommittee (the “Subcommittee”),
+Article IV, Section 1. and the Chairman of the Committee, unless otherwise
+2. To achieve this end the System shall: directed by the Committee. All operations undertaken
+A. Undertake spot and forward purchases and sales pursuant to such clearances shall be reported promptly
+of foreign exchange. to the Committee.
+B. Maintain reciprocal currency arrangements with 1. For the reciprocal currency arrangements au-
+foreign central banks in accordance with the Authori- thorized in paragraphs 2.A of the Authorization for
+zation for Foreign Currency Operations.
+Foreign Currency Operations:
+C. Maintain standing dollar liquidity swap arrange-
+A. Drawings must be approved by the Subcom-
+ments with foreign banks in accordance with the Au-
+mittee (or by the Chairman, if the Chairman believes
+thorization for Foreign Currency Operations.
+D. Maintain standing foreign currency liquidity that consultation with the Subcommittee is not fea-
+swap arrangements with foreign banks in accordance sible in the time available) if the swap drawing pro-
+with the Authorization for Foreign Currency Opera- posed by a foreign bank does not exceed the larger
+tions. of (i) $200 million or (ii) 15 percent of the size of the
+E. Cooperate in other respects with central banks of
+swap arrangement.
+other countries and with international monetary insti-
+B. Drawings must be approved by the Committee
+tutions.
+(or by the Subcommittee, if the Subcommittee be-
+3. Transactions may also be undertaken:
+lieves that consultation with the full Committee is
+
+--- Page 8 ---
+
+_P_ag_e_ _8_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+not feasible in the time available, or by the Chair- iii. Might generate a substantial volume of trad-
+man, if the Chairman believes that consultation with ing in a particular currency by the System, even
+the Subcommittee is not feasible in the time availa- though the change in the System’s net position in
+ble) if the swap drawing proposed by a foreign bank that currency (as defined in paragraph 1.D of the
+exceeds the larger of (i) $200 million or (ii) 15 per- Authorization for Foreign Currency Operations)
+cent of the size of the swap arrangement. might be less than the limits specified in 3.A.ii.
+C. The manager shall also consult with the Sub- B. The Committee (or by the Subcommittee, if
+committee or the Chairman about proposed swap the Subcommittee believes that consultation with
+drawings by the System. the full Committee is not feasible in the time availa-
+D. Any changes in the terms of existing swap ar- ble, or by the Chairman, if the Chairman believes
+rangements shall be referred for review and ap- that consultation with the Subcommittee is not fea-
+sible in the time available) if it would result in a
+proval to the Chairman. The Chairman shall keep
+change in the System’s overall open position in for-
+the Committee informed of any changes in terms,
+eign currencies exceeding $1.5 billion since the most
+and the terms shall be consistent with principles dis-
+recent regular meeting of the Committee.
+cussed with and guidance provided by the Commit-
+4. The Committee authorizes the Selected Bank to
+tee. undertake transactions of the type described in para-
+2. For the dollar and foreign currency liquidity swap graphs 1, 2, and 5 of the Authorization for Foreign
+arrangements authorized in paragraphs 2.B and 2.C of Currency Operations and foreign exchange and in-
+vestment transactions that it may be otherwise au-
+the Authorization for Foreign Currency Operations:
+thorized to undertake from time to time for the pur-
+A. Drawings must be approved by the Chairman
+pose of testing operational readiness. The aggregate
+in consultation with the Subcommittee. The Chair-
+amount of such transactions shall not exceed
+man or the Subcommittee will consult with the
+$2.5 billion per calendar year. These transactions
+Committee prior to the initial drawing on the dollar
+shall be conducted with prior notice to the Commit-
+or foreign currency liquidity swap lines if possible
+tee.
+under the circumstances then prevailing; authority
+to approve subsequent drawings for either the dollar
+By unanimous vote, the Committee amended its Pro-
+or foreign currency liquidity swap lines may be del-
+gram for Security of FOMC Information with changes
+egated to the manager by the Chairman.
+to how Federal Reserve Banks classify and access Com-
+B. Any changes in the terms of existing swap ar-
+mittee information.
+rangements shall be referred for review and ap-
+proval to the Chairman. The Chairman shall keep
+In its annual reconsideration of the Statement on
+the Committee informed of any changes in terms,
+Longer-Run Goals and Monetary Policy Strategy, partic-
+and the terms shall be consistent with principles dis-
+ipants generally agreed that only a minor update was re-
+cussed with and guidance provided by the Commit-
+quired at this meeting. Several participants observed
+tee.
+that this statement had helped to increase public under-
+3. Any operation must be approved by:
+standing of the Committee’s goals and policy frame-
+A. The Subcommittee (or by the Chairman, if the
+work. It was noted, however, that the Committee
+Chairman believes that consultation with the Sub-
+should continue to discuss possible enhancements to the
+committee is not feasible in the time available) if it:
+statement over the coming year.
+i. Would result in a change in the System’s
+overall open position in foreign currencies ex- Following the discussion, the Committee voted to reaf-
+ceeding $300 million on any day or $600 million firm the statement with an updated reference to partici-
+since the most recent regular meeting of the Com- pants’ estimates of the longer-run normal unemploy-
+mittee. ment rate. Mr. Tarullo abstained because he did not be-
+ii. Would result in a change on any day in the lieve the statement reflects sufficient consensus in the
+System’s net position in a single foreign currency principles underlying the Committee’s policy actions so
+exceeding $150 million, or $300 million when the as to significantly advance public understanding of its
+operation is associated with repayment of swap monetary policy strategy.
+drawings.
+
+--- Page 9 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5________________________P_a_g_e_ _9
+STATEMENT ON LONGER-RUN GOALS AND FOMC’s Summary of Economic Projections. For ex-
+MONETARY POLICY STRATEGY ample, in the most recent projections, FOMC partici-
+(As amended effective January 27, 2015) pants’ estimates of the longer-run normal rate of unem-
+ployment had a central tendency of 5.2 percent to 5.5
+“The Federal Open Market Committee (FOMC) is percent.
+firmly committed to fulfilling its statutory mandate from In setting monetary policy, the Committee seeks to
+the Congress of promoting maximum employment, sta- mitigate deviations of inflation from its longer-run goal
+ble prices, and moderate long-term interest rates. The and deviations of employment from the Committee’s as-
+Committee seeks to explain its monetary policy deci- sessments of its maximum level. These objectives are
+sions to the public as clearly as possible. Such clarity generally complementary. However, under circum-
+facilitates well-informed decisionmaking by households stances in which the Committee judges that the objec-
+and businesses, reduces economic and financial uncer- tives are not complementary, it follows a balanced ap-
+tainty, increases the effectiveness of monetary policy, proach in promoting them, taking into account the mag-
+and enhances transparency and accountability, which are nitude of the deviations and the potentially different
+essential in a democratic society. time horizons over which employment and inflation are
+Inflation, employment, and long-term interest rates projected to return to levels judged consistent with its
+fluctuate over time in response to economic and finan- mandate.
+cial disturbances. Moreover, monetary policy actions The Committee intends to reaffirm these principles
+tend to influence economic activity and prices with a lag. and to make adjustments as appropriate at its annual
+Therefore, the Committee’s policy decisions reflect its organizational meeting each January.”
+longer-run goals, its medium-term outlook, and its as-
+sessments of the balance of risks, including risks to the
+financial system that could impede the attainment of the Developments in Financial Markets and the Fed-
+Committee’s goals. eral Reserve’s Balance Sheet
+The inflation rate over the longer run is primarily de- In a joint session of the Committee and the Board of
+termined by monetary policy, and hence the Committee Governors of the Federal Reserve System, the manager
+has the ability to specify a longer-run goal for inflation. of the System Open Market Account (SOMA) reported
+The Committee reaffirms its judgment that inflation at on developments in domestic and foreign financial mar-
+the rate of 2 percent, as measured by the annual change kets. The deputy manager followed with a review of Sys-
+in the price index for personal consumption expendi- tem open market operations conducted during the pe-
+tures, is most consistent over the longer run with the riod since the Committee met on December 16–17,
+Federal Reserve’s statutory mandate. Communicating 2014. The deputy manager also discussed the outcomes
+this inflation goal clearly to the public helps keep longer- of recent tests of term and overnight reverse repurchase
+term inflation expectations firmly anchored, thereby fos- agreements (term RRPs and ON RRPs, respectively).
+tering price stability and moderate long-term interest These tests suggested that the combination of term RRP
+rates and enhancing the Committee’s ability to promote and ON RRP operations had been effective in support-
+maximum employment in the face of significant eco- ing money market rates leading into and over year-end.
+nomic disturbances. The maximum level of employment The presentation also outlined some staff recommenda-
+is largely determined by nonmonetary factors that affect tions for further testing of Term Deposit Facility opera-
+the structure and dynamics of the labor market. These tions.
+factors may change over time and may not be directly
+By unanimous vote, the Committee ratified the Open
+measurable. Consequently, it would not be appropriate
+Market Desk’s domestic transactions over the intermeet-
+to specify a fixed goal for employment; rather, the Com-
+ing period. There were no intervention operations in
+mittee’s policy decisions must be informed by assess-
+foreign currencies for the System’s account over the in-
+ments of the maximum level of employment, recogniz-
+termeeting period.
+ing that such assessments are necessarily uncertain and
+subject to revision. The Committee considers a wide Liftoff Tools and Possible Liftoff Options
+range of indicators in making these assessments. Infor- A staff briefing provided some background on possible
+mation about Committee participants’ estimates of the options for the use of supplementary tools, in addition
+longer-run normal rates of output growth and unem- to interest on excess reserves (IOER), that the Commit-
+ployment is published four times per year in the tee could choose to use during the early stages of policy
+normalization. The purpose of these options was to
+
+--- Page 10 ---
+
+_P_ag_e_ _1_0____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+help ensure sufficient control over the federal funds rate ate. While acknowledging these concerns, many partici-
+and other short-term interest rates during this period pants believed that a temporarily elevated cap on the ON
+while mitigating potential risks associated with particular RRP operations at a time when the Committee saw con-
+policy tools. The presentation discussed the possibility ditions as appropriate to begin normalization would
+of establishing, on a temporary basis, an aggregate cap likely pose limited risks; another participant judged that
+for ON RRP operations that was substantially above the an ON RRP program was, in any case, unlikely to mate-
+cap the Committee had chosen for the purposes of test- rially increase the risks to financial stability. Some par-
+ing such operations. In addition, the presentation dis- ticipants noted that a relatively high cap could be estab-
+cussed the possible use of term RRP operations, either lished and then reduced fairly soon after the initial policy
+before or after the commencement of policy firming, as firming if it was determined that it was not needed, and
+a way to reinforce control of short-term interest rates that such a reduction could help underscore the Com-
+and to manage the size of the ON RRP program. Other mittee’s intent to use such a facility only to the extent
+possible options presented at the briefing included ad- necessary. A number of participants emphasized that
+justing the values of the IOER and ON RRP rates asso- the Committee should develop plans to ensure that such
+ciated with a given target range for the federal funds rate a facility is temporary and that it can be phased out once
+and the use of term deposits. it is no longer needed to help control the federal funds
+rate.
+In their discussion of these issues, participants generally
+agreed that it was very important for the commencement With regard to the possible use of term RRP operations
+of policy firming to proceed successfully. Consequently, as an additional supplementary tool, participants noted
+most were prepared to take the steps necessary to ensure that recent testing showed that term RRP operations
+that the federal funds rate traded within the target range ahead of the year-end were associated with a significant
+established by the Federal Open Market Committee decline in the level of take-up at ON RRP operations.
+(FOMC). However, a few participants noted that day- The staff presentation suggested that risks to financial
+to-day volatility in the federal funds rate, potentially in- stability associated with term RRPs could be somewhat
+cluding temporary movements outside the target range, lower than those associated with ON RRP operations
+would not be surprising, and that historical experience because term RRP operations would be conducted only
+suggested that such temporary movements had few, if on selected dates, the Federal Reserve would set the
+any, implications for overall financial conditions or the quantity auctioned, and the rate on term RRPs would be
+aggregate economy. determined by the auction process. However, a few par-
+ticipants expressed the view that term RRPs were un-
+With regard to the appropriate setting of the cap for ON
+likely to lower risks to financial stability significantly. In
+RRP operations at the beginning of normalization, the
+addition, some participants noted that the use of term
+staff reported that testing to date suggested that ON
+RRP operations could complicate communications. A
+RRP operations have generally been successful in estab-
+few others observed that the Committee should not de-
+lishing a floor on the level of the federal funds effective
+sign its operations to reduce year-end or quarter-end vol-
+rate and other short-term interest rates, as long as market
+atility induced by financial firms’ reporting practices.
+participants judge that the aggregate cap is quite unlikely
+Nonetheless, many participants agreed that the use of
+to bind. Against this backdrop, most meeting partici-
+term RRP operations during the period of policy tight-
+pants indicated that a sizable ON RRP cap would be ap-
+ening could be useful in some situations.
+propriate to support policy implementation at the time
+of liftoff, and a couple of participants suggested that the With regard to the potential use of other tools, several
+aggregate cap might be suspended for a time. A couple participants noted that the IOER and ON RRP rates
+of participants expressed continued concerns about the should be set at the top and bottom, respectively, of the
+potential risks to financial stability associated with a large target range for the federal funds rate. To deviate from
+ON RRP facility and the possible effect of such a facility such a structure would complicate communications
+on patterns of financial intermediation. Moreover, some about the policy framework and therefore should be
+participants were concerned that a decision to allow a avoided if possible. However, some participants judged
+temporary increase in the maximum size of the ON RRP that adjustments to the relationship of the IOER rate
+facility could be viewed by market participants as a signal and the ON RRP rate to the target range for the federal
+that a large ON RRP facility would be maintained for a funds rate might, in some circumstances, be helpful for
+longer period than those participants deemed appropri- improving control of the federal funds rate. A few par-
+
+--- Page 11 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5_______________________P__ag_e_ _1_1
+ticipants noted that use of term deposits during the tight- volving U.S. government securities. Such op-
+ening phase could also be appropriate in some circum- erations shall: (i) mature no later than April 9,
+stances. 2015; (ii) be subject to an overall size limit of
+$200 billion outstanding at any one time;
+The staff presentation also discussed a technical issue re-
+(iii) be subject to a maximum bid rate of five
+lated to the calculation of the payment of interest on re-
+basis points above the ON RRP offering rate
+serves. Under current arrangements, an increase in the
+in effect on the day of the operation; (iv) be
+IOER rate that is implemented in the middle of a reserve
+awarded to all submitters: (A) at the highest
+maintenance period is not fully reflected in interest pay-
+submitted rate if the sum of the bids received
+ments to depository institutions until the beginning of a
+is less than or equal to the preannounced size
+new maintenance period. Participants generally sug-
+of the operation, or (B) at the stop-out rate,
+gested that it would be useful for the staff to investigate
+determined by evaluating bids in ascending
+changes in the method used to determine the interest
+order by submitted rate up to the point at
+payments on reserves that could tighten the link between
+which the total quantity of bids equals the pre-
+the IOER rate in place each day and the level of reserve
+announced size of the operation, with all bids
+balances held by depository institutions each day.
+below this rate awarded in full at the stop-out
+At the conclusion of their discussion, participants gen- rate and all bids at the stop-out rate awarded
+erally agreed that it would be useful to discuss further at on a pro rata basis, if the sum of the counter-
+coming meetings specific calibrations of policy tools that party offers received is greater than the prean-
+could be used during the early stages of policy normali- nounced size of the operation. Such opera-
+zation. In addition, many noted that it would be useful tions may be for forward settlement. The Sys-
+to communicate additional information to the public on tem Open Market Account manager will in-
+these issues to provide greater clarity about the Commit- form the FOMC in advance of the terms of
+tee’s approach to policy implementation at that time. the planned operations. The Chair must ap-
+prove the terms of, timing of the announce-
+A staff briefing outlined two proposals that the Commit-
+ment of, and timing of the operations. These
+tee could consider for further testing of term RRP oper-
+operations shall be conducted in addition to
+ations. In the first of these proposals, the Desk would
+the authorized overnight reverse repurchase
+conduct a series of preannounced term RRP operations
+agreements, which remain subject to a sepa-
+that would span the end of the first quarter. In the sec-
+rate overall size limit of $300 billion per day.”
+ond proposal, the Desk would conduct small term RRP
+operations in February and early March, in addition to
+The Committee also approved the following resolution
+the quarter-end option presented in the first pro-
+on testing term RRP operations during February and
+posal. In their discussion of term RRP testing, partici-
+March:
+pants noted that the testing could provide further infor-
+mation about the substitutability between the ON and
+“During the period of February 12, 2015, to
+term RRP operations, including outside year-end and
+March 10, 2015, the Federal Open Market
+quarter-end periods. A number of participants empha-
+Committee (FOMC) authorizes the Federal
+sized that, even if the Committee conducted additional
+Reserve Bank of New York to conduct a se-
+tests, it had not yet decided whether to use term RRP
+ries of term reverse repurchase operations in-
+operations as part of policy normalization.
+volving U.S. government securities. Such op-
+Following the discussion of the testing of term RRP erations shall: (i) mature no later than
+operations, the Committee approved the following March 12, 2015; (ii) be subject to an overall
+resolution on term RRP testing over the end of the first size limit of $50 billion outstanding at any one
+quarter of 2015: time; (iii) be subject to a maximum bid rate of
+five basis points above the ON RRP offering
+“During the period of March 19, 2015, to
+rate in effect on the day of the operation;
+March 30, 2015, the Federal Open Market
+(iv) be awarded to all submitters: (A) at the
+Committee (FOMC) authorizes the Federal
+highest submitted rate if the sum of the bids
+Reserve Bank of New York to conduct a se-
+received is less than or equal to the prean-
+ries of term reverse repurchase operations in-
+nounced size of the operation, or (B) at the
+stop-out rate, determined by evaluating bids
+
+--- Page 12 ---
+
+_P_ag_e_ _1_2____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+in ascending order by submitted rate up to the rate of private-sector job openings moved up in Novem-
+point at which the total quantity of bids equals ber, while the rates of hiring and of quits edged down
+the preannounced size of the operation, with but remained well above their year-earlier readings.
+all bids below this rate awarded in full at the
+Industrial production rose at a robust pace in the fourth
+stop-out rate and all bids at the stop-out rate
+quarter, with a strong increase in manufacturing output
+awarded on a pro rata basis, if the sum of the
+and a modest gain in mining output. Automakers’ as-
+counterparty offers received is greater than
+sembly schedules for the first quarter and broader indi-
+the preannounced size of the operation. Such
+cators of manufacturing production, such as the readings
+operations may be for forward settlement.
+on new orders from national and regional manufacturing
+The System Open Market Account manager
+surveys, generally pointed to moderate gains in factory
+will inform the FOMC in advance of the
+output early this year. In contrast, some indicators of
+terms of the planned operations. The Chair
+mining activity, such as counts of drilling rigs in opera-
+must approve the terms of, timing of the an-
+tion, weakened, presumably reflecting the recent sharp
+nouncement of, and timing of the operations.
+declines in energy prices.
+These operations shall be conducted in addi-
+tion to the authorized overnight reverse re- Real personal consumption expenditures (PCE) ap-
+purchase agreements, which remain subject to peared to have risen at a robust pace over the second
+a separate overall size limit of $300 billion per half of 2014. Data on spending in the third quarter were
+day.” revised up, and the components of nominal retail sales
+used to construct estimates of PCE rose briskly in the
+Mr. Lacker dissented in the votes on both resolutions fourth quarter. Light motor vehicle sales in the fourth
+because he felt that the testing to date had already pro- quarter maintained their robust third-quarter pace. Im-
+vided sufficient information about this tool, and that au- portant factors influencing household spending re-
+thorizing further testing could encourage the incorrect mained supportive of further solid gains in real PCE
+impression that the Committee had already decided that early this year. Real disposable personal income in-
+it would be engaging in term RRP operations during the creased in November; since then, continued declines in
+period of policy normalization. energy prices likely raised the purchasing power of
+households’ incomes. Households’ net worth likely in-
+The Board meeting concluded at the end of the discus-
+creased as home values and equity prices advanced, and
+sion of liftoff tools and possible liftoff options.
+consumer sentiment, as measured by the Thomson Reu-
+Staff Review of the Economic Situation ters/University of Michigan Surveys of Consumers,
+The information reviewed for the January 27–28 meet- moved up in early January to its highest level in more
+ing indicated that economic activity expanded at a solid than a decade.
+pace over the second half of 2014, and that labor market
+The pace of housing market activity improved some-
+conditions had again improved in recent months. Con-
+what but remained slow. Starts of new single-family
+sumer price inflation moved further below the FOMC’s
+homes increased in December to their highest level since
+longer-run objective of 2 percent, held down by contin-
+2008, and permits for new construction also moved
+uing large decreases in energy prices. While longer-term
+higher. Starts of multifamily units were unchanged in
+market-based measures of inflation compensation de-
+December and within the range they have been in for
+clined substantially in recent months, survey measures of
+the past year. Sales of new homes increased, on net, in
+longer-run inflation expectations remained stable.
+November and December, while sales of existing homes
+Total nonfarm payroll employment expanded in Decem- declined, on average, over those two months.
+ber and the gains for October and November were re-
+Real private expenditures for business equipment and in-
+vised up, putting the increase for the fourth quarter
+tellectual property appeared to decelerate in the fourth
+above that for the third quarter. The unemployment rate
+quarter. Nominal orders and shipments of nondefense
+declined to 5.6 percent in December, the labor force par-
+capital goods, excluding aircraft, declined in November
+ticipation rate decreased, and the employment-to-popu-
+and December. Moreover, the level of new orders for
+lation rate was unchanged. The share of workers em-
+these capital goods was only a little above that for ship-
+ployed part time for economic reasons declined. The
+ments, which pointed to modest near-term gains in busi-
+ness equipment spending despite relatively positive read-
+ings on business conditions from national and regional
+
+--- Page 13 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5_______________________P__ag_e_ _1_3
+surveys. Firms’ nominal spending for nonresidential However, growth slowed in China, partly reflecting fur-
+structures edged down in November but remained ther moderation in residential investment, and declining
+higher than in the third quarter. construction activity also contributed to slowing GDP
+growth in Korea and the United Kingdom. Inflation in
+Real federal government purchases appeared likely to
+the advanced foreign economies declined sharply at the
+have decreased sharply in the fourth quarter, reversing
+end of last year, amid rapidly falling energy prices. By
+much of the surprisingly strong increase in the third
+contrast, inflation in the emerging market economies fell
+quarter. Real state and local government purchases were
+only modestly, as several of these economies have
+rising modestly in the fourth quarter, as nominal con-
+government-administered energy prices and some have
+struction expenditures for October and November were
+been experiencing upward price pressures from currency
+little changed, on net, and the payrolls of these govern-
+depreciations.
+ments increased somewhat.
+Staff Review of the Financial Situation
+The U.S. international trade deficit narrowed substan-
+Over the intermeeting period, amid trading that was vol-
+tially in November, with imports declining more than
+atile at times, longer-term sovereign yields in the United
+exports. The decrease in the value of imports stemmed
+States and other advanced economies declined. These
+in large part from a reduction in the value of petroleum
+moves were attributed in part to a deterioration in mar-
+imports, reflecting both lower prices and volumes.
+ket sentiment associated with downward pressure on in-
+However, many other categories of goods imports were
+flation, increased concern about the global economic
+also weaker. Export declines were concentrated in cap-
+outlook, and announced and anticipated foreign central
+ital goods, particularly aircraft. Despite the narrowing of
+bank policies. Moreover, continued sharp declines in oil
+the nominal trade deficit in November, real net exports
+prices and U.S. economic data releases that were viewed
+appeared to be on track to decline in the fourth quarter
+by investors as a bit weaker than anticipated, on balance,
+after adding considerably to real gross domestic product
+reportedly weighed on sentiment.
+(GDP) growth in the third quarter.
+Federal Reserve communications over the intermeeting
+Total U.S. consumer prices, as measured by the PCE
+period were apparently seen as about in line with expec-
+price index, increased 1¼ percent over the 12 months
+tations on balance. However, reflecting in part the dete-
+ending in November, while core prices, as measured by
+rioration in market sentiment, the expected path for the
+PCE prices excluding food and energy, rose about
+federal funds rate implied by market quotes shifted
+1½ percent; consumer energy prices declined, and con-
+down. Results from the Desk’s January Survey of Pri-
+sumer food prices increased faster than overall prices.
+mary Dealers indicated that dealers continued to put the
+Over the 12 months ending in December, total inflation
+highest probability on scenarios in which the FOMC
+as measured by the consumer price index (CPI) was
+chooses to commence policy firming around the middle
+¾ percent, while core CPI inflation was 1½ percent.
+of the year, although the average probability assigned to
+Over the 3 months ending in December, the total CPI
+a commencement after June increased somewhat.
+decreased at an annual rate of 2½ percent, reflecting re-
+cent declines in consumer energy prices, and the core Yields on nominal Treasury securities continued to
+CPI increased at a 1 percent pace. Measures of expected move lower over the intermeeting period, with market
+long-run inflation from a variety of surveys, including expectations of the policy rate path being revised down-
+the Michigan survey and the Desk’s Survey of Primary ward, and with term premiums declining, in part reflect-
+Dealers, remained stable. In contrast, market-based ing actual and expected policy easing abroad. On bal-
+measures of inflation compensation 5 to 10 years ahead ance, the Treasury yield curve flattened over the inter-
+declined further. Over the 12 months ending in Decem- meeting period, while interest rate volatility increased
+ber, nominal average hourly earnings for all employees somewhat. Although the measure of inflation compen-
+increased only slightly faster than core consumer price sation over the next 5 years based on Treasury Inflation-
+inflation. Protected Securities (TIPS) increased, inflation compen-
+sation 5 to 10 years ahead declined further to its lowest
+Foreign real GDP growth appeared to increase slightly
+level in a decade. Yields on 5- and 10-year TIPS moved
+in the fourth quarter. In the euro area, retail sales, car
+lower over the period.
+registrations, and industrial production through Novem-
+ber were above their third-quarter averages, and in Ja- Over the intermeeting period, U.S. equity markets were
+pan, strengthening consumption and exports suggested volatile. Option-implied volatility for the S&P 500 index
+a recovery of output after two quarters of contraction. declined, on balance, but remained in the upper half of
+
+--- Page 14 ---
+
+_P_ag_e_ _1_4____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+the range seen over the past year. Broad U.S. equity The credit performance of auto loans, however, report-
+price indexes moved higher, while stock prices for large edly deteriorated a bit further for some lenders, and sev-
+domestic banking organizations moved lower on net. eral banks indicated in the January SLOOS that they ex-
+Corporate bond spreads were also volatile over the in- pect the performance of subprime auto loans to worsen
+termeeting period but were little changed, on net, for in- this year.
+vestment-grade issuers and ended the period lower for
+The U.S. dollar strengthened against the currencies of
+speculative-grade issuers, particularly energy companies.
+most other advanced economies amid investor concerns
+Credit flows to nonfinancial firms generally remained about growth in those economies as well as increased
+strong through the last quarter of 2014, though they monetary accommodation in some of them; the dollar
+slowed somewhat for riskier firms. Gross corporate was largely unchanged, on average, against the currencies
+bond issuance continued to be solid, although specula- of emerging market economies. Sovereign yields abroad
+tive-grade bond issuance declined late in the year and re- moved lower, with euro-area yields reflecting the ex-
+mained subdued into January. Commercial and indus- pected and actual easing of the stance of monetary policy
+trial loans on banks’ books continued to expand at a ro- by the European Central Bank (ECB) and U.K. yields
+bust rate in the fourth quarter of 2014, consistent with responding to a shift in expectations toward a later start
+the stronger loan demand from large and middle-market of Bank of England policy firming. Global equity mar-
+firms reported in the January Senior Loan Officer Opin- kets were broadly higher, rebounding from declines in
+ion Survey on Bank Lending Practices (SLOOS). Issu- mid-December.
+ance of syndicated leveraged loans in the fourth quarter
+Several central banks announced monetary policy ac-
+was at its slowest pace in two years, as spreads on newly
+tions during the period. The ECB announced that it
+issued loans increased and refinancing activity declined
+would expand its asset purchase program to include the
+significantly. Issuance of collateralized loan obligations
+purchase of sovereign bonds; the euro depreciated sig-
+declined but remained elevated; 2014 was the strongest
+nificantly against the dollar both in anticipation of and
+year on record for the issuance of such securities.
+following this announcement. The Swiss National Bank
+Financing conditions in the commercial real estate (SNB) ended its policy of defending the exchange rate
+(CRE) sector stayed accommodative. In the January floor of 1.20 Swiss francs per euro, resulting in a signifi-
+SLOOS, banks reported that standards continued to cant appreciation of the franc. At the same time, the
+ease, on net, for CRE lending and noted stronger de- SNB reduced policy rates, moving the rate it pays on de-
+mand for all CRE loan types. Issuance of commercial posits and its target range for Swiss franc LIBOR, or
+mortgage-backed securities continued at a solid pace in London interbank offered rate, further into negative ter-
+November and December. ritory. The Bank of Canada, National Bank of Denmark,
+Reserve Bank of India, and Central Bank of Turkey also
+Residential mortgage credit conditions, while remaining
+cut policy rates in January to support their economies
+tight, showed some further signs of gradual easing. Ac-
+and, in some cases, to foster higher inflation, while the
+cording to the January SLOOS, lending standards eased
+Central Bank of Brazil raised rates in response to con-
+for a number of categories of residential mortgage loans
+cerns about elevated inflation.
+in the fourth quarter. The price of mortgage credit for
+qualified borrowers declined again over the intermeeting The staff provided its latest report on potential risks to
+period, with interest rates on 30-year fixed-rate mort- financial stability. Relatively high levels of capital and
+gages reaching levels close to their all-time lows. Re- liquidity in the banking sector, moderate levels of ma-
+finance applications rose near the end of the intermeet- turity transformation in the financial sector, and a rela-
+ing period. tively subdued pace of borrowing by the nonfinancial
+sector continued to be seen as important factors limiting
+Conditions in consumer credit markets stayed largely ac-
+the vulnerability of the financial system to adverse
+commodative over the intermeeting period. Auto and
+shocks. However, the staff report noted valuation pres-
+student loan balances continued to post significant gains
+sures in some asset markets. Such pressures were most
+through November, while the expansion of credit card
+notable in corporate debt markets, despite some easing
+loans on banks’ books remained moderate during the
+in recent months. In addition, valuation pressures ap-
+fourth quarter as a whole. Respondents to the January
+pear to be building in the CRE sector, as indicated by
+SLOOS indicated that demand for auto and credit card
+rising prices and the easing in lending standards on CRE
+loans had strengthened further in the fourth quarter.
+Consumer credit quality has remained strong on balance.
+
+--- Page 15 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5_______________________P__ag_e_ _1_5
+loans. Finally, the increased role of bond and loan mu- In addition, the incoming data on consumer prices apart
+tual funds, in conjunction with other factors, may have from those for energy showed a somewhat smaller rise
+increased the risk that liquidity pressures could emerge than anticipated. The staff’s forecast for inflation in
+in related markets if investor appetite for such assets 2016 and 2017 was essentially unchanged, with inflation
+wanes. The effects on the largest banking firms of the projected to remain below the Committee’s 2 percent
+sharp decline in oil prices and developments in foreign objective. Nevertheless, inflation was projected to reach
+exchange markets appeared limited, although other in- 2 percent over time, with inflation expectations in the
+stitutions with more concentrated exposures could face longer run assumed to be consistent with the Commit-
+strains if oil prices remain at current levels for a pro- tee’s objective and slack in labor and product markets
+longed period. anticipated to fade.
+Staff Economic Outlook The staff viewed the uncertainty around its projections
+The staff estimated that real GDP growth in the second for real GDP growth, the unemployment rate, and infla-
+half of 2014 was faster than in the projection prepared tion as similar to the average over the past 20 years. The
+for the December meeting, primarily reflecting stronger- risks to the forecast for real GDP growth were viewed
+than-expected consumer spending. Even so, real GDP as tilted a little to the downside, reflecting the staff’s as-
+was still estimated to have risen more slowly in the sessment that neither monetary policy nor fiscal policy
+fourth quarter than in the third quarter, as changes in was well positioned to help the economy withstand ad-
+both net exports and federal government purchases ap- verse shocks. At the same time, the staff viewed the risks
+peared likely to have subtracted from real GDP growth around its outlook for the unemployment rate as roughly
+in the fourth quarter following large positive contribu- balanced. The downside risks to the forecast for infla-
+tions in the previous quarter. tion were seen as having increased somewhat, partly re-
+flecting the recent soft monthly readings on core infla-
+The staff’s outlook for economic activity over the first
+tion.
+half of 2015 was revised up since December, in part re-
+flecting an anticipated boost to consumer spending from Participants’ Views on Current Conditions and the
+declines in energy prices. However, the forecast for real Economic Outlook
+GDP growth over the medium term was little revised, as In their discussion of the economic situation and the
+the greater momentum implied by recent spending gains outlook, meeting participants regarded the information
+and the support to household spending from lower en- received over the intermeeting period as indicating that
+ergy prices was about offset by the restraint implied by economic activity had been expanding at a solid pace.
+the recent appreciation of the dollar. The staff contin- Although growth likely slowed from the rapid rate re-
+ued to forecast that real GDP would expand at a mod- corded for the third quarter of 2014, a variety of indica-
+estly faster pace in 2015 and 2016 than it did in 2014 and tors suggested that real GDP continued to grow faster
+that it would rise more quickly than potential output, than potential GDP late in the year and during January.
+supported by increases in consumer and business confi- Labor market conditions improved further, with strong
+dence and a pickup in foreign economic growth, as well job gains and a lower unemployment rate; participants
+as by a U.S. monetary policy stance that was assumed to judged that the underutilization of labor resources was
+remain highly accommodative for some time. In 2017, continuing to diminish. Participants expected that, over
+real GDP growth was projected to begin slowing to- the medium term, real economic activity would increase
+ward, but to remain slightly above, the rate of growth of at a moderate pace sufficient to lead to further improve-
+potential output. The expansion in economic activity ments in labor market conditions toward levels con-
+over the medium term was anticipated to lead to a slow sistent with the Committee’s objective of maximum em-
+reduction in resource slack, and the unemployment rate ployment. Inflation had declined further below the
+was expected to decline gradually and to move slightly Committee’s longer-run objective, largely reflecting de-
+below the staff’s estimate of its longer-run natural rate clines in energy prices, and was anticipated to decline
+for a time. further in the near term. Market-based measures of in-
+flation compensation 5 to 10 years ahead had registered
+The staff’s forecast for inflation in the near term was re-
+a further decline, while survey-based measures of longer-
+vised down, as further sharp declines in crude oil prices
+term inflation expectations remained stable. Participants
+since the December FOMC meeting pointed toward a
+generally anticipated that inflation would rise gradually
+somewhat larger transitory decrease in the total PCE
+toward the Committee’s 2 percent objective as the labor
+price index early this year than was previously projected.
+market improved further and the transitory effects of
+
+--- Page 16 ---
+
+_P_ag_e_ _1_6____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+lower energy prices and other factors dissipated. The intermeeting period had likely reduced the risks to U.S.
+risks to the outlook for economic activity and the labor growth. Accommodative policy actions announced by a
+market were seen as nearly balanced. Participants gen- number of foreign central banks had likely strengthened
+erally regarded the net effect of the recent decline in en- the outlook abroad. The decline in energy prices was
+ergy prices as likely to be positive for economic activity also seen as potentially exerting a stronger-than-antici-
+and employment. Many participants continued to judge pated positive effect on growth in the domestic econ-
+that a deterioration in the foreign economic situation omy and abroad. However, the increase in the foreign
+could pose downside risks to the outlook for U.S. eco- exchange value of the dollar was expected to be a persis-
+nomic growth. Several saw those risks as having dimin- tent source of restraint on U.S. net exports, and a few
+ished over the intermeeting period, with lower oil prices participants pointed to the risk that the dollar could ap-
+and actions of foreign central banks both being support- preciate further. In addition, the slowdown of growth in
+ive of growth abroad, but others pointed to heightened China was noted as a factor restraining economic expan-
+geopolitical and other risks. sion in a number of countries, and several continuing
+risks to the international economic outlook were cited,
+With respect to the U.S. economy, participants noted
+including global disinflationary pressure, tensions in the
+that household spending was rising moderately. Recent
+Middle East and Ukraine, and financial uncertainty in
+declines in oil prices, which had boosted household pur-
+Greece. Overall, the risks to the outlook for U.S. eco-
+chasing power, were among the factors likely to under-
+nomic activity and the labor market were seen as nearly
+pin consumer spending in coming months; other factors
+balanced.
+cited as supporting household spending included low in-
+terest rates, easing credit standards, and continued gains Participants noted that inflation had moved further be-
+in employment and income. However, it was noted that low the Committee’s longer-run objective, largely re-
+the recovery in the housing sector remained slow and flecting declines in energy prices and other transitory
+that tepid nominal wage growth, if continued, could be- factors. A number of participants observed that, with
+come a significant restraining factor for household anchored inflation expectations, the fall in energy prices
+spending. should not leave an enduring imprint on aggregate infla-
+tion. It was pointed out that the recent intensification
+Industry contacts pointed to generally solid business
+of downward pressure on inflation reflected price move-
+conditions, with businesses in many parts of the country
+ments that were concentrated in a narrow range of items
+continuing to express optimism about prospects for fur-
+in households’ consumption basket, a pattern borne out
+ther improvement in 2015. Although manufacturing ac-
+by trimmed mean measures of inflation. Several partici-
+tivity appeared to have slowed somewhat over the inter-
+pants remarked that inflation measures that excluded en-
+meeting period in some regions, business contacts sug-
+ergy items had also moved down in recent months, but
+gested that this slowing was likely to prove temporary,
+these declines partly reflected transitory factors, includ-
+and information from some parts of the country sug-
+ing downward pressure on import prices and the pass-
+gested that capital investment was poised to pick up.
+through of lower energy costs to the prices of non-
+Several participants noted that there were signs of layoffs
+energy items. Nonetheless, several participants saw the
+in the oil and gas industries, and that persistently low en-
+continuing weakness of core inflation measures as a con-
+ergy prices might prompt a larger retrenchment of em-
+cern. In addition, a few participants suggested that the
+ployment in these industries. In addition, it was ob-
+weakness of nominal wage growth indicated that core
+served that if capital investment in energy-producing in-
+and headline inflation could take longer to return to
+dustries slowed significantly, it could damp the overall
+2 percent than the Committee anticipated. In contrast,
+expansion of economic activity for a period, especially if
+a couple of participants suggested that nominal wage
+the slowing took place after most of the positive effects
+growth provides little information about the future be-
+of lower energy prices on growth in household spending
+havior of price inflation. Participants also discussed the
+had occurred. A few participants observed that govern-
+possibility that, because of the infrequent occurrence of
+ment spending was unlikely to be a major contributor to
+reductions in nominal wages, wages may not have fully
+the expansion of demand in the period ahead, with real
+adjusted downward in the period of high unemploy-
+federal purchases projected to be fairly flat over the me-
+ment, and therefore pent-up wage deflation might have
+dium term.
+weighed on wage gains for a time during the expansion.
+In their discussion of the foreign economic outlook, par- If this was the case, nominal wage growth could be ex-
+ticipants noted that a number of developments over the pected to pick up in coming periods and to resume a
+
+--- Page 17 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5_______________________P__ag_e_ _1_7
+more normal relationship with labor market slack. Most accommodative, potentially calling for a somewhat
+participants expected that continuing reductions in re- higher path for the federal funds rate going forward.
+source slack would be helpful in returning inflation over Others observed that insofar as the shifts reflected con-
+the medium term to the Committee’s 2 percent longer- cerns about growth prospects abroad or were accompa-
+run objective, but a few participants voiced concern that nied by a stronger dollar, the implications for U.S. mon-
+nominal wage growth might rise rapidly and inflation etary policy were less clear. It was further noted that
+might exceed 2 percent for a time. investment flows from abroad could also be contrib-
+uting to the decline in TIPS-based measures of inflation
+Participants discussed the sizable decline in market-
+compensation, as such flows tend to be concentrated in
+based measures of inflation compensation that had been
+nominal Treasury securities rather than inflation-
+observed over the past year and continued over the in-
+protected securities.
+termeeting period. A number of them judged that the
+decline mostly reflected a reduction in the risk premiums Participants saw broad-based improvement in labor
+embedded in nominal interest rates rather than a decline market conditions over the intermeeting period, includ-
+in inflation expectations; this interpretation was sup- ing strong gains in payroll employment and a further re-
+ported by results of some analytical models used to de- duction in the unemployment rate. Some participants
+compose movements in market-based measures of infla- believed that considerable labor market slack remained,
+tion compensation and also by the continuing stability especially when indicators other than the unemployment
+of survey-based measures of inflation expectations. rate were taken into account, including the unusually
+However, other participants put some weight on the large fraction of the labor force working part time for
+possibility that the decline in inflation compensation re- economic reasons. A few observed that the combina-
+flected a reduction in expected inflation. These partici- tion of recent labor market improvements and contin-
+pants further argued that the stability of survey-based ued softness in inflation had led them to lower their es-
+measures of inflation expectations should not be taken timates of the longer-run normal rate of unemployment.
+as providing much reassurance; in particular, it was However, a few others saw only a limited degree of re-
+noted that in Japan in the late 1990s and early 2000s, maining labor underutilization or anticipated that un-
+survey-based measures of longer-term inflation expecta- derutilization would be eliminated relatively soon.
+tions had not recorded major declines even as a disinfla-
+Participants’ Discussion of Policy Planning
+tionary process had become entrenched. In addition, a
+Participants discussed considerations related to the
+few participants argued that even if the shift down in in-
+choice of the appropriate timing of the initial firming in
+flation compensation reflected lower inflation risk pre-
+monetary policy and pace of subsequent rate increases.
+miums rather than reductions in expected inflation, pol-
+Ahead of this discussion, the staff gave a presentation
+icymakers might still want to take that decline into ac-
+that outlined some of the key issues likely to be involved,
+count because it could reflect increased concern on the
+including the extent to which similar economic out-
+part of investors about adverse outcomes in which low
+comes could be generated by different combinations of
+inflation was accompanied by weak economic activity.
+the date of the initial firming of policy and the pace of
+Participants generally agreed that the behavior of
+rate increases thereafter, how these combinations could
+market-based measures of inflation compensation
+affect the risks to economic outcomes, a review of past
+needed to be monitored closely.
+episodes in the United States and abroad in which mon-
+Participants also discussed other aspects of the substan- etary policy transitioned to a tightening phase after a
+tial decline in nominal longer-term interest rates and its lengthy period of low policy rates, and issues related to
+implications. The fall had occurred despite the strength- communications regarding the likely timing and pace of
+ening U.S. economic outlook and market expectations normalization.
+that policy normalization could begin later this year.
+Participants discussed the tradeoffs between the risks
+Some participants suggested that shifts of funds from
+that would be associated with departing from the effec-
+abroad into U.S. Treasury securities may have put down-
+tive lower bound later and those that would be associ-
+ward pressure on term premiums; the shifts, in turn, may
+ated with departing earlier. Several participants noted
+have reflected in part a reaction to declines in foreign
+that a late departure could result in the stance of mone-
+sovereign yields in response to actual and anticipated
+tary policy becoming excessively accommodative, lead-
+monetary policy actions abroad. A couple of partici-
+ing to undesirably high inflation. It was also suggested
+pants noted that the reduction in longer-term real inter-
+that maintaining the federal funds rate at its effective
+est rates tended to make U.S. financial conditions more
+
+--- Page 18 ---
+
+_P_ag_e_ _1_8____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+lower bound for an extended period or raising it rapidly, before beginning policy normalization. Many partici-
+if that proved necessary, could adversely affect financial pants indicated that such economic conditions would
+stability. Some participants were concerned that a deci- help bolster their confidence in the likelihood of infla-
+sion to delay the commencement of tightening could be tion moving toward the Committee’s 2 percent objective
+perceived as indicating that an overly accommodative after the transitory effects of lower energy prices and
+policy is likely to prevail during the firming phase. In other factors dissipate. Some participants noted that
+connection with the risks associated with an early start their confidence in inflation returning to 2 percent
+to policy normalization, many participants observed that would also be bolstered by stable or rising levels of core
+a premature increase in rates might damp the apparent PCE inflation, or of alternative series, such as trimmed
+solid recovery in real activity and labor market condi- mean or median measures of inflation. A number of
+tions, undermining progress toward the Committee’s participants emphasized that they would need to see ei-
+objectives of maximum employment and 2 percent in- ther an increase in market-based measures of inflation
+flation. In addition, an earlier tightening would increase compensation or evidence that continued low readings
+the likelihood that the Committee might be forced by on these measures did not constitute grounds for con-
+adverse economic outcomes to return the federal funds cern. Several participants indicated that signs of im-
+rate to its effective lower bound. Some participants provements in labor compensation would be an im-
+noted the communications challenges associated with portant signal, while a few others deemphasized the
+the prospect of commencing policy tightening at a time value of labor compensation data for judging incipient
+when inflation could be running well below 2 percent, inflation pressures in light of the loose short-run empir-
+and a few expressed concern that in some circumstances ical connection between wage and price inflation.
+the public could come to question the credibility of the
+Participants discussed the communications challenges
+Committee’s 2 percent goal. Indeed, one participant rec-
+associated with signaling, when it becomes appropriate
+ommended that, in light of the outlook for inflation, the
+to do so, that policy normalization is likely to begin rel-
+Committee consider ways to use its tools to provide
+atively soon while remaining clear that the Committee’s
+more, not less, accommodation.
+actions would depend on incoming data. Many partici-
+Many participants indicated that their assessment of the pants regarded dropping the “patient” language in the
+balance of risks associated with the timing of the begin- statement, whenever that might occur, as risking a shift
+ning of policy normalization had inclined them toward in market expectations for the beginning of policy firm-
+keeping the federal funds rate at its effective lower ing toward an unduly narrow range of dates. As a result,
+bound for a longer time. Some observed that, even with some expressed the concern that financial markets might
+these risks taken into consideration, the federal funds overreact, resulting in undesirably tight financial condi-
+rate may have already been kept at its lower bound for a tions. Participants discussed some possible communica-
+sufficient length of time, and that it might be appropriate tions by which they might further underscore the data
+to begin policy firming in the near term. Regardless of dependency of their decision regarding when to tighten
+the particular strategy undertaken, it was noted that, pro- the stance of monetary policy. A number of participants
+vided that the data-dependent nature of the path for the noted that while forward guidance had been a very useful
+federal funds rate after its initial increase could be com- tool under the extraordinary conditions of recent years,
+municated to financial markets and the general public in as the start of normalization approaches, there would be
+an effective manner, the precise date at which firming limits to the specificity that the Committee could pro-
+commenced would have a less important bearing on eco- vide about its timing. Looking ahead, some participants
+nomic outcomes. highlighted the potential benefits of streamlining the
+Committee’s postmeeting statement once normalization
+Participants discussed the economic conditions that they
+has begun. More broadly, it was suggested that the
+anticipate will prevail at the time they expect it will be
+Committee should communicate clearly that policy deci-
+appropriate to begin normalizing policy. There was wide
+sions will be data dependent, and that unanticipated eco-
+agreement that it would be difficult to specify in advance
+nomic developments could therefore warrant a path of
+an exhaustive list of economic indicators and the values
+the federal funds rate different from that currently ex-
+that these indicators would need to take. Nonetheless, a
+pected by investors or policymakers.
+number of participants suggested that they would need
+to see further improvement in labor market conditions Committee Policy Action
+and data pointing to continued growth in real activity at In their discussion of monetary policy for the period
+a pace sufficient to support additional labor market gains ahead, members judged that information received since
+
+--- Page 19 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5_______________________P__ag_e_ _1_9
+the FOMC met in December indicated that economic The Committee agreed to maintain the target range for
+activity had been expanding at a solid pace. Labor mar- the federal funds rate at 0 to ¼ percent and to reaffirm
+ket conditions had improved further, with strong job the indication in the statement that the Committee’s de-
+gains and a lower unemployment rate; numerous labor cision about how long to maintain the current target
+market indicators suggested that the underutilization of range for the federal funds rate would depend on its as-
+labor resources was continuing to diminish. Household sessment of actual and expected progress toward its ob-
+spending was rising moderately; recent declines in en- jectives of maximum employment and 2 percent infla-
+ergy prices had boosted household purchasing power. tion. Members agreed to continue to include, in the for-
+Business fixed investment was advancing, while the re- ward guidance, language indicating that the Committee
+covery in the housing sector remained slow. Inflation judges that it can be patient in beginning to normalize
+had declined further below the Committee’s longer-run the stance of monetary policy. Members agreed that
+objective, largely reflecting declines in energy prices, and their policy decisions would remain data dependent, and
+was expected to decline further in the near term. they continued to include wording in the statement
+Market-based measures of five-year, five-year-forward noting that if incoming information indicates faster pro-
+inflation compensation had declined substantially in re- gress toward the Committee’s employment and inflation
+cent months, but survey-based measures of longer-term objectives than the Committee now expects, then in-
+inflation expectations had remained stable. The Com- creases in the target range for the federal funds rate
+mittee expected that, with appropriate monetary policy would likely occur sooner than currently anticipated,
+accommodation, economic activity would continue to and, conversely, that if progress proves slower than ex-
+expand at a moderate pace, with labor market indicators pected, then increases in the target range would likely
+moving toward levels the Committee judges consistent occur later than currently anticipated. The Committee
+with its dual mandate. The Committee also expected decided to maintain its policy of reinvesting principal
+that inflation would rise gradually toward 2 percent as payments from its holdings of agency debt and agency
+the labor market improves further and the transitory ef- mortgage-backed securities in agency mortgage-backed
+fects of lower energy prices and other factors dissipate. securities and of rolling over maturing Treasury securi-
+In view of the uncertainties about the inflation outlook, ties at auction. This policy, by keeping the Committee’s
+the Committee agreed that it should continue to monitor holdings of longer-term securities at sizable levels,
+inflation developments closely. should help maintain accommodative financial condi-
+tions. Finally, the Committee also decided to reiterate
+In their discussion of language for the postmeeting state-
+its expectation that, even after employment and inflation
+ment, members generally agreed that they should
+are near mandate-consistent levels, economic conditions
+acknowledge the solid growth over the second half of
+may, for some time, warrant keeping the target federal
+2014 as well as the further improvement in labor market
+funds rate below levels the Committee views as normal
+conditions over the intermeeting period. Job gains had
+in the longer run.
+been strong, and the Committee judged that labor mar-
+ket slack continued to diminish. In addition, members At the conclusion of the discussion, the Committee
+decided that the statement should note the further de- voted to authorize and direct the Federal Reserve Bank
+cline of inflation seen of late and the additional decline of New York, until it was instructed otherwise, to
+that was in prospect in the near term, while also register- execute transactions in the SOMA in accordance with
+ing their judgment that these short-term movements of the following domestic policy directive:
+inflation largely reflected the recent decline in energy
+“Consistent with its statutory mandate, the
+prices and other transitory factors, and that inflation was
+Federal Open Market Committee seeks
+likely to rise gradually toward 2 percent over the medium
+monetary and financial conditions that will
+term. Members also agreed that it was appropriate to
+foster maximum employment and price
+observe that lower energy prices had boosted household
+stability. In particular, the Committee seeks
+purchasing power. The Committee further decided that
+conditions in reserve markets consistent with
+the postmeeting statement should explicitly
+federal funds trading in a range from 0 to
+acknowledge the role of international developments as
+¼ percent. The Committee directs the Desk
+one of the factors influencing the Committee’s assess-
+to undertake open market operations as
+ment of progress toward its objectives of maximum em-
+necessary to maintain such conditions. The
+ployment and 2 percent inflation.
+Committee directs the Desk to maintain its
+policy of rolling over maturing Treasury
+
+--- Page 20 ---
+
+_P_ag_e_ _2_0____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+securities into new issues and its policy of term, but the Committee expects inflation to
+reinvesting principal payments on all agency rise gradually toward 2 percent over the me-
+debt and agency mortgage-backed securities dium term as the labor market improves fur-
+in agency mortgage-backed securities. The ther and the transitory effects of lower energy
+Committee also directs the Desk to engage in prices and other factors dissipate. The Com-
+dollar roll and coupon swap transactions as mittee continues to monitor inflation devel-
+necessary to facilitate settlement of the opments closely.
+Federal Reserve’s agency mortgage-backed
+securities transactions. The System Open To support continued progress toward maxi-
+Market Account manager and the secretary mum employment and price stability, the
+will keep the Committee informed of ongoing Committee today reaffirmed its view that the
+developments regarding the System’s balance current 0 to ¼ percent target range for the
+sheet that could affect the attainment over federal funds rate remains appropriate. In de-
+time of the Committee’s objectives of termining how long to maintain this target
+maximum employment and price stability.” range, the Committee will assess progress—
+both realized and expected—toward its objec-
+The vote encompassed approval of the statement below tives of maximum employment and 2 percent
+to be released at 2:00 p.m.: inflation. This assessment will take into ac-
+count a wide range of information, including
+“Information received since the Federal Open measures of labor market conditions, indica-
+Market Committee met in December suggests tors of inflation pressures and inflation expec-
+that economic activity has been expanding at tations, and readings on financial and interna-
+a solid pace. Labor market conditions have tional developments. Based on its current as-
+improved further, with strong job gains and a sessment, the Committee judges that it can be
+lower unemployment rate. On balance, a patient in beginning to normalize the stance
+range of labor market indicators suggests that of monetary policy. However, if incoming in-
+underutilization of labor resources continues formation indicates faster progress toward the
+to diminish. Household spending is rising Committee’s employment and inflation objec-
+moderately; recent declines in energy prices tives than the Committee now expects, then
+have boosted household purchasing power. increases in the target range for the federal
+Business fixed investment is advancing, while funds rate are likely to occur sooner than cur-
+the recovery in the housing sector remains rently anticipated. Conversely, if progress
+slow. Inflation has declined further below the proves slower than expected, then increases in
+Committee’s longer-run objective, largely re- the target range are likely to occur later than
+flecting declines in energy prices. Market- currently anticipated.
+based measures of inflation compensation
+have declined substantially in recent months; The Committee is maintaining its existing pol-
+survey-based measures of longer-term infla- icy of reinvesting principal payments from its
+tion expectations have remained stable. holdings of agency debt and agency mortgage-
+backed securities in agency mortgage-backed
+Consistent with its statutory mandate, the securities and of rolling over maturing Treas-
+Committee seeks to foster maximum employ- ury securities at auction. This policy, by keep-
+ment and price stability. The Committee ex- ing the Committee’s holdings of longer-term
+pects that, with appropriate policy accommo- securities at sizable levels, should help main-
+dation, economic activity will expand at a tain accommodative financial conditions.
+moderate pace, with labor market indicators
+continuing to move toward levels the Com- When the Committee decides to begin to re-
+mittee judges consistent with its dual man- move policy accommodation, it will take a bal-
+date. The Committee continues to see the anced approach consistent with its longer-run
+risks to the outlook for economic activity and goals of maximum employment and inflation
+the labor market as nearly balanced. Inflation
+is anticipated to decline further in the near
+
+--- Page 21 ---
+
+_____________________________M_i_n_u_te_s_ o__f _th_e_ _M_e_e_t_in_g_ o_f_ _Ja_n_u_a_r_y _2_7_–_2_8_, _20_1_5_______________________P__ag_e_ _2_1
+of 2 percent. The Committee currently antic- It was agreed that the next meeting of the Committee
+ipates that, even after employment and infla- would be held on Tuesday–Wednesday, March 17–18,
+tion are near mandate-consistent levels, eco- 2015. The meeting adjourned at 12:55 p.m. on
+nomic conditions may, for some time, warrant January 28, 2015.
+keeping the target federal funds rate below
+Notation Vote
+levels the Committee views as normal in the
+By notation vote completed on January 6, 2015, the
+longer run.”
+Committee unanimously approved the minutes of the
+Committee meeting held on December 16–17, 2014.
+Voting for this action: Janet L. Yellen, William C.
+Dudley, Lael Brainard, Charles L. Evans, Stanley
+Fischer, Jeffrey M. Lacker, Dennis P. Lockhart,
+Jerome H. Powell, Daniel K. Tarullo, and John C. Wil-
+liams. _____________________________
+Thomas Laubach
+Secretary
+Voting against this action: None.
+
+# Tables
+
+## Page_9_Table_1
+
+
+| In a joint session of the Committee and the Board of      |
+|-----------------------------------------------------------|
+| Governors of the Federal Reserve System, the manager      |
+| of the System Open Market Account (SOMA) reported         |
+| on developments in domestic and foreign financial mar-    |
+| kets. The deputy manager followed with a review of Sys-   |
+| tem open market operations conducted during the pe-       |
+| riod since the Committee met on December 16–17,           |
+| 2014. The deputy manager also discussed the outcomes      |
+| of recent tests of term and overnight reverse repurchase  |
+| agreements (term RRPs and ON RRPs, respectively).         |
+| These tests suggested that the combination of term RRP    |
+| and ON RRP operations had been effective in support-      |
+| ing money market rates leading into and over year-end.    |
+| The presentation also outlined some staff recommenda-     |
+| tions for further testing of Term Deposit Facility opera- |
+| tions.                                                    |
