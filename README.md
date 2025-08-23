@@ -32,10 +32,13 @@ conda activate fomc
 
 # 2) 의존성 설치
 pip install -U pip
-# requirements.txt의 'sqlite3'는 표준 라이브러리이므로 설치 대상이 아닙니다.
-pip install -r <(grep -v '^sqlite3' requirements.txt)
+pip install -r requirements.txt
 
-# 3) 실행 (권장)
+# 3) .env 설정 (Chatbot 사용시 필수)
+cp -n .env.example .env 2>/dev/null || cp .env.example .env
+echo "OPENAI_API_KEY=<여기에_키_입력>" >> .env  # 이미 존재 시 이 줄은 무시하세요
+
+# 4) 실행 (권장)
 chmod +x run.sh  # 최초 1회만 필요할 수 있음
 ./run.sh
 
@@ -55,6 +58,22 @@ open http://127.0.0.1:5000
 python setup_db.py   # (선택) 초기화
 python app.py        # Flask 직접 실행
 ```
+
+### 🤖 Chatbot 탭 사용 방법
+- 네비게이션의 Chatbot 탭에서 질문을 입력하면, `crawler/fomc_files/**/*.md` 코퍼스를 기반으로 답변합니다.
+- 최초 실행 시 임베딩 인덱스를 로컬(Chroma)로 생성/저장합니다. 시간이 조금 걸릴 수 있습니다.
+- 환경변수 `OPENAI_API_KEY`가 필요합니다. `.env` 파일에 값을 넣어주세요.
+
+## 🔐 환경 변수 및 OpenAI 키 관리 (.env)
+이 프로젝트는 `python-dotenv`로 `.env` 파일을 자동 로드합니다. Chatbot 기능을 사용하려면 OpenAI API 키가 필요합니다.
+
+1) 패키지 설치: `requirements.txt`에 포함되어 있으므로 별도 설치 없이 일괄 설치하면 됩니다.
+2) `.env` 파일 생성:
+	- 템플릿 복사: `.env.example` → `.env`
+	- 값 채우기: `OPENAI_API_KEY=sk-...`
+3) 서버 재시작 후 Chatbot 탭에서 질문을 입력하면 동작합니다.
+
+참고: `.env`는 gitignore로 제외되어 저장소에 노출되지 않습니다.
 
 참고:
 - conda 환경에서 `sqlite` 패키지가 필요하면 `conda install -c conda-forge sqlite`로 설치할 수 있습니다.
