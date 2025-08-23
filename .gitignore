@@ -194,7 +194,6 @@ data/processed/
 *.bak
 *_old.*
 *_backup.*
-comparison_old.html
 
 # Temporary files
 tmp/
