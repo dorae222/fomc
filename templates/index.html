@@ -1,0 +1,178 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="dashboard-container">
+    <h1 class="mb-4">FOMC Sentiment Analysis Dashboard</h1>
+    
+    <!-- Overview Cards -->
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card stat-card">
+                <div class="card-body">
+                    <h5 class="card-title">Total Documents</h5>
+                    <h2 class="stat-number" id="total-docs">-</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card stat-card hawkish">
+                <div class="card-body">
+                    <h5 class="card-title">Hawkish %</h5>
+                    <h2 class="stat-number" id="hawkish-pct">-</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card stat-card dovish">
+                <div class="card-body">
+                    <h5 class="card-title">Dovish %</h5>
+                    <h2 class="stat-number" id="dovish-pct">-</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card stat-card neutral">
+                <div class="card-body">
+                    <h5 class="card-title">Avg Confidence</h5>
+                    <h2 class="stat-number" id="avg-confidence">-</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Main Charts -->
+    <div class="row mb-4">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Sentiment Timeline</h5>
+                    <div class="d-flex gap-2 align-items-center">
+                        <small>Doc types:</small>
+                        <select id="doc-types-dashboard" multiple class="form-select form-select-sm" style="max-width: 260px;" aria-label="Filter by document type">
+                        </select>
+                    </div>
+                    <div class="btn-group btn-group-sm float-end" role="group">
+                        <button type="button" class="btn btn-outline-primary" data-range="1m">1M</button>
+                        <button type="button" class="btn btn-outline-primary" data-range="3m">3M</button>
+                        <button type="button" class="btn btn-outline-primary" data-range="6m">6M</button>
+                        <button type="button" class="btn btn-outline-primary active" data-range="1y">1Y</button>
+                        <button type="button" class="btn btn-outline-primary" data-range="all">All</button>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div id="timeline-chart" style="height: 400px;"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Overall Sentiment Distribution</h5>
+                </div>
+                <div class="card-body">
+                    <div id="sentiment-pie" style="height: 400px;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Meeting Selector and Details -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Meeting Analysis</h5>
+                    <select id="meeting-selector" class="form-select form-select-sm" style="width: 200px; display: inline-block; margin-left: 20px;">
+                        <option value="">Select Meeting Date</option>
+                    </select>
+                </div>
+                <div class="card-body">
+                    <div id="meeting-details" style="display: none;">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div id="sentiment-flow" style="height: 350px;"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <div id="confidence-distribution" style="height: 350px;"></div>
+                            </div>
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-md-12">
+                                <h6>High Confidence Statements</h6>
+                                <div id="high-confidence-statements" class="statement-list"></div>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col-md-12">
+                                <h6>Full Text (color-coded by sentiment)</h6>
+                                <div class="small text-muted mb-2">Sentences are highlighted: red = hawkish, teal = dovish, gray = neutral. Darker shade means higher confidence.</div>
+                                <div id="full-text-viewer" class="full-text-viewer p-3 border rounded" style="max-height: 320px; overflow-y: auto; background: #fff;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Recent Changes -->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Recent Sentiment Shifts</h5>
+                </div>
+                <div class="card-body">
+                    <div id="recent-changes" class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Document</th>
+                                    <th>Change</th>
+                                    <th>Confidence</th>
+                                    <th>Key Text</th>
+                                </tr>
+                            </thead>
+                            <tbody id="changes-tbody">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/charts.js') }}"></script>
+<script src="{{ url_for('static', filename='js/chart.js') }}"></script>
+<script src="{{ url_for('static', filename='js/dashboard_main.js') }}"></script>
+<script>
+    $(document).ready(function() {
+        // Populate document types
+    fetch('/api/document-types').then(r=>r.json()).then(d=>{
+            const sel = document.getElementById('doc-types-dashboard');
+            if (sel) {
+                (d.document_types||[]).forEach(t=>{
+                    const opt = document.createElement('option');
+                    opt.value=t; opt.textContent=t; sel.appendChild(opt);
+                });
+                sel.addEventListener('change', ()=>{
+                    // reload dependent data
+                    loadMeetingDates();
+                    // refresh overview/timeline with selected doc types
+                    if (typeof loadOverview === 'function') {
+                        loadOverview();
+                    }
+            loadRecentChanges();
+                });
+            }
+        });
+        loadDashboard();
+    // initial recent changes
+    loadRecentChanges();
+    });
+</script>
+{% endblock %}

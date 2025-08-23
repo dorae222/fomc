@@ -1,0 +1,396 @@
+<!-- templates/timeline.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOMC Sentiment Timeline</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/dashboard.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">FOMC Sentiment Analysis</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="/">Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/analysis">Analysis</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/comparison">Comparison</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="/timeline">Timeline</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container-fluid mt-4">
+        <h2>FOMC Sentiment Evolution Timeline</h2>
+        
+        <!-- Controls -->
+        <div class="card mb-4">
+            <div class="card-body">
+                <div class="row align-items-center">
+                    <div class="col-md-5">
+                        <label>Time Range:</label>
+                        <div class="btn-group" role="group">
+                            <button type="button" class="btn btn-outline-primary" data-range="3m">3 Months</button>
+                            <button type="button" class="btn btn-outline-primary" data-range="6m">6 Months</button>
+                            <button type="button" class="btn btn-outline-primary active" data-range="1y">1 Year</button>
+                            <button type="button" class="btn btn-outline-primary" data-range="2y">2 Years</button>
+                            <button type="button" class="btn btn-outline-primary" data-range="all">All Time</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="ms-2">Doc types:</label>
+                        <select id="doc-types-timeline" multiple class="form-select">
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label>View Type:</label>
+                        <div class="btn-group" role="group">
+                            <button type="button" class="btn btn-outline-secondary active" data-view="stacked">Stacked Area</button>
+                            <button type="button" class="btn btn-outline-secondary" data-view="line">Line Chart</button>
+                            <button type="button" class="btn btn-outline-secondary" data-view="scatter">Scatter Plot</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Timeline Chart -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5>Sentiment Distribution Over Time</h5>
+            </div>
+            <div class="card-body">
+                <div id="main-timeline" style="height:500px;"></div>
+            </div>
+        </div>
+
+        <!-- Tone Score Evolution -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5>Overall Tone Score Evolution</h5>
+            </div>
+            <div class="card-body">
+                <div id="tone-evolution" style="height:300px;"></div>
+            </div>
+        </div>
+
+        <!-- Event Timeline -->
+        <div class="card">
+            <div class="card-header">
+                <h5>Meeting Events Timeline</h5>
+            </div>
+            <div class="card-body">
+                <div class="timeline-container" id="events-timeline">
+                    <!-- Events will be populated here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let timelineData = null;
+        let currentView = 'stacked';
+        let currentRange = '1y';
+
+        $(document).ready(function() {
+            populateDocTypes();
+            loadTimelineData();
+            setupTimelineListeners();
+        });
+
+        async function populateDocTypes() {
+            try {
+                const res = await fetch('/api/document-types');
+                const data = await res.json();
+                const sel = document.getElementById('doc-types-timeline');
+                (data.document_types || []).forEach(t => {
+                    const opt = document.createElement('option');
+                    opt.value = t; opt.textContent = t; sel.appendChild(opt);
+                });
+                sel.addEventListener('change', () => loadTimelineData());
+            } catch(e) { console.error(e); }
+        }
+
+        async function loadTimelineData() {
+            const sel = document.getElementById('doc-types-timeline');
+            const types = sel ? Array.from(sel.selectedOptions).map(o=>o.value).join(',') : '';
+            const response = await fetch(`/api/timeline${types ? `?doc_types=${encodeURIComponent(types)}` : ''}`);
+            timelineData = await response.json();
+            renderTimeline();
+            renderToneEvolution();
+            renderEventTimeline();
+        }
+
+        function setupTimelineListeners() {
+            $('[data-range]').on('click', function() {
+                $('[data-range]').removeClass('active');
+                $(this).addClass('active');
+                currentRange = $(this).data('range');
+                renderTimeline();
+            });
+
+            $('[data-view]').on('click', function() {
+                $('[data-view]').removeClass('active');
+                $(this).addClass('active');
+                currentView = $(this).data('view');
+                renderTimeline();
+            });
+        }
+
+        function filterByRange(dates, data) {
+            const normalizedDates = dates.map(normalizeDateString);
+            const now = new Date();
+            let startDate = new Date();
+            
+            switch(currentRange) {
+                case '3m':
+                    startDate.setMonth(now.getMonth() - 3);
+                    break;
+                case '6m':
+                    startDate.setMonth(now.getMonth() - 6);
+                    break;
+                case '1y':
+                    startDate.setFullYear(now.getFullYear() - 1);
+                    break;
+                case '2y':
+                    startDate.setFullYear(now.getFullYear() - 2);
+                    break;
+                case 'all':
+                    return {dates: normalizedDates, hawkish: data.hawkish, dovish: data.dovish, neutral: data.neutral};
+            }
+            const startIdx = normalizedDates.findIndex(d => new Date(d) >= startDate);
+            if (startIdx === -1) return {dates: normalizedDates, hawkish: data.hawkish, dovish: data.dovish, neutral: data.neutral};
+            
+            return {
+                dates: normalizedDates.slice(startIdx),
+                hawkish: data.hawkish.slice(startIdx),
+                dovish: data.dovish.slice(startIdx),
+                neutral: data.neutral.slice(startIdx)
+            };
+        }
+
+        function renderTimeline() {
+            if (!timelineData) return;
+            
+            const filtered = filterByRange(timelineData.dates, timelineData);
+            let traces = [];
+            
+            if (currentView === 'stacked') {
+                traces = [
+                    {
+                        x: filtered.dates,
+                        y: filtered.hawkish,
+                        name: 'Hawkish',
+                        type: 'scatter',
+                        mode: 'lines',
+                        stackgroup: 'one',
+                        fillcolor: '#FF6B6B',
+                        line: {color: '#FF6B6B', width: 0.5}
+                    },
+                    {
+                        x: filtered.dates,
+                        y: filtered.neutral,
+                        name: 'Neutral',
+                        type: 'scatter',
+                        mode: 'lines',
+                        stackgroup: 'one',
+                        fillcolor: '#95A5A6',
+                        line: {color: '#95A5A6', width: 0.5}
+                    },
+                    {
+                        x: filtered.dates,
+                        y: filtered.dovish,
+                        name: 'Dovish',
+                        type: 'scatter',
+                        mode: 'lines',
+                        stackgroup: 'one',
+                        fillcolor: '#4ECDC4',
+                        line: {color: '#4ECDC4', width: 0.5}
+                    }
+                ];
+            } else if (currentView === 'line') {
+                traces = [
+                    {
+                        x: filtered.dates,
+                        y: filtered.hawkish,
+                        name: 'Hawkish',
+                        type: 'scatter',
+                        mode: 'lines+markers',
+                        line: {color: '#FF6B6B', width: 2}
+                    },
+                    {
+                        x: filtered.dates,
+                        y: filtered.neutral,
+                        name: 'Neutral',
+                        type: 'scatter',
+                        mode: 'lines+markers',
+                        line: {color: '#95A5A6', width: 2}
+                    },
+                    {
+                        x: filtered.dates,
+                        y: filtered.dovish,
+                        name: 'Dovish',
+                        type: 'scatter',
+                        mode: 'lines+markers',
+                        line: {color: '#4ECDC4', width: 2}
+                    }
+                ];
+            } else {
+                // Scatter plot
+                const allPoints = [];
+                filtered.dates.forEach((date, i) => {
+                    allPoints.push(
+                        {date, sentiment: 'hawkish', value: filtered.hawkish[i]},
+                        {date, sentiment: 'neutral', value: filtered.neutral[i]},
+                        {date, sentiment: 'dovish', value: filtered.dovish[i]}
+                    );
+                });
+                
+                traces = ['hawkish', 'neutral', 'dovish'].map(sentiment => ({
+                    x: allPoints.filter(p => p.sentiment === sentiment).map(p => p.date),
+                    y: allPoints.filter(p => p.sentiment === sentiment).map(p => p.value),
+                    name: sentiment.charAt(0).toUpperCase() + sentiment.slice(1),
+                    type: 'scatter',
+                    mode: 'markers',
+                    marker: {
+                        size: 8,
+                        color: sentiment === 'hawkish' ? '#FF6B6B' : 
+                               sentiment === 'dovish' ? '#4ECDC4' : '#95A5A6'
+                    }
+                }));
+            }
+            
+            const layout = {
+                xaxis: {title: 'Date'},
+                yaxis: {title: 'Percentage (%)', ticksuffix: '%'},
+                hovermode: 'x unified',
+                showlegend: true,
+                legend: {orientation: 'h', y: -0.2}
+            };
+            
+            Plotly.newPlot('main-timeline', traces, layout, {responsive: true});
+        }
+
+        function renderToneEvolution() {
+            if (!timelineData) return;
+            
+            const filtered = filterByRange(timelineData.dates, timelineData);
+            const toneScores = filtered.dates.map((_, i) => {
+                const h = filtered.hawkish[i] || 0;
+                const d = filtered.dovish[i] || 0;
+                return h + d > 0 ? (h - d) / (h + d) : 0;
+            });
+            
+            const trace = {
+                x: filtered.dates,
+                y: toneScores,
+                type: 'scatter',
+                mode: 'lines',
+                fill: 'tozeroy',
+                line: {color: '#2C3E50', width: 2},
+                fillcolor: toneScores.map(s => s > 0 ? 'rgba(255,107,107,0.3)' : 'rgba(78,205,196,0.3)')
+            };
+            
+            const layout = {
+                xaxis: {title: 'Date'},
+                yaxis: {
+                    title: 'Tone Score',
+                    zeroline: true,
+                    zerolinewidth: 2,
+                    zerolinecolor: '#95A5A6'
+                },
+                annotations: [
+                    {
+                        x: 0.02,
+                        y: 0.95,
+                        xref: 'paper',
+                        yref: 'paper',
+                        text: 'Hawkish ↑',
+                        showarrow: false,
+                        font: {color: '#FF6B6B'}
+                    },
+                    {
+                        x: 0.02,
+                        y: 0.05,
+                        xref: 'paper',
+                        yref: 'paper',
+                        text: 'Dovish ↓',
+                        showarrow: false,
+                        font: {color: '#4ECDC4'}
+                    }
+                ]
+            };
+            
+            Plotly.newPlot('tone-evolution', [trace], layout, {responsive: true});
+        }
+
+        function renderEventTimeline() {
+            if (!timelineData) return;
+            
+            const container = $('#events-timeline');
+            container.empty();
+            
+            const filtered = filterByRange(timelineData.dates, timelineData);
+            
+            // Show last 10 meetings
+            filtered.dates.slice(-10).reverse().forEach((date, i) => {
+                const h = filtered.hawkish[filtered.hawkish.length - 10 + i] || 0;
+                const d = filtered.dovish[filtered.dovish.length - 10 + i] || 0;
+                const n = filtered.neutral[filtered.neutral.length - 10 + i] || 0;
+                
+                const dominant = h > d && h > n ? 'hawkish' : d > h && d > n ? 'dovish' : 'neutral';
+                
+                const event = $(`
+                    <div class="timeline-event animate-slide-in">
+                        <div class="timeline-date">${formatDate(date)}</div>
+                        <div class="timeline-content">
+                            <span class="sentiment-badge ${dominant}">${dominant}</span>
+                            <small class="ms-3">
+                                H: ${h.toFixed(1)}% | N: ${n.toFixed(1)}% | D: ${d.toFixed(1)}%
+                            </small>
+                        </div>
+                    </div>
+                `);
+                
+                container.append(event);
+            });
+        }
+
+        function formatDate(dateStr) {
+            const iso = normalizeDateString(dateStr);
+            return new Date(iso).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
+        }
+
+        function normalizeDateString(d) {
+            if (!d) return d;
+            if (/^\d{4}-\d{2}-\d{2}$/.test(d)) return d;
+            const m1 = d.match(/^(\d{4})[\/](\d{1,2})[\/](\d{1,2})$/);
+            if (m1) {
+                const y = m1[1];
+                const m = String(m1[2]).padStart(2, '0');
+                const day = String(m1[3]).padStart(2, '0');
+                return `${y}-${m}-${day}`;
+            }
+            const dt = new Date(d);
+            if (!isNaN(dt.getTime())) {
+                const y = dt.getFullYear();
+                const m = String(dt.getMonth() + 1).padStart(2, '0');
+                const day = String(dt.getDate()).padStart(2, '0');
+                return `${y}-${m}-${day}`;
+            }
+            return d;
+        }
+    </script>
+</body>
+</html>

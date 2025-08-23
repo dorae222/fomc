@@ -1,0 +1,276 @@
+{% extends "base.html" %}
+
+{% block title %}Load FOMC Data{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <h2 class="mb-4">Load FOMC Predictions Data</h2>
+            
+            <!-- Current Data Statistics -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5>Current Data Statistics</h5>
+                </div>
+                <div class="card-body">
+                    <div id="currentStats">
+                        <div class="d-flex justify-content-center">
+                            <div class="spinner-border" role="status">
+                                <span class="sr-only">Loading...</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Data Loading Form -->
+            <div class="card">
+                <div class="card-header">
+                    <h5>Load New Data</h5>
+                </div>
+                <div class="card-body">
+                    <form id="loadDataForm">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="limitRows">Number of rows to load (optional):</label>
+                                    <input type="number" class="form-control" id="limitRows" 
+                                           placeholder="Leave empty to load all data" min="1000" step="1000">
+                                    <small class="form-text text-muted">
+                                        For testing, try 50,000 rows first. Full dataset has ~1.5M rows.
+                                    </small>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="clearExisting">
+                                        <label class="form-check-label" for="clearExisting">
+                                            Clear existing data before loading
+                                        </label>
+                                    </div>
+                                    <small class="form-text text-muted">
+                                        This will delete all current predictions before loading new data.
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary" id="loadButton">
+                            <i class="fas fa-upload"></i> Load Data
+                        </button>
+                        <a href="/" class="btn btn-secondary ml-2">
+                            <i class="fas fa-arrow-left"></i> Back to Dashboard
+                        </a>
+                    </form>
+                    
+                    <!-- Progress Section -->
+                    <div id="progressSection" style="display: none;" class="mt-4">
+                        <div class="progress mb-3">
+                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated" 
+                                 role="progressbar" style="width: 0%"></div>
+                        </div>
+                        <div id="statusMessage" class="alert alert-info">
+                            Preparing to load data...
+                        </div>
+                    </div>
+                    
+                    <!-- Results Section -->
+                    <div id="resultsSection" style="display: none;" class="mt-4">
+                        <div class="card">
+                            <div class="card-header">
+                                <h6>Loading Results</h6>
+                            </div>
+                            <div class="card-body" id="resultsContent">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+.progress {
+    height: 25px;
+}
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+}
+.stat-card {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border-left: 4px solid #007bff;
+}
+</style>
+
+<script>
+// Load current statistics
+function loadCurrentStats() {
+    fetch('/api/data-stats')
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                document.getElementById('currentStats').innerHTML = 
+                    `<div class="alert alert-warning">Error loading stats: ${data.error}</div>`;
+                return;
+            }
+            
+            let html = '<div class="stats-grid">';
+            
+            // Total predictions
+            html += `<div class="stat-card">
+                <h6>Total Predictions</h6>
+                <h4>${data.total_predictions?.toLocaleString() || 0}</h4>
+            </div>`;
+            
+            // Document types
+            if (data.document_types && Object.keys(data.document_types).length > 0) {
+                html += `<div class="stat-card">
+                    <h6>Document Types</h6>`;
+                for (const [type, count] of Object.entries(data.document_types)) {
+                    html += `<div>${type}: ${count.toLocaleString()}</div>`;
+                }
+                html += `</div>`;
+            }
+            
+            // Sentiment distribution
+            if (data.sentiment_distribution && Object.keys(data.sentiment_distribution).length > 0) {
+                html += `<div class="stat-card">
+                    <h6>Sentiment Distribution</h6>`;
+                for (const [sentiment, count] of Object.entries(data.sentiment_distribution)) {
+                    html += `<div>${sentiment}: ${count.toLocaleString()}</div>`;
+                }
+                html += `</div>`;
+            }
+            
+            // Year range
+            if (data.year_range && data.year_range.min) {
+                html += `<div class="stat-card">
+                    <h6>Year Range</h6>
+                    <h5>${data.year_range.min} - ${data.year_range.max}</h5>
+                </div>`;
+            }
+            
+            html += '</div>';
+            document.getElementById('currentStats').innerHTML = html;
+        })
+        .catch(error => {
+            console.error('Error loading stats:', error);
+            document.getElementById('currentStats').innerHTML = 
+                `<div class="alert alert-danger">Error loading statistics</div>`;
+        });
+}
+
+// Handle form submission
+document.getElementById('loadDataForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const limitRows = document.getElementById('limitRows').value;
+    const clearExisting = document.getElementById('clearExisting').checked;
+    const loadButton = document.getElementById('loadButton');
+    const progressSection = document.getElementById('progressSection');
+    const progressBar = document.getElementById('progressBar');
+    const statusMessage = document.getElementById('statusMessage');
+    const resultsSection = document.getElementById('resultsSection');
+    
+    // Show progress section
+    progressSection.style.display = 'block';
+    resultsSection.style.display = 'none';
+    loadButton.disabled = true;
+    loadButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Loading...';
+    
+    // Start progress animation
+    let progress = 0;
+    const progressInterval = setInterval(() => {
+        if (progress < 90) {
+            progress += Math.random() * 10;
+            progressBar.style.width = Math.min(progress, 90) + '%';
+        }
+    }, 1000);
+    
+    try {
+        statusMessage.className = 'alert alert-info';
+        statusMessage.textContent = 'Loading data from CSV file...';
+        
+        const requestData = {};
+        if (limitRows) {
+            requestData.limit = parseInt(limitRows);
+        }
+        if (clearExisting) {
+            requestData.clear_existing = true;
+        }
+        
+        const response = await fetch('/api/load-data', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(requestData)
+        });
+        
+        const result = await response.json();
+        
+        // Complete progress
+        clearInterval(progressInterval);
+        progressBar.style.width = '100%';
+        
+        if (result.success) {
+            statusMessage.className = 'alert alert-success';
+            statusMessage.textContent = `Success! ${result.message}`;
+            
+            // Show detailed results
+            let resultsHtml = `<h6>Loading Summary</h6>`;
+            resultsHtml += `<p><strong>Records loaded:</strong> ${result.count.toLocaleString()}</p>`;
+            
+            if (result.stats) {
+                resultsHtml += `<h6 class="mt-3">Updated Statistics</h6>`;
+                resultsHtml += `<p><strong>Total predictions:</strong> ${result.stats.total_predictions.toLocaleString()}</p>`;
+                
+                if (result.stats.document_types) {
+                    resultsHtml += `<p><strong>Document types:</strong></p><ul>`;
+                    for (const [type, count] of Object.entries(result.stats.document_types)) {
+                        resultsHtml += `<li>${type}: ${count.toLocaleString()}</li>`;
+                    }
+                    resultsHtml += `</ul>`;
+                }
+                
+                if (result.stats.sentiment_distribution) {
+                    resultsHtml += `<p><strong>Sentiment distribution:</strong></p><ul>`;
+                    for (const [sentiment, count] of Object.entries(result.stats.sentiment_distribution)) {
+                        resultsHtml += `<li>${sentiment}: ${count.toLocaleString()}</li>`;
+                    }
+                    resultsHtml += `</ul>`;
+                }
+            }
+            
+            document.getElementById('resultsContent').innerHTML = resultsHtml;
+            resultsSection.style.display = 'block';
+            
+            // Reload current stats
+            loadCurrentStats();
+            
+        } else {
+            statusMessage.className = 'alert alert-danger';
+            statusMessage.textContent = `Error: ${result.error}`;
+        }
+    } catch (error) {
+        clearInterval(progressInterval);
+        progressBar.style.width = '100%';
+        statusMessage.className = 'alert alert-danger';
+        statusMessage.textContent = `Error: ${error.message}`;
+    } finally {
+        loadButton.disabled = false;
+        loadButton.innerHTML = '<i class="fas fa-upload"></i> Load Data';
+    }
+});
+
+// Load stats on page load
+loadCurrentStats();
+</script>
+{% endblock %}
