@@ -1,190 +1,129 @@
 # FOMC
 
-팀 토이 프로젝트 **FOMC** 저장소입니다.  
-웹 서비스, 데이터 크롤러, 머신러닝 모델링을 **모노레포(Monorepo)** 구조로 관리합니다.
+FOMC 텍스트/시계열 데이터를 수집·가공하고, Flask 기반 대시보드로 시각화하는 프로젝트입니다.
 
----
+## 📚 문서 (docs/)
+- docs/FOMC_Statement_Impact_Study.md — 성명서 영향 분석 정리
+- docs/stance_explain.md — 스탠스 분류 기준 설명
 
-## 📌 프로젝트 개요
-- **Web (webapp/)**  
-  사용자 인터페이스 및 백엔드 API  
-
-- **Crawler (crawler/)**  
-  데이터 수집기 (웹 크롤링, API 수집 등)  
-
-- **Model (model/)**  
-  데이터 전처리, 머신러닝/딥러닝 모델 학습 및 실험  
-
----
-
-## 📂 디렉터리 구조
+## 📂 디렉터리 개요
+```
+app.py             # Flask 앱 엔트리포인트
+config.py          # 환경/경로 설정
+crawler/           # FOMC 원문/지표 수집 스크립트
+database/          # DB 모델/초기화 코드
+model/             # 분석/모델링 스크립트
+static/            # CSS/JS/이미지
+templates/         # Jinja 템플릿
+utils/             # 데이터 처리/시각화/전처리 유틸
+docs/              # 프로젝트 문서 모음
+requirements.txt   # Python 의존성
+run.sh             # 서버 실행 헬퍼 스크립트(옵션)
+README.md          # 이 문서
 ```
 
-fomc/
-├─ webapp/          # 프론트엔드/백엔드 코드
-├─ crawler/         # 크롤러 코드
-├─ model/           # 모델 학습/평가 코드, 노트북
-├─ data/            # 로컬 데이터 (gitignore 처리됨)
-├─ .github/         # GitHub Actions, 이슈/PR 템플릿
-└─ README.md
+## 🚀 빠른 시작 (Anaconda/conda, macOS)
+Python 3.10+ 권장. 기본 실행은 `run.sh` 스크립트를 사용합니다.
 
-````
+```bash
+# 1) conda 가상환경 생성 및 활성화
+conda create -n fomc python=3.10 -y
+conda activate fomc
 
----
+# 2) 의존성 설치
+pip install -U pip
+# requirements.txt의 'sqlite3'는 표준 라이브러리이므로 설치 대상이 아닙니다.
+pip install -r <(grep -v '^sqlite3' requirements.txt)
 
-## 🌱 브랜치 전략
-- **main**  
-  배포 및 안정화된 코드만 유지  
+# 3) 실행 (권장)
+chmod +x run.sh  # 최초 1회만 필요할 수 있음
+./run.sh
 
-- **develop**  
-  기능 통합 및 테스트  
+# 옵션
+./run.sh --reset-db        # DB 초기화 후 실행
+./run.sh --skip-quality    # 데이터 품질 검사 생략
+./run.sh --skip-precompute # 프리컴퓨트 생략
+./run.sh --host 0.0.0.0 --port 8000
 
-- **web / crawler / model**  
-  역할별 장기 브랜치  
+# 서버 주소
+open http://127.0.0.1:5000
+```
 
-- **기능 브랜치 규칙**  
-  - `web/feature-login-ui`  
-  - `crawler/feature-news-crawl`  
-  - `model/experiment-baseline`  
+수동 실행이 필요한 경우:
 
----
+```bash
+python setup_db.py   # (선택) 초기화
+python app.py        # Flask 직접 실행
+```
 
-## 🔄 협업 워크플로우
-1. 역할별 브랜치에서 최신 코드 가져오기  
-   ```bash
-   git checkout web
-   git pull
-   git checkout -b web/feature-xxx
-   ```
+참고:
+- conda 환경에서 `sqlite` 패키지가 필요하면 `conda install -c conda-forge sqlite`로 설치할 수 있습니다.
+- `./run.sh` 실행 시 권한 오류가 나면 `chmod +x run.sh` 실행 후 다시 시도하세요.
 
-2. 기능 개발 → 커밋 & 푸시
-
-   ```bash
-   git add .
-   git commit -m "web: add login UI"
-   git push -u origin web/feature-xxx
-   ```
-3. GitHub Pull Request 생성 → 리뷰 & CI 통과
-4. 역할 브랜치 → develop → main 순서로 병합
-
----
-
-## ⚙️ 개발 환경
-
-### 공통
-
-* **Git** (Windows: Git for Windows)
-* **VS Code** (권장)
-* **환경 변수 관리**: 각 폴더의 `.env` 파일 사용
-
-  > `.env`는 `.gitignore`에 포함되어 있으므로 GitHub에 올라가지 않습니다.
-
----
-
-### 🔵 Web (webapp/)
-
-* **필수**: Node.js 20 LTS, npm
-* **초기 설정**
-
-  ```bash
-  cd webapp
-  npm install   # 의존성 설치
-  ```
-* **개발 서버 실행**
-
-  ```bash
-  npm run dev
-  ```
-* **빌드**
-
-  ```bash
-  npm run build
-  ```
-* **테스트**
-
-  ```bash
-  npm test
-  ```
-
----
-
-### 🟢 Crawler (crawler/)
-
-* **필수**: Python 3.11
-* **가상환경 생성 (Windows PowerShell)**
-
-  ```powershell
-  cd crawler
-  python -m venv .venv
-  .\.venv\Scripts\Activate.ps1
-  pip install -r requirements.txt
-  ```
-* **실행 예시**
-
-  ```powershell
-  python src/news_crawler.py --date 2025-01-01
-  ```
-
----
-
-### 🟣 Model (model/)
-
-* **필수**: Python 3.11, Jupyter Notebook (또는 VS Code Jupyter)
-* **환경 설정**
-
-  ```powershell
-  cd model
-  python -m venv .venv
-  .\.venv\Scripts\Activate.ps1
-  pip install -r requirements.txt
-  ```
-* **노트북 실행**
-
-  ```powershell
-  jupyter notebook
-  ```
-* **테스트 실행 (pytest 사용 시)**
-
-  ```powershell
-  pytest src/tests/
-  ```
-
----
-
-## 🚀 실행 예시 (빠른 시작)
+## 🚀 빠른 시작 (Windows, PowerShell)
+Windows 기본 셸에서는 `run.sh` 대신 아래 수동 실행 절차를 사용하세요. (WSL/Ubuntu 환경에서는 `./run.sh` 사용 가능)
 
 ```powershell
-# 1. 레포 클론
-git clone git@github.com:<org-or-user>/fomc.git
-cd fomc
+# 1) conda 가상환경
+conda create -n fomc python=3.10 -y
+conda activate fomc
 
-# 2. web 서버 실행
-cd webapp
-npm install
-npm run dev
-
-# 3. crawler 실행
-cd ../crawler
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+# 2) 의존성 설치
+python -m pip install -U pip
+# requirements.txt 설치 (sqlite3 줄에서 오류 발생 시 해당 줄을 삭제 후 다시 시도)
 pip install -r requirements.txt
-python src/news_crawler.py
 
-# 4. model 학습 실행
-cd ../model
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-jupyter notebook
+# 3) (선택) DB 초기화/적재
+python setup_db.py
+
+# 4) 서버 실행
+python app.py
+
+# 브라우저에서 열기
+start "" http://localhost:5000
 ```
 
----
+팁:
+- `conda init powershell`로 PowerShell에 conda를 등록할 수 있습니다.
 
-## 🛠️ 기여 가이드
+## 🚀 빠른 시작 (Linux)
 
-* 모든 PR은 최소 1명 리뷰 후 머지
-* 커밋 메시지 규칙:
+```bash
+# 1) conda 가상환경
+conda create -n fomc python=3.10 -y
+conda activate fomc
 
-  * `web: ...`, `crawler: ...`, `model: ...`
-* CI 통과 필수 (`.github/workflows/ci.yml`)
+# 2) 의존성 설치 (sqlite3 제외 권장)
+pip install -U pip
+grep -v '^sqlite3' requirements.txt | pip install -r /dev/stdin
+
+# 3) 실행 방법 A: run.sh (권장)
+chmod +x run.sh
+./run.sh --host 0.0.0.0 --port 5000
+
+# 실행 방법 B: 수동 실행
+python setup_db.py   # (선택)
+python app.py
+
+# 브라우저에서 열기
+xdg-open http://127.0.0.1:5000 || true
+```
+
+참고:
+- conda를 셸에 등록하려면 `conda init bash` 후 터미널을 재시작하세요.
+- 일부 배포판에서 `./run.sh` 실행 시 `env: zsh: No such file or directory` 오류가 나면, 수동 실행 방법을 사용하세요.
+
+## 주요 기능
+- 대시보드: 요약 지표, 차트, 타임라인, 회의 간 비교
+- API: `/api/summary`, `/api/overview`, `/api/meeting/<date>`, `/api/compare` 등
+- 사전 계산: 앱 시작 시 감성 집계 및 최근 비교 페어 프리컴퓨트
+
+## 개발 메모
+- 환경변수는 `.env`(옵션) 또는 `config.py`로 관리
+- 장기 계산은 백그라운드 스레드로 처리 (앱 최초 요청 시 트리거)
+- OneDrive 경로 사용 시 대용량 파일 동기화 지연에 유의
+
+## 기여
+- PR 1인 이상 리뷰 후 머지
+- 커밋 메시지 접두어 권장: `app: ...`, `crawler: ...`, `model: ...`
 
