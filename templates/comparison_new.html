@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOMC Meeting Comparison | {{ config.APP_NAME }}</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-bank2 me-2"></i>
+                {{ config.APP_NAME }}
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="/">Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/analysis">Analysis</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="/comparison">Comparison</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/timeline">Timeline</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container-fluid py-4">
+        <div class="comparison-container">
+            <!-- Header -->
+            <div class="row mb-4">
+                <div class="col-12">
+                    <div class="text-center">
+                        <h1 class="display-4 text-primary">
+                            <i class="bi bi-bar-chart-line me-3"></i>
+                            Compare FOMC Meetings
+                        </h1>
+                        <p class="lead text-muted">Analyze sentiment changes between different meeting dates</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Control Panel -->
+            <div class="control-panel">
+                <h4><i class="bi bi-sliders me-2"></i>Meeting Selection</h4>
+                
+                <!-- Document Type Filter -->
+                <div class="mb-4">
+                    <h6 class="text-white-50 mb-3">Filter by Document Types</h6>
+                    <div class="doc-type-container">
+                        <div class="doc-type-card" data-type="minutes">
+                            <input type="checkbox" id="minutes" name="doc_types" value="minutes">
+                            <label for="minutes">
+                                <i class="bi bi-file-text"></i>
+                                Minutes
+                            </label>
+                        </div>
+                        <div class="doc-type-card" data-type="statement">
+                            <input type="checkbox" id="statement" name="doc_types" value="statement">
+                            <label for="statement">
+                                <i class="bi bi-megaphone"></i>
+                                Statement
+                            </label>
+                        </div>
+                        <div class="doc-type-card" data-type="implementation_note">
+                            <input type="checkbox" id="implementation_note" name="doc_types" value="implementation_note">
+                            <label for="implementation_note">
+                                <i class="bi bi-gear"></i>
+                                Implementation Note
+                            </label>
+                        </div>
+                        <div class="doc-type-card" data-type="press_conference">
+                            <input type="checkbox" id="press_conference" name="doc_types" value="press_conference">
+                            <label for="press_conference">
+                                <i class="bi bi-camera-video"></i>
+                                Press Conference
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Meeting Selection -->
+                <div class="meeting-selection">
+                    <div class="meeting-card">
+                        <h5><i class="bi bi-calendar-event me-2"></i>First Meeting</h5>
+                        <select id="meeting1" class="form-select">
+                            <option value="">Select first meeting...</option>
+                        </select>
+                    </div>
+                    
+                    <div class="vs-circle">
+                        VS
+                    </div>
+                    
+                    <div class="meeting-card">
+                        <h5><i class="bi bi-calendar-event me-2"></i>Second Meeting</h5>
+                        <select id="meeting2" class="form-select">
+                            <option value="">Select second meeting...</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Compare Button -->
+                <button id="compare-btn" class="btn-compare" disabled>
+                    <i class="bi bi-hourglass-split me-2"></i>Select Two Different Meetings
+                </button>
+            </div>
+
+            <!-- Results Section -->
+            <div id="results" class="results-section" style="display: none;"></div>
+        </div>
+    </main>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- Custom JS -->
+    <script src="{{ url_for('static', filename='js/comparison.js') }}"></script>
+</body>
+</html>

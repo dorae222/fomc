@@ -1,0 +1,437 @@
+<!-- templates/analysis.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOMC Analysis - Detailed View</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/dashboard.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">FOMC Sentiment Analysis</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="/">Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="/analysis">Analysis</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/comparison">Comparison</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/timeline">Timeline</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container-fluid mt-4">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Detailed Sentiment Analysis</h2>
+                
+                <!-- Meeting Selector -->
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="row align-items-center g-3">
+                            <div class="col-md-6">
+                                <label>Document Types (choose first):</label>
+                                <select id="doc-types" class="form-select" multiple></select>
+                            </div>
+                            <div class="col-md-6">
+                                <label>Select FOMC Meeting:</label>
+                                <select id="meeting-select" class="form-select">
+                                    <option value="">Choose a meeting date...</option>
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <div id="meeting-stats" style="display:none;">
+                                    <div class="d-flex justify-content-around">
+                                        <div class="text-center">
+                                            <small class="text-muted">Total Sentences</small>
+                                            <h4 id="total-sentences">-</h4>
+                                        </div>
+                                        <div class="text-center">
+                                            <small class="text-muted">Avg Confidence</small>
+                                            <h4 id="avg-confidence">-</h4>
+                                        </div>
+                                        <div class="text-center">
+                                            <small class="text-muted">Dominant Tone</small>
+                                            <h4 id="dominant-tone" class="sentiment-badge">-</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Analysis Results -->
+                <div id="analysis-results" style="display:none;">
+                    <!-- Sentiment Progression -->
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <h5>Sentiment Progression Through Document</h5>
+                        </div>
+                        <div class="card-body">
+                            <div id="sentiment-progression" style="height:400px;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Key Phrases Analysis -->
+                    <div class="row mb-4">
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-header bg-danger text-white">
+                                    <h5>Most Hawkish Statements</h5>
+                                </div>
+                                <div class="card-body">
+                                    <div id="hawkish-statements" class="statement-list"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-header bg-success text-white">
+                                    <h5>Most Dovish Statements</h5>
+                                </div>
+                                <div class="card-body">
+                                    <div id="dovish-statements" class="statement-list"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Confidence Heatmap -->
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <h5>Sentiment Confidence Heatmap</h5>
+                        </div>
+                        <div class="card-body">
+                            <div id="confidence-heatmap" style="height:300px;"></div>
+                            <div class="mt-2 small text-muted">This heatmap shows the average model confidence by sentiment across equal-length segments of the selected document. Darker colors indicate higher confidence.</div>
+                        </div>
+                    </div>
+
+                    <!-- Sentence-by-Sentence Analysis -->
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Detailed Sentence Analysis</h5>
+                            <div class="float-end">
+                                <input type="text" id="sentence-search" class="form-control form-control-sm" placeholder="Search text...">
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-hover" id="sentences-table">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Text</th>
+                                            <th>Sentiment</th>
+                                            <th>Confidence</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="sentences-tbody"></tbody>
+                                </table>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="small text-muted" id="pagination-info"></div>
+                                <div class="btn-group">
+                                    <button id="prev-page" class="btn btn-sm btn-outline-secondary">Prev</button>
+                                    <button id="next-page" class="btn btn-sm btn-outline-secondary">Next</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Analysis page specific JavaScript
+        $(document).ready(function() {
+            loadDocTypes().then(() => loadMeetingsForAnalysis());
+            
+            $('#meeting-select').on('change', function() {
+                if (this.value) {
+                    loadDetailedAnalysis(this.value);
+                } else {
+                    $('#analysis-results').hide();
+                    $('#meeting-stats').hide();
+                }
+            });
+            $('#doc-types').on('change', async function() {
+                // reload meetings list based on selected doc types and reset selection
+                $('#meeting-select').empty().append('<option value="">Choose a meeting date...</option>');
+                await loadMeetingsForAnalysis();
+                $('#analysis-results').hide();
+                $('#meeting-stats').hide();
+            });
+            
+            $('#sentence-search').on('keyup', function() {
+                filterSentences(this.value);
+            });
+        });
+
+        async function loadMeetingsForAnalysis() {
+            const types = Array.from(document.getElementById('doc-types').selectedOptions || []).map(o => o.value).join(',');
+            const response = await fetch(`/api/meetings${types ? `?doc_types=${encodeURIComponent(types)}` : ''}`);
+            const data = await response.json();
+            const select = $('#meeting-select');
+            // do not duplicate options
+            // ensure placeholder remains
+            const dates = (data && data.dates) ? data.dates : [];
+            dates.forEach(date => {
+                const iso = normalizeDateString(date);
+                select.append(`<option value="${iso}">${formatDate(iso)}</option>`);
+            });
+        }
+
+    let currentPage = 1;
+    const pageSize = 10;
+    let currentSentences = [];
+
+    async function loadDetailedAnalysis(date) {
+            const types = Array.from(document.getElementById('doc-types').selectedOptions).map(o => o.value).join(',');
+            const response = await fetch(`/api/meeting/${date}?doc_types=${encodeURIComponent(types)}`);
+            const data = await response.json();
+            
+            $('#analysis-results').show();
+            $('#meeting-stats').show();
+            
+            // Update stats
+            $('#total-sentences').text(data.statistics.total_sentences);
+            $('#avg-confidence').text((data.statistics.avg_confidence * 100).toFixed(1) + '%');
+            
+            // Determine dominant tone
+            const tones = {
+                hawkish: data.statistics.hawkish_pct,
+                dovish: data.statistics.dovish_pct,
+                neutral: data.statistics.neutral_pct
+            };
+            const dominant = Object.keys(tones).reduce((a, b) => tones[a] > tones[b] ? a : b);
+            $('#dominant-tone').text(dominant.charAt(0).toUpperCase() + dominant.slice(1))
+                               .removeClass()
+                               .addClass(`sentiment-badge ${dominant}`);
+            
+            // Render visualizations
+            renderSentimentProgression(data.sentences);
+            renderConfidenceHeatmap(data.sentences);
+            displayTopStatements(data.sentences);
+            currentSentences = data.sentences || [];
+            currentPage = 1;
+            populateSentencesTable();
+        }
+
+        async function loadDocTypes() {
+            const res = await fetch('/api/document-types');
+            const data = await res.json();
+            const select = $('#doc-types');
+            select.empty();
+            (data.document_types || []).forEach(t => {
+                select.append(`<option value="${t}">${t}</option>`);
+            });
+        }
+
+        function renderSentimentProgression(sentences) {
+            const cumulative = {
+                hawkish: [],
+                dovish: [],
+                neutral: []
+            };
+            
+            let counts = {hawkish: 0, dovish: 0, neutral: 0};
+            
+            sentences.forEach((s, i) => {
+                counts[s.pred_label]++;
+                const total = i + 1;
+                cumulative.hawkish.push(counts.hawkish / total * 100);
+                cumulative.dovish.push(counts.dovish / total * 100);
+                cumulative.neutral.push(counts.neutral / total * 100);
+            });
+            
+            const traces = Object.keys(cumulative).map(sentiment => ({
+                x: sentences.map((_, i) => i),
+                y: cumulative[sentiment],
+                name: sentiment.charAt(0).toUpperCase() + sentiment.slice(1),
+                type: 'scatter',
+                mode: 'lines',
+                line: {
+                    color: sentiment === 'hawkish' ? '#FF6B6B' : 
+                           sentiment === 'dovish' ? '#4ECDC4' : '#95A5A6',
+                    width: 2
+                }
+            }));
+            
+            const layout = {
+                xaxis: {title: 'Sentence Position'},
+                yaxis: {title: 'Cumulative Percentage (%)', ticksuffix: '%'},
+                hovermode: 'x unified'
+            };
+            
+            Plotly.newPlot('sentiment-progression', traces, layout);
+        }
+
+        function renderConfidenceHeatmap(sentences) {
+            // Group sentences into chunks for heatmap
+            const chunkSize = Math.ceil(sentences.length / 20);
+            const chunks = [];
+            
+            for (let i = 0; i < sentences.length; i += chunkSize) {
+                const chunk = sentences.slice(i, i + chunkSize);
+                const avgConf = {
+                    hawkish: 0,
+                    dovish: 0,
+                    neutral: 0
+                };
+                
+                chunk.forEach(s => {
+                    avgConf[s.pred_label] += s.max_prob;
+                });
+                
+                Object.keys(avgConf).forEach(k => {
+                    avgConf[k] = avgConf[k] / chunk.length;
+                });
+                
+                chunks.push(avgConf);
+            }
+            
+            const trace = {
+                z: [
+                    chunks.map(c => c.hawkish),
+                    chunks.map(c => c.neutral),
+                    chunks.map(c => c.dovish)
+                ],
+                y: ['Hawkish', 'Neutral', 'Dovish'],
+                x: chunks.map((_, i) => `Segment ${i + 1}`),
+                type: 'heatmap',
+                colorscale: 'RdBu',
+                reversescale: true
+            };
+            
+            const layout = {
+                xaxis: {title: 'Document Segments'},
+                yaxis: {title: 'Sentiment Type'}
+            };
+            
+            Plotly.newPlot('confidence-heatmap', [trace], layout);
+        }
+
+        function displayTopStatements(sentences) {
+            const hawkish = sentences.filter(s => s.pred_label === 'hawkish')
+                                    .sort((a, b) => b.max_prob - a.max_prob)
+                                    .slice(0, 5);
+            
+            const dovish = sentences.filter(s => s.pred_label === 'dovish')
+                                   .sort((a, b) => b.max_prob - a.max_prob)
+                                   .slice(0, 5);
+            
+            $('#hawkish-statements').html(hawkish.map(s => createStatementCard(s)).join(''));
+            $('#dovish-statements').html(dovish.map(s => createStatementCard(s)).join(''));
+        }
+
+        function createStatementCard(statement) {
+            return `
+                <div class="statement-item ${statement.pred_label}">
+                    <div class="statement-text">${statement.text.substring(0, 200)}...</div>
+                    <div class="statement-meta">
+                        <span class="confidence-pill confidence-${getConfidenceLevel(statement.max_prob)}">
+                            ${(statement.max_prob * 100).toFixed(1)}% confidence
+                        </span>
+                    </div>
+                </div>
+            `;
+        }
+
+        function populateSentencesTable() {
+            const tbody = $('#sentences-tbody');
+            tbody.empty();
+            const total = currentSentences.length;
+            const start = (currentPage - 1) * pageSize;
+            const pageItems = currentSentences.slice(start, start + pageSize);
+            pageItems.forEach((s, i) => {
+                tbody.append(`
+                    <tr>
+                        <td>${start + i + 1}</td>
+                        <td>${s.text.substring(0, 150)}...</td>
+                        <td><span class="sentiment-badge ${s.pred_label}">${s.pred_label}</span></td>
+                        <td>
+                            <div class="progress" style="height: 20px;">
+                                <div class="progress-bar" style="width: ${s.max_prob * 100}%">
+                                    ${(s.max_prob * 100).toFixed(1)}%
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                `);
+            });
+            $('#pagination-info').text(`${Math.min(start + 1, total)}-${Math.min(start + pageSize, total)} of ${total}`);
+            $('#prev-page').prop('disabled', currentPage <= 1);
+            $('#next-page').prop('disabled', start + pageSize >= total);
+        }
+
+        $('#prev-page').on('click', function() {
+            if (currentPage > 1) {
+                currentPage--;
+                populateSentencesTable();
+            }
+        });
+        $('#next-page').on('click', function() {
+            const maxPage = Math.ceil((currentSentences.length || 0) / pageSize);
+            if (currentPage < maxPage) {
+                currentPage++;
+                populateSentencesTable();
+            }
+        });
+
+        function filterSentences(searchTerm) {
+            const rows = $('#sentences-tbody tr');
+            rows.each(function() {
+                const text = $(this).text().toLowerCase();
+                $(this).toggle(text.includes(searchTerm.toLowerCase()));
+            });
+        }
+
+        function getConfidenceLevel(prob) {
+            if (prob > 0.8) return 'high';
+            if (prob > 0.6) return 'medium';
+            return 'low';
+        }
+
+        function formatDate(dateStr) {
+            return new Date(dateStr).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
+        }
+
+        function normalizeDateString(d) {
+            if (!d) return d;
+            if (/^\d{4}-\d{2}-\d{2}$/.test(d)) return d;
+            const m1 = d.match(/^(\d{4})[\/](\d{1,2})[\/](\d{1,2})$/);
+            if (m1) {
+                const y = m1[1];
+                const m = String(m1[2]).padStart(2, '0');
+                const day = String(m1[3]).padStart(2, '0');
+                return `${y}-${m}-${day}`;
+            }
+            const dt = new Date(d);
+            if (!isNaN(dt.getTime())) {
+                const y = dt.getFullYear();
+                const m = String(dt.getMonth() + 1).padStart(2, '0');
+                const day = String(dt.getDate()).padStart(2, '0');
+                return `${y}-${m}-${day}`;
+            }
+            return d;
+        }
+    </script>
+</body>
+</html>
+
+
+
