@@ -12,4 +12,4 @@ for root, dirs, files in os.walk(directory_path):
             new_filename = filename.replace(".markdown", ".md")
             new_path = os.path.join(root, new_filename)
             os.rename(old_path, new_path)
-            print(f"'{old_path}' -> '{new_path}'로 변경 완료-")
+            print(f"'{old_path}' -> '{new_path}'로 변경 완료---")
