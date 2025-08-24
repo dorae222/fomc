@@ -260,6 +260,10 @@ def init_database(validate: bool = True, optimize: bool = True) -> bool:
                 df['date'] = parsed.apply(lambda t: t[0])
                 df['document_type'] = parsed.apply(lambda t: t[1])
                 
+                # Avoid inserting explicit IDs to respect AUTOINCREMENT PK
+                if 'id' in df.columns:
+                    df = df.drop(columns=['id'])
+
                 # Clean data
                 df = df.dropna(subset=['pred_label', 'max_prob', 'text'])
                 df = df[(df['max_prob'] >= 0) & (df['max_prob'] <= 1)]

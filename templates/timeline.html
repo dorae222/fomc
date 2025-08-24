@@ -20,6 +20,9 @@
                     <li class="nav-item"><a class="nav-link" href="/analysis">Analysis</a></li>
                     <li class="nav-item"><a class="nav-link" href="/comparison">Comparison</a></li>
                     <li class="nav-item"><a class="nav-link active" href="/timeline">Timeline</a></li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.endpoint == 'chatbot_page' %}active{% endif %}" href="{{ url_for('chatbot_page') }}">Chatbot</a>
+                    </li>
                 </ul>
             </div>
         </div>

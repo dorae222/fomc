@@ -12,9 +12,20 @@ from utils.visualization import ChartGenerator
 from utils.text_diff import TextComparator
 from utils.precompute import ensure_sentiment_daily, precompute_recent_pairs, get_compare_payload
 from utils.data_loader import DataLoader
+from utils.rag_index import build_or_load_index, FAISS_DB_PATH_DEFAULT
 import config
 from typing import List
 import hashlib
+import threading as _threading
+
+# Optional: RAG Chatbot state (lazy init)
+_CHATBOT_STATE = {
+    'initialized': False,
+    'retriever': None,
+    'prompt': None,
+    'llm': None
+}
+_CHATBOT_LOCK = _threading.Lock()
 
 app = Flask(__name__)
 app.config.from_object(config)
@@ -24,6 +35,7 @@ chart_gen = ChartGenerator()
 text_comp = TextComparator()
 data_loader = DataLoader()
 _PRECOMPUTE_STARTED = False
+_RAG_PREWARM_STARTED = False
 
 def _ensure_sentiment_daily():
     # Delegate to utils.precompute implementation
@@ -37,10 +49,31 @@ def _precompute_recent_pairs(limit_pairs: int = 8):
     # Delegate to utils.precompute implementation
     precompute_recent_pairs(limit_pairs=limit_pairs, show_progress=False)
 
+def _ensure_chatbot_chain():
+    """Lazy-initialize the RAG chain from chatbot.py once per process."""
+    if _CHATBOT_STATE['initialized']:
+        return
+    with _CHATBOT_LOCK:
+        if _CHATBOT_STATE['initialized']:
+            return
+        try:
+            # Import locally to avoid hard dependency if not used
+            import chatbot as rag_bot
+            retriever, prompt, llm = rag_bot.create_rag_chain()
+            _CHATBOT_STATE.update({
+                'initialized': True,
+                'retriever': retriever,
+                'prompt': prompt,
+                'llm': llm
+            })
+        except Exception as e:
+            app.logger.error(f"Failed to init chatbot chain: {e}")
+            raise
+
 @app.before_request
 def _maybe_init_aggregates():
     """One-time init before the first handled request in this process."""
-    global _PRECOMPUTE_STARTED
+    global _PRECOMPUTE_STARTED, _RAG_PREWARM_STARTED
     if not _PRECOMPUTE_STARTED:
         try:
             _ensure_sentiment_daily()
@@ -51,6 +84,23 @@ def _maybe_init_aggregates():
         except Exception as e:
             app.logger.warning(f"Failed to start precompute thread: {e}")
         _PRECOMPUTE_STARTED = True
+    if not _RAG_PREWARM_STARTED:
+        def _prewarm():
+            try:
+                path = os.environ.get('FAISS_DB_PATH', FAISS_DB_PATH_DEFAULT)
+                max_docs = int(os.environ.get('FOMC_RAG_MAX_DOCS', '200'))
+            except Exception:
+                path, max_docs = FAISS_DB_PATH_DEFAULT, 200
+            try:
+                build_or_load_index(path, None, max_docs)
+                app.logger.info("RAG index prewarmed")
+            except Exception as e:
+                app.logger.warning(f"RAG prewarm failed: {e}")
+        try:
+            threading.Thread(target=_prewarm, daemon=True).start()
+            _RAG_PREWARM_STARTED = True
+        except Exception as e:
+            app.logger.warning(f"Failed to start RAG prewarm thread: {e}")
 
 @app.route('/')
 def index():
@@ -752,6 +802,30 @@ def load_data_page():
     """Data loading page"""
     return render_template('load_data.html')
 
+@app.route('/chatbot')
+def chatbot_page():
+    """Chatbot UI page"""
+    return render_template('chatbot.html')
+
+@app.route('/chatbot/ask', methods=['POST'])
+def chatbot_ask():
+    """RAG chatbot endpoint. Body: {question: str}"""
+    data = request.get_json()
+    if not data or 'question' not in data:
+        return jsonify({'error': 'Question not provided'}), 400
+
+    question = data['question']
+    
+    try:
+        # Import and use the answer_question function
+        from chatbot import answer_question
+        result = answer_question(question)
+        return jsonify(result)
+    except Exception as e:
+        app.logger.error(f"Error in chatbot endpoint: {e}")
+        return jsonify({'error': 'Failed to get an answer.'}), 500
+
+
 @app.route('/api/load-data', methods=['POST'])
 def load_data():
     """Load predictions from CSV file"""
@@ -798,4 +872,16 @@ if __name__ == '__main__':
     if os.environ.get('WERKZEUG_RUN_MAIN') != 'true':
         _ensure_sentiment_daily()
         threading.Thread(target=_precompute_recent_pairs, kwargs={'limit_pairs': 8}, daemon=True).start()
+        # Also prewarm RAG index once
+        def _prewarm():
+            try:
+                path = os.environ.get('FAISS_DB_PATH', FAISS_DB_PATH_DEFAULT)
+                max_docs = int(os.environ.get('FOMC_RAG_MAX_DOCS', '200'))
+            except Exception:
+                path, max_docs = FAISS_DB_PATH_DEFAULT, 200
+            try:
+                build_or_load_index(path, None, max_docs)
+            except Exception as e:
+                app.logger.warning(f"RAG prewarm failed: {e}")
+        threading.Thread(target=_prewarm, daemon=True).start()
     app.run(debug=True, port=5000)

@@ -72,15 +72,14 @@ class DataLoader:
                     for _, row in chunk.iterrows():
                         document_type, date, year = self.parse_source_file(row['source_file'])
                         
+                        # Align with predictions table schema
                         prediction_data = {
-                            'original_id': row['id'],
-                            'source_file': row['source_file'], 
-                            'text': row['text'],
-                            'pred_label': row['pred_label'],
-                            'max_prob': float(row['max_prob']),
+                            'source_file': row.get('source_file', ''), 
+                            'text': row.get('text', ''),
+                            'pred_label': row.get('pred_label', ''),
+                            'max_prob': float(row.get('max_prob', 0.0)),
                             'document_type': document_type,
                             'date': date,
-                            'year': year,
                             'created_at': datetime.now().isoformat()
                         }
                         batch_data.append(prediction_data)
@@ -102,22 +101,19 @@ class DataLoader:
         """Insert a batch of predictions into database"""
         insert_sql = """
         INSERT INTO predictions (
-            original_id, source_file, text, pred_label, max_prob, 
-            document_type, date, year, created_at
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            source_file, text, pred_label, max_prob, document_type, date, created_at
+        ) VALUES (?, ?, ?, ?, ?, ?, ?)
         """
         
         values = []
         for data in batch_data:
             values.append((
-                data['original_id'],
                 data['source_file'],
                 data['text'],
                 data['pred_label'],
                 data['max_prob'],
                 data['document_type'],
                 data['date'],
-                data['year'],
                 data['created_at']
             ))
         
