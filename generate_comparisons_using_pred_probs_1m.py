@@ -12,6 +12,7 @@ generate_comparisons_using_pred_probs_1m.py (updated)
 - Adds "Common" sentences section (colored by stance) on comparison pages;
   common sentences are NOT included in stance-percentage calculations.
 - Adds an "About / Legend" page in English and links it from the top of index.html.
+- **ADDED**: x-axis annotation "Pres End(mean) 15:30 ET" on each plot PNG.
 """
 import os
 import re
@@ -502,6 +503,8 @@ def create_1min_plot_for_ticker_date(ticker, date_str, out_dir=RESULTS_PLOTS_DIR
     t0 = pd.Timestamp(datetime.datetime(d.year, d.month, d.day, 14, 0), tz='America/New_York')
     t1 = pd.Timestamp(datetime.datetime(d.year, d.month, d.day, 14, 30), tz='America/New_York')
     t2 = pd.Timestamp(datetime.datetime(d.year, d.month, d.day, 15, 0), tz='America/New_York')
+    # NEW: Pres end (mean) marker at 15:30 ET
+    t3 = pd.Timestamp(datetime.datetime(d.year, d.month, d.day, 15, 30), tz='America/New_York')
 
     # plotting window from 13:30 to 16:00
     window_start = pd.Timestamp(datetime.datetime(d.year, d.month, d.day, 13, 30), tz='America/New_York')
@@ -552,11 +555,16 @@ def create_1min_plot_for_ticker_date(ticker, date_str, out_dir=RESULTS_PLOTS_DIR
     ax.xaxis.set_major_locator(mdates.MinuteLocator(byminute=[0,15,30,45]))
     ax.grid(True, alpha=0.25)
 
-    # vertical markers
+    # vertical markers (statement and press conf)
     for ts, label in ((t0, "Statement 14:00 ET"), (t1, "Press Conf 14:30 ET")):
         ax.axvline(ts, linestyle='--', linewidth=1, zorder=2)
         ylim = ax.get_ylim()
         ax.text(ts, ylim[1], label, va='bottom', ha='left', rotation=90, fontsize=9)
+
+    # NEW: add Pres End(mean) 15:30 ET marker (same style/placement as other vertical labels)
+    ax.axvline(t3, linestyle='--', linewidth=1, zorder=2, color='black')
+    ylim = ax.get_ylim()
+    ax.text(t3, ylim[1], "PRES END (mean)", va='bottom', ha='left', rotation=90, fontsize=9)
 
     # intervals for optional colored segments
     intervals = []
@@ -681,7 +689,7 @@ def create_1min_plots_for_date(date_str):
 
 def find_plots_for_date(date_str):
     """
-    결과 디렉터리(RESULTS_PLOTS_DIR)에서 허용된 TICKERS의 plot 파일들을 모두 찾아 반환.
+    결과 디렉터리(RESULTS_PLOTS_DIR)에서 허용된 TICKERS의 plot 파일들을 모두 찾아반환.
     파일이 없으면 create_1min_plots_for_date로 생성 시도 후 다시 검색.
     Returns list of full paths (may be empty).
     """
