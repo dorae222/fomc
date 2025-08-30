@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash
 
 # FOMC Analysis Application Launcher Script
 # Enhanced with better error handling, logging, and environment management
@@ -11,7 +11,7 @@ LOG_DIR="logs"
 LOG_FILE="$LOG_DIR/run_$(date +%Y%m%d_%H%M%S).log"
 PYTHON_EXEC="python"
 FLASK_ENV="development"
-HOST="127.0.0.1"
+HOST="0.0.0.0" # "127.0.0.1"
 PORT="5000"
 
 # --- Colors for output ---
